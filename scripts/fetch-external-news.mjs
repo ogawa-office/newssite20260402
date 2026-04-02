@@ -24,14 +24,8 @@ const parser = new Parser({
 
 /** @type {Array<{ url: string; category: NewsCategory; sourceName: string; sourceIcon: string; bannerClass: string; max: number; lang?: 'ja' }>} */
 const FEEDS = [
-  了解です。ではニッセイはそのままにして、当初の方針で進めます。
-  実施内容：
-  
-  削除：金融庁（調達・入札）、PRESIDENT Online、ダイヤモンド・オンライン、ASCII.jp
-  追加：Reinsurance News、The Insurer、Artemis、Risk.net（Insurance Insiderはスキップ）
-  reinsurance カテゴリを新設してArtemis・Reinsurance Newsを分類
-  
-  javascript// --- 英語 ---
+  // 取得元フィード設定（GitHub Actions で実行される）
+  // --- 英語 ---
   {
     url: 'https://techcrunch.com/feed/',
     category: 'ai',
@@ -58,7 +52,7 @@ const FEEDS = [
   },
   {
     url: 'https://reinsurancene.ws/feed/',
-    category: 'reinsurance',
+    category: 'insurance',
     sourceName: 'Reinsurance News',
     sourceIcon: '🔁',
     bannerClass: 'from-indigo-950 via-blue-900 to-slate-800',
@@ -66,7 +60,7 @@ const FEEDS = [
   },
   {
     url: 'https://www.theinsurer.com/feed/',
-    category: 'reinsurance',
+    category: 'insurance',
     sourceName: 'The Insurer',
     sourceIcon: '🏢',
     bannerClass: 'from-slate-900 via-indigo-950 to-blue-950',
@@ -74,7 +68,7 @@ const FEEDS = [
   },
   {
     url: 'https://www.artemis.bm/feed/',
-    category: 'reinsurance',
+    category: 'insurance',
     sourceName: 'Artemis',
     sourceIcon: '🎯',
     bannerClass: 'from-violet-950 via-purple-900 to-indigo-950',
