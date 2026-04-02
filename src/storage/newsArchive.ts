@@ -1,17 +1,12 @@
 import type { NewsItem } from '../data/mockNews'
 import { MOCK_NEWS } from '../data/mockNews'
+import { sortNewsItems } from '../lib/newsSort'
 
 const STORAGE_KEY = 'news-matome-archive-v1'
 
 /** RSS/API 取り込み後に一覧を再読込するための同一タブ用イベント */
 export const NEWS_ARCHIVE_CHANGED = 'news-matome-archive-changed'
 
-function sortByDateDesc(items: NewsItem[]) {
-  return [...items].sort(
-    (a, b) =>
-      new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
-  )
-}
 
 /** 初回のみバンドル内のシードを保存。2回目以降は保存済み一覧を返す */
 export function loadArchive(): NewsItem[] {
@@ -49,12 +44,11 @@ export function mergeCumulative(
   for (const x of existing) {
     byUrl.set(x.url, x)
   }
+  // 同じ URL はフィード側（incoming）を優先（sortBoost など最新メタを反映）
   for (const x of incoming) {
-    if (!byUrl.has(x.url)) {
-      byUrl.set(x.url, x)
-    }
+    byUrl.set(x.url, x)
   }
-  return sortByDateDesc([...byUrl.values()])
+  return sortNewsItems([...byUrl.values()])
 }
 
 /**

@@ -41,7 +41,8 @@ async function fetchTextWithTimeout(url, timeoutMs) {
   }
 }
 
-/** @type {Array<{ url: string; category: NewsCategory; sourceName: string; sourceIcon: string; bannerClass: string; max: number; lang?: 'ja' }>} */
+/** sortBoost: 並び優先（1≈12時間ぶん上に。大きいほど上） */
+/** @type {Array<{ url: string; category: NewsCategory; sourceName: string; sourceIcon: string; bannerClass: string; max: number; lang?: 'ja'; sortBoost?: number }>} */
 const FEEDS = [
   // 取得元フィード設定（GitHub Actions で実行される）
   // --- 英語 ---
@@ -151,8 +152,9 @@ const FEEDS = [
     sourceName: '保険デイリーニュース（やなはる）',
     sourceIcon: '📎',
     bannerClass: 'from-amber-900 to-orange-950',
-    max: 8,
+    max: 12,
     lang: 'ja',
+    sortBoost: 5,
   },
   {
     url: 'https://www.shinnihon-ins.co.jp/industry-news/feed/',
@@ -160,8 +162,9 @@ const FEEDS = [
     sourceName: 'シンニチ保険WEB（業界ニュース）',
     sourceIcon: '📰',
     bannerClass: 'from-slate-800 to-blue-950',
-    max: 10,
+    max: 12,
     lang: 'ja',
+    sortBoost: 5,
   },
   {
     url: 'https://www.fsa.go.jp/fsaNewsListAll_rss2.xml',
@@ -505,6 +508,7 @@ function itemToNews(item, meta) {
     ''
   const summary = stripHtml(raw).slice(0, 780) || title.slice(0, 260)
   const publishedAt = toIso(item.pubDate || item.isoDate)
+  const sortBoost = meta.sortBoost ?? 0
   return {
     id: `rss-${meta.category}-${hashUrl(link)}`,
     title: title.slice(0, 200),
@@ -517,6 +521,7 @@ function itemToNews(item, meta) {
     bannerClass: meta.bannerClass,
     isNew: isNewish(publishedAt),
     url: link.split('#')[0],
+    ...(sortBoost > 0 ? { sortBoost } : {}),
   }
 }
 
@@ -550,6 +555,14 @@ async function fetchFeed(meta) {
   }
 }
 
+const MS_PER_SORT_BOOST = 12 * 60 * 60 * 1000
+
+function newsSortKey(item) {
+  const t = new Date(item.publishedAt).getTime()
+  const b = item.sortBoost ?? 0
+  return t + b * MS_PER_SORT_BOOST
+}
+
 async function main() {
   // 同時取得（Promise.all）にすると、どれかが遅延した時に全体が長引くため直列取得にする
   const merged = []
@@ -557,10 +570,7 @@ async function main() {
     const part = await fetchFeed(f)
     merged.push(...part)
   }
-  merged.sort(
-    (a, b) =>
-      new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
-  )
+  merged.sort((a, b) => newsSortKey(b) - newsSortKey(a))
   mkdirSync(dirname(OUT), { recursive: true })
   writeFileSync(OUT, JSON.stringify(merged, null, 2), 'utf8')
   console.log(`Wrote ${merged.length} items to public/news-feed.json`)

@@ -18,6 +18,8 @@ export interface NewsItem {
   keywords: string[]
   bannerClass: string
   isNew?: boolean
+  /** 一覧の並び優先度（大きいほど上に。取得スクリプトが付与） */
+  sortBoost?: number
   /** 元記事の permalink */
   url: string
 }

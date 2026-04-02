@@ -8,13 +8,7 @@ import {
   type NewsCategory,
 } from './data/mockNews'
 import { useNewsArchive } from './hooks/useNewsArchive'
-
-function sortByDateDesc<T extends { publishedAt: string }>(items: T[]) {
-  return [...items].sort(
-    (a, b) =>
-      new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
-  )
-}
+import { sortNewsItems } from './lib/newsSort'
 
 const CATEGORY_ROWS = [
   ['all', 'すべて'],
@@ -41,7 +35,7 @@ export default function App() {
       }
       return true
     })
-    return sortByDateDesc(base)
+    return sortNewsItems(base)
   }, [articles, category, query])
 
   return (
