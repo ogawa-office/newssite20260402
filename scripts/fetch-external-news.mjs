@@ -226,6 +226,44 @@ function stripHtml(s) {
     .trim()
 }
 
+const _jaTransCache = new Map()
+let _jaTransCount = 0
+const MAX_TRANSLATIONS_PER_RUN = 30
+
+function hasJa(s) {
+  return /[\u3040-\u30ff\u4e00-\u9faf]/.test(s)
+}
+
+async function translateToJa(text) {
+  const t = String(text ?? '').trim()
+  if (!t) return ''
+  if (hasJa(t)) return t
+  if (_jaTransCache.has(t)) return _jaTransCache.get(t)
+  if (_jaTransCount >= MAX_TRANSLATIONS_PER_RUN) return ''
+
+  // 非公式の無料エンドポイント（失敗したら英語のままにする）
+  const q = t.slice(0, 420)
+  const url =
+    'https://translate.googleapis.com/translate_a/single' +
+    '?client=gtx&sl=auto&tl=ja&dt=t&q=' +
+    encodeURIComponent(q)
+
+  try {
+    _jaTransCount += 1
+    const raw = await fetchTextWithTimeout(url, 12000)
+    const data = JSON.parse(raw)
+    const translated = Array.isArray(data?.[0])
+      ? data[0].map((x) => String(x?.[0] ?? '')).join('')
+      : ''
+    const out = translated.trim()
+    _jaTransCache.set(t, out)
+    return out
+  } catch {
+    _jaTransCache.set(t, '')
+    return ''
+  }
+}
+
 function hashUrl(u) {
   return createHash('sha256').update(u).digest('hex').slice(0, 14)
 }
@@ -477,6 +515,15 @@ async function fetchFeed(meta) {
       if (out.length >= meta.max) break
       const n = itemToNews(it, meta)
       if (n) out.push(n)
+    }
+    // 英語記事の summary を日本語にして summaryJa に入れる
+    if (meta.lang !== 'ja') {
+      for (const x of out) {
+        if (!x.summaryJa) {
+          const ja = await translateToJa(x.summary)
+          if (ja) x.summaryJa = ja
+        }
+      }
     }
     return out
   } catch (e) {

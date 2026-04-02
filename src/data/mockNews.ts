@@ -9,6 +9,8 @@ export interface NewsItem {
   id: string
   title: string
   summary: string
+  /** 英語記事などの日本語要約（任意） */
+  summaryJa?: string
   sourceName: string
   sourceIcon: string
   publishedAt: string

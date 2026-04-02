@@ -33,7 +33,8 @@ function isNewsItem(x: unknown): x is NewsItem {
     typeof o.sourceName === 'string' &&
     typeof o.sourceIcon === 'string' &&
     typeof o.bannerClass === 'string' &&
-    Array.isArray(o.keywords)
+    Array.isArray(o.keywords) &&
+    (o.summaryJa === undefined || typeof o.summaryJa === 'string')
   )
 }
 
