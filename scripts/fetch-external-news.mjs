@@ -22,6 +22,25 @@ const parser = new Parser({
 
 /** @typedef {'ai'|'ai_theory'|'insurance'|'economy'|'market'} NewsCategory */
 
+async function fetchTextWithTimeout(url, timeoutMs) {
+  const controller = new AbortController()
+  const t = setTimeout(() => controller.abort(), timeoutMs)
+  try {
+    const res = await fetch(url, {
+      signal: controller.signal,
+      headers: {
+        'User-Agent':
+          'Mozilla/5.0 (compatible; NewsMatomeFeed/1.0; +https://github.com/)',
+        Accept: 'application/rss+xml, application/xml, text/xml, */*',
+      },
+    })
+    if (!res.ok) throw new Error(`HTTP ${res.status}`)
+    return await res.text()
+  } finally {
+    clearTimeout(t)
+  }
+}
+
 /** @type {Array<{ url: string; category: NewsCategory; sourceName: string; sourceIcon: string; bannerClass: string; max: number; lang?: 'ja' }>} */
 const FEEDS = [
   // 取得元フィード設定（GitHub Actions で実行される）
@@ -447,15 +466,11 @@ function itemToNews(item, meta) {
 
 async function fetchFeed(meta) {
   try {
-    // rss-parser 側の timeout 設定が効かないケースがあるため、
-    // ここで強制的に打ち切る（Actions で1時間以上固まるのを防ぐ）
+    // parseURL は内部でリクエストが止まらないことがあるため、
+    // 先に fetch を AbortController で中断できるようにする
     const FEED_TIMEOUT_MS = 30000
-    const feed = await Promise.race([
-      parser.parseURL(meta.url),
-      new Promise((_, reject) =>
-        setTimeout(() => reject(new Error('feed timeout')), FEED_TIMEOUT_MS),
-      ),
-    ])
+    const xml = await fetchTextWithTimeout(meta.url, FEED_TIMEOUT_MS)
+    const feed = await parser.parseString(xml)
     const out = []
     const items = feed.items ?? []
     for (const it of items) {
