@@ -18,7 +18,7 @@ export function NewsCard({ item }: Props) {
       className="group flex flex-col overflow-hidden rounded-2xl border border-slate-200/90 bg-white text-left shadow-sm shadow-slate-200/50 transition duration-200 hover:-translate-y-0.5 hover:border-slate-300/90 hover:shadow-md hover:shadow-slate-200/70 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 focus-visible:ring-offset-2"
       aria-label={`${item.title}（${item.sourceName}）の元記事を新しいタブで開く`}
     >
-      <article className="flex h-full min-h-[560px] flex-col">
+      <article className="flex h-full min-h-[520px] flex-col">
         <div className="flex items-start gap-3 px-4 pt-4">
           <span
             className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-slate-100 text-lg shadow-inner"
@@ -35,7 +35,7 @@ export function NewsCard({ item }: Props) {
         </div>
 
         <div
-          className={`relative mx-4 mt-3 flex min-h-[170px] flex-col justify-end rounded-xl bg-gradient-to-br px-4 pb-4 pt-10 text-left ${item.bannerClass}`}
+          className={`relative mx-4 mt-3 flex min-h-[120px] flex-col justify-end rounded-xl bg-gradient-to-br px-4 pb-3 pt-6 text-left ${item.bannerClass}`}
         >
           <div className="absolute left-3 top-3 flex flex-wrap gap-1.5">
             {item.isNew && (
@@ -54,9 +54,11 @@ export function NewsCard({ item }: Props) {
           </h2>
         </div>
 
-        <p className="line-clamp-10 flex-1 px-4 py-3 text-sm leading-relaxed text-slate-600">
-          {summary}
-        </p>
+        <div className="min-h-[16.5rem] flex-1 px-4 py-3">
+          <p className="line-clamp-[15] text-sm leading-relaxed text-slate-600">
+            {summary}
+          </p>
+        </div>
 
         <div className="flex flex-wrap gap-1.5 border-t border-slate-100/90 px-4 py-3.5">
           {item.keywords.map((kw) => (

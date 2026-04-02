@@ -146,6 +146,24 @@ const FEEDS = [
     lang: 'ja',
   },
   {
+    url: 'http://blog.livedoor.jp/yanaharu_yanaharu/index.rdf',
+    category: 'insurance',
+    sourceName: '保険デイリーニュース（やなはる）',
+    sourceIcon: '📎',
+    bannerClass: 'from-amber-900 to-orange-950',
+    max: 8,
+    lang: 'ja',
+  },
+  {
+    url: 'https://www.shinnihon-ins.co.jp/industry-news/feed/',
+    category: 'insurance',
+    sourceName: 'シンニチ保険WEB（業界ニュース）',
+    sourceIcon: '📰',
+    bannerClass: 'from-slate-800 to-blue-950',
+    max: 10,
+    lang: 'ja',
+  },
+  {
     url: 'https://www.fsa.go.jp/fsaNewsListAll_rss2.xml',
     category: 'insurance',
     sourceName: '金融庁（新着情報）',
@@ -242,7 +260,7 @@ async function translateToJa(text) {
   if (_jaTransCount >= MAX_TRANSLATIONS_PER_RUN) return ''
 
   // 非公式の無料エンドポイント（失敗したら英語のままにする）
-  const q = t.slice(0, 420)
+  const q = t.slice(0, 640)
   const url =
     'https://translate.googleapis.com/translate_a/single' +
     '?client=gtx&sl=auto&tl=ja&dt=t&q=' +
@@ -485,7 +503,7 @@ function itemToNews(item, meta) {
     item.content ||
     item['content:encoded'] ||
     ''
-  const summary = stripHtml(raw).slice(0, 520) || title.slice(0, 200)
+  const summary = stripHtml(raw).slice(0, 780) || title.slice(0, 260)
   const publishedAt = toIso(item.pubDate || item.isoDate)
   return {
     id: `rss-${meta.category}-${hashUrl(link)}`,

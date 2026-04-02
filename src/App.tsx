@@ -35,7 +35,8 @@ export default function App() {
     const base = articles.filter((item) => {
       if (category !== 'all' && item.category !== category) return false
       if (q) {
-        const blob = `${item.title} ${item.summary}`.toLowerCase()
+        const ja = item.summaryJa ?? ''
+        const blob = `${item.title} ${item.summary} ${ja}`.toLowerCase()
         if (!blob.includes(q)) return false
       }
       return true
@@ -48,7 +49,10 @@ export default function App() {
       <Header />
 
       <main id="feed" className="mx-auto max-w-6xl px-4 py-8 sm:px-6">
-        <div className="flex flex-wrap gap-2">
+        <div
+          className="sticky top-14 z-30 -mx-4 mb-2 flex flex-wrap gap-2 border-b border-slate-200/70 bg-[#f7f7f9]/95 px-4 py-2.5 backdrop-blur-sm sm:-mx-6 sm:px-6"
+          aria-label="カテゴリで絞り込み"
+        >
           {CATEGORY_ROWS.map(([id, label]) => {
             const active = category === id
             const pill =

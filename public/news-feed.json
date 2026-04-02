@@ -5,7 +5,7 @@
     "summary": "採用,職員を募集しています。（保険会社等のモニタリング業務等に従事する職員）",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-02T12:46:40.025Z",
+    "publishedAt": "2026-04-02T22:24:11.014Z",
     "category": "insurance",
     "keywords": [
       "採用,職員を募集しています",
@@ -21,7 +21,7 @@
     "summary": "「コーポレートガバナンス・コードの改訂に関する有識者会議」（令和７年度第３回）議事次第について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-02T12:46:40.025Z",
+    "publishedAt": "2026-04-02T22:24:11.014Z",
     "category": "insurance",
     "keywords": [
       "「コーポレートガバナンス",
@@ -40,7 +40,7 @@
     "summary": "採用,非常勤職員を募集しています。（専門調査員）",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-02T12:46:40.025Z",
+    "publishedAt": "2026-04-02T22:24:11.014Z",
     "category": "insurance",
     "keywords": [
       "採用,非常勤職員を募集しています",
@@ -56,7 +56,7 @@
     "summary": "採用,職員を募集しています。（国際関連業務に従事する職員）",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-02T12:46:40.025Z",
+    "publishedAt": "2026-04-02T22:24:11.014Z",
     "category": "insurance",
     "keywords": [
       "採用,職員を募集しています",
@@ -72,7 +72,7 @@
     "summary": "「企業内容等の開示に関する内閣府令の一部を改正する内閣府令」の公布等について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-02T12:46:40.025Z",
+    "publishedAt": "2026-04-02T22:24:11.014Z",
     "category": "insurance",
     "keywords": [
       "「企業内容等の開示に関す",
@@ -91,7 +91,7 @@
     "summary": "「預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律第十七条の規定に基づき金融機関を定める件」の一部改正について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-02T12:46:40.025Z",
+    "publishedAt": "2026-04-02T22:24:11.014Z",
     "category": "insurance",
     "keywords": [
       "「預貯金者の意思に基づく",
@@ -110,7 +110,7 @@
     "summary": "その他,認定金融商品取引業協会一覧について更新しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-02T12:46:40.025Z",
+    "publishedAt": "2026-04-02T22:24:11.014Z",
     "category": "insurance",
     "keywords": [
       "その他,認定金融商品取引",
@@ -128,7 +128,7 @@
     "summary": "「顧客分別金信託について信託することができる有価証券等を指定する件及び金融商品取引業等に関する内閣府令第百三十条第四項に規定する金融商品取引業協会の規則等を指定する件の一部を改正する件」等について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-02T12:46:40.025Z",
+    "publishedAt": "2026-04-02T22:24:11.014Z",
     "category": "insurance",
     "keywords": [
       "「顧客分別金信託について",
@@ -142,243 +142,891 @@
     "url": "https://www.fsa.go.jp/news/r7/shouken/20260401_2/20260401_2.html"
   },
   {
-    "id": "rss-economy-808a1619b3dcb8",
-    "title": "Oil prices soar and shares drop after Trump threatens more Iran strikes",
-    "summary": "The US president says he will bring Iran \"back to the Stone Age\" but failed to say how the war will end.",
+    "id": "rss-economy-beb277740ce279",
+    "title": "Pharmaceuticals face 100% tariffs in US - unless firms strike a deal",
+    "summary": "The order does not affect generic medicines, the most commonly used in the US.",
     "sourceName": "BBC Business",
     "sourceIcon": "¥",
-    "publishedAt": "2026-04-02T12:44:18.000Z",
+    "publishedAt": "2026-04-02T22:06:30.000Z",
+    "category": "economy",
+    "keywords": [
+      "Pharmaceuticals",
+      "face",
+      "100",
+      "tariffs",
+      "unless"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://www.bbc.com/news/articles/cx29kke01gpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "rss-economy-31690f0f167231",
+    "title": "｢パンチくんの市川市動植物園｣奥深きサル山事情 | 動物・植物 | 東洋経済オンライン",
+    "summary": "江戸川を隔てて東京に接する千葉県・市川市。北部の大町地区に、話題のニホンザル「パンチくん」が暮らす…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T22:01:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "｢パンチくんの市川市動植物園｣奥深きサル山事情",
+      "動物",
+      "植物",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/939252?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-ai_theory-2b5c9ca364b2c5",
+    "title": "現代まで強い影響を残す19世紀中国とイギリスの「アヘン戦争」について解説したムービー",
+    "summary": "19世紀の清(中国)とイギリスの間で2年間にわたり行われたアヘン戦争の経緯と裏側について、教育系YouTubeチャンネルのNightshiftが「アヘン戦争の狂気の物語」と題したアニメーションで解説しています。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T22:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "現代まで強い影響を残す1",
+      "を残す19世紀中国とイギ",
+      "国とイギリスの「アヘン戦",
+      "アヘン戦争」について解説",
+      "いて解説したムービー"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260403-opium-wars/"
+  },
+  {
+    "id": "rss-economy-b8880720e62bc9",
+    "title": "｢マリファナ栽培｣に加担する若者の浅はかな考え | 九条の大罪 | 東洋経済オンライン",
+    "summary": "『闇金ウシジマくん』の真鍋昌平が新たに心血を注ぐ法とモラルの極限クライムエンタテインメント！弁護士…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T22:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "｢マリファナ栽培｣に加担する若者の浅はかな考え",
+      "九条の大罪",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/939704?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-f9816520e04a1b",
+    "title": "｢パンチくん｣飼育員が語る\"誤解されている\"現実 | 動物・植物 | 東洋経済オンライン",
+    "summary": "｢パンチがあれだけ元気にケガもなく過ごせているのは、群れ全体に基本的にやさしさがあるからだと思います…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T22:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "｢パンチくん｣飼育員が語る\"誤解されている\"現実",
+      "動物",
+      "植物",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/939075?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-8635ebe8d4997e",
+    "title": "ある日突然｢透析患者｣に仕事一筋､50代男性の悲鳴 | 健康 | 東洋経済オンライン",
+    "summary": "「透析になったら人生の終わり」と頑なに受け入れを拒否する方もいらっしゃいます。思うような未来が描け…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T21:45:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "健康",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/936066?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-16d76e41a53b8b",
+    "title": "車とトラックが衝突 5人を搬送",
+    "summary": "車とトラックが衝突 5人を搬送",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T21:44:12.000Z",
+    "category": "economy",
+    "keywords": [
+      "車とトラックが衝突",
+      "5人を搬送"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6575000?source=rss"
+  },
+  {
+    "id": "rss-economy-ac394aee734212",
+    "title": "｢子どもが消える｣事案が多発…今すぐやるべき事 | 災害･事件･裁判 | 東洋経済オンライン",
+    "summary": "京都府南丹市で小学5年生の男児が行方不明になってから、すでに2週間近くが経つ。電車やバスの乗車記録も…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T21:30:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "｢子どもが消える｣事案が多発",
+      "今すぐやるべき事",
+      "災害･事件･裁判",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/940146?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-5c43ce36918a8a",
+    "title": "トランプ氏 ボンディ司法長官解任",
+    "summary": "トランプ氏 ボンディ司法長官解任",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T21:29:33.000Z",
+    "category": "economy",
+    "keywords": [
+      "トランプ氏",
+      "ボンディ司法長官解任"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6574999?source=rss"
+  },
+  {
+    "id": "rss-ai-ccd702acb0d6d5",
+    "title": "Telehealth giant Hims & Hers says its customer support system was hacked",
+    "summary": "The U.S. telehealth giant says hackers stole customer support ticket data over the course of several days in February.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-04-02T21:26:48.000Z",
+    "category": "ai",
+    "keywords": [
+      "Telehealth",
+      "giant",
+      "Hims",
+      "Hers",
+      "customer"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/",
+    "summaryJa": "米国の遠隔医療大手は、ハッカーが2月に数日間にわたって顧客サポートチケットのデータを盗んだと発表した。"
+  },
+  {
+    "id": "rss-market-3e8b0a61665d30",
+    "title": "Coinbase clears key regulatory hurdle in bid to bolster its stablecoin business",
+    "summary": "Coinbase has received conditional approval from the U.S. Office of the Comptroller of the Currency to operate as a trust bank, the company said Thursday.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-04-02T21:17:37.000Z",
+    "category": "market",
+    "keywords": [
+      "Coinbase",
+      "clears",
+      "key",
+      "regulatory",
+      "hurdle"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/04/02/coinbase-clears-key-regulatory-hurdle-in-bid-to-bolster-its-stablecoin-business.html"
+  },
+  {
+    "id": "rss-economy-191df6c2a479b0",
+    "title": "トランプ大統領 激しい攻撃を示唆 イラン側 徹底抗戦の構え",
+    "summary": "イラン情勢を巡り、アメリカのトランプ大統領が国民向けの演説を行い今後2週間から3週間、激しい攻撃を行う考えを示したのに対して、徹底抗戦の構えを示すイラン側からはアメリカの地上作戦をけん制する軍の司令官…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T21:14:23.000Z",
+    "category": "economy",
+    "keywords": [
+      "トランプ大統領",
+      "激しい攻撃を示唆",
+      "イラン側",
+      "徹底抗戦の構え"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015091101000"
+  },
+  {
+    "id": "rss-economy-336d1e28363ad5",
+    "title": "“イラン革命防衛隊 米IT大手アマゾンの関連施設を攻撃”報道",
+    "summary": "イランの軍事精鋭部隊、革命防衛隊とつながりのあるタスニム通信は2日、バーレーンにあるアメリカのIT大手、アマゾンのクラウド関連施設を攻撃したとする革命防衛隊の声明を伝えました。",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T21:07:46.000Z",
+    "category": "economy",
+    "keywords": [
+      "“イラン革命防衛隊",
+      "米IT大手アマゾンの関連施設を攻撃”報道"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015091141000"
+  },
+  {
+    "id": "rss-ai_theory-7df07e6dbcabae",
+    "title": "Google傘下のDeepMindが極秘に進めた「マリオ計画」とは何だったのか、AGI安全策の行き詰まりが明らかに",
+    "summary": "2014年1月にGoogleに買収されたDeepMindは、将来のAGI(人工汎用知能)を親会社の都合だけで動かさせないため、独立性の高い統治構造を極秘に模索していました。DeepMindの共同創業者であるデミス・ハサビス氏やムスタファ・スレイマン氏らは2015年秋から数年にわたって複数の安全策を探りましたが、外部からの監視や委員会の設置は機能せず、最終的には自分たち自身が社内で影響力を持つしかないという方向へ傾いていったとされています。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T21:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "Google傘下のDee",
+      "のDeepMindが極秘",
+      "dが極秘に進めた「マリオ",
+      "「マリオ計画」とは何だっ",
+      "は何だったのか、AGI安"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260403-google-deepmind-project-mario-agi-safety/"
+  },
+  {
+    "id": "rss-economy-282a1a09737001",
+    "title": "トランプ大統領 司法長官を解任 エプスタイン文書めぐり不満か",
+    "summary": "アメリカのトランプ大統領は、ボンディ司法長官を解任することを明らかにしました。ボンディ司法長官に対しては性的虐待などの罪で起訴され、その後死亡した富豪、エプスタイン氏をめぐる捜査資料の取り扱いなどにつ…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T20:55:48.000Z",
+    "category": "economy",
+    "keywords": [
+      "トランプ大統領",
+      "司法長官を解任",
+      "エプスタイン文書めぐり不満か"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015091121000"
+  },
+  {
+    "id": "rss-economy-f3bbc15577e5d8",
+    "title": "日本など40か国以上の外相会議 英“イランに制裁などを議論”",
+    "summary": "事実上の封鎖が続くホルムズ海峡の安全な航行の確保に向けて、40か国以上の外相らが参加したオンラインの会議が開かれました。議長国のイギリスは声明で、イランに対し制裁など圧力をかけることについて議論したと…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T20:33:02.000Z",
+    "category": "economy",
+    "keywords": [
+      "日本など40か国以上の外相会議",
+      "英“イランに制裁などを議論”"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015091041000"
+  },
+  {
+    "id": "rss-market-6db64364f43d4d",
+    "title": "Trump fires Attorney General Pam Bondi",
+    "summary": "President Trump was said to be unhappy with Pam Bondi's handling of DOJ files about Jeffrey Epstein and the DOJ's failure to prosecute his political enemies.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-04-02T20:32:48.000Z",
+    "category": "market",
+    "keywords": [
+      "Trump",
+      "fires",
+      "Attorney",
+      "General",
+      "Pam"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/04/02/trump-pam-bondi-attorney-general-lee-zeldin.html"
+  },
+  {
+    "id": "rss-ai-7240333dd40559",
+    "title": "Artemis II is NASA’s last moon mission without Silicon Valley",
+    "summary": "Next time around, the pressure will be on SpaceX and Blue Origin.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-04-02T20:06:29.000Z",
+    "category": "ai",
+    "keywords": [
+      "Artemis",
+      "NASA",
+      "last",
+      "moon",
+      "mission"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/",
+    "summaryJa": "次回はSpaceXとBlue Originにプレッシャーがかかるだろう。"
+  },
+  {
+    "id": "rss-market-c32c9055ad85cd",
+    "title": "The March jobs report will be released on Friday. Here's what to expect",
+    "summary": "The U.S. economy is projected to show job gains of 59,000 in March, with the unemployment rate holding at 4.4%.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-04-02T20:04:41.000Z",
+    "category": "market",
+    "keywords": [
+      "March",
+      "jobs",
+      "released",
+      "Friday",
+      "expect"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/04/02/the-march-jobs-report-will-be-released-on-friday-heres-what-to-expect.html"
+  },
+  {
+    "id": "rss-economy-0fa5708e6ca9f3",
+    "title": "国家情報局法案 衆院審議入り 野党 必要の意見の一方で懸念も",
+    "summary": "インテリジェンス機能の強化に向けて、新たに「国家情報局」を設置するための法案が衆議院で審議入りしました。野党からは、情報収集能力の強化は必要だとする意見の一方、個人情報の扱いなどによってはプライバシー…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T20:01:19.000Z",
+    "category": "economy",
+    "keywords": [
+      "国家情報局法案",
+      "衆院審議入り",
+      "野党",
+      "必要の意見の一方で懸念も"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015091091000"
+  },
+  {
+    "id": "rss-ai-6a2352ef9911ce",
+    "title": "初期設定のままはダメ！ Windows 11を買ったらすぐ消すべき「おせっかいな初期設定」5選",
+    "summary": "新しいWindows 11搭載PCを使い始める際、そのままの設定では「OneDriveの容量不足」や「不要な通知」に悩まされがちだ。本Tech TIPSでは、システム管理者が推奨する「まずオフにすべき」初期設定を厳選して紹介する。動作の高速化、プライバシー保護、タスクバーの整理など、PCを快適に使いこなすための必須手順を解説する。",
+    "sourceName": "ITmedia AI",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T20:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "初期設定のままはダメ",
+      "Windows"
+    ],
+    "bannerClass": "from-sky-900 to-slate-800",
+    "isNew": true,
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/03/news009.html"
+  },
+  {
+    "id": "rss-ai-4d9de88e9adf5f",
+    "title": "GeminiとClaudeのメモリインポート機能を比較してみた 便利さとプライバシーのバランスには注意が必要かも？",
+    "summary": "別のチャットボットサービスからメモリをインポートする機能はClaudeが先行していましたが、Geminiにもメモリインポート機能がやってきました。しかも、チャット履歴のインポートもサポートされています。果たしてこれがどんなものなのか。さっそく試してみました。",
+    "sourceName": "ITmedia AI",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T20:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "GeminiとClaud",
+      "laudeのメモリインポ",
+      "リインポート機能を比較し",
+      "を比較してみた便利さとプ",
+      "利さとプライバシーのバラ"
+    ],
+    "bannerClass": "from-sky-900 to-slate-800",
+    "isNew": true,
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/03/news011.html"
+  },
+  {
+    "id": "rss-ai-9994d9a7c22a81",
+    "title": "クラウド／データセンターにおける容量不足が深刻化 どう対処すればいいのか",
+    "summary": "世界的にクラウドやコロケーションデータセンターの容量不足が深刻化する中、企業に求められているのは、容量の最適化や代替リージョンの活用などの対策だ。本稿では、コロケーションの制約と検討すべき方策、日本の状況についても解説する。",
+    "sourceName": "ITmedia AI",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T20:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "クラウド／データセンターにおける容量不足が深刻化",
+      "どう対処すればいいのか"
+    ],
+    "bannerClass": "from-sky-900 to-slate-800",
+    "isNew": true,
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/03/news001.html"
+  },
+  {
+    "id": "rss-ai-c420eb5622d793",
+    "title": "AIにコードを書かせたら、“動くのに本番で壊れるバグ”が増えた？ その原因と対策",
+    "summary": "AIコーディングは開発を加速させる一方で、「見抜けないバグ」という新たなリスクを生んでいるという。一見動くのに本番環境で障害を引き起こす厄介なバグの脅威と、現場で取れる対策、さらに最新動向も踏まえた筆者の意見をまとめる。",
+    "sourceName": "ITmedia AI",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T20:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "AIにコードを書かせたら",
+      "“動くのに本番で壊れるバグ”が増えた",
+      "その原因と対策"
+    ],
+    "bannerClass": "from-sky-900 to-slate-800",
+    "isNew": true,
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/03/news008.html"
+  },
+  {
+    "id": "rss-ai-fe7a8e9618b979",
+    "title": "Gateway Capital announces first close of $25M Fund II",
+    "summary": "Gateway Capital, the Milwaukee-based venture firm founded by Dana Guthrie, can now begin investment operations for its $25M Fund II.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-04-02T19:45:19.000Z",
+    "category": "ai",
+    "keywords": [
+      "Gateway",
+      "Capital",
+      "announces",
+      "close",
+      "25M"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/04/02/gateway-capital-dana-guthrie-milwaukee-first-close-fund-ii/",
+    "summaryJa": "ダナ・ガスリー氏が設立したミルウォーキーに本拠を置くベンチャー企業ゲートウェイ・キャピタルは、2,500万ドルのファンド II への投資業務を開始できるようになりました。"
+  },
+  {
+    "id": "rss-ai-612489e10607f1",
+    "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+    "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-04-02T19:21:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "OpenAI",
+      "acquires",
+      "TBPN",
+      "buzzy",
+      "founder-led"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+    "summaryJa": "シリコンバレーでカルト的な人気を誇るテクノロジー系ポッドキャストであるTBPNは、首席政治工作員クリス・ルヘイン氏が監督しているものの、独立して運営される予定だ。"
+  },
+  {
+    "id": "rss-ai-713ac705d520cd",
+    "title": "Flipboard’s new ‘social websites’ help publishers and creators tap into the open social web",
+    "summary": "Flipboard's social websites consolidate profiles and posts from Bluesky, Mastodon, Threads, YouTube, podcasts, blogs, and RSS feeds into a single, shared destination.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-04-02T19:18:51.000Z",
+    "category": "ai",
+    "keywords": [
+      "Flipboard",
+      "social",
+      "websites",
+      "help",
+      "publishers"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/04/02/flipboard-surf-social-websites-help-publishers-and-creators-tap-into-the-open-social-web/",
+    "summaryJa": "Flipboard のソーシャル Web サイトは、Bluesky、Mastodon、Threads、YouTube、ポッドキャスト、ブログ、RSS フィードのプロフィールと投稿を 1 つの共有先に統合します。"
+  },
+  {
+    "id": "rss-market-71f9cabbe7f6b1",
+    "title": "Amazon to add 3.5% fuel and logistics surcharge for sellers as Iran war drives up energy prices",
+    "summary": "With the Iran war now in its fifth week, Amazon said it's adding a 3.5% fuel and logistics surcharge for third-party sellers in the U.S. and Canada.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-04-02T18:59:44.000Z",
+    "category": "market",
+    "keywords": [
+      "Amazon",
+      "add",
+      "fuel",
+      "logistics",
+      "surcharge"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html"
+  },
+  {
+    "id": "rss-market-32a01dabd96893",
+    "title": "Iran and Oman drafting protocol to 'monitor' Hormuz Strait traffic: IRNA",
+    "summary": "The Strait of Hormuz, the vital artery for global oil transit, has been effectively closed since the Iran war started in late February.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-04-02T18:46:52.000Z",
+    "category": "market",
+    "keywords": [
+      "Iran",
+      "Oman",
+      "drafting",
+      "protocol",
+      "monitor"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/04/02/iran-war-oman-hormuz-strait.html"
+  },
+  {
+    "id": "rss-economy-808a1619b3dcb8",
+    "title": "Oil prices jump and shares drop after Trump threatens more Iran strikes",
+    "summary": "The US president said he'll bring Iran \"back to the Stone Age\" but gave no detail on ending the war.",
+    "sourceName": "BBC Business",
+    "sourceIcon": "¥",
+    "publishedAt": "2026-04-02T16:51:50.000Z",
     "category": "economy",
     "keywords": [
       "Oil",
       "prices",
-      "soar",
+      "jump",
       "shares",
       "drop"
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
     "url": "https://www.bbc.com/news/articles/ce8lzd4v7zdo?at_medium=RSS&at_campaign=rss",
-    "summaryJa": "米国大統領はイランを「石器時代に戻す」と述べたが、戦争がどのように終結するかについては言及しなかった。"
+    "summaryJa": "米国大統領はイランを「石器時代に戻す」と述べたが、戦争終結については詳細には触れなかった。"
   },
   {
-    "id": "rss-market-94e7cbd3951289",
-    "title": "One year on from Trump's 'liberation day,' global investors are rethinking American exceptionalism",
-    "summary": "U.S. exceptionalism is \"no longer automatic\" among global investors, one market watcher told CNBC.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-04-02T12:40:44.000Z",
-    "category": "market",
-    "keywords": [
-      "Trump",
-      "liberation",
-      "global",
-      "investors",
-      "rethinking"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/04/02/liberation-day-1-year-on-investors-are-rethinking-us-assets.html"
-  },
-  {
-    "id": "rss-market-409820e503f7d7",
-    "title": "Blue Owl caps private credit funds redemptions at 5% after steep request levels",
-    "summary": "Blue Owl attributed the higher-than-usual requests to \"heightened market concerns around AI-related disruption to software companies.\"",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-04-02T12:38:32.000Z",
-    "category": "market",
-    "keywords": [
-      "Blue",
-      "Owl",
-      "caps",
-      "private",
-      "credit"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/04/02/blue-owl-private-credit-funds-redemptions-requests.html"
-  },
-  {
-    "id": "rss-market-db04389afe8597",
-    "title": "Oil prices soar 10% as Trump's Iran war speech stokes fears of further escalation",
-    "summary": "Oil surged as Trump in his address to the nation on Iran war said that he expected the conflict to last another two to three weeks.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-04-02T12:35:11.000Z",
-    "category": "market",
-    "keywords": [
-      "Oil",
-      "prices",
-      "soar",
-      "Trump",
-      "Iran"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html"
-  },
-  {
-    "id": "rss-market-9a3d4d04e54d78",
-    "title": "Stellantis-backed Leapmotor delivers more than 100,000 EVs for fourth-straight quarter as BYD sales fall",
-    "summary": "Stellantis-backed Leapmotor delivered 110,155 new energy vehicles in the first three months of 2026, exceeding 100,000 deliveries for a fourth-straight quarter.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-04-02T12:33:32.000Z",
-    "category": "market",
-    "keywords": [
-      "Stellantis-backed",
-      "Leapmotor",
-      "delivers",
-      "100",
-      "000"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/04/02/stellantis-backed-leapmotor-hits-100000-sales-for-fourth-straight-quarter.html"
-  },
-  {
-    "id": "rss-insurance-2b4d74386bed40",
-    "title": "Santam Syndicate 1918 appoints Nigel Tatlock as Head of Property",
-    "summary": "Africa’s largest non-life insurer, Santam Group, has appointed Nigel Tatlock as Head of Property at its recently established subsidiary, Santam Syndicate 1918. This appointment aligns with the syndicate’s long-term growth plans as it continues to develop its offering at Lloyd’s, after being granted permission to underwrite in late 2025 and launching on January 1st, 2026. In […] The post Santam Syndicate 1918 appoints Nigel Tatlock as Head of Property appeared first on ReinsuranceNe.ws.",
-    "sourceName": "Reinsurance News",
-    "sourceIcon": "🔁",
-    "publishedAt": "2026-04-02T12:30:11.000Z",
+    "id": "rss-insurance-837dc7614ba83a",
+    "title": "Reinsurance Rates Continued Softening During April Renewals, Despite Iran War",
+    "summary": "Reinsurance rates continued to soften during the April 1 renewals despite the unstable geopolitical landscape and uncertain economic outlook, according to major reinsurance brokers. “The orderly completion of the renewal, with no structural disruption, disciplined capacity and cedent-friendly pricing outcomes, …",
+    "sourceName": "Insurance Journal",
+    "sourceIcon": "🛡️",
+    "publishedAt": "2026-04-02T16:19:43.000Z",
     "category": "insurance",
     "keywords": [
-      "Santam",
-      "Syndicate",
-      "1918",
+      "Reinsurance",
+      "Rates",
+      "Continued",
+      "Softening",
+      "April"
+    ],
+    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
+    "isNew": true,
+    "url": "https://www.insurancejournal.com/news/international/2026/04/02/864470.htm",
+    "summaryJa": "大手再保険ブローカーによると、不安定な地政学的情勢や不透明な経済見通しにもかかわらず、４月１日の更新期間中、再保険金利は引き続き軟化した。 「構造的な混乱がなく、規律ある生産能力と出再者に優しい価格設定で、リニューアルが秩序正しく完了しました。…"
+  },
+  {
+    "id": "rss-insurance-3baefee1f2b37e",
+    "title": "Toymaker Hasbro Reports Cybersecurity Incident",
+    "summary": "Pawtucket, Rhode Island-based toymaker Hasbro, Inc. reported it is investigating a cybersecurity incident after identifying unauthorized access to its network on March 28. The company said it has taken certain systems offline and launched an investigation with the assistance of …",
+    "sourceName": "Insurance Journal",
+    "sourceIcon": "🛡️",
+    "publishedAt": "2026-04-02T16:04:53.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Toymaker",
+      "Hasbro",
+      "Cybersecurity",
+      "Incident"
+    ],
+    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
+    "isNew": true,
+    "url": "https://www.insurancejournal.com/news/east/2026/04/02/864475.htm",
+    "summaryJa": "ロードアイランド州ポータケットに本拠を置く玩具メーカー、ハスブロ社は、3 月 28 日に自社ネットワークへの不正アクセスを確認した後、サイバーセキュリティ事件を調査していると報告した。同社は、特定のシステムをオフラインにし、次の支援を受けて調査を開始したと発表した。"
+  },
+  {
+    "id": "rss-insurance-46c8828757828b",
+    "title": "US cyber rates drop 32% at April 1, bespoke solutions surge amid ample reinsurance capacity: Gallagher Re",
+    "summary": "US cyber reinsurance rates fell around 32% during the April 1 renewals, impacted by a surge in excess capacity, which combined with a stable performance and low non-proportional pricing, has fostered the development of tailored solutions for cyber portfolios, according to Gallagher Re’s 1st View April renewal report While primary rates for most US cyber […] The post US cyber rates drop 32% at April 1, bespoke solutions surge amid ample reinsurance capacity: Gallagher Re appeared first on ReinsuranceNe.ws.",
+    "sourceName": "Reinsurance News",
+    "sourceIcon": "🔁",
+    "publishedAt": "2026-04-02T16:00:25.000Z",
+    "category": "insurance",
+    "keywords": [
+      "cyber",
+      "rates",
+      "drop",
+      "April",
+      "bespoke"
+    ],
+    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
+    "isNew": true,
+    "url": "https://www.reinsurancene.ws/us-cyber-rates-drop-32-at-april-1-bespoke-solutions-surge-amid-ample-reinsurance-capacity-gallagher-re/",
+    "summaryJa": "Gallagher Re の 1st View 4 月更新レポートによれば、米国のサイバー再保険料は 4 月 1 日の更新中に約 32% 低下しました。過剰生産能力の急増の影響を受け、安定したパフォーマンスと不釣り合いな低価格設定が相まって、サイバー ポートフォリオに合わせたソリューションの開発が促進されました。米国のサイバー再保険のほとんどの保険料は 4 月 1 日に 32% 下落しましたが、米国のサイバー再保険料は 4 月 1 日に 32% 下落しましたが、十分な再保険能力を背景にオーダーメイドのソリューションが急上昇しました。 Gallagher Re は ReinsuranceNews に最初に登場しました。"
+  },
+  {
+    "id": "rss-insurance-b560c775881694",
+    "title": "Mississippi Lawmakers Revive Wind-Mitigation Program with $15,000 Grants",
+    "summary": "Mississippi will soon become the latest state to provide wind-mitigation grants for homeowners if the governor signs bills approved by lawmakers this week. Senate Bill 2049 revives a 20-year-old retrofit plan and creates the Strengthen Mississippi Homes Program, providing grants …",
+    "sourceName": "Insurance Journal",
+    "sourceIcon": "🛡️",
+    "publishedAt": "2026-04-02T15:57:48.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Mississippi",
+      "Lawmakers",
+      "Revive",
+      "Wind-Mitigation",
+      "Program"
+    ],
+    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
+    "isNew": true,
+    "url": "https://www.insurancejournal.com/news/southeast/2026/04/02/864472.htm",
+    "summaryJa": "今週知事が議員の承認した法案に署名すれば、ミシシッピ州はまもなく住宅所有者に風力緩和補助金を支給する最新の州となる。上院法案 2049 は、20 年にわたる改修計画を復活させ、補助金を提供するミシシッピ州住宅強化プログラムを創設しました。"
+  },
+  {
+    "id": "rss-insurance-93d63efa6b0499",
+    "title": "Aon’s Reinsurance Solutions names Jukgrid Treesuttamas as Senior Advisor, Thailand",
+    "summary": "Aon’s Reinsurance Solutions, the reinsurance division of global broker Aon, has appointed Jukgrid Treesuttamas as Senior Advisor, Thailand, effective 1st April 2026. Based in Bangkok, Treesuttamas will focus on strengthening the company’s capabilities to help its Thai clients make better decisions to protect and grow their businesses. He is an industry veteran with more than […] The post Aon’s Reinsurance Solutions names Jukgrid Treesuttamas as Senior Advisor, Thailand appeared first on ReinsuranceNe.ws.",
+    "sourceName": "Reinsurance News",
+    "sourceIcon": "🔁",
+    "publishedAt": "2026-04-02T15:40:11.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Aon",
+      "Reinsurance",
+      "Solutions",
+      "names",
+      "Jukgrid"
+    ],
+    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
+    "isNew": true,
+    "url": "https://www.reinsurancene.ws/aons-reinsurance-solutions-names-jukgrid-treesuttamas-as-senior-advisor-thailand/",
+    "summaryJa": "グローバルブローカーAonの再保険部門であるAon’s Reinsurance Solutionsは、2026年4月1日付でジュクグリッド・トゥリースタマスをタイのシニアアドバイザーに任命した。バンコクに拠点を置くトゥリースタマスは、タイの顧客がビジネスを保護し成長させるためのより良い意思決定を支援できるよう、会社の能力を強化することに注力する。彼は業界のベテランであり、以上の経験を持っています。"
+  },
+  {
+    "id": "rss-insurance-5762c7f7e401e8",
+    "title": "Markel Insurance appoints James Shankland as Head of Ocean Cargo, US",
+    "summary": "Markel, the insurance operations within Markel Group Inc., has announced the appointment of James Shankland as Head of Ocean Cargo, U.S. In his new role, Shankland will lead the growth of Markel’s U.S. cargo portfolio, overseeing underwriting strategy, portfolio management, and broker engagement. Based in Markel’s New York office, he will work closely with actuarial, […] The post Markel Insurance appoints James Shankland as Head of Ocean Cargo, US appeared first on ReinsuranceNe.ws.",
+    "sourceName": "Reinsurance News",
+    "sourceIcon": "🔁",
+    "publishedAt": "2026-04-02T15:20:28.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Markel",
+      "Insurance",
       "appoints",
-      "Nigel"
+      "James",
+      "Shankland"
     ],
     "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
     "isNew": true,
-    "url": "https://www.reinsurancene.ws/santam-syndicate-1918-appoints-nigel-tatlock-as-head-of-property/",
-    "summaryJa": "アフリカ最大の損害保険会社であるサンタム・グループは、最近設立した子会社であるサンタム・シンジケート1918の資産責任者にナイジェル・タトロック氏を任命した。この任命は、2025年後半に引受許可を取得し、2026年1月1日に事業を開始した後、ロイズでの商品開発を継続するシンジケートの長期成長計画と一致している。 1918年に任命される"
+    "url": "https://www.reinsurancene.ws/markel-insurance-appoints-james-shankland-as-head-of-ocean-cargo-us/",
+    "summaryJa": "マーケル・グループ内の保険事業を担当するマーケルは、ジェームス・シャンクランド氏を米国海洋貨物部門責任者に任命したと発表した。シャンクランド氏は新たな役職で、引受戦略、ポートフォリオ管理、ブローカーとの関わりを監督し、マーケル社の米国貨物ポートフォリオの成長を主導することになる。マーケルのニューヨーク事務所に拠点を置き、保険数理と緊密に連携する予定である。 […]ポストマーケル保険はジェームズ・シャンクランド氏を海洋貨物部門責任者に任命、米国は ReinsuranceNews に最初に掲載された。"
   },
   {
-    "id": "rss-economy-23a8e56dc24eef",
-    "title": "イラン イスラエルにミサイル発射",
-    "summary": "イラン イスラエルにミサイル発射",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T12:29:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "イラン",
-      "イスラエルにミサイル発射"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6574982?source=rss"
-  },
-  {
-    "id": "rss-economy-46166c849e5ecf",
-    "title": "女児が車にはねられ死亡 横浜市",
-    "summary": "女児が車にはねられ死亡 横浜市",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T12:19:12.000Z",
-    "category": "economy",
-    "keywords": [
-      "女児が車にはねられ死亡",
-      "横浜市"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6574981?source=rss"
-  },
-  {
-    "id": "rss-economy-24b11bfd06a84b",
-    "title": "両陛下と仏大統領 通訳交えず昼食",
-    "summary": "両陛下と仏大統領 通訳交えず昼食",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T12:12:34.000Z",
-    "category": "economy",
-    "keywords": [
-      "両陛下と仏大統領",
-      "通訳交えず昼食"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6574980?source=rss"
-  },
-  {
-    "id": "rss-economy-7bbc7d30fbff8d",
-    "title": "給与の半分投入し車いす寄贈 思い",
-    "summary": "給与の半分投入し車いす寄贈 思い",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T12:02:21.000Z",
-    "category": "economy",
-    "keywords": [
-      "給与の半分投入し車いす寄贈",
-      "思い"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6574979?source=rss"
-  },
-  {
-    "id": "rss-insurance-7001ac5a7f67a2",
-    "title": "CatIQ lowers final Ontario & Quebec ice storm loss estimate to CAD 466m",
-    "summary": "CatIQ, a Toronto-based independent catastrophe insurance data provider and subsidiary of PERILS, has released its fifth and final industry loss estimate for the ice storm that affected Ontario and Quebec between 28th and 31st March 2025, decreasing losses to CAD 466 million. The event involved a prolonged period of wintry precipitation across southern Ontario and […] The post CatIQ lowers final Ontario & Quebec ice storm loss estimate to CAD 466m appeared first on ReinsuranceNe.ws.",
+    "id": "rss-insurance-7904a5bd730ab5",
+    "title": "Liberty Mutual unveils new leadership structure to align global risk and capital capabilities",
+    "summary": "Tim Sweeney, President and Chief Executive Officer of Liberty Mutual Insurance, has announced a new leadership structure across the company’s Global Risk Solutions (GRS) and Liberty Mutual Investments (LMI) businesses, bringing them into closer strategic alignment, effective immediately. The new structure is designed to better serve customers and partners, while positioning Liberty Mutual to deliver […] The post Liberty Mutual unveils new leadership structure to align global risk and capital capabilities appeared first on ReinsuranceNe.ws.",
     "sourceName": "Reinsurance News",
     "sourceIcon": "🔁",
-    "publishedAt": "2026-04-02T12:00:08.000Z",
+    "publishedAt": "2026-04-02T15:00:59.000Z",
     "category": "insurance",
     "keywords": [
-      "CatIQ",
-      "lowers",
-      "final",
-      "Ontario",
-      "Quebec"
+      "Liberty",
+      "Mutual",
+      "unveils",
+      "leadership",
+      "structure"
     ],
     "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
     "isNew": true,
-    "url": "https://www.reinsurancene.ws/catiq-lowers-final-ontario-quebec-ice-storm-loss-estimate-to-cad-466m/",
-    "summaryJa": "トロントに拠点を置く独立災害保険データプロバイダーでPERILSの子会社であるCatIQは、2025年3月28日から31日にかけてオンタリオ州とケベック州に影響を及ぼした氷嵐について、5回目となる最終的な業界損失予測を発表し、損失は4億6,​​600万カナダドルに減少した。このイベントには、オンタリオ州南部全域で冬の降水量が長期間続いたことが関係しており、[…] CatIQ 後の影響で、オンタリオ州とケベック州の最後の氷が低下"
+    "url": "https://www.reinsurancene.ws/liberty-mutual-unveils-new-leadership-structure-to-align-global-risk-and-capital-capabilities/",
+    "summaryJa": "リバティ・ミューチュアル・インシュアランスの社長兼最高経営責任者であるティム・スウィーニーは、同社のグローバル・リスク・ソリューションズ（GRS）事業とリバティ・ミューチュアル・インベストメンツ（LMI）事業を横断する新しいリーダーシップ体制を発表し、両事業を緊密に戦略的に連携させ、即時発効することを発表した。この新しい構造は、顧客やパートナーへのサービス向上を図るとともに、リバティ・ミューチュアルが提供できる立場にある […] リバティ・ミューチュアル、世界的なリスクと資本能力を調整するための新しいリーダーシップ構造を発表の記事は、ReinsuranceNews に最初に掲載されました。"
   },
   {
-    "id": "rss-market-a1a050414b47eb",
-    "title": "Novo Nordisk says Wegovy pill outperforms Lilly’s oral GLP-1 in cross-trial comparison",
-    "summary": "Novo and Eli Lilly are both trying to shape the narrative of their rival pills, considered to be the start of the next phase of the weight-loss drug era.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-04-02T12:00:01.000Z",
-    "category": "market",
+    "id": "rss-insurance-b06a6f13ed9d36",
+    "title": "Cat bond, ILS, third-party capital activity to remain robust through 2026: Pennay, Aon Securities",
+    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Aon Securities, the broker-dealer and investment banking arm of the broking giant, believes catastrophe bond market and broader third-party reinsurance capital activities will remain robust through the rest of 2026, according to CEO Richard Pennay. A number of factors are expected to keep driving cat bond and broader insurance-linked securities (ILS) market activity levels, with […] Cat bond, ILS, third-party capital activity to remain robust through 2026: Pennay, Aon Securities was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
+    "sourceName": "Artemis",
+    "sourceIcon": "🎯",
+    "publishedAt": "2026-04-02T15:00:57.000Z",
+    "category": "insurance",
     "keywords": [
-      "Novo",
-      "Nordisk",
-      "Wegovy",
-      "pill",
-      "outperforms"
+      "Cat",
+      "bond",
+      "ILS",
+      "third-party",
+      "capital"
     ],
-    "bannerClass": "from-indigo-950 to-blue-800",
+    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
     "isNew": true,
-    "url": "https://www.cnbc.com/2026/04/02/novo-nordisk-wegovy-pill-eli-lilly-glp1-stock-nvo-lly-foundayo.html"
+    "url": "https://www.artemis.bm/news/cat-bond-ils-third-party-capital-activity-to-remain-robust-through-2026-pennay-aon-securities/?utm_source=rss&utm_medium=rss&utm_campaign=cat-bond-ils-third-party-capital-activity-to-remain-robust-through-2026-pennay-aon-securities",
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。ブローカーディーラー兼大手証券会社の投資銀行部門であるエーオン証券は、CEOのリチャード・ペネイ氏によると、大惨事債券市場と広範な第三者再保険の資本活動は2026年末まで引き続き堅調に推移すると考えているという。多くの要因が今後もキャット債券や広範な保険リンク証券（ILS）の市場活動レベルを押し上げると予想されており、[…] キャット債券、ILS、サードパーティの資本活動は2026年まで堅調に推移するだろう：ペネイ、エーオン証券の発行元：www.Artemis.bm catastrop"
   },
   {
-    "id": "rss-ai-3d0d1f5a144fae",
-    "title": "Cash App launches ‘pay later’ feature for P2P pay transfers",
-    "summary": "Block says that the new feature has strong built-in protections to keep users from so-called debt spirals.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-04-02T12:00:00.000Z",
-    "category": "ai",
+    "id": "rss-insurance-fcd61ccdcd4a78",
+    "title": "Georgia Boards Owe $3M to Military Spouses With Out-of-State Licenses",
+    "summary": "The state of Georgia must pay some 5,000 military service members and their spouses a total of $3 million to settle charges that state boards failed to recognize out-of-state professional licenses. The U.S. Department of Justice announced this week that …",
+    "sourceName": "Insurance Journal",
+    "sourceIcon": "🛡️",
+    "publishedAt": "2026-04-02T14:49:01.000Z",
+    "category": "insurance",
     "keywords": [
-      "Cash",
-      "App",
-      "launches",
-      "pay",
-      "later"
+      "Georgia",
+      "Boards",
+      "Owe",
+      "Military",
+      "Spouses"
     ],
-    "bannerClass": "from-slate-800 to-slate-600",
+    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
-    "url": "https://techcrunch.com/2026/04/02/cash-app-launches-buy-now-pay-later-feature-for-p2p-pay-transfers/",
-    "summaryJa": "ブロック氏によると、この新機能にはユーザーをいわゆる借金スパイラルから守るための強力な保護機能が組み込まれているという。"
+    "url": "https://www.insurancejournal.com/news/southeast/2026/04/02/864457.htm",
+    "summaryJa": "ジョージア州は、州委員会が州外の専門資格を認めなかったとして、約5,000人の軍人とその配偶者に総額300万ドルを支払わなければならない。米国司法省は今週、次のことを発表しました…"
+  },
+  {
+    "id": "rss-insurance-55fa08c11fa33c",
+    "title": "US Exempts Gulf of Mexico Drillers From Endangered Species Rules",
+    "summary": "A committee of senior officials in President Donald Trump’s administration voted on Tuesday to exempt the Gulf of Mexico oil and gas industry from a federal law meant to protect endangered species including whales, birds and sea turtles. The decision, …",
+    "sourceName": "Insurance Journal",
+    "sourceIcon": "🛡️",
+    "publishedAt": "2026-04-02T14:32:45.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Exempts",
+      "Gulf",
+      "Mexico",
+      "Drillers",
+      "Endangered"
+    ],
+    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
+    "isNew": true,
+    "url": "https://www.insurancejournal.com/news/national/2026/04/02/864454.htm",
+    "summaryJa": "ドナルド・トランプ大統領政権の高官で構成する委員会は火曜日、クジラや鳥類、ウミガメなどの絶滅危惧種の保護を目的とした連邦法の対象からメキシコ湾の石油・ガス産業を除外することを可決した。その決断は、、、"
+  },
+  {
+    "id": "rss-insurance-ce899ba102dd8d",
+    "title": "AXA UK & Ireland appoints Caroline Riddy as General Counsel",
+    "summary": "AXA UK & Ireland has announced the appointment of Caroline Riddy as General Counsel, effective 7th April 2026. Riddy succeeds Emily Coupland, who left the company in December after 24 years working across AXA’s various UK entities. Riddy brings more than two decades of legal and company secretariat experience within financial services. Most recently, she […] The post AXA UK & Ireland appoints Caroline Riddy as General Counsel appeared first on ReinsuranceNe.ws.",
+    "sourceName": "Reinsurance News",
+    "sourceIcon": "🔁",
+    "publishedAt": "2026-04-02T14:30:55.000Z",
+    "category": "insurance",
+    "keywords": [
+      "AXA",
+      "Ireland",
+      "appoints",
+      "Caroline",
+      "Riddy"
+    ],
+    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
+    "isNew": true,
+    "url": "https://www.reinsurancene.ws/axa-uk-ireland-appoints-caroline-riddy-as-general-counsel/",
+    "summaryJa": "AXA UK & Irelandは、2026年4月7日付けでキャロライン・リディ氏を法務顧問に任命したと発表した。リディ氏は、24年間英国のAXAのさまざまな法人に勤務した後、12月に退任したエミリー・クープランド氏の後任となる。 Riddy は、金融サービス分野で 20 年以上の法務および会社事務局の経験をもたらします。最近では、彼女は […] AXA UK & Ireland が法務顧問に Caroline Riddy を任命するという記事が ReinsuranceNe.ws に最初に掲載されました。"
+  },
+  {
+    "id": "rss-economy-e817d816d07621",
+    "title": "米国の相互関税 誤算続きの1年",
+    "summary": "米国の相互関税 誤算続きの1年",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T14:12:55.000Z",
+    "category": "economy",
+    "keywords": [
+      "米国の相互関税",
+      "誤算続きの1年"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6574993?source=rss"
+  },
+  {
+    "id": "rss-insurance-4e56272dd51f15",
+    "title": "Montauk Point hires Dr. Gero Michel to lead its Risk and Analytics platform",
+    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Montauk Point Ltd., a Bermuda-based firm that provides independent advisory and strategic advice to third-party risk capital providers, has appointed 35-year insurance and reinsurance veteran Dr. Gero Michel to lead its risk and analytics platform. Montauk Point was launched in early 2025 by well-known reinsurance industry executive Adam Szakmary. The company refers to itself as […] Montauk Point hires Dr. Gero Michel to lead its Risk and Analytics platform was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
+    "sourceName": "Artemis",
+    "sourceIcon": "🎯",
+    "publishedAt": "2026-04-02T14:00:45.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Montauk",
+      "Point",
+      "hires",
+      "Gero",
+      "Michel"
+    ],
+    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.artemis.bm/news/montauk-point-hires-dr-gero-michel-to-lead-its-risk-and-analytics-platform/?utm_source=rss&utm_medium=rss&utm_campaign=montauk-point-hires-dr-gero-michel-to-lead-its-risk-and-analytics-platform",
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。バミューダに本拠を置き、サードパーティのリスクキャピタルプロバイダーに独立した助言と戦略的アドバイスを提供するモントークポイント社は、リスクと分析プラットフォームの責任者に保険と再保険の分野で35年の経験を持つベテラン、ジェロ・ミシェル博士を任命した。モントーク ポイントは、再保険業界の著名な幹部であるアダム ザクマリー氏によって 2025 年初めに設立されました。同社は自社を […] モントーク ポイント、リスクおよび分析プラットフォームの責任者としてジェロ ミシェル博士を採用 発行元: www.Artemis.bm 災害債券取引ディレクトリ"
+  },
+  {
+    "id": "rss-insurance-b897d54eb86c65",
+    "title": "B.P. Marsh buys additional 2% equity stake in Pantheon",
+    "summary": "B.P. Marsh, the specialist venture capital investor in early-stage financial services businesses, has acquired an additional 2% equity stake in Pantheon, a full-service London market wholesale insurance broker, based on an equity valuation of £275 million from the company’s founders, Robert Dowman and Michael Lee. B.P. Marsh initially invested in Pantheon in June 2023, acquiring […] The post B.P. Marsh buys additional 2% equity stake in Pantheon appeared first on ReinsuranceNe.ws.",
+    "sourceName": "Reinsurance News",
+    "sourceIcon": "🔁",
+    "publishedAt": "2026-04-02T14:00:39.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Marsh",
+      "buys",
+      "additional",
+      "equity",
+      "stake"
+    ],
+    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
+    "isNew": true,
+    "url": "https://www.reinsurancene.ws/b-p-marsh-buys-additional-2-equity-stake-in-pantheon/",
+    "summaryJa": "BP初期段階の金融サービス事業に特化したベンチャーキャピタル投資家であるマーシュは、ロンドン市場のフルサービスのホールセール保険ブローカーであるパンテオンの創業者であるロバート・ダウマン氏とマイケル・リー氏からの2億7,500万ポンドの株式評価に基づいて、同社の株式の2%を追加取得した。 BPマーシュ氏は当初、2023年6月にパンテオンに投資し、[…]マーシュ、パンテオンの株式2%を追加購入 appeared first on ReinsuranceNews."
+  },
+  {
+    "id": "rss-economy-e0a8ad29bad388",
+    "title": "戦時下の露に経済訪問団 政府計画",
+    "summary": "戦時下の露に経済訪問団 政府計画",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T13:41:31.000Z",
+    "category": "economy",
+    "keywords": [
+      "戦時下の露に経済訪問団",
+      "政府計画"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6574990?source=rss"
+  },
+  {
+    "id": "rss-economy-fb6c4864a692c6",
+    "title": "クレーンのワイヤーに絡まる 死亡",
+    "summary": "クレーンのワイヤーに絡まる 死亡",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T13:04:04.000Z",
+    "category": "economy",
+    "keywords": [
+      "クレーンのワイヤーに絡まる",
+      "死亡"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6574987?source=rss"
+  },
+  {
+    "id": "rss-insurance-3d71c2bff46ff2",
+    "title": "US property cat rates down 14% in 2026 after April renewal, biggest drop since 2014: Guy Carpenter",
+    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Property catastrophe reinsurance rates-on-line continued to fall at the April 1st renewals and for the United States, broker Guy Carpenter’s index now shows that 2026 is experiencing the sharpest fall in US property cat pricing since 2014. The Guy Carpenter U.S. Property Catastrophe Rate on Line Index, which measures US property catastrophe reinsurance Rate-on-Line movements […] US property cat rates down 14% in 2026 after April renewal, biggest drop since 2014: Guy Carpenter was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
+    "sourceName": "Artemis",
+    "sourceIcon": "🎯",
+    "publishedAt": "2026-04-02T13:00:11.000Z",
+    "category": "insurance",
+    "keywords": [
+      "property",
+      "cat",
+      "rates",
+      "down",
+      "2026"
+    ],
+    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.artemis.bm/news/us-property-cat-rates-down-14-in-2026-after-april-renewal-biggest-drop-since-2014-guy-carpenter/?utm_source=rss&utm_medium=rss&utm_campaign=us-property-cat-rates-down-14-in-2026-after-april-renewal-biggest-drop-since-2014-guy-carpenter",
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。不動産災害再保険のオンライン金利は4月1日の更新で引き続き低下しており、米国についてはブローカーのガイ・カーペンター氏の指数によると、2026年は米国の不動産キャットプライシングが2014年以来最も急激に下落していることが示されている。ガイ・カーペンター米国不動産災害再保険レート・オンライン指数は、米国の不動産災害再保険のレート・オンラインの動きを測定するものである[…]米国の不動産キャットレートは14％下落した。 4 月更新後の 2026 年、2014 年以来最大の下落: ガイ・カーペンターの発行元: www.Artemis.bm catastrophe"
+  },
+  {
+    "id": "rss-ai_theory-6f914d27b96c6e",
+    "title": "世界初の飛行機死亡事故で亡くなったトーマス・セルフリッジ中尉とはどういう人物だったのか？",
+    "summary": "1903年12月17日、ウィルバー・ライトとオーヴィル・ライトの兄弟は世界で初めてとなる有人動力飛行に成功しました。アメリカ陸軍はライト兄弟が開発したライトフライヤーの購入を検討しており、基地でのデモンストレーションが行われましたが、その際に墜落事故が発生。同乗していたトーマス・セルフリッジ中尉が亡くなっています。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T13:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "世界初の飛行機死亡事故で亡くなったトーマス",
+      "セルフリッジ中尉とはどういう人物だったのか"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260402-thomas-selfridge-first-airplane-accident-victim/"
   },
   {
     "id": "rss-ai_theory-acdf23f372daa5",
@@ -400,29 +1048,9 @@
     "url": "https://gigazine.net/news/20260402-iran-war-disrupting-helium-aluminum-supplies/"
   },
   {
-    "id": "rss-insurance-9e3d6516c3ce0f",
-    "title": "Macro trends drive market softening in Asia & India at April 1 renewals: Guy Carpenter",
-    "summary": "Guy Carpenter, the reinsurance broking arm of Marsh, reports that both Asia and India witnessed continued softening at the April 1, 2026, reinsurance renewals, as the ongoing conflict in the Middle East threatens to drive significant losses for various specialty lines of business. The reinsurance broker highlights significant price reductions in key 1.4 renewal territories […] The post Macro trends drive market softening in Asia & India at April 1 renewals: Guy Carpenter appeared first on ReinsuranceNe.ws.",
-    "sourceName": "Reinsurance News",
-    "sourceIcon": "🔁",
-    "publishedAt": "2026-04-02T11:30:28.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Macro",
-      "trends",
-      "drive",
-      "market",
-      "softening"
-    ],
-    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
-    "isNew": true,
-    "url": "https://www.reinsurancene.ws/macro-trends-drive-market-softening-in-asia-india-at-april-1-renewals-guy-carpenter/",
-    "summaryJa": "マーシュの再保険仲介部門であるガイ・カーペンター氏は、中東で進行中の紛争によりさまざまな特殊事業に多大な損失が生じる恐れがあるため、アジアとインドの両国では2026年4月1日の再保険更新で引き続き軟化が見られたと報告している。再保険ブローカーは、主要な 1.4 更新地域での大幅な価格引き下げを強調 […] ポストマクロトレンドが市場軟化を促進"
-  },
-  {
     "id": "rss-insurance-feef08a5adc7b8",
     "title": "Alternative capital reinforces market trends. Non-life ILS assets hit $135bn: Wakefield, Gallagher Re",
-    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Alternative reinsurance capital is reinforcing current reinsurance market trends as total non-life insurance-linked securities (ILS) assets reached $135 billion at year-end 2025, a 19% increase year-on-year. Gallagher Re CEO Tom Wakefield said this significant capital influx is bolstering underwriter conviction, even as the broader reinsurance cycle shows signs of softening. In the reinsurance broker’s ",
+    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Alternative reinsurance capital is reinforcing current reinsurance market trends as total non-life insurance-linked securities (ILS) assets reached $135 billion at year-end 2025, a 19% increase year-on-year. Gallagher Re CEO Tom Wakefield said this significant capital influx is bolstering underwriter conviction, even as the broader reinsurance cycle shows signs of softening. In the reinsurance broker’s latest […] Alternative capital reinforces market trends. Non-life ILS assets hit $135bn: Wakefield, Gallagher Re was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
     "sourceName": "Artemis",
     "sourceIcon": "🎯",
     "publishedAt": "2026-04-02T11:10:34.000Z",
@@ -437,209 +1065,7 @@
     "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
     "isNew": true,
     "url": "https://www.artemis.bm/news/alternative-capital-reinforces-market-trends-non-life-ils-assets-hit-135bn-wakefield-gallagher-re/?utm_source=rss&utm_medium=rss&utm_campaign=alternative-capital-reinforces-market-trends-non-life-ils-assets-hit-135bn-wakefield-gallagher-re",
-    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。損害保険関連証券（ILS）の総資産が2025年末時点で前年比19％増の1,350億ドルに達しており、代替再保険資本が現在の再保険市場の傾向を強化している。ギャラガー・リーのトム・ウェイクフィールド最高経営責任者（CEO）は、この大幅な資本流入が引受会社の契約を強化していると述べた"
-  },
-  {
-    "id": "rss-insurance-9f0a43f6d78f29",
-    "title": "Banyan Risk secures Coverholder Status at Lloyd’s",
-    "summary": "Banyan Risk Services Ltd., a subsidiary of Bermuda-based specialty insurance managing general agent (MGA) Banyan Risk Ltd., has secured Coverholder Status at Lloyd’s. Through this partnership, the company gains unparalleled access to the extensive capacity of the Lloyd’s market, via SiriusPoint’s Syndicate 1945, which will be complemented by the domestic insurers in Banyan Canada’s Executive […] The post Banyan Risk secures Coverholder Status at Lloyd’s appeared first on ReinsuranceNe.ws.",
-    "sourceName": "Reinsurance News",
-    "sourceIcon": "🔁",
-    "publishedAt": "2026-04-02T11:00:16.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Banyan",
-      "Risk",
-      "secures",
-      "Coverholder",
-      "Status"
-    ],
-    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
-    "isNew": true,
-    "url": "https://www.reinsurancene.ws/banyan-risk-secures-coverholder-status-at-lloyds/",
-    "summaryJa": "バミューダに本拠を置く特殊保険管理総代理店（MGA）Banyan Risk Ltd.の子会社であるBanyan Risk Services Ltd.は、ロイズでカバーホルダーの地位を確保しました。このパートナーシップを通じて、同社はシリウスポイントのシンジケート 1945 を通じて、ロイズ市場の広範な能力への比類のないアクセスを獲得し、バンヤン・カナダのエグゼクティブ内の国内保険会社によって補完されることになります。"
-  },
-  {
-    "id": "rss-ai_theory-6dd7690992c07d",
-    "title": "北朝鮮のハッカー「UNC1069」がオープンソースのAxiosに対するサプライチェーン攻撃の犯人だとGoogleが指摘",
-    "summary": "JavaScriptライブラリ「Axios」がサプライチェーン攻撃を受けてリモートアクセス型トロイの木馬を仕込まれた件で、Googleのセキュリティ研究者が調査報告書を提出しました。Googleは、早くとも2018年から活動している北朝鮮関連の脅威アクター「UNC1069」が関与していると断定しています。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T11:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "北朝鮮のハッカー「UNC",
-      "「UNC1069」がオー",
-      "」がオープンソースのAx",
-      "スのAxiosに対するサ",
-      "対するサプライチェーン攻"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260402-axios-threat-actor-north-korea/"
-  },
-  {
-    "id": "rss-insurance-9051f1637cc12d",
-    "title": "Canada Life secures £40m bulk annuity deal for financial sector pension scheme",
-    "summary": "Canada Life, an insurance and financial services company, has completed a £40 million full-scheme buy-in transaction with a financial services sector pension scheme. According to the announcement, this deal secures the future benefits for more than 80 pensioners and 60 deferred members. The transaction saw Hymans Robertson act as lead broker on the deal and […] The post Canada Life secures £40m bulk annuity deal for financial sector pension scheme appeared first on ReinsuranceNe.ws.",
-    "sourceName": "Reinsurance News",
-    "sourceIcon": "🔁",
-    "publishedAt": "2026-04-02T10:30:42.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Canada",
-      "Life",
-      "secures",
-      "40m",
-      "bulk"
-    ],
-    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
-    "isNew": true,
-    "url": "https://www.reinsurancene.ws/canada-life-secures-40m-bulk-annuity-deal-for-financial-sector-pension-scheme/",
-    "summaryJa": "保険および金融サービス会社であるカナダライフは、金融サービス部門の年金制度との4,000万ポンドのフルスキームバイイン取引を完了した。発表によると、この協定により、80人以上の年金受給者と60人以上の年金受給者が将来の給付金を確保できることになる。この取引では、ハイマンズ・ロバートソン氏が取引の主任ブローカーを務め、[…]ポスト・カナダ・ライフが4,000万ポンドの一括年金取引を確保"
-  },
-  {
-    "id": "rss-economy-fc3eb80e4086ec",
-    "title": "【演説詳細】トランプ大統領 “今後2～3週間 激しい攻撃行う”",
-    "summary": "アメリカのトランプ大統領は1日、イラン情勢について、国民向けの演説を行い、「核心的な戦略目標がほぼ達成されつつある」と述べるとともに、今後2週間から3週間、激しい攻撃を行う考えを示しました。これに対し…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T10:30:02.000Z",
-    "category": "economy",
-    "keywords": [
-      "【演説詳細】トランプ大統領",
-      "“今後2～3週間",
-      "激しい攻撃行う”"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015090401000"
-  },
-  {
-    "id": "rss-economy-9dbfb7ef426f27",
-    "title": "「国家情報局」新設置するための法案 衆議院で審議入り",
-    "summary": "政府のインテリジェンス機能の強化に向け「国家情報局」を新たに設置するための法案が衆議院で審議入りしました。高市総理大臣は「国家情報局」はテロの防止や緊急事態への対処につながる情報収集の総合調整などを行…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T10:23:34.000Z",
-    "category": "economy",
-    "keywords": [
-      "「国家情報局」新設置するための法案",
-      "衆議院で審議入り"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015090911000"
-  },
-  {
-    "id": "rss-insurance-681412f1778006",
-    "title": "Stolen Renoir, Cézanne and Matisse Were Probably Uninsured, Market Sources Say",
-    "summary": "Three paintings by French masters Pierre-Auguste Renoir, Paul Cézanne and Henri Matisse stolen from a museum in northern Italy last week were probably not insured, according to market sources. One fine art underwriter told the Reuters publication The Insurer that …",
-    "sourceName": "Insurance Journal",
-    "sourceIcon": "🛡️",
-    "publishedAt": "2026-04-02T10:17:42.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Stolen",
-      "Renoir",
-      "Cézanne",
-      "Matisse",
-      "Probably"
-    ],
-    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
-    "isNew": true,
-    "url": "https://www.insurancejournal.com/news/international/2026/04/02/864372.htm",
-    "summaryJa": "市場関係者によると、先週イタリア北部の美術館から盗まれたフランスの巨匠ピエール＝オーギュスト・ルノワール、ポール・セザンヌ、アンリ・マティスの絵画３点はおそらく保険がかけられていなかったという。ある美術品引受会社はロイター通信の出版物「ザ・インシュアラー」に次のように語った。"
-  },
-  {
-    "id": "rss-ai_theory-197fdf04fa648c",
-    "title": "2026年4月2日のヘッドラインニュース",
-    "summary": "松屋の60周年記念企画第4弾として、2026年4月7日(火)11時から「松屋の選べる60種ランチセット」がスタートします。60周年にちなんで、選べる組み合わせはメイン6種×サイド10種で60種類。メインは「牛めし」「ネギたっぷり旨辛ネギたま牛めし」「鬼おろしポン酢牛めし」「キムチ牛めし」「チーズ牛めし」「うまトマチーズ牛めし」の6種類、サイドは「生野菜」「生玉子」「半熟玉子」「お新香」「富士山キムチ」「コーラ」「豚汁」「冷奴」「国産とろろ」「ポテサラ生野菜」の10種類。価格は税込530円からとなっています。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T10:15:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "2026年4月2日のヘッ",
-      "日のヘッドラインニュース",
-      "ニュース"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260402-headline/"
-  },
-  {
-    "id": "rss-economy-f6e6ae1e9269c3",
-    "title": "首相 節電要請「可能性排除せず」",
-    "summary": "首相 節電要請「可能性排除せず」",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T10:05:13.000Z",
-    "category": "economy",
-    "keywords": [
-      "首相",
-      "節電要請「可能性排除せず」"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6574970?source=rss"
-  },
-  {
-    "id": "rss-insurance-e79c66bbfcadbd",
-    "title": "Accelerant names Linda S. Huber as CFO",
-    "summary": "Accelerant, a data-led risk exchange platform connecting specialty insurers with capital partners through the Accelerant Risk Exchange, has appointed Linda S. Huber as Chief Financial Officer, following a previously announced leadership transition. Linda S. Huber brings extensive experience across the financial services sector, including nearly two decades serving as chief financial officer of publicly listed […] The post Accelerant names Linda S. Huber as CFO appeared first on ReinsuranceNe.ws.",
-    "sourceName": "Reinsurance News",
-    "sourceIcon": "🔁",
-    "publishedAt": "2026-04-02T10:00:20.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Accelerant",
-      "names",
-      "Linda",
-      "Huber",
-      "CFO"
-    ],
-    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
-    "isNew": true,
-    "url": "https://www.reinsurancene.ws/accelerant-names-linda-s-huber-as-cfo/",
-    "summaryJa": "Accelerant Risk Exchange を通じて専門保険会社と資本パートナーを結び付けるデータ主導のリスク交換プラットフォームである Accelerant は、以前に発表された経営陣の交代に続き、リンダ S. フーバーを最高財務責任者に任命しました。リンダ S. ヒューバーは、上場企業の最高財務責任者を 20 年近く務めたことを含め、金融サービス部門全体で幅広い経験をもたらします。"
-  },
-  {
-    "id": "rss-ai_theory-b447dafad877eb",
-    "title": "最大3万人の従業員をOracleが解雇、従業員への事前通知はなく朝に届いたメール1通で職を失う",
-    "summary": "テクノロジー大手のOracleが現地時間の2026年3月31日、全世界で2～3万人の従業員を解雇したと報じられました。従業員は現地時間の早朝に送信されたメール1通で即日解雇され、会社側からの事前連絡はなかったとのことです。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T10:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "最大3万人の従業員をOr",
-      "員をOracleが解雇、",
-      "が解雇、従業員への事前通",
-      "の事前通知はなく朝に届い",
-      "朝に届いたメール1通で職"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260402-oracle-layoff-30000/"
-  },
-  {
-    "id": "rss-economy-0f76421727b5d4",
-    "title": "【日本株の底入れは近い？】中東有事の相場… | 東洋経済オンラインYouTube | 東洋経済オンライン",
-    "summary": "企業業績から有望な投資セクターを概観する「株時計」。日本の上場企業の6割以上を占める、3月期決算企業…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T10:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "【日本株の底入れは近い",
-      "】中東有事の相場",
-      "東洋経済オンラインYouTube",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/940178?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。損害保険関連証券（ILS）の総資産が2025年末時点で前年比19％増の1,350億ドルに達しており、代替再保険資本が現在の再保険市場の傾向を強化している。ギャラガー・リーのトム・ウェイクフィールド最高経営責任者（CEO）は、広範な再保険サイクルが軟化の兆しを示しているにもかかわらず、この大幅な資本流入が引受会社の確信を強めていると述べた。再保険ブローカーの最新の […] 代替資本が市場トレンドを強化します。損害保険ILS資産は1,350億ドルに達：ウェイクフィールド、ギャラガー・リーはパブだった"
   },
   {
     "id": "rss-economy-d44845a9010e7f",
@@ -664,7 +1090,7 @@
   {
     "id": "rss-insurance-027c1facae71d5",
     "title": "Hudson Structured (HSCM) names Opoku as Partner amid a series of promotions",
-    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Hudson Structured Capital Management (HSCM), the reinsurance, insurtech, insurance-linked securities (ILS) and transportation focused investment manager, has promoted Bernard Opoku, who currently serves as the firm’s Managing Director and Chief Financial Officer to Partner, alongside several other key promotions across the organisation. Opoku joined HSCM in 2018 as Vice President and Controller and has ",
+    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Hudson Structured Capital Management (HSCM), the reinsurance, insurtech, insurance-linked securities (ILS) and transportation focused investment manager, has promoted Bernard Opoku, who currently serves as the firm’s Managing Director and Chief Financial Officer to Partner, alongside several other key promotions across the organisation. Opoku joined HSCM in 2018 as Vice President and Controller and has gone […] Hudson Structured (HSCM) names Opoku as Partner amid a series of promotions was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
     "sourceName": "Artemis",
     "sourceIcon": "🎯",
     "publishedAt": "2026-04-02T09:30:16.000Z",
@@ -679,77 +1105,7 @@
     "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
     "isNew": true,
     "url": "https://www.artemis.bm/news/hudson-structured-hscm-names-opoku-as-partner-amid-a-series-of-promotions/?utm_source=rss&utm_medium=rss&utm_campaign=hudson-structured-hscm-names-opoku-as-partner-amid-a-series-of-promotions",
-    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。再保険、インシュアテック、保険リンク証券（ILS）、運輸に特化した投資運用会社であるハドソン・ストラクチャード・キャピタル・マネジメント（HSCM）は、現在同社のマネージング・ディレクター兼最高財務責任者を務めるバーナード・オポク氏を、他の主要な専門家数名とともにパートナーに昇進させた。"
-  },
-  {
-    "id": "rss-economy-54537b8d8fd679",
-    "title": "今年度予算案 参院自民・立民 6日に集中審議開催で合意",
-    "summary": "今年度予算案の審議をめぐり、参議院自民党と立憲民主党の国会対策委員長が会談し、来週6日に、高市総理大臣の出席を求めて予算委員会で集中審議を行うことで合意しました。",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T09:26:03.000Z",
-    "category": "economy",
-    "keywords": [
-      "今年度予算案",
-      "参院自民",
-      "立民",
-      "6日に集中審議開催で合意"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015090671000"
-  },
-  {
-    "id": "rss-economy-61efd101f02bab",
-    "title": "トランプ大統領演説 イランをめぐる主張の事実関係を検証",
-    "summary": "アメリカのトランプ大統領が国民に向けた演説で示したイランをめぐる主張について、欧米メディアなどが検証しています。",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T09:21:22.000Z",
-    "category": "economy",
-    "keywords": [
-      "トランプ大統領演説",
-      "イランをめぐる主張の事実関係を検証"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015090631000"
-  },
-  {
-    "id": "rss-insurance-d388dbba2b7666",
-    "title": "UK Motor Finance Scandal to Cost Lenders $12 Billion",
-    "summary": "The motor finance industry must pay around 9.1 billion pounds ($12 billion) to compensate UK motorists for unfair vehicle loans under the market regulator’s trimmed, final bill for one of Britain’s costliest financial mis-selling scandals. The headline number, unveiled by …",
-    "sourceName": "Insurance Journal",
-    "sourceIcon": "🛡️",
-    "publishedAt": "2026-04-02T09:14:05.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Motor",
-      "Finance",
-      "Scandal",
-      "Cost",
-      "Lenders"
-    ],
-    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
-    "isNew": true,
-    "url": "https://www.insurancejournal.com/news/international/2026/04/02/864366.htm",
-    "summaryJa": "自動車金融業界は、英国で最も高額な金融不正販売スキャンダルの一つに対する市場規制当局の切り詰められた最終法案に基づき、不当な自動車ローンに対する英国の自動車運転者への補償として約91億ポンド（120億ドル）を支払わなければならない。発表された見出しの数字は…"
-  },
-  {
-    "id": "rss-economy-44acb71581a43e",
-    "title": "イラン情勢 カンパチやランドセルにも影響が…",
-    "summary": "イラン情勢の緊迫化で、日本ではカンパチの輸入やランドセルの製造にも影響が出ています。",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T09:14:04.000Z",
-    "category": "economy",
-    "keywords": [
-      "イラン情勢",
-      "カンパチやランドセルにも影響が"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015090761000"
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。再保険、インシュアテック、保険リンク証券（ILS）、運輸に特化した投資運用会社であるハドソン・ストラクチャード・キャピタル・マネジメント（HSCM）は、現在同社のマネージング・ディレクター兼最高財務責任者を務めるバーナード・オポク氏をパートナーに昇進させ、組織全体で他のいくつかの重要な昇進を行った。 Opoku は 2018 年に副社長兼コントローラーとして HSCM に入社し、その後退任しました […] Hudson Structured (HSCM) が一連のプロモーションの中で Opoku をパートナーに指名"
   },
   {
     "id": "rss-economy-0a799b625421e2",
@@ -772,49 +1128,9 @@
     "summaryJa": "消費者は「ボタンをクリックするだけで」不要な購読をキャンセルできるようになる、と政府は述べた。"
   },
   {
-    "id": "rss-insurance-e71c3e2f610617",
-    "title": "Level-Up Your Management Skills with the Self-Paced CIC Agency Management Course",
-    "summary": "The Risk & Insurance Education Alliance is excited to announce the release of its popular Certified Insurance Counselor (CIC) Agency Management course in a self-paced format. Complete this course on your time and at a pace that fits your busy …",
-    "sourceName": "Insurance Journal",
-    "sourceIcon": "🛡️",
-    "publishedAt": "2026-04-02T09:00:05.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Level-Up",
-      "Management",
-      "Skills",
-      "Self-Paced",
-      "CIC"
-    ],
-    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
-    "isNew": true,
-    "url": "https://www.insurancejournal.com/blogs/risk-insurance-education-alliance/2026/04/02/864316.htm",
-    "summaryJa": "Risk & Insurance Education Alliance は、人気のマイペース形式の認定保険カウンセラー (CIC) 代理店管理コースのリリースを発表できることを嬉しく思います。忙しいあなたの時間に合わせて、このコースを完了してください。"
-  },
-  {
-    "id": "rss-insurance-8de8247f76a656",
-    "title": "Secret Codes and Yuan Fees Get Ships Through Iran’s Hormuz Tollbooth",
-    "summary": "In recent days, the operator of an oil tanker stuck in the Persian Gulf received a compelling proposal. After weeks at anchor with missiles and drones passing overhead, it could finally sail safely out through the Strait of Hormuz and …",
-    "sourceName": "Insurance Journal",
-    "sourceIcon": "🛡️",
-    "publishedAt": "2026-04-02T08:39:34.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Secret",
-      "Codes",
-      "Yuan",
-      "Fees",
-      "Ships"
-    ],
-    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
-    "isNew": true,
-    "url": "https://www.insurancejournal.com/news/international/2026/04/02/864357.htm",
-    "summaryJa": "最近、ペルシャ湾で立ち往生した石油タンカーの運航者が、説得力のある提案を受け取りました。頭上をミサイルやドローンが通過しながら数週間停泊した後、ようやくホルムズ海峡を安全に通過することができた。"
-  },
-  {
     "id": "rss-insurance-e3b31daab0c341",
     "title": "Reinsurance sidecar market grew more than $5bn in 2025, non-cat a key driver: Aon Securities",
-    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. The outstanding market for collateralized reinsurance sidecar structures grew by more than $5 billion in capacity terms over the course of full-year 2025, with casualty and non-catastrophe vehicles a key driver of sidecar market expansion, Aon Securities has said. Growing third-party and insurance-linked securities (ILS) capital levels and increased investor appetite are helping reinsurance sidecar […] ",
+    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. The outstanding market for collateralized reinsurance sidecar structures grew by more than $5 billion in capacity terms over the course of full-year 2025, with casualty and non-catastrophe vehicles a key driver of sidecar market expansion, Aon Securities has said. Growing third-party and insurance-linked securities (ILS) capital levels and increased investor appetite are helping reinsurance sidecar […] Reinsurance sidecar market grew more than $5bn in 2025, non-cat a key driver: Aon Securities was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
     "sourceName": "Artemis",
     "sourceIcon": "🎯",
     "publishedAt": "2026-04-02T08:00:45.000Z",
@@ -829,27 +1145,7 @@
     "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
     "isNew": true,
     "url": "https://www.artemis.bm/news/reinsurance-sidecar-market-grew-more-than-5bn-in-2025-non-cat-a-key-driver-aon-securities/?utm_source=rss&utm_medium=rss&utm_campaign=reinsurance-sidecar-market-grew-more-than-5bn-in-2025-non-cat-a-key-driver-aon-securities",
-    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。エーオン証券によると、担保付再保険サイドカー構造の未払い市場は、2025年通年で生産能力ベースで50億ドル以上成長し、事故車や非災害車両がサイドカー市場拡大の主な原動力となっている。サードパーティおよび保険関連の成長"
-  },
-  {
-    "id": "rss-insurance-f18177585dc1d9",
-    "title": "Update: Hopes Dim for Swift End to Iran War After Trump Speech, Oil Prices Surge",
-    "summary": "Hopes for a swift end to the Middle East war faded on Thursday after U.S. President Donald Trump vowed more aggressive strikes on Iran, sending oil prices back well over $100 a barrel in a blow to consumers around the …",
-    "sourceName": "Insurance Journal",
-    "sourceIcon": "🛡️",
-    "publishedAt": "2026-04-02T07:53:27.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Update",
-      "Hopes",
-      "Dim",
-      "Swift",
-      "End"
-    ],
-    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
-    "isNew": true,
-    "url": "https://www.insurancejournal.com/news/international/2026/04/02/864349.htm",
-    "summaryJa": "木曜日、ドナルド・トランプ米大統領がイランへのより積極的な攻撃を明言したことを受けて、中東戦争の早期終結への期待は薄れ、原油価格は1バレル当たり100ドルを大幅に超えて戻り、各国の消費者に打撃を与えた。"
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。エーオン証券によると、担保付再保険サイドカー構造の未払い市場は、2025年通年で生産能力ベースで50億ドル以上成長し、事故車両や非災害車両がサイドカー市場拡大の主な推進力となっているという。サードパーティ証券および保険リンク証券（ILS）の資本水準の上昇と投資家の意欲の高まりが、再保険サイドカー市場を後押ししている […] 再保険サイドカー市場は 2025 年に 50 億ドル以上成長、非キャットが主な原動力：Aon Securities の発行元: www.Artem"
   },
   {
     "id": "rss-economy-69e7df7d446527",
@@ -871,267 +1167,9 @@
     "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "rss-insurance-f6d8906890a2f6",
-    "title": "RenRe Capital Partners promotes Beach to VP, Business Development & Investor Relations",
-    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. RenaissanceRe Capital Partners, the third-party reinsurance capital management and insurance-linked securities (ILS) unit of the Bermuda-headquartered reinsurance firm, has promoted Roger Beach to Vice President in the Business Development and Investors Relations function. Beach joined the RenaissanceRe Capital Partners team in February 2021 as a Senior Analyst, based in Bermuda. His initial role at the",
-    "sourceName": "Artemis",
-    "sourceIcon": "🎯",
-    "publishedAt": "2026-04-02T07:30:50.000Z",
-    "category": "insurance",
-    "keywords": [
-      "RenRe",
-      "Capital",
-      "Partners",
-      "promotes",
-      "Beach"
-    ],
-    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.artemis.bm/news/renre-capital-partners-promotes-beach-to-vp-business-development-investor-relations/?utm_source=rss&utm_medium=rss&utm_campaign=renre-capital-partners-promotes-beach-to-vp-business-development-investor-relations",
-    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。バミューダに本社を置く再保険会社の第三者再保険資本管理および保険関連証券（ILS）部門であるルネッサンス・リ・キャピタル・パートナーズは、ロジャー・ビーチ氏を事業開発および投資家向け広報部門の副社長に昇進させた。ビーチがRenaissanceRe Cに参加"
-  },
-  {
-    "id": "rss-economy-f7a59e46357082",
-    "title": "Elon Musk's SpaceX set to go public in $1 trillion share listing",
-    "summary": "The company’s public stock debut is set to be one of the most valuable in history, and could make Musk the world's first trillionaire.",
-    "sourceName": "BBC Business",
-    "sourceIcon": "¥",
-    "publishedAt": "2026-04-02T07:05:05.000Z",
-    "category": "economy",
-    "keywords": [
-      "Elon",
-      "Musk",
-      "SpaceX",
-      "set",
-      "public"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "rss-insurance-4608ed136b6658",
-    "title": "Cat bond market yield up slightly in March, year-on-year coupon decline slims to 13%: Plenum",
-    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Catastrophe bond market yields rose slightly through the month of March 2026 as seasonal widening effects resulted in a higher risk spread or discount margin for cat bonds. Which slimmed the year-on-year decline in the coupon to around 13%, the latest data from Plenum Investments shows. Cat bond risk spreads moved higher slightly in February […] Cat bond market yield up slightly in March, year-on-year c",
-    "sourceName": "Artemis",
-    "sourceIcon": "🎯",
-    "publishedAt": "2026-04-02T07:00:56.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Cat",
-      "bond",
-      "market",
-      "yield",
-      "slightly"
-    ],
-    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.artemis.bm/news/cat-bond-market-yield-up-slightly-in-march-year-on-year-coupon-decline-slims-to-13-plenum/?utm_source=rss&utm_medium=rss&utm_campaign=cat-bond-market-yield-up-slightly-in-march-year-on-year-coupon-decline-slims-to-13-plenum",
-    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。カタストロフ債市場の利回りは、季節拡大の影響によりキャット債のリスクスプレッドまたは割引マージンが増加したため、2026年3月までわずかに上昇しました。プレナム・インベストメンツの最新データによると、これによりクーポンの前年比下落率は約13％に縮小した。キャットボンドのリスクスプレッド"
-  },
-  {
-    "id": "rss-insurance-e8d2059d7fdc97",
-    "title": "中東情勢、資源高から急落～2026年３月の日本株式の振り返りと今後のポイント～",
-    "summary": "■要旨 2026年３月の日本株式は、中東情勢の緊迫化やそれに伴う原油価格の高騰が嫌気されて急落し、年初からの上げ幅をほぼ消失する展開となった。 米国株式と比べて特に下落が目立ったが、日本の中東への資源依存度の高さが意識されたほか、１、２月の急伸に対する反動も出たといえよう。 急落により株価の過熱感は消失したが、依然として業績の下振れを十分に織り込んでいない楽観的な水準にあり、今後も先行きに対する不透明感が強い中、中東情勢の動向に左右される展開が続くことが見込まれる。 ■目次 1――急落し、２月までの上げ幅がほぼ消失 2――１、２月の急上昇の反動も 3――中東情勢の動向に左右される展開が続く2026年３月の日本株式を振り返ると、上旬は中東情勢の緊迫化やそれに伴う原油高が嫌気され大きく下落して始まった。日経平均株価は、２日から４日の３日間で約4,600円急落し、４日には５万4,200円台まで沈んだ。その後、５日、６日と５万5,000円を上回る場面も見られたが、長期化懸念が株価を押し下げ、９日には５万3,000円を割り込む展開となった。 中旬は、原油価格の上昇一服や米半導体株高を好感し、11日には再び５万5,000円台を回復した。",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T06:22:38.000Z",
-    "category": "insurance",
-    "keywords": [
-      "中東情勢、資源高から急落",
-      "から急落～2026年３月",
-      "6年３月の日本株式の振り",
-      "式の振り返りと今後のポイ",
-      "後のポイント～"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85068?site=nli"
-  },
-  {
-    "id": "rss-insurance-e8d2059d7fdc97",
-    "title": "中東情勢、資源高から急落～2026年３月の日本株式の振り返りと今後のポイント～",
-    "summary": "■要旨 2026年３月の日本株式は、中東情勢の緊迫化やそれに伴う原油価格の高騰が嫌気されて急落し、年初からの上げ幅をほぼ消失する展開となった。 米国株式と比べて特に下落が目立ったが、日本の中東への資源依存度の高さが意識されたほか、１、２月の急伸に対する反動も出たといえよう。 急落により株価の過熱感は消失したが、依然として業績の下振れを十分に織り込んでいない楽観的な水準にあり、今後も先行きに対する不透明感が強い中、中東情勢の動向に左右される展開が続くことが見込まれる。 ■目次 1――急落し、２月までの上げ幅がほぼ消失 2――１、２月の急上昇の反動も 3――中東情勢の動向に左右される展開が続く2026年３月の日本株式を振り返ると、上旬は中東情勢の緊迫化やそれに伴う原油高が嫌気され大きく下落して始まった。日経平均株価は、２日から４日の３日間で約4,600円急落し、４日には５万4,200円台まで沈んだ。その後、５日、６日と５万5,000円を上回る場面も見られたが、長期化懸念が株価を押し下げ、９日には５万3,000円を割り込む展開となった。 中旬は、原油価格の上昇一服や米半導体株高を好感し、11日には再び５万5,000円台を回復した。",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T06:22:38.000Z",
-    "category": "insurance",
-    "keywords": [
-      "中東情勢、資源高から急落",
-      "から急落～2026年３月",
-      "6年３月の日本株式の振り",
-      "式の振り返りと今後のポイ",
-      "後のポイント～"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85068?site=nli"
-  },
-  {
-    "id": "rss-insurance-e8d2059d7fdc97",
-    "title": "中東情勢、資源高から急落～2026年３月の日本株式の振り返りと今後のポイント～",
-    "summary": "■要旨 2026年３月の日本株式は、中東情勢の緊迫化やそれに伴う原油価格の高騰が嫌気されて急落し、年初からの上げ幅をほぼ消失する展開となった。 米国株式と比べて特に下落が目立ったが、日本の中東への資源依存度の高さが意識されたほか、１、２月の急伸に対する反動も出たといえよう。 急落により株価の過熱感は消失したが、依然として業績の下振れを十分に織り込んでいない楽観的な水準にあり、今後も先行きに対する不透明感が強い中、中東情勢の動向に左右される展開が続くことが見込まれる。 ■目次 1――急落し、２月までの上げ幅がほぼ消失 2――１、２月の急上昇の反動も 3――中東情勢の動向に左右される展開が続く2026年３月の日本株式を振り返ると、上旬は中東情勢の緊迫化やそれに伴う原油高が嫌気され大きく下落して始まった。日経平均株価は、２日から４日の３日間で約4,600円急落し、４日には５万4,200円台まで沈んだ。その後、５日、６日と５万5,000円を上回る場面も見られたが、長期化懸念が株価を押し下げ、９日には５万3,000円を割り込む展開となった。 中旬は、原油価格の上昇一服や米半導体株高を好感し、11日には再び５万5,000円台を回復した。",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T06:22:38.000Z",
-    "category": "insurance",
-    "keywords": [
-      "中東情勢、資源高から急落",
-      "から急落～2026年３月",
-      "6年３月の日本株式の振り",
-      "式の振り返りと今後のポイ",
-      "後のポイント～"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85068?site=nli"
-  },
-  {
-    "id": "rss-insurance-e8d2059d7fdc97",
-    "title": "中東情勢、資源高から急落～2026年３月の日本株式の振り返りと今後のポイント～",
-    "summary": "■要旨 2026年３月の日本株式は、中東情勢の緊迫化やそれに伴う原油価格の高騰が嫌気されて急落し、年初からの上げ幅をほぼ消失する展開となった。 米国株式と比べて特に下落が目立ったが、日本の中東への資源依存度の高さが意識されたほか、１、２月の急伸に対する反動も出たといえよう。 急落により株価の過熱感は消失したが、依然として業績の下振れを十分に織り込んでいない楽観的な水準にあり、今後も先行きに対する不透明感が強い中、中東情勢の動向に左右される展開が続くことが見込まれる。 ■目次 1――急落し、２月までの上げ幅がほぼ消失 2――１、２月の急上昇の反動も 3――中東情勢の動向に左右される展開が続く2026年３月の日本株式を振り返ると、上旬は中東情勢の緊迫化やそれに伴う原油高が嫌気され大きく下落して始まった。日経平均株価は、２日から４日の３日間で約4,600円急落し、４日には５万4,200円台まで沈んだ。その後、５日、６日と５万5,000円を上回る場面も見られたが、長期化懸念が株価を押し下げ、９日には５万3,000円を割り込む展開となった。 中旬は、原油価格の上昇一服や米半導体株高を好感し、11日には再び５万5,000円台を回復した。",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T06:22:38.000Z",
-    "category": "insurance",
-    "keywords": [
-      "中東情勢、資源高から急落",
-      "から急落～2026年３月",
-      "6年３月の日本株式の振り",
-      "式の振り返りと今後のポイ",
-      "後のポイント～"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85068?site=nli"
-  },
-  {
-    "id": "rss-economy-ddff64c8c9717c",
-    "title": "自己否定をやめて｢自分に100点｣をつけるには | 読書 | 東洋経済オンライン",
-    "summary": "意志をクリアにすると、どんないいことがあるんですか？ と聞かれることがあります。ひとつには、個人的…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T05:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "自己否定をやめて｢自分に100点｣をつけるには",
-      "読書",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/939030?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-insurance-2aab7982a8b532",
-    "title": "日米欧の製造業およびサービス業の実質賃金推移とその特徴",
-    "summary": "■要旨 本稿では、日米欧主要国の実質賃金上昇率の要因分解（労働生産性上昇率、交易条件上昇率、労働分配率等上昇率への分解）を製造業とサービス業でそれぞれ確認した。 98年から24年までの雇用者1人あたり実質賃金上昇率は、米国、ユーロ圏、日本の順に高い。これは、製造業でもサービス業でも変わらない（ユーロ圏は国によってバラツキがある）が、サービス業の方が実質賃金上昇率の地域ごとの格差が大きい（図表1・2）。時間あたり実質賃金上昇率でも、格差がやや縮小するものの概ね同じ傾向にある。 雇用者1人あたり実質賃金上昇率を要因分解すると、中核となる労働生産性上昇率は製造業、サービス業ともに米国が突出して高い（図表1・3）。また、日本とユーロ圏の労働生産性上昇率は製造業においては同程度だが、サービス業では日本がユーロ圏よりも低い。製造業では交易条件の悪化や労働分配率等の低下が実質賃金を押し下げている面も大きいが、サービス業では労働生産性上昇率の差が実質賃金上昇率の差にほぼ直結している。 ■目次 ・（実質賃金の分解とその推移概観） ・（製造業の実質賃金分解と推移） ・（サービス業の実質賃金分解と推移） ・（労働生産性のさらなる分解） ・（労働時",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T04:36:45.000Z",
-    "category": "insurance",
-    "keywords": [
-      "日米欧の製造業およびサー",
-      "よびサービス業の実質賃金",
-      "実質賃金推移とその特徴",
-      "の特徴"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85065?site=nli"
-  },
-  {
-    "id": "rss-insurance-2aab7982a8b532",
-    "title": "日米欧の製造業およびサービス業の実質賃金推移とその特徴",
-    "summary": "■要旨 本稿では、日米欧主要国の実質賃金上昇率の要因分解（労働生産性上昇率、交易条件上昇率、労働分配率等上昇率への分解）を製造業とサービス業でそれぞれ確認した。 98年から24年までの雇用者1人あたり実質賃金上昇率は、米国、ユーロ圏、日本の順に高い。これは、製造業でもサービス業でも変わらない（ユーロ圏は国によってバラツキがある）が、サービス業の方が実質賃金上昇率の地域ごとの格差が大きい（図表1・2）。時間あたり実質賃金上昇率でも、格差がやや縮小するものの概ね同じ傾向にある。 雇用者1人あたり実質賃金上昇率を要因分解すると、中核となる労働生産性上昇率は製造業、サービス業ともに米国が突出して高い（図表1・3）。また、日本とユーロ圏の労働生産性上昇率は製造業においては同程度だが、サービス業では日本がユーロ圏よりも低い。製造業では交易条件の悪化や労働分配率等の低下が実質賃金を押し下げている面も大きいが、サービス業では労働生産性上昇率の差が実質賃金上昇率の差にほぼ直結している。 ■目次 ・（実質賃金の分解とその推移概観） ・（製造業の実質賃金分解と推移） ・（サービス業の実質賃金分解と推移） ・（労働生産性のさらなる分解） ・（労働時",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T04:36:45.000Z",
-    "category": "insurance",
-    "keywords": [
-      "日米欧の製造業およびサー",
-      "よびサービス業の実質賃金",
-      "実質賃金推移とその特徴",
-      "の特徴"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85065?site=nli"
-  },
-  {
-    "id": "rss-insurance-2aab7982a8b532",
-    "title": "日米欧の製造業およびサービス業の実質賃金推移とその特徴",
-    "summary": "■要旨 本稿では、日米欧主要国の実質賃金上昇率の要因分解（労働生産性上昇率、交易条件上昇率、労働分配率等上昇率への分解）を製造業とサービス業でそれぞれ確認した。 98年から24年までの雇用者1人あたり実質賃金上昇率は、米国、ユーロ圏、日本の順に高い。これは、製造業でもサービス業でも変わらない（ユーロ圏は国によってバラツキがある）が、サービス業の方が実質賃金上昇率の地域ごとの格差が大きい（図表1・2）。時間あたり実質賃金上昇率でも、格差がやや縮小するものの概ね同じ傾向にある。 雇用者1人あたり実質賃金上昇率を要因分解すると、中核となる労働生産性上昇率は製造業、サービス業ともに米国が突出して高い（図表1・3）。また、日本とユーロ圏の労働生産性上昇率は製造業においては同程度だが、サービス業では日本がユーロ圏よりも低い。製造業では交易条件の悪化や労働分配率等の低下が実質賃金を押し下げている面も大きいが、サービス業では労働生産性上昇率の差が実質賃金上昇率の差にほぼ直結している。 ■目次 ・（実質賃金の分解とその推移概観） ・（製造業の実質賃金分解と推移） ・（サービス業の実質賃金分解と推移） ・（労働生産性のさらなる分解） ・（労働時",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T04:36:45.000Z",
-    "category": "insurance",
-    "keywords": [
-      "日米欧の製造業およびサー",
-      "よびサービス業の実質賃金",
-      "実質賃金推移とその特徴",
-      "の特徴"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85065?site=nli"
-  },
-  {
-    "id": "rss-insurance-2aab7982a8b532",
-    "title": "日米欧の製造業およびサービス業の実質賃金推移とその特徴",
-    "summary": "■要旨 本稿では、日米欧主要国の実質賃金上昇率の要因分解（労働生産性上昇率、交易条件上昇率、労働分配率等上昇率への分解）を製造業とサービス業でそれぞれ確認した。 98年から24年までの雇用者1人あたり実質賃金上昇率は、米国、ユーロ圏、日本の順に高い。これは、製造業でもサービス業でも変わらない（ユーロ圏は国によってバラツキがある）が、サービス業の方が実質賃金上昇率の地域ごとの格差が大きい（図表1・2）。時間あたり実質賃金上昇率でも、格差がやや縮小するものの概ね同じ傾向にある。 雇用者1人あたり実質賃金上昇率を要因分解すると、中核となる労働生産性上昇率は製造業、サービス業ともに米国が突出して高い（図表1・3）。また、日本とユーロ圏の労働生産性上昇率は製造業においては同程度だが、サービス業では日本がユーロ圏よりも低い。製造業では交易条件の悪化や労働分配率等の低下が実質賃金を押し下げている面も大きいが、サービス業では労働生産性上昇率の差が実質賃金上昇率の差にほぼ直結している。 ■目次 ・（実質賃金の分解とその推移概観） ・（製造業の実質賃金分解と推移） ・（サービス業の実質賃金分解と推移） ・（労働生産性のさらなる分解） ・（労働時",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T04:36:45.000Z",
-    "category": "insurance",
-    "keywords": [
-      "日米欧の製造業およびサー",
-      "よびサービス業の実質賃金",
-      "実質賃金推移とその特徴",
-      "の特徴"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85065?site=nli"
-  },
-  {
-    "id": "rss-economy-a03b0241b5b5f8",
-    "title": "イスラエル大使｢ハメネイは現代のヒトラーだった｣ | ダイジェスト版 | 東洋経済オンライン",
-    "summary": "2月28日に始まったアメリカとイスラエルによる対イラン攻撃は、攻撃の正当性をめぐる議論や石油価格の高…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T04:35:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "イスラエル大使｢ハメネイは現代のヒトラーだった｣",
-      "ダイジェスト版",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/940092?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-94c3b8a196d6db",
-    "title": "｢問い方｣を変えると子どもは自分から動き出す | ぐんぐん伸びる子は何が違うのか？ | 東洋経済オンライン",
-    "summary": "「どうしてやらないの？」「なんでそうなったの？」この言葉は子育てをしていると、つい自然と口にしてし…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T04:30:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "｢問い方｣を変えると子どもは自分から動き出す",
-      "ぐんぐん伸びる子は何が違うのか",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/939588?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
     "id": "rss-ai_theory-6632b7cb86c87f",
     "title": "How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study",
-    "summary": "arXiv:2604.00005v1 Announce Type: new Abstract: Emotion plays an important role in human cognition and performance. Motivated by this, we investigate whether analogous emotional signals can shape the behavior of large language models (LLMs) and agents. Existing emotion-aware studies mainly treat emotion as a surface-level style factor or a perception target, overlooking its mechanistic role in task processing. To address this limitation, we propose E-STEER, an interpretable emotion steering framework that enables d",
+    "summary": "arXiv:2604.00005v1 Announce Type: new Abstract: Emotion plays an important role in human cognition and performance. Motivated by this, we investigate whether analogous emotional signals can shape the behavior of large language models (LLMs) and agents. Existing emotion-aware studies mainly treat emotion as a surface-level style factor or a perception target, overlooking its mechanistic role in task processing. To address this limitation, we propose E-STEER, an interpretable emotion steering framework that enables direct representation-level intervention in LLMs and agents. It embeds emotion as a structured, controllable variable in hidden states, and with it, we examine the impact of emotion on objective reasoning, subjective generation, safety, and multi-step agent beh",
     "sourceName": "arXiv cs.AI",
     "sourceIcon": "◆",
     "publishedAt": "2026-04-02T04:00:00.000Z",
@@ -1146,12 +1184,12 @@
     "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
     "isNew": true,
     "url": "https://arxiv.org/abs/2604.00005",
-    "summaryJa": "arXiv:2604.00005v1 発表の種類: 新しい要約: 感情は人間の認知とパフォーマンスにおいて重要な役割を果たします。これを動機として、私たちは、類似の感情信号が大規模言語モデル (LLM) とエージェントの行動を形作ることができるかどうかを調査します。既存の感情認識研究は、主に感情を表面レベルのスタイル要因または知覚の対象として扱い、タスク処理におけるその機構的な役割を見落としています。追加するには"
+    "summaryJa": "arXiv:2604.00005v1 発表の種類: 新しい要約: 感情は人間の認知とパフォーマンスにおいて重要な役割を果たします。これを動機として、私たちは、類似の感情信号が大規模言語モデル (LLM) とエージェントの行動を形作ることができるかどうかを調査します。既存の感情認識研究は、主に感情を表面レベルのスタイル要因または知覚の対象として扱い、タスク処理におけるそのメカニズムの役割を見落としています。この制限に対処するために、LLM とエージェントへの直接表現レベルの介入を可能にする、解釈可能な感情ステアリング フレームワークである E-STEER を提案します。感情を構造化された制御可能な変数として埋め込みます。"
   },
   {
     "id": "rss-ai_theory-36d9445bd90fc2",
     "title": "One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction",
-    "summary": "arXiv:2604.00085v1 Announce Type: new Abstract: Large language models applied to clinical prediction exhibit case-level heterogeneity: simple cases yield consistent outputs, while complex cases produce divergent predictions under minor prompt changes. Existing single-agent strategies sample from one role-conditioned distribution, and multi-agent frameworks use fixed roles with flat majority voting, discarding the diagnostic signal in disagreement. We propose CAMP (Case-Adaptive Multi-agent Panel), where an attendin",
+    "summary": "arXiv:2604.00085v1 Announce Type: new Abstract: Large language models applied to clinical prediction exhibit case-level heterogeneity: simple cases yield consistent outputs, while complex cases produce divergent predictions under minor prompt changes. Existing single-agent strategies sample from one role-conditioned distribution, and multi-agent frameworks use fixed roles with flat majority voting, discarding the diagnostic signal in disagreement. We propose CAMP (Case-Adaptive Multi-agent Panel), where an attending-physician agent dynamically assembles a specialist panel tailored to each case's diagnostic uncertainty. Each specialist evaluates candidates via three-valued voting (KEEP/REFUSE/NEUTRAL), enabling principled abstention outside one's expertise. A hybrid rout",
     "sourceName": "arXiv cs.AI",
     "sourceIcon": "◆",
     "publishedAt": "2026-04-02T04:00:00.000Z",
@@ -1166,12 +1204,12 @@
     "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
     "isNew": true,
     "url": "https://arxiv.org/abs/2604.00085",
-    "summaryJa": "arXiv:2604.00085v1 発表の種類: 新しい要約: 臨床予測に適用される大規模な言語モデルは、症例レベルの不均一性を示します。単純な症例では一貫した出力が得られますが、複雑な症例では、わずかな変更で発散した予測が生成されます。既存のシングルエージェント戦略は 1 つのロール条件付きディストリビューションからサンプルを採取し、マルチエージェント フレームワークはフラット多数決による固定ロールを使用し、ダイアグラムを破棄します。"
+    "summaryJa": "arXiv:2604.00085v1 発表の種類: 新しい要約: 臨床予測に適用される大規模な言語モデルは、症例レベルの不均一性を示します。単純な症例では一貫した出力が得られますが、複雑な症例では、わずかな変更で発散した予測が生成されます。既存の単一エージェント戦略は 1 つのロール条件付き分布からサンプリングし、マルチエージェント フレームワークはフラット多数決による固定ロールを使用し、意見の相違がある場合は診断シグナルを破棄します。私たちは、主治医のエージェントが各症例の診断上の不確かさに合わせた専門パネルを動的に編成する CAMP (Case-Adaptive Multi-agent Panel) を提案します。それぞれのスペシャリ"
   },
   {
     "id": "rss-ai_theory-4aee0cbdd05095",
     "title": "Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents",
-    "summary": "arXiv:2604.00137v1 Announce Type: new Abstract: Tool-integrated LLMs can retrieve, compute, and take real-world actions via external tools, but reliability remains a key bottleneck. We argue that failures stem from both tool-use accuracy (how well an agent invokes a tool) and intrinsic tool accuracy (the tool's own correctness), while most prior work emphasizes the former. We introduce OpenTools, a community-driven toolbox that standardizes tool schemas, provides lightweight plug-and-play wrappers, and evaluates to",
+    "summary": "arXiv:2604.00137v1 Announce Type: new Abstract: Tool-integrated LLMs can retrieve, compute, and take real-world actions via external tools, but reliability remains a key bottleneck. We argue that failures stem from both tool-use accuracy (how well an agent invokes a tool) and intrinsic tool accuracy (the tool's own correctness), while most prior work emphasizes the former. We introduce OpenTools, a community-driven toolbox that standardizes tool schemas, provides lightweight plug-and-play wrappers, and evaluates tools with automated test suites and continuous monitoring. We also release a public web demo where users can run predefined agents and tools and contribute test cases, enabling reliability reports to evolve as tools change. OpenTools includes the core framework",
     "sourceName": "arXiv cs.AI",
     "sourceIcon": "◆",
     "publishedAt": "2026-04-02T04:00:00.000Z",
@@ -1186,12 +1224,12 @@
     "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
     "isNew": true,
     "url": "https://arxiv.org/abs/2604.00137",
-    "summaryJa": "arXiv:2604.00137v1 発表の種類: 新しい要約: ツール統合 LLM は、外部ツールを介して実際のアクションを取得、計算、実行できますが、信頼性が依然として重要なボトルネックとなっています。私たちは、失敗はツール使用の正確さ (エージェントがツールをどれだけうまく呼び出すか) と本質的なツールの正確さ (ツール自体の正確さ) の両方に起因すると主張しますが、これまでの研究のほとんどは前者を強調しています。コミュニティ主導のツールである OpenTools を紹介します。"
+    "summaryJa": "arXiv:2604.00137v1 発表の種類: 新しい要約: ツール統合 LLM は、外部ツールを介して実際のアクションを取得、計算、実行できますが、信頼性が依然として重要なボトルネックとなっています。私たちは、失敗はツール使用の正確さ (エージェントがツールをどれだけうまく呼び出すか) と本質的なツールの正確さ (ツール自体の正確さ) の両方に起因すると主張しますが、これまでの研究のほとんどは前者を強調しています。 OpenTools は、ツール スキーマを標準化し、軽量のプラグ アンド プレイ ラッパーを提供し、自動化されたテスト スイートと継続的モニタリングでツールを評価するコミュニティ主導のツールボックスです。また、ユーザーが事前定義を実行できる公開 Web デモもリリースします。"
   },
   {
     "id": "rss-ai_theory-2eee18df7816b3",
     "title": "A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation",
-    "summary": "arXiv:2604.00249v1 Announce Type: new Abstract: Single-agent large language model (LLM) systems struggle to simultaneously support diverse conversational functions and maintain safety in behavioral health communication. We propose a safety-aware, role-orchestrated multi-agent LLM framework designed to simulate supportive behavioral health dialogue through coordinated, role-differentiated agents. Conversational responsibilities are decomposed across specialized agents, including empathy-focused, action-oriented, and",
+    "summary": "arXiv:2604.00249v1 Announce Type: new Abstract: Single-agent large language model (LLM) systems struggle to simultaneously support diverse conversational functions and maintain safety in behavioral health communication. We propose a safety-aware, role-orchestrated multi-agent LLM framework designed to simulate supportive behavioral health dialogue through coordinated, role-differentiated agents. Conversational responsibilities are decomposed across specialized agents, including empathy-focused, action-oriented, and supervisory roles, while a prompt-based controller dynamically activates relevant agents and enforces continuous safety auditing. Using semi-structured interview transcripts from the DAIC-WOZ corpus, we evaluate the framework with scalable proxy metrics captu",
     "sourceName": "arXiv cs.AI",
     "sourceIcon": "◆",
     "publishedAt": "2026-04-02T04:00:00.000Z",
@@ -1206,12 +1244,12 @@
     "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
     "isNew": true,
     "url": "https://arxiv.org/abs/2604.00249",
-    "summaryJa": "arXiv:2604.00249v1 発表の種類: 新しい要約: シングルエージェント大規模言語モデル (LLM) システムは、多様な会話機能を同時にサポートし、行動健康コミュニケーションの安全性を維持するのに苦労しています。私たちは、調整され、役割が区別されたエージェントを通じて、支持的な行動健康対話をシミュレートするように設計された、安全性を意識した役割調整されたマルチエージェント LLM フレームワークを提案します。会話の応答"
+    "summaryJa": "arXiv:2604.00249v1 発表の種類: 新しい要約: シングルエージェント大規模言語モデル (LLM) システムは、多様な会話機能を同時にサポートし、行動健康コミュニケーションの安全性を維持するのに苦労しています。私たちは、調整され、役割が区別されたエージェントを通じて、支持的な行動健康対話をシミュレートするように設計された、安全性を意識した役割調整されたマルチエージェント LLM フレームワークを提案します。会話の責任は、共感重視、行動指向、監督の役割など、専門のエージェント全体に分解され、プロンプトベースのコントローラーが関連するエージェントを動的に起動し、継続的な安全性を強化します。"
   },
   {
     "id": "rss-ai_theory-1ca25ce579f059",
     "title": "Human-in-the-Loop Control of Objective Drift in LLM-Assisted Computer Science Education",
-    "summary": "arXiv:2604.00281v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly embedded in computer science education through AI-assisted programming tools, yet such workflows often exhibit objective drift, in which locally plausible outputs diverge from stated task specifications. Existing instructional responses frequently emphasize tool-specific prompting practices, limiting durability as AI platforms evolve. This paper adopts a human-centered stance, treating human-in-the-loop (HITL) control as a",
+    "summary": "arXiv:2604.00281v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly embedded in computer science education through AI-assisted programming tools, yet such workflows often exhibit objective drift, in which locally plausible outputs diverge from stated task specifications. Existing instructional responses frequently emphasize tool-specific prompting practices, limiting durability as AI platforms evolve. This paper adopts a human-centered stance, treating human-in-the-loop (HITL) control as a stable educational problem rather than a transitional step toward AI autonomy. Drawing on systems engineering and control-theoretic concepts, we frame objectives and world models as operational artifacts that students configure to stabilize AI-assisted work. ",
     "sourceName": "arXiv cs.AI",
     "sourceIcon": "◆",
     "publishedAt": "2026-04-02T04:00:00.000Z",
@@ -1226,7 +1264,7 @@
     "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
     "isNew": true,
     "url": "https://arxiv.org/abs/2604.00281",
-    "summaryJa": "arXiv:2604.00281v1 発表の種類: 新しい 要約: 大規模言語モデル (LLM) は、AI 支援プログラミング ツールを通じてコン​​ピューター サイエンス教育にますます組み込まれていますが、そのようなワークフローでは、局所的にもっともらしい出力が規定されたタスク仕様から乖離する客観的なドリフトがしばしば見られます。既存の指導的対応はツール固有のプロンプト実践を強調することが多く、AI プラットフォームとしての耐久性が制限されています"
+    "summaryJa": "arXiv:2604.00281v1 発表の種類: 新しい 要約: 大規模言語モデル (LLM) は、AI 支援プログラミング ツールを通じてコン​​ピューター サイエンス教育にますます組み込まれていますが、そのようなワークフローでは、局所的にもっともらしい出力が規定されたタスク仕様から乖離する客観的なドリフトがしばしば見られます。既存の指導的対応は、ツール固有のプロンプトの実践を強調することが多く、AI プラットフォームが進化するにつれて耐久性が制限されます。この論文は人間中心の立場を採用しており、人間参加型 (HITL) 制御を AI の自律性への移行段階ではなく、安定した教育問題として扱います。システムエンジニアリングと制御を活用"
   },
   {
     "id": "rss-ai-e26142f2f03ea1",
@@ -1248,60 +1286,6 @@
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/02/news063.html"
   },
   {
-    "id": "rss-ai-0947aaf0bb77f2",
-    "title": "GitHubが明かす、「マルチエージェントシステム」失敗の要因と設計のプラクティス",
-    "summary": "GitHubは、マルチエージェントによるワークフローが失敗しやすい要因と、信頼性を高める3つの設計パターンを解説した。",
-    "sourceName": "ITmedia AI",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T04:00:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "GitHubが明かす、「",
-      "かす、「マルチエージェン",
-      "ージェントシステム」失敗",
-      "ム」失敗の要因と設計のプ",
-      "設計のプラクティス"
-    ],
-    "bannerClass": "from-sky-900 to-slate-800",
-    "isNew": true,
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/02/news064.html"
-  },
-  {
-    "id": "rss-ai-25adad06b08ba9",
-    "title": "「NaaS」に関心が集まる訳は？――AI活用でトラフィック増加、セキュリティも不安",
-    "summary": "MM総研の調査によると、AI活用を見据えてITインフラの見直しに着手する企業が4割を超えた。トラフィック増大とセキュリティ対策が課題となる中、NaaS（Network as a Service）への期待が高まっている。",
-    "sourceName": "ITmedia AI",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T04:00:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "「NaaS」に関心が集まる訳は",
-      "――AI活用でトラフィック増加",
-      "セキュリティも不安"
-    ],
-    "bannerClass": "from-sky-900 to-slate-800",
-    "isNew": true,
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/02/news055.html"
-  },
-  {
-    "id": "rss-economy-bf519b1f768e4e",
-    "title": "なぜ旅をしながら稼げる？｢おてつたび｣の仕組み | 旅行 | 東洋経済オンライン",
-    "summary": "日本の地方には、著名な観光名所もなく全国的な知名度は低いものの、自然や文化、産業など固有の魅力を備…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T04:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "なぜ旅をしながら稼げる",
-      "｢おてつたび｣の仕組み",
-      "旅行",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/939802?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
     "id": "rss-ai_theory-f1fab73f2ab575",
     "title": "GIGAZINE春のプレゼント大放出企画「アンケートに答えて全部持っていってください！」",
     "summary": "キーボード、マウス、イヤホンなどなど、新生活で何か新しいものを手に入れたい！と思っているあなたに朗報。アンケートに答えるだけで応募できるプレゼント大放出企画がスタートします。普段の記事のアクセス解析だけではわからない「GIGAZINEを読んでいるのはどういう人たちなのか？」という点のリサーチも兼ねているので、「プレゼントはいらないけどアンケートには協力してもイイヨ！」という場合も回答してもらえると非常にありがたいです！◆応募期間2026年4月2日(木)から2025年4月19日(日)23時59分まで。 続きを読む...",
@@ -1321,81 +1305,9 @@
     "url": "https://gigazine.net/news/20260402-present-spring-2026/"
   },
   {
-    "id": "rss-insurance-b647c531ba54b3",
-    "title": "ユーロ圏失業率（2026年2月）－失業率は過去最低水準からやや上昇",
-    "summary": "4月1日、欧州委員会統計局（Eurostat）はユーロ圏の失業率を公表し、結果は以下の通りとなった。 【ユーロ圏失業率（21か国、2026年1月、季節調整値）】 ・失業率は6.2％、市場予想1（6.1％）より上振れ、前月（6.1％）から上昇した（図表1・2） ・失業者は1091.9万人となり、前月（1082.6万人）から9.3万人増加した 1 bloomberg集計の中央値。以下の予想値も同様。 ユーロ圏（21か国）の2月の失業率は6.2％となり、過去最低値となった1月（6.1％）からやや上昇した。なお、過去データはほとんど変更されなかった。失業者数は2月の前月差で9.3万人増となり、1月（▲17.1万人）からプラスに転じ、25年10月以来の前月比増となった。主要4か国ではイタリア（3.6万人）が増加する一方、フランス（▲0.9万人）、スペイン（▲0.9万人）、ドイツ（▲0.2万人）が減少した。ドイツは24年10月以来の前月比減少だった。失業者数はユーロ圏全体でコロナ禍前より90万人少なく、スペイン（コロナ禍前比▲84万人）が大きく、次いでイタリア（同▲52万人）が減少に寄与している（図表3）。一方、ドイツやフランスはコロナ",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T01:59:43.000Z",
-    "category": "insurance",
-    "keywords": [
-      "ユーロ圏失業率（2026",
-      "2026年2月）－失業率",
-      "－失業率は過去最低水準か",
-      "低水準からやや上昇"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85066?site=nli"
-  },
-  {
-    "id": "rss-insurance-b647c531ba54b3",
-    "title": "ユーロ圏失業率（2026年2月）－失業率は過去最低水準からやや上昇",
-    "summary": "4月1日、欧州委員会統計局（Eurostat）はユーロ圏の失業率を公表し、結果は以下の通りとなった。 【ユーロ圏失業率（21か国、2026年1月、季節調整値）】 ・失業率は6.2％、市場予想1（6.1％）より上振れ、前月（6.1％）から上昇した（図表1・2） ・失業者は1091.9万人となり、前月（1082.6万人）から9.3万人増加した 1 bloomberg集計の中央値。以下の予想値も同様。 ユーロ圏（21か国）の2月の失業率は6.2％となり、過去最低値となった1月（6.1％）からやや上昇した。なお、過去データはほとんど変更されなかった。失業者数は2月の前月差で9.3万人増となり、1月（▲17.1万人）からプラスに転じ、25年10月以来の前月比増となった。主要4か国ではイタリア（3.6万人）が増加する一方、フランス（▲0.9万人）、スペイン（▲0.9万人）、ドイツ（▲0.2万人）が減少した。ドイツは24年10月以来の前月比減少だった。失業者数はユーロ圏全体でコロナ禍前より90万人少なく、スペイン（コロナ禍前比▲84万人）が大きく、次いでイタリア（同▲52万人）が減少に寄与している（図表3）。一方、ドイツやフランスはコロナ",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T01:59:43.000Z",
-    "category": "insurance",
-    "keywords": [
-      "ユーロ圏失業率（2026",
-      "2026年2月）－失業率",
-      "－失業率は過去最低水準か",
-      "低水準からやや上昇"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85066?site=nli"
-  },
-  {
-    "id": "rss-insurance-b647c531ba54b3",
-    "title": "ユーロ圏失業率（2026年2月）－失業率は過去最低水準からやや上昇",
-    "summary": "4月1日、欧州委員会統計局（Eurostat）はユーロ圏の失業率を公表し、結果は以下の通りとなった。 【ユーロ圏失業率（21か国、2026年1月、季節調整値）】 ・失業率は6.2％、市場予想1（6.1％）より上振れ、前月（6.1％）から上昇した（図表1・2） ・失業者は1091.9万人となり、前月（1082.6万人）から9.3万人増加した 1 bloomberg集計の中央値。以下の予想値も同様。 ユーロ圏（21か国）の2月の失業率は6.2％となり、過去最低値となった1月（6.1％）からやや上昇した。なお、過去データはほとんど変更されなかった。失業者数は2月の前月差で9.3万人増となり、1月（▲17.1万人）からプラスに転じ、25年10月以来の前月比増となった。主要4か国ではイタリア（3.6万人）が増加する一方、フランス（▲0.9万人）、スペイン（▲0.9万人）、ドイツ（▲0.2万人）が減少した。ドイツは24年10月以来の前月比減少だった。失業者数はユーロ圏全体でコロナ禍前より90万人少なく、スペイン（コロナ禍前比▲84万人）が大きく、次いでイタリア（同▲52万人）が減少に寄与している（図表3）。一方、ドイツやフランスはコロナ",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T01:59:43.000Z",
-    "category": "insurance",
-    "keywords": [
-      "ユーロ圏失業率（2026",
-      "2026年2月）－失業率",
-      "－失業率は過去最低水準か",
-      "低水準からやや上昇"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85066?site=nli"
-  },
-  {
-    "id": "rss-insurance-b647c531ba54b3",
-    "title": "ユーロ圏失業率（2026年2月）－失業率は過去最低水準からやや上昇",
-    "summary": "4月1日、欧州委員会統計局（Eurostat）はユーロ圏の失業率を公表し、結果は以下の通りとなった。 【ユーロ圏失業率（21か国、2026年1月、季節調整値）】 ・失業率は6.2％、市場予想1（6.1％）より上振れ、前月（6.1％）から上昇した（図表1・2） ・失業者は1091.9万人となり、前月（1082.6万人）から9.3万人増加した 1 bloomberg集計の中央値。以下の予想値も同様。 ユーロ圏（21か国）の2月の失業率は6.2％となり、過去最低値となった1月（6.1％）からやや上昇した。なお、過去データはほとんど変更されなかった。失業者数は2月の前月差で9.3万人増となり、1月（▲17.1万人）からプラスに転じ、25年10月以来の前月比増となった。主要4か国ではイタリア（3.6万人）が増加する一方、フランス（▲0.9万人）、スペイン（▲0.9万人）、ドイツ（▲0.2万人）が減少した。ドイツは24年10月以来の前月比減少だった。失業者数はユーロ圏全体でコロナ禍前より90万人少なく、スペイン（コロナ禍前比▲84万人）が大きく、次いでイタリア（同▲52万人）が減少に寄与している（図表3）。一方、ドイツやフランスはコロナ",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T01:59:43.000Z",
-    "category": "insurance",
-    "keywords": [
-      "ユーロ圏失業率（2026",
-      "2026年2月）－失業率",
-      "－失業率は過去最低水準か",
-      "低水準からやや上昇"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85066?site=nli"
-  },
-  {
     "id": "rss-insurance-41007f71f3e140",
     "title": "中国の介護保険制度、2028年をめどに全国導入へ",
-    "summary": "■要旨 中国では2016年以降、公的介護保険制度の試行導入が段階的に進められてきた。約10年にわたる試行を通じて、財源の不安定さや地域間格差といった課題が明らかとなっている。こうした状況を踏まえ、政府は今般、2028年を目途とする全国導入に向けた指針を示し、財源構造の見直しや給付・要介護認定の統一、制度運営の標準化を進める方針を示した。しかしながら、財政の持続可能性や地域差への対応など、引き続き検討すべき課題も残されている。 ■目次 1――試行開始から10年、全国導入へ向けた動きが加速 2――試行段階の到達点と制度的特徴 3――2026年意見の概要―普及に向けた制度設計の改善 4――制度運営における今後の検討課題中国では近年、急速な高齢化の進展を背景に、高齢者の介護ニーズが急増している。家族機能の変容や都市化の進展により、従来の家族介護に依存した支援体制には限界が生じつつあり、公的な介護保障制度の整備が重要な政策課題として浮上している。 こうした中、2016年以降、中国は公的介護保険の試行を段階的に拡大し、現在では92地域において制度運用が行われている。これは都市ベースでみれば、おおむね３割程度の地域で導入が進んでいることに",
+    "summary": "■要旨 中国では2016年以降、公的介護保険制度の試行導入が段階的に進められてきた。約10年にわたる試行を通じて、財源の不安定さや地域間格差といった課題が明らかとなっている。こうした状況を踏まえ、政府は今般、2028年を目途とする全国導入に向けた指針を示し、財源構造の見直しや給付・要介護認定の統一、制度運営の標準化を進める方針を示した。しかしながら、財政の持続可能性や地域差への対応など、引き続き検討すべき課題も残されている。 ■目次 1――試行開始から10年、全国導入へ向けた動きが加速 2――試行段階の到達点と制度的特徴 3――2026年意見の概要―普及に向けた制度設計の改善 4――制度運営における今後の検討課題中国では近年、急速な高齢化の進展を背景に、高齢者の介護ニーズが急増している。家族機能の変容や都市化の進展により、従来の家族介護に依存した支援体制には限界が生じつつあり、公的な介護保障制度の整備が重要な政策課題として浮上している。 こうした中、2016年以降、中国は公的介護保険の試行を段階的に拡大し、現在では92地域において制度運用が行われている。これは都市ベースでみれば、おおむね３割程度の地域で導入が進んでいることになる。しかし、これまでの試行は地域ごとの制度設計に委ねられてきたため、財源構造や要介護認定基準、受けられる介護サービスなどに大きな差異が存在し、地域によって制度格差が大きい点が指摘されていた。 このような状況を踏まえ、2026年3月25日、国務院は介護保険制度の普及を促進するための意見1を公表した。本意見は、従来の試行中心の段階から一歩進み、2028年をめど（３年以内）に全国導入という目標を提示した点に特徴がある。導入期限を明示するとともに、全国的な制度整備を見据えた方向性を打ち出したことは、中国の介護保険制度にと",
     "sourceName": "ニッセイ基礎研（保険）",
     "sourceIcon": "🇯🇵",
     "publishedAt": "2026-04-02T01:01:05.000Z",
@@ -1411,7 +1323,7 @@
   {
     "id": "rss-insurance-41007f71f3e140",
     "title": "中国の介護保険制度、2028年をめどに全国導入へ",
-    "summary": "■要旨 中国では2016年以降、公的介護保険制度の試行導入が段階的に進められてきた。約10年にわたる試行を通じて、財源の不安定さや地域間格差といった課題が明らかとなっている。こうした状況を踏まえ、政府は今般、2028年を目途とする全国導入に向けた指針を示し、財源構造の見直しや給付・要介護認定の統一、制度運営の標準化を進める方針を示した。しかしながら、財政の持続可能性や地域差への対応など、引き続き検討すべき課題も残されている。 ■目次 1――試行開始から10年、全国導入へ向けた動きが加速 2――試行段階の到達点と制度的特徴 3――2026年意見の概要―普及に向けた制度設計の改善 4――制度運営における今後の検討課題中国では近年、急速な高齢化の進展を背景に、高齢者の介護ニーズが急増している。家族機能の変容や都市化の進展により、従来の家族介護に依存した支援体制には限界が生じつつあり、公的な介護保障制度の整備が重要な政策課題として浮上している。 こうした中、2016年以降、中国は公的介護保険の試行を段階的に拡大し、現在では92地域において制度運用が行われている。これは都市ベースでみれば、おおむね３割程度の地域で導入が進んでいることに",
+    "summary": "■要旨 中国では2016年以降、公的介護保険制度の試行導入が段階的に進められてきた。約10年にわたる試行を通じて、財源の不安定さや地域間格差といった課題が明らかとなっている。こうした状況を踏まえ、政府は今般、2028年を目途とする全国導入に向けた指針を示し、財源構造の見直しや給付・要介護認定の統一、制度運営の標準化を進める方針を示した。しかしながら、財政の持続可能性や地域差への対応など、引き続き検討すべき課題も残されている。 ■目次 1――試行開始から10年、全国導入へ向けた動きが加速 2――試行段階の到達点と制度的特徴 3――2026年意見の概要―普及に向けた制度設計の改善 4――制度運営における今後の検討課題中国では近年、急速な高齢化の進展を背景に、高齢者の介護ニーズが急増している。家族機能の変容や都市化の進展により、従来の家族介護に依存した支援体制には限界が生じつつあり、公的な介護保障制度の整備が重要な政策課題として浮上している。 こうした中、2016年以降、中国は公的介護保険の試行を段階的に拡大し、現在では92地域において制度運用が行われている。これは都市ベースでみれば、おおむね３割程度の地域で導入が進んでいることになる。しかし、これまでの試行は地域ごとの制度設計に委ねられてきたため、財源構造や要介護認定基準、受けられる介護サービスなどに大きな差異が存在し、地域によって制度格差が大きい点が指摘されていた。 このような状況を踏まえ、2026年3月25日、国務院は介護保険制度の普及を促進するための意見1を公表した。本意見は、従来の試行中心の段階から一歩進み、2028年をめど（３年以内）に全国導入という目標を提示した点に特徴がある。導入期限を明示するとともに、全国的な制度整備を見据えた方向性を打ち出したことは、中国の介護保険制度にと",
     "sourceName": "ニッセイ基礎研（年金）",
     "sourceIcon": "🇯🇵",
     "publishedAt": "2026-04-02T01:01:05.000Z",
@@ -1427,7 +1339,7 @@
   {
     "id": "rss-insurance-41007f71f3e140",
     "title": "中国の介護保険制度、2028年をめどに全国導入へ",
-    "summary": "■要旨 中国では2016年以降、公的介護保険制度の試行導入が段階的に進められてきた。約10年にわたる試行を通じて、財源の不安定さや地域間格差といった課題が明らかとなっている。こうした状況を踏まえ、政府は今般、2028年を目途とする全国導入に向けた指針を示し、財源構造の見直しや給付・要介護認定の統一、制度運営の標準化を進める方針を示した。しかしながら、財政の持続可能性や地域差への対応など、引き続き検討すべき課題も残されている。 ■目次 1――試行開始から10年、全国導入へ向けた動きが加速 2――試行段階の到達点と制度的特徴 3――2026年意見の概要―普及に向けた制度設計の改善 4――制度運営における今後の検討課題中国では近年、急速な高齢化の進展を背景に、高齢者の介護ニーズが急増している。家族機能の変容や都市化の進展により、従来の家族介護に依存した支援体制には限界が生じつつあり、公的な介護保障制度の整備が重要な政策課題として浮上している。 こうした中、2016年以降、中国は公的介護保険の試行を段階的に拡大し、現在では92地域において制度運用が行われている。これは都市ベースでみれば、おおむね３割程度の地域で導入が進んでいることに",
+    "summary": "■要旨 中国では2016年以降、公的介護保険制度の試行導入が段階的に進められてきた。約10年にわたる試行を通じて、財源の不安定さや地域間格差といった課題が明らかとなっている。こうした状況を踏まえ、政府は今般、2028年を目途とする全国導入に向けた指針を示し、財源構造の見直しや給付・要介護認定の統一、制度運営の標準化を進める方針を示した。しかしながら、財政の持続可能性や地域差への対応など、引き続き検討すべき課題も残されている。 ■目次 1――試行開始から10年、全国導入へ向けた動きが加速 2――試行段階の到達点と制度的特徴 3――2026年意見の概要―普及に向けた制度設計の改善 4――制度運営における今後の検討課題中国では近年、急速な高齢化の進展を背景に、高齢者の介護ニーズが急増している。家族機能の変容や都市化の進展により、従来の家族介護に依存した支援体制には限界が生じつつあり、公的な介護保障制度の整備が重要な政策課題として浮上している。 こうした中、2016年以降、中国は公的介護保険の試行を段階的に拡大し、現在では92地域において制度運用が行われている。これは都市ベースでみれば、おおむね３割程度の地域で導入が進んでいることになる。しかし、これまでの試行は地域ごとの制度設計に委ねられてきたため、財源構造や要介護認定基準、受けられる介護サービスなどに大きな差異が存在し、地域によって制度格差が大きい点が指摘されていた。 このような状況を踏まえ、2026年3月25日、国務院は介護保険制度の普及を促進するための意見1を公表した。本意見は、従来の試行中心の段階から一歩進み、2028年をめど（３年以内）に全国導入という目標を提示した点に特徴がある。導入期限を明示するとともに、全国的な制度整備を見据えた方向性を打ち出したことは、中国の介護保険制度にと",
     "sourceName": "ニッセイ基礎研（社会保障）",
     "sourceIcon": "🇯🇵",
     "publishedAt": "2026-04-02T01:01:05.000Z",
@@ -1443,7 +1355,7 @@
   {
     "id": "rss-insurance-41007f71f3e140",
     "title": "中国の介護保険制度、2028年をめどに全国導入へ",
-    "summary": "■要旨 中国では2016年以降、公的介護保険制度の試行導入が段階的に進められてきた。約10年にわたる試行を通じて、財源の不安定さや地域間格差といった課題が明らかとなっている。こうした状況を踏まえ、政府は今般、2028年を目途とする全国導入に向けた指針を示し、財源構造の見直しや給付・要介護認定の統一、制度運営の標準化を進める方針を示した。しかしながら、財政の持続可能性や地域差への対応など、引き続き検討すべき課題も残されている。 ■目次 1――試行開始から10年、全国導入へ向けた動きが加速 2――試行段階の到達点と制度的特徴 3――2026年意見の概要―普及に向けた制度設計の改善 4――制度運営における今後の検討課題中国では近年、急速な高齢化の進展を背景に、高齢者の介護ニーズが急増している。家族機能の変容や都市化の進展により、従来の家族介護に依存した支援体制には限界が生じつつあり、公的な介護保障制度の整備が重要な政策課題として浮上している。 こうした中、2016年以降、中国は公的介護保険の試行を段階的に拡大し、現在では92地域において制度運用が行われている。これは都市ベースでみれば、おおむね３割程度の地域で導入が進んでいることに",
+    "summary": "■要旨 中国では2016年以降、公的介護保険制度の試行導入が段階的に進められてきた。約10年にわたる試行を通じて、財源の不安定さや地域間格差といった課題が明らかとなっている。こうした状況を踏まえ、政府は今般、2028年を目途とする全国導入に向けた指針を示し、財源構造の見直しや給付・要介護認定の統一、制度運営の標準化を進める方針を示した。しかしながら、財政の持続可能性や地域差への対応など、引き続き検討すべき課題も残されている。 ■目次 1――試行開始から10年、全国導入へ向けた動きが加速 2――試行段階の到達点と制度的特徴 3――2026年意見の概要―普及に向けた制度設計の改善 4――制度運営における今後の検討課題中国では近年、急速な高齢化の進展を背景に、高齢者の介護ニーズが急増している。家族機能の変容や都市化の進展により、従来の家族介護に依存した支援体制には限界が生じつつあり、公的な介護保障制度の整備が重要な政策課題として浮上している。 こうした中、2016年以降、中国は公的介護保険の試行を段階的に拡大し、現在では92地域において制度運用が行われている。これは都市ベースでみれば、おおむね３割程度の地域で導入が進んでいることになる。しかし、これまでの試行は地域ごとの制度設計に委ねられてきたため、財源構造や要介護認定基準、受けられる介護サービスなどに大きな差異が存在し、地域によって制度格差が大きい点が指摘されていた。 このような状況を踏まえ、2026年3月25日、国務院は介護保険制度の普及を促進するための意見1を公表した。本意見は、従来の試行中心の段階から一歩進み、2028年をめど（３年以内）に全国導入という目標を提示した点に特徴がある。導入期限を明示するとともに、全国的な制度整備を見据えた方向性を打ち出したことは、中国の介護保険制度にと",
     "sourceName": "ニッセイ基礎研（金融・為替）",
     "sourceIcon": "🇯🇵",
     "publishedAt": "2026-04-02T01:01:05.000Z",
@@ -1457,217 +1369,182 @@
     "url": "https://www.nli-research.co.jp/topics_detail1/id=85064?site=nli"
   },
   {
-    "id": "rss-insurance-d7d07ee022f3b7",
-    "title": "日米で方向性が分かれる議決権行使助言会社規制－米国はＭＡＧＡ思想が前面に－",
-    "summary": "■要旨 議決権行使助言会社は、機関投資家などの顧客から対価を得て、顧客が株式を保有する上場会社の株主総会議案への議決権行使に際し「賛成」または「反対」の推奨を行う。実際には２社による寡占状態にあるとされ、わが国も例外ではない。 わが国においては金融庁が日本版スチュワードシップ・コードを策定・運用し、法的拘束力を持たないソフトローの領域で監督が行われている。この現状に対し、経済界からは規制が不十分との声も根強い。 他方、米国では2020年頃まで、わが国と同様に事実誤認などに基づく不適正な助言を排除することに主眼が置かれており、議決権行使助言会社の実務負荷へも配慮がなされていた。 しかし昨今の米国においては様相が異なる。2025年のテキサス州法案（州議会を通過したものの未だ施行に至らず）は反ＤＥＩかつ反ＥＳＧの姿勢を鮮明に打ち出した。さらに同年12月の大統領令では外国資本攻撃が加えられ、トランプ政権を支えるＭＡＧＡ思想が前面に出ている。 方向性が分かれた今、米国でハードローによる強力な規制が実現した場合でも、同様の事態がわが国で展開するとは限らないだろう。 ■目次 1――2025年の動き（日米共通） 2――スチュワードシップ・コ",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T00:00:25.000Z",
-    "category": "insurance",
-    "keywords": [
-      "日米で方向性が分かれる議",
-      "かれる議決権行使助言会社",
-      "助言会社規制－米国はＭＡ",
-      "国はＭＡＧＡ思想が前面に",
-      "が前面に－"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85063?site=nli"
-  },
-  {
-    "id": "rss-insurance-d7d07ee022f3b7",
-    "title": "日米で方向性が分かれる議決権行使助言会社規制－米国はＭＡＧＡ思想が前面に－",
-    "summary": "■要旨 議決権行使助言会社は、機関投資家などの顧客から対価を得て、顧客が株式を保有する上場会社の株主総会議案への議決権行使に際し「賛成」または「反対」の推奨を行う。実際には２社による寡占状態にあるとされ、わが国も例外ではない。 わが国においては金融庁が日本版スチュワードシップ・コードを策定・運用し、法的拘束力を持たないソフトローの領域で監督が行われている。この現状に対し、経済界からは規制が不十分との声も根強い。 他方、米国では2020年頃まで、わが国と同様に事実誤認などに基づく不適正な助言を排除することに主眼が置かれており、議決権行使助言会社の実務負荷へも配慮がなされていた。 しかし昨今の米国においては様相が異なる。2025年のテキサス州法案（州議会を通過したものの未だ施行に至らず）は反ＤＥＩかつ反ＥＳＧの姿勢を鮮明に打ち出した。さらに同年12月の大統領令では外国資本攻撃が加えられ、トランプ政権を支えるＭＡＧＡ思想が前面に出ている。 方向性が分かれた今、米国でハードローによる強力な規制が実現した場合でも、同様の事態がわが国で展開するとは限らないだろう。 ■目次 1――2025年の動き（日米共通） 2――スチュワードシップ・コ",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T00:00:25.000Z",
-    "category": "insurance",
-    "keywords": [
-      "日米で方向性が分かれる議",
-      "かれる議決権行使助言会社",
-      "助言会社規制－米国はＭＡ",
-      "国はＭＡＧＡ思想が前面に",
-      "が前面に－"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85063?site=nli"
-  },
-  {
-    "id": "rss-insurance-d7d07ee022f3b7",
-    "title": "日米で方向性が分かれる議決権行使助言会社規制－米国はＭＡＧＡ思想が前面に－",
-    "summary": "■要旨 議決権行使助言会社は、機関投資家などの顧客から対価を得て、顧客が株式を保有する上場会社の株主総会議案への議決権行使に際し「賛成」または「反対」の推奨を行う。実際には２社による寡占状態にあるとされ、わが国も例外ではない。 わが国においては金融庁が日本版スチュワードシップ・コードを策定・運用し、法的拘束力を持たないソフトローの領域で監督が行われている。この現状に対し、経済界からは規制が不十分との声も根強い。 他方、米国では2020年頃まで、わが国と同様に事実誤認などに基づく不適正な助言を排除することに主眼が置かれており、議決権行使助言会社の実務負荷へも配慮がなされていた。 しかし昨今の米国においては様相が異なる。2025年のテキサス州法案（州議会を通過したものの未だ施行に至らず）は反ＤＥＩかつ反ＥＳＧの姿勢を鮮明に打ち出した。さらに同年12月の大統領令では外国資本攻撃が加えられ、トランプ政権を支えるＭＡＧＡ思想が前面に出ている。 方向性が分かれた今、米国でハードローによる強力な規制が実現した場合でも、同様の事態がわが国で展開するとは限らないだろう。 ■目次 1――2025年の動き（日米共通） 2――スチュワードシップ・コ",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T00:00:25.000Z",
-    "category": "insurance",
-    "keywords": [
-      "日米で方向性が分かれる議",
-      "かれる議決権行使助言会社",
-      "助言会社規制－米国はＭＡ",
-      "国はＭＡＧＡ思想が前面に",
-      "が前面に－"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85063?site=nli"
-  },
-  {
-    "id": "rss-insurance-d7d07ee022f3b7",
-    "title": "日米で方向性が分かれる議決権行使助言会社規制－米国はＭＡＧＡ思想が前面に－",
-    "summary": "■要旨 議決権行使助言会社は、機関投資家などの顧客から対価を得て、顧客が株式を保有する上場会社の株主総会議案への議決権行使に際し「賛成」または「反対」の推奨を行う。実際には２社による寡占状態にあるとされ、わが国も例外ではない。 わが国においては金融庁が日本版スチュワードシップ・コードを策定・運用し、法的拘束力を持たないソフトローの領域で監督が行われている。この現状に対し、経済界からは規制が不十分との声も根強い。 他方、米国では2020年頃まで、わが国と同様に事実誤認などに基づく不適正な助言を排除することに主眼が置かれており、議決権行使助言会社の実務負荷へも配慮がなされていた。 しかし昨今の米国においては様相が異なる。2025年のテキサス州法案（州議会を通過したものの未だ施行に至らず）は反ＤＥＩかつ反ＥＳＧの姿勢を鮮明に打ち出した。さらに同年12月の大統領令では外国資本攻撃が加えられ、トランプ政権を支えるＭＡＧＡ思想が前面に出ている。 方向性が分かれた今、米国でハードローによる強力な規制が実現した場合でも、同様の事態がわが国で展開するとは限らないだろう。 ■目次 1――2025年の動き（日米共通） 2――スチュワードシップ・コ",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T00:00:25.000Z",
-    "category": "insurance",
-    "keywords": [
-      "日米で方向性が分かれる議",
-      "かれる議決権行使助言会社",
-      "助言会社規制－米国はＭＡ",
-      "国はＭＡＧＡ思想が前面に",
-      "が前面に－"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85063?site=nli"
-  },
-  {
-    "id": "rss-ai-7898d5e3187bc0",
-    "title": "「AIによる業務浸食は予想以上だった」 “10年後の変化”がいま起きている",
-    "summary": "CognizantがAIと仕事に関する最新の調査レポートを発表。AIの進化により仕事の在り方が予想以上のスピードで変化している現状が明らかになった。",
-    "sourceName": "ITmedia AI",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-01T23:00:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "「AIによる業務浸食は予想以上だった」",
-      "“10年後の変化”がいま起きている"
-    ],
-    "bannerClass": "from-sky-900 to-slate-800",
-    "isNew": true,
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/02/news036.html"
-  },
-  {
-    "id": "rss-ai-f1edbf147fd7ad",
-    "title": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack",
-    "summary": "Blockchain trackers put the cryptocurrency heist in the hundreds of millions of dollars and is already on track to be the largest crypto theft in 2026 so far.",
-    "sourceName": "TechCrunch",
+    "id": "rss-insurance-6decb23ae80185",
+    "title": "T＆Dホールディングス 、T＆D保険グループロゴ・タグラインの変更および オダギリジョーさんを起用したグループ新CMの放映開始",
+    "summary": "T＆D保険グループは、創設来の企業理念である「Try＆Discover（挑戦と発見）」をより一層強く表現するため、2026 年4月よりグループロゴ・タグラインを変更するとともに、俳優のオダギリジョーさんを起用した新CMの …",
+    "sourceName": "シンニチ保険WEB（業界ニュース）",
     "sourceIcon": "📰",
-    "publishedAt": "2026-04-01T22:58:39.000Z",
-    "category": "ai",
-    "keywords": [
-      "De-fi",
-      "platform",
-      "Drift",
-      "suspends",
-      "deposits"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/",
-    "summaryJa": "ブロックチェーン追跡業者は、仮想通貨強盗の被害額を数億ドルと推定しており、すでに2026年にはこれまでのところ最大の仮想通貨盗難となる見通しだ。"
-  },
-  {
-    "id": "rss-ai-53b2c4e43d8269",
-    "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
-    "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-04-01T22:12:13.000Z",
-    "category": "ai",
-    "keywords": [
-      "Anthropic",
-      "took",
-      "down",
-      "thousands",
-      "GitHub"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
-    "summaryJa": "アントロピック社の幹部らは、これは事故だったと主張し、削除通知の大部分を撤回した。"
-  },
-  {
-    "id": "rss-ai-0609308772bc51",
-    "title": "ChatGPTに脆弱性、会話内容や文書が外部サーバに伝達されるリスク",
-    "summary": "ChatGPTに脆弱性が見つかった。コード実行環境において、DNSを使った外部通信経路が成立し、入力テキストやファイル内容、要約結果などが選択的に抽出され、外部に送られる恐れがあるという。",
-    "sourceName": "ITmedia AI",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-01T22:00:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "ChatGPTに脆弱性",
-      "会話内容や文書が外部サーバに伝達されるリスク"
-    ],
-    "bannerClass": "from-sky-900 to-slate-800",
-    "isNew": true,
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/02/news019.html"
-  },
-  {
-    "id": "rss-ai-e61aaffbe59cc3",
-    "title": "The reputation of troubled YC startup Delve has gotten even worse",
-    "summary": "Delve faces new allegations that it violated the open source license of its customer, Sim.ai, by taking the customers's tool and passing it off as its own.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-04-01T21:23:47.000Z",
-    "category": "ai",
-    "keywords": [
-      "reputation",
-      "troubled",
-      "startup",
-      "Delve",
-      "gotten"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
-    "summaryJa": "Delve は、顧客のツールを盗んで自社のものとして偽装し、顧客である Sim.ai のオープンソース ライセンスに違反したという新たな疑惑に直面しています。"
-  },
-  {
-    "id": "rss-ai-c495c4f4e5305e",
-    "title": "‘System failure’ paralyzes Baidu robotaxis in China",
-    "summary": "Passengers in Baidu's robotaxis were trapped for up to two hours.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-04-01T21:12:14.000Z",
-    "category": "ai",
-    "keywords": [
-      "System",
-      "failure",
-      "paralyzes",
-      "Baidu",
-      "robotaxis"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/",
-    "summaryJa": "百度のロボタクシーの乗客は最大2時間閉じ込められた。"
-  },
-  {
-    "id": "rss-insurance-a7d3e0e03e9b23",
-    "title": "Cat bonds not as soft as a quarter ago, but falling prices erode some returns: Lane Financial",
-    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Consultancy Lane Financial LLC launches its new report on the catastrophe bond market with some good news, its analysis shows the outstanding market yield of non-impaired natural cat bonds is no longer as soft as it was at the end of 2025, but the firm also highlights that investor returns have been eroded by falling […] Cat bonds not as soft as a quarter ago, but falling prices erode some returns: Lane",
-    "sourceName": "Artemis",
-    "sourceIcon": "🎯",
-    "publishedAt": "2026-04-01T15:00:52.000Z",
+    "publishedAt": "2026-04-01T12:08:30.000Z",
     "category": "insurance",
     "keywords": [
-      "Cat",
-      "bonds",
-      "soft",
-      "quarter",
-      "ago"
+      "T＆Dホールディングス",
+      "T＆D保険グループロゴ",
+      "タグラインの変更および"
     ],
-    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
+    "bannerClass": "from-slate-800 to-blue-950",
     "isNew": true,
-    "url": "https://www.artemis.bm/news/cat-bonds-not-as-soft-as-a-quarter-ago-but-falling-prices-erode-some-returns-lane-financial/?utm_source=rss&utm_medium=rss&utm_campaign=cat-bonds-not-as-soft-as-a-quarter-ago-but-falling-prices-erode-some-returns-lane-financial",
-    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。コンサルタント会社レーン・フィナンシャルLLCは、いくつかの朗報を伴う大惨事債券市場に関する新しいレポートを発表した。その分析は、減損していないナチュラルキャット債の市場利回りがもはや2025年末ほど軟化していないことを示しているが、同社はまた、投資家の利益が損なわれていることも強調している"
+    "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260401-23/"
+  },
+  {
+    "id": "rss-insurance-d6e0e934597b25",
+    "title": "ライフネット生命、[史上初]定期死亡保険「かぞくへの保険」が『価格.com保険アワード2026年版』生命保険の部（定期保険）で10年連続第1位を受賞",
+    "summary": "ライフネット生命は、株式会社カカクコム・インシュアランス主催の『価格.com保険アワード2026年版』において、定期死亡保険「かぞくへの保険」が生命保険の部（定期保険）で第1位を受賞した。なお、本受賞により同アワードの生 …",
+    "sourceName": "シンニチ保険WEB（業界ニュース）",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-04-01T12:07:17.000Z",
+    "category": "insurance",
+    "keywords": [
+      "ライフネット生命、[史上",
+      "、[史上初]定期死亡保険",
+      "死亡保険「かぞくへの保険",
+      "への保険」が『価格.co",
+      "格.com保険アワード2"
+    ],
+    "bannerClass": "from-slate-800 to-blue-950",
+    "isNew": true,
+    "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260401-22/"
+  },
+  {
+    "id": "rss-insurance-48a4b4ff2e1e54",
+    "title": "メットライフ生命、新たなブランドデザインを順次導入",
+    "summary": "メットライフ生命は、お客さま一人ひとりの人生に寄り添い、よりたしかな未来に向けて歩んでゆくパートナーとしての姿勢を、分かりやすく伝えていくため、ブランドロゴをはじめ、カラーやアイコンなど、ブランドを形づくる新たなデザイン …",
+    "sourceName": "シンニチ保険WEB（業界ニュース）",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-04-01T12:06:32.000Z",
+    "category": "insurance",
+    "keywords": [
+      "メットライフ生命",
+      "新たなブランドデザインを順次導入"
+    ],
+    "bannerClass": "from-slate-800 to-blue-950",
+    "isNew": true,
+    "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260401-21/"
+  },
+  {
+    "id": "rss-insurance-92a8c411fcc508",
+    "title": "三井住友海上あいおい生命、株式会社フォーカスの株式取得・子会社化",
+    "summary": "三井住友海上あいおい生命は、株式会社フォーカスの発行済全株式を取得し、子会社化した。 フォーカスは、沖縄を中心に5店舗を展開する乗合代理店である。保険の相談から資産形成まで、お客さまのニーズに沿った高品質のサービスを提供 …",
+    "sourceName": "シンニチ保険WEB（業界ニュース）",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-04-01T12:05:42.000Z",
+    "category": "insurance",
+    "keywords": [
+      "三井住友海上あいおい生命",
+      "株式会社フォーカスの株式取得",
+      "子会社化"
+    ],
+    "bannerClass": "from-slate-800 to-blue-950",
+    "isNew": true,
+    "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260401-20/"
+  },
+  {
+    "id": "rss-insurance-b2795ccec7541c",
+    "title": "富国生命、「つながる未来プロジェクト」始動",
+    "summary": "富国生命は、同社の社会貢献活動などに資するこども関連の取組みを包括し、ブランドとして体系化した新たな活動「つながる未来プロジェクト」を2026年4月1日より開始する。 同社は、2025～2027年度の中期経営計画「THE …",
+    "sourceName": "シンニチ保険WEB（業界ニュース）",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-04-01T12:04:45.000Z",
+    "category": "insurance",
+    "keywords": [
+      "富国生命",
+      "「つながる未来プロジェクト」始動"
+    ],
+    "bannerClass": "from-slate-800 to-blue-950",
+    "isNew": true,
+    "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260401-19/"
+  },
+  {
+    "id": "rss-insurance-a50b27456b21f1",
+    "title": "はなさく生命、「価格.com保険アワード2026年版」において「はなさくがん保険（がん保険（無解約払戻金型））」が第1位を受賞",
+    "summary": "はなさく生命の「はなさくがん保険（がん保険（無解約払戻金型））」が、株式会社カカクコム・インシュアランス（以下、カカクコム・インシュアランス）が2026年4月1日に発表した「価格.com保険アワード2026年版」において …",
+    "sourceName": "シンニチ保険WEB（業界ニュース）",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-04-01T12:03:40.000Z",
+    "category": "insurance",
+    "keywords": [
+      "はなさく生命、「価格.c",
+      "価格.com保険アワード",
+      "アワード2026年版」に",
+      "年版」において「はなさく",
+      "はなさくがん保険（がん保"
+    ],
+    "bannerClass": "from-slate-800 to-blue-950",
+    "isNew": true,
+    "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260401-18/"
+  },
+  {
+    "id": "rss-insurance-9a0055e73aa000",
+    "title": "日本生命、NISSAYペンギンプロジェクト産前産後の女性のウェルビーイング向上を支援するプログラム「MOM UP PARK」とのオフィシャルパートナー契約締結",
+    "summary": "日本生命は、は、“みんなで子どもを育てる社会”を目指す「NISSAYペンギンプロジェクト」の一環として、負担を抱える産前産後の女性の心身を整え、笑顔の子育てをサポートすべく、内閣府「戦略的イノベーション創造プログラム（S …",
+    "sourceName": "シンニチ保険WEB（業界ニュース）",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-04-01T12:03:09.000Z",
+    "category": "insurance",
+    "keywords": [
+      "日本生命",
+      "UP",
+      "PARK」とのオフィシャルパートナー契約締結"
+    ],
+    "bannerClass": "from-slate-800 to-blue-950",
+    "isNew": true,
+    "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260401-17/"
+  },
+  {
+    "id": "rss-insurance-9e2d8f6d96c5af",
+    "title": "日本生命、2026年プロ野球「審判員ユニフォーム広告協賛」",
+    "summary": "日本生命は、この度、一般社団法人日本野球機構と、審判員ユニフォーム広告（以下、「同広告」）の協賛契約を下記のとおり更新した。 同社は、「Play,Support.～さあ、支えることを始めよう。～」をスローガンに掲げ、アス …",
+    "sourceName": "シンニチ保険WEB（業界ニュース）",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-04-01T12:02:14.000Z",
+    "category": "insurance",
+    "keywords": [
+      "日本生命",
+      "2026年プロ野球「審判員ユニフォーム広告協賛」"
+    ],
+    "bannerClass": "from-slate-800 to-blue-950",
+    "isNew": true,
+    "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260401-16/"
+  },
+  {
+    "id": "rss-insurance-055216434b351f",
+    "title": "ニッセイ・ウェルス生命、大和証券を通じ、『ロングドリームNEXT』を販売開始",
+    "summary": "ニッセイ・ウェルス生命は、大和証券株式会社を通じ、2026年4月1日より、一生涯の死亡保障を準備しながら、ふえた分を自身でつかうことができる一時払の終身保険『ロングドリームNEXT』*1の販売を開始した。 ＊1 正式名称 …",
+    "sourceName": "シンニチ保険WEB（業界ニュース）",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-04-01T12:01:30.000Z",
+    "category": "insurance",
+    "keywords": [
+      "ニッセイ",
+      "ウェルス生命",
+      "大和証券を通じ",
+      "『ロングドリームNEXT』を販売開始"
+    ],
+    "bannerClass": "from-slate-800 to-blue-950",
+    "isNew": true,
+    "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260401-15/"
+  },
+  {
+    "id": "rss-insurance-bd96e1e0f45abc",
+    "title": "ニッセイ・ウェルス生命、りそなグループ4行を通じ、『未来の布石』を販売開始",
+    "summary": "ニッセイ・ウェルス生命は、りそなグループの株式会社りそな銀行、株式会社埼玉りそな銀行、株式会社関西みらい銀行、株式会社みなと銀行を通じ、2026年4月1日より、一生涯の死亡保障を準備しながら、ふえた分を自身でつかうことが …",
+    "sourceName": "シンニチ保険WEB（業界ニュース）",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-04-01T12:00:23.000Z",
+    "category": "insurance",
+    "keywords": [
+      "ニッセイ",
+      "ウェルス生命",
+      "りそなグループ4行を通じ",
+      "『未来の布石』を販売開始"
+    ],
+    "bannerClass": "from-slate-800 to-blue-950",
+    "isNew": true,
+    "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260401-14/"
   },
   {
     "id": "rss-insurance-35eac70abd655c",
     "title": "米国個人年金販売額は2025年も過去最高を更新－但し減速、今後は伸び悩むとの予想－",
-    "summary": "■要旨 米国における個人年金の販売額は2021年以降2024年まで前年比増加を続けてきたものの、2025年は金利の低下を受けて定額年金の減少が見込まれる中、全体でも前年比減少に転じると予想されていた。 だが実際には4,613億ドルと前年比6％増で過去最高を更新するに至った。最も販売実績の大きい確定利付き据置定額年金が前年比５％の増加を確保し定額年金が微増となり、実額としては定額年金の半分以下ながらも変額年金の伸びが全体を押し上げた。もっとも、2024年の販売実績が前年比13％増であったことと比較すれば、その成長が減速したことは否めない。 2028年までの中期見通しでは2025年をピークに、その後は伸び悩むと予想される。ここ数年の販売実績を支えてきた短期（３～５年）の確定利付き据置定額年金が相次いで満期を迎える中、引き続き個人年金にその資金を取り込めるかが大きな課題となる。 中東情勢の不安定化をはじめ中期見通しの前提となる経済環境には不透明な点が多い一方で、65歳以上人口の増加によって個人年金の市場規模が拡大を続ける構図に変わりはない。今後の動向に注視が必要である。 ■目次 1――はじめに 2――2025年の販売実績 3――中",
+    "summary": "■要旨 米国における個人年金の販売額は2021年以降2024年まで前年比増加を続けてきたものの、2025年は金利の低下を受けて定額年金の減少が見込まれる中、全体でも前年比減少に転じると予想されていた。 だが実際には4,613億ドルと前年比6％増で過去最高を更新するに至った。最も販売実績の大きい確定利付き据置定額年金が前年比５％の増加を確保し定額年金が微増となり、実額としては定額年金の半分以下ながらも変額年金の伸びが全体を押し上げた。もっとも、2024年の販売実績が前年比13％増であったことと比較すれば、その成長が減速したことは否めない。 2028年までの中期見通しでは2025年をピークに、その後は伸び悩むと予想される。ここ数年の販売実績を支えてきた短期（３～５年）の確定利付き据置定額年金が相次いで満期を迎える中、引き続き個人年金にその資金を取り込めるかが大きな課題となる。 中東情勢の不安定化をはじめ中期見通しの前提となる経済環境には不透明な点が多い一方で、65歳以上人口の増加によって個人年金の市場規模が拡大を続ける構図に変わりはない。今後の動向に注視が必要である。 ■目次 1――はじめに 2――2025年の販売実績 3――中期見通し（参考、2026年1月時点） 4――おわりに米国における個人年金の販売額は2021年から2024年まで前年比増加を続けてきた。2024年の販売額4,349億ドルは過去最高を更新したものである。 個人年金は主に退職前後の資産の運用商品として活用されてきた。老後の生活資金を一生涯にわたって年金の形で受け取りたいという希望に応え、また、元本確保など安定的な運用を志向するニーズに沿った商品であるためだ。変額年金を除けば、個人年金加入は退職年齢となることが多い65歳前後に集中する傾向1にある。 米国の人口動態において",
     "sourceName": "ニッセイ基礎研（保険）",
     "sourceIcon": "🇯🇵",
     "publishedAt": "2026-04-01T04:51:00.000Z",
@@ -1686,7 +1563,7 @@
   {
     "id": "rss-insurance-35eac70abd655c",
     "title": "米国個人年金販売額は2025年も過去最高を更新－但し減速、今後は伸び悩むとの予想－",
-    "summary": "■要旨 米国における個人年金の販売額は2021年以降2024年まで前年比増加を続けてきたものの、2025年は金利の低下を受けて定額年金の減少が見込まれる中、全体でも前年比減少に転じると予想されていた。 だが実際には4,613億ドルと前年比6％増で過去最高を更新するに至った。最も販売実績の大きい確定利付き据置定額年金が前年比５％の増加を確保し定額年金が微増となり、実額としては定額年金の半分以下ながらも変額年金の伸びが全体を押し上げた。もっとも、2024年の販売実績が前年比13％増であったことと比較すれば、その成長が減速したことは否めない。 2028年までの中期見通しでは2025年をピークに、その後は伸び悩むと予想される。ここ数年の販売実績を支えてきた短期（３～５年）の確定利付き据置定額年金が相次いで満期を迎える中、引き続き個人年金にその資金を取り込めるかが大きな課題となる。 中東情勢の不安定化をはじめ中期見通しの前提となる経済環境には不透明な点が多い一方で、65歳以上人口の増加によって個人年金の市場規模が拡大を続ける構図に変わりはない。今後の動向に注視が必要である。 ■目次 1――はじめに 2――2025年の販売実績 3――中",
+    "summary": "■要旨 米国における個人年金の販売額は2021年以降2024年まで前年比増加を続けてきたものの、2025年は金利の低下を受けて定額年金の減少が見込まれる中、全体でも前年比減少に転じると予想されていた。 だが実際には4,613億ドルと前年比6％増で過去最高を更新するに至った。最も販売実績の大きい確定利付き据置定額年金が前年比５％の増加を確保し定額年金が微増となり、実額としては定額年金の半分以下ながらも変額年金の伸びが全体を押し上げた。もっとも、2024年の販売実績が前年比13％増であったことと比較すれば、その成長が減速したことは否めない。 2028年までの中期見通しでは2025年をピークに、その後は伸び悩むと予想される。ここ数年の販売実績を支えてきた短期（３～５年）の確定利付き据置定額年金が相次いで満期を迎える中、引き続き個人年金にその資金を取り込めるかが大きな課題となる。 中東情勢の不安定化をはじめ中期見通しの前提となる経済環境には不透明な点が多い一方で、65歳以上人口の増加によって個人年金の市場規模が拡大を続ける構図に変わりはない。今後の動向に注視が必要である。 ■目次 1――はじめに 2――2025年の販売実績 3――中期見通し（参考、2026年1月時点） 4――おわりに米国における個人年金の販売額は2021年から2024年まで前年比増加を続けてきた。2024年の販売額4,349億ドルは過去最高を更新したものである。 個人年金は主に退職前後の資産の運用商品として活用されてきた。老後の生活資金を一生涯にわたって年金の形で受け取りたいという希望に応え、また、元本確保など安定的な運用を志向するニーズに沿った商品であるためだ。変額年金を除けば、個人年金加入は退職年齢となることが多い65歳前後に集中する傾向1にある。 米国の人口動態において",
     "sourceName": "ニッセイ基礎研（年金）",
     "sourceIcon": "🇯🇵",
     "publishedAt": "2026-04-01T04:51:00.000Z",
@@ -1705,7 +1582,7 @@
   {
     "id": "rss-insurance-35eac70abd655c",
     "title": "米国個人年金販売額は2025年も過去最高を更新－但し減速、今後は伸び悩むとの予想－",
-    "summary": "■要旨 米国における個人年金の販売額は2021年以降2024年まで前年比増加を続けてきたものの、2025年は金利の低下を受けて定額年金の減少が見込まれる中、全体でも前年比減少に転じると予想されていた。 だが実際には4,613億ドルと前年比6％増で過去最高を更新するに至った。最も販売実績の大きい確定利付き据置定額年金が前年比５％の増加を確保し定額年金が微増となり、実額としては定額年金の半分以下ながらも変額年金の伸びが全体を押し上げた。もっとも、2024年の販売実績が前年比13％増であったことと比較すれば、その成長が減速したことは否めない。 2028年までの中期見通しでは2025年をピークに、その後は伸び悩むと予想される。ここ数年の販売実績を支えてきた短期（３～５年）の確定利付き据置定額年金が相次いで満期を迎える中、引き続き個人年金にその資金を取り込めるかが大きな課題となる。 中東情勢の不安定化をはじめ中期見通しの前提となる経済環境には不透明な点が多い一方で、65歳以上人口の増加によって個人年金の市場規模が拡大を続ける構図に変わりはない。今後の動向に注視が必要である。 ■目次 1――はじめに 2――2025年の販売実績 3――中",
+    "summary": "■要旨 米国における個人年金の販売額は2021年以降2024年まで前年比増加を続けてきたものの、2025年は金利の低下を受けて定額年金の減少が見込まれる中、全体でも前年比減少に転じると予想されていた。 だが実際には4,613億ドルと前年比6％増で過去最高を更新するに至った。最も販売実績の大きい確定利付き据置定額年金が前年比５％の増加を確保し定額年金が微増となり、実額としては定額年金の半分以下ながらも変額年金の伸びが全体を押し上げた。もっとも、2024年の販売実績が前年比13％増であったことと比較すれば、その成長が減速したことは否めない。 2028年までの中期見通しでは2025年をピークに、その後は伸び悩むと予想される。ここ数年の販売実績を支えてきた短期（３～５年）の確定利付き据置定額年金が相次いで満期を迎える中、引き続き個人年金にその資金を取り込めるかが大きな課題となる。 中東情勢の不安定化をはじめ中期見通しの前提となる経済環境には不透明な点が多い一方で、65歳以上人口の増加によって個人年金の市場規模が拡大を続ける構図に変わりはない。今後の動向に注視が必要である。 ■目次 1――はじめに 2――2025年の販売実績 3――中期見通し（参考、2026年1月時点） 4――おわりに米国における個人年金の販売額は2021年から2024年まで前年比増加を続けてきた。2024年の販売額4,349億ドルは過去最高を更新したものである。 個人年金は主に退職前後の資産の運用商品として活用されてきた。老後の生活資金を一生涯にわたって年金の形で受け取りたいという希望に応え、また、元本確保など安定的な運用を志向するニーズに沿った商品であるためだ。変額年金を除けば、個人年金加入は退職年齢となることが多い65歳前後に集中する傾向1にある。 米国の人口動態において",
     "sourceName": "ニッセイ基礎研（社会保障）",
     "sourceIcon": "🇯🇵",
     "publishedAt": "2026-04-01T04:51:00.000Z",
@@ -1724,7 +1601,7 @@
   {
     "id": "rss-insurance-35eac70abd655c",
     "title": "米国個人年金販売額は2025年も過去最高を更新－但し減速、今後は伸び悩むとの予想－",
-    "summary": "■要旨 米国における個人年金の販売額は2021年以降2024年まで前年比増加を続けてきたものの、2025年は金利の低下を受けて定額年金の減少が見込まれる中、全体でも前年比減少に転じると予想されていた。 だが実際には4,613億ドルと前年比6％増で過去最高を更新するに至った。最も販売実績の大きい確定利付き据置定額年金が前年比５％の増加を確保し定額年金が微増となり、実額としては定額年金の半分以下ながらも変額年金の伸びが全体を押し上げた。もっとも、2024年の販売実績が前年比13％増であったことと比較すれば、その成長が減速したことは否めない。 2028年までの中期見通しでは2025年をピークに、その後は伸び悩むと予想される。ここ数年の販売実績を支えてきた短期（３～５年）の確定利付き据置定額年金が相次いで満期を迎える中、引き続き個人年金にその資金を取り込めるかが大きな課題となる。 中東情勢の不安定化をはじめ中期見通しの前提となる経済環境には不透明な点が多い一方で、65歳以上人口の増加によって個人年金の市場規模が拡大を続ける構図に変わりはない。今後の動向に注視が必要である。 ■目次 1――はじめに 2――2025年の販売実績 3――中",
+    "summary": "■要旨 米国における個人年金の販売額は2021年以降2024年まで前年比増加を続けてきたものの、2025年は金利の低下を受けて定額年金の減少が見込まれる中、全体でも前年比減少に転じると予想されていた。 だが実際には4,613億ドルと前年比6％増で過去最高を更新するに至った。最も販売実績の大きい確定利付き据置定額年金が前年比５％の増加を確保し定額年金が微増となり、実額としては定額年金の半分以下ながらも変額年金の伸びが全体を押し上げた。もっとも、2024年の販売実績が前年比13％増であったことと比較すれば、その成長が減速したことは否めない。 2028年までの中期見通しでは2025年をピークに、その後は伸び悩むと予想される。ここ数年の販売実績を支えてきた短期（３～５年）の確定利付き据置定額年金が相次いで満期を迎える中、引き続き個人年金にその資金を取り込めるかが大きな課題となる。 中東情勢の不安定化をはじめ中期見通しの前提となる経済環境には不透明な点が多い一方で、65歳以上人口の増加によって個人年金の市場規模が拡大を続ける構図に変わりはない。今後の動向に注視が必要である。 ■目次 1――はじめに 2――2025年の販売実績 3――中期見通し（参考、2026年1月時点） 4――おわりに米国における個人年金の販売額は2021年から2024年まで前年比増加を続けてきた。2024年の販売額4,349億ドルは過去最高を更新したものである。 個人年金は主に退職前後の資産の運用商品として活用されてきた。老後の生活資金を一生涯にわたって年金の形で受け取りたいという希望に応え、また、元本確保など安定的な運用を志向するニーズに沿った商品であるためだ。変額年金を除けば、個人年金加入は退職年齢となることが多い65歳前後に集中する傾向1にある。 米国の人口動態において",
     "sourceName": "ニッセイ基礎研（金融・為替）",
     "sourceIcon": "🇯🇵",
     "publishedAt": "2026-04-01T04:51:00.000Z",
@@ -1741,39 +1618,316 @@
     "url": "https://www.nli-research.co.jp/topics_detail1/id=85047?site=nli"
   },
   {
-    "id": "rss-insurance-253a74e4421c58",
-    "title": "日銀短観（3月調査）～総じて堅調な内容だが、イラン情勢の織り込みは不十分",
-    "summary": "■要旨 3月短観では、注目度の高い大企業製造業の業況判断DIが前回から若干上昇し、AI関連需要等を背景とした景況感の堅調な推移が示された。一方、大企業非製造業の業況判断DIは36で横ばいとなった。人手不足やコスト増などが重石となる一方、価格転嫁の進展が支えになったようだ。調査時期の関係で、イラン情勢緊迫化の影響についての織り込みは限定的とみられる。 先行きの景況感は総じて悪化が示された。製造業では、トランプ関税の不透明感やイラン情勢緊迫化に対する警戒感が圧迫要因になったとみられる。非製造業では、人手不足への懸念のほか、円安・原油高による原材料費増加や中国人訪日客減少への警戒が台頭したとみられる。 2025年度の設備投資計画（全規模）は前年比7.9％増とやや下方修正されたが、下方修正幅は例年より小幅に留まる。実態としては、収益が過去最高レベルで推移する中で、省力化投資やAI投資需要がけん引し、堅調な投資計画が維持されたとみられる。今回から公表された26年度の設備投資計画は、25年度見込み比で1.3％増となった。比較対象となる25年度の下方修正が小幅であったことを踏まえると、モメンタムは見た目よりも強めと言える。 現実の物価上昇",
+    "id": "rss-insurance-44b4cf08c23c60",
+    "title": "第15次5ヵ年計画期における社会保障制度改革の方向性と課題",
+    "summary": "■要旨 国際環境と国内経済が大きな転換点を迎える中、第15次5ヵ年計画では、社会保障制度の役割にも重要な変化がみられる。従来のセーフティネットとしての機能に加え、内需を下支えする経済政策としての位置づけが一層強まっている点が特徴である。 こうした認識のもとで、同計画では、少子化・高齢化・雇用の不安定化といった新たな社会リスクへの対応が重視されている。その結果、社会保障は「共同富裕」の実現を支えると同時に、経済成長を下支えする中核的な政策として再定義されつつある。 ■目次 1――はじめに 2――社会保障に求められる役割の変化 3――第14次５ヵ年計画期における社会保険改革の成果と振り返り （１）定年延長の実現 （２）労災－ギグワーカーの勤務中の事故に新たな保障スキームを導入 （３）子育て支援－子育て世代のサポート強化 （４）介護・高齢者対策－高齢化対策を国家戦略の１つとして格上げ （５）生活の不安定化の改善を目指すも一定の限界も 4――第15次５ヵ年計画期間における社会保障制度改革の重点 （１）子育て支援 （２）介護・高齢者対策 （３）ギグワーカー対策 （４）既存の制度の改革 5――おわりに中国はこれまで、５年間の国家目標を設定し、その達成に向けて政策を体系的に実行する計画主導型の発展モデルを採用してきた。5ヵ年計画は、経済発展の方向性を示すだけでなく、社会政策や制度改革の優先順位を定める国家運営の基本枠組みとして機能している。 直近の第14次５ヵ年計画（2021～2025年）の期間は、国際環境と国内経済の双方において大きな転換点となった。国際的には、地政学的緊張の高まりを背景に、対外依存の低減やサプライチェーンの再構築が重要課題として浮上した。これを受けて「自立自強」の方針の下、先端技術分野を中心に対外依存の見直しが進められ、国内循環",
     "sourceName": "ニッセイ基礎研（保険）",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-01T04:46:34.000Z",
+    "publishedAt": "2026-03-26T06:37:47.000Z",
     "category": "insurance",
     "keywords": [
-      "日銀短観（3月調査）～総じて堅調な内容だが",
-      "イラン情勢の織り込みは不十分"
+      "第15次5ヵ年計画期にお",
+      "画期における社会保障制度",
+      "保障制度改革の方向性と課",
+      "向性と課題"
     ],
     "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85061?site=nli"
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=85004?site=nli"
   },
   {
-    "id": "rss-insurance-e8bcbcd3b86cb7",
-    "title": "ユーロ圏消費者物価（26年3月）－エネルギーが総合指数を大幅押し上げ",
-    "summary": "3月31日、欧州委員会統計局（Eurostat）は3月のユーロ圏のＨＩＣＰ（Harmonized Indices of Consumer Prices：ＥＵ基準の消費者物価指数）速報値を公表し、結果は以下の通りとなった。 【総合指数】 ・前年同月比は2.5％、市場予想1（2.6％）より下振れ、前月（1.9％）から上昇した（図表1） ・前月比は1.2％、予想（1.3％）より下振れ、前月（0.6％）から上昇した 【総合指数からエネルギーと飲食料を除いた指数2】 ・前年同月比は2.3％、予想（2.4％）より下振れ、前月（2.4％）から低下した（図表2） ・前月比は0.8％、前月（0.8％）から横ばいだった 1 bloomberg集計の中央値。以下の予想値も同様。 2 日本の消費者物価指数のコアコアＣＰＩ、米国の消費者物価指数のコアＣＰＩに相当するもの。ただし、ユーロ圏の指数はアルコール飲料も除いており、日本のコアコアＣＰＩや米国のコアＣＰＩとは若干定義が異なる。 3月のＨＩＣＰ上昇率3（前年同月比）は全体で2.5％となり2月（1.9％）から上昇した。「コア部分（＝エネルギーと飲食料を除く総合）」は2.3％と2月（2.4％）からやや",
-    "sourceName": "ニッセイ基礎研（保険）",
+    "id": "rss-insurance-44b4cf08c23c60",
+    "title": "第15次5ヵ年計画期における社会保障制度改革の方向性と課題",
+    "summary": "■要旨 国際環境と国内経済が大きな転換点を迎える中、第15次5ヵ年計画では、社会保障制度の役割にも重要な変化がみられる。従来のセーフティネットとしての機能に加え、内需を下支えする経済政策としての位置づけが一層強まっている点が特徴である。 こうした認識のもとで、同計画では、少子化・高齢化・雇用の不安定化といった新たな社会リスクへの対応が重視されている。その結果、社会保障は「共同富裕」の実現を支えると同時に、経済成長を下支えする中核的な政策として再定義されつつある。 ■目次 1――はじめに 2――社会保障に求められる役割の変化 3――第14次５ヵ年計画期における社会保険改革の成果と振り返り （１）定年延長の実現 （２）労災－ギグワーカーの勤務中の事故に新たな保障スキームを導入 （３）子育て支援－子育て世代のサポート強化 （４）介護・高齢者対策－高齢化対策を国家戦略の１つとして格上げ （５）生活の不安定化の改善を目指すも一定の限界も 4――第15次５ヵ年計画期間における社会保障制度改革の重点 （１）子育て支援 （２）介護・高齢者対策 （３）ギグワーカー対策 （４）既存の制度の改革 5――おわりに中国はこれまで、５年間の国家目標を設定し、その達成に向けて政策を体系的に実行する計画主導型の発展モデルを採用してきた。5ヵ年計画は、経済発展の方向性を示すだけでなく、社会政策や制度改革の優先順位を定める国家運営の基本枠組みとして機能している。 直近の第14次５ヵ年計画（2021～2025年）の期間は、国際環境と国内経済の双方において大きな転換点となった。国際的には、地政学的緊張の高まりを背景に、対外依存の低減やサプライチェーンの再構築が重要課題として浮上した。これを受けて「自立自強」の方針の下、先端技術分野を中心に対外依存の見直しが進められ、国内循環",
+    "sourceName": "ニッセイ基礎研（年金）",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-01T03:55:58.000Z",
+    "publishedAt": "2026-03-26T06:37:47.000Z",
     "category": "insurance",
     "keywords": [
-      "ユーロ圏消費者物価（26",
-      "価（26年3月）－エネル",
-      "－エネルギーが総合指数を",
-      "合指数を大幅押し上げ",
-      "上げ"
+      "第15次5ヵ年計画期にお",
+      "画期における社会保障制度",
+      "保障制度改革の方向性と課",
+      "向性と課題"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=85004?site=nli"
+  },
+  {
+    "id": "rss-insurance-44b4cf08c23c60",
+    "title": "第15次5ヵ年計画期における社会保障制度改革の方向性と課題",
+    "summary": "■要旨 国際環境と国内経済が大きな転換点を迎える中、第15次5ヵ年計画では、社会保障制度の役割にも重要な変化がみられる。従来のセーフティネットとしての機能に加え、内需を下支えする経済政策としての位置づけが一層強まっている点が特徴である。 こうした認識のもとで、同計画では、少子化・高齢化・雇用の不安定化といった新たな社会リスクへの対応が重視されている。その結果、社会保障は「共同富裕」の実現を支えると同時に、経済成長を下支えする中核的な政策として再定義されつつある。 ■目次 1――はじめに 2――社会保障に求められる役割の変化 3――第14次５ヵ年計画期における社会保険改革の成果と振り返り （１）定年延長の実現 （２）労災－ギグワーカーの勤務中の事故に新たな保障スキームを導入 （３）子育て支援－子育て世代のサポート強化 （４）介護・高齢者対策－高齢化対策を国家戦略の１つとして格上げ （５）生活の不安定化の改善を目指すも一定の限界も 4――第15次５ヵ年計画期間における社会保障制度改革の重点 （１）子育て支援 （２）介護・高齢者対策 （３）ギグワーカー対策 （４）既存の制度の改革 5――おわりに中国はこれまで、５年間の国家目標を設定し、その達成に向けて政策を体系的に実行する計画主導型の発展モデルを採用してきた。5ヵ年計画は、経済発展の方向性を示すだけでなく、社会政策や制度改革の優先順位を定める国家運営の基本枠組みとして機能している。 直近の第14次５ヵ年計画（2021～2025年）の期間は、国際環境と国内経済の双方において大きな転換点となった。国際的には、地政学的緊張の高まりを背景に、対外依存の低減やサプライチェーンの再構築が重要課題として浮上した。これを受けて「自立自強」の方針の下、先端技術分野を中心に対外依存の見直しが進められ、国内循環",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-26T06:37:47.000Z",
+    "category": "insurance",
+    "keywords": [
+      "第15次5ヵ年計画期にお",
+      "画期における社会保障制度",
+      "保障制度改革の方向性と課",
+      "向性と課題"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=85004?site=nli"
+  },
+  {
+    "id": "rss-insurance-44b4cf08c23c60",
+    "title": "第15次5ヵ年計画期における社会保障制度改革の方向性と課題",
+    "summary": "■要旨 国際環境と国内経済が大きな転換点を迎える中、第15次5ヵ年計画では、社会保障制度の役割にも重要な変化がみられる。従来のセーフティネットとしての機能に加え、内需を下支えする経済政策としての位置づけが一層強まっている点が特徴である。 こうした認識のもとで、同計画では、少子化・高齢化・雇用の不安定化といった新たな社会リスクへの対応が重視されている。その結果、社会保障は「共同富裕」の実現を支えると同時に、経済成長を下支えする中核的な政策として再定義されつつある。 ■目次 1――はじめに 2――社会保障に求められる役割の変化 3――第14次５ヵ年計画期における社会保険改革の成果と振り返り （１）定年延長の実現 （２）労災－ギグワーカーの勤務中の事故に新たな保障スキームを導入 （３）子育て支援－子育て世代のサポート強化 （４）介護・高齢者対策－高齢化対策を国家戦略の１つとして格上げ （５）生活の不安定化の改善を目指すも一定の限界も 4――第15次５ヵ年計画期間における社会保障制度改革の重点 （１）子育て支援 （２）介護・高齢者対策 （３）ギグワーカー対策 （４）既存の制度の改革 5――おわりに中国はこれまで、５年間の国家目標を設定し、その達成に向けて政策を体系的に実行する計画主導型の発展モデルを採用してきた。5ヵ年計画は、経済発展の方向性を示すだけでなく、社会政策や制度改革の優先順位を定める国家運営の基本枠組みとして機能している。 直近の第14次５ヵ年計画（2021～2025年）の期間は、国際環境と国内経済の双方において大きな転換点となった。国際的には、地政学的緊張の高まりを背景に、対外依存の低減やサプライチェーンの再構築が重要課題として浮上した。これを受けて「自立自強」の方針の下、先端技術分野を中心に対外依存の見直しが進められ、国内循環",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-26T06:37:47.000Z",
+    "category": "insurance",
+    "keywords": [
+      "第15次5ヵ年計画期にお",
+      "画期における社会保障制度",
+      "保障制度改革の方向性と課",
+      "向性と課題"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=85004?site=nli"
+  },
+  {
+    "id": "rss-insurance-88a8ac8ad8ff8e",
+    "title": "保険デイリーニュース(03/26)",
+    "summary": "本日の主なニュース ・MS&AD代理店、保険契約額の評価廃止 教育体制重視へ ・東京海上がバークシャーと再保険やM&Aで提携、2900億円出資受け入れ ・マツダ、東京海上日動の事故データ活用 先進運転支援システムに ・「ドコモの火災保険」提供開始 ・楽天損保、自動車保険の...",
+    "sourceName": "保険デイリーニュース（やなはる）",
+    "sourceIcon": "📎",
+    "publishedAt": "2026-03-25T15:00:30.000Z",
+    "category": "insurance",
+    "keywords": [
+      "保険デイリーニュース(0",
+      "ース(03/26)"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": false,
+    "url": "http://blog.livedoor.jp/yanaharu_yanaharu/archives/65989267.html"
+  },
+  {
+    "id": "rss-insurance-003e22903fb6ae",
+    "title": "数字の「1」に関わる各種の話題－様々な意味合いを有する基本中の基本となる数字だけに、何を語るのかは極めて難しい－",
+    "summary": "■要旨 数字の「1」は、基本中の基本となる数字であり、最も重要な数字なので、限られた紙面の中で何を語るのかを選択することは極めて難しい。数字の「1」は、多くの意味を有しており、日常生活の各種の場面で現れてくる。今回は、個人的な興味・関心に基づいたトピックを中心に取り上げることとする。 ■目次 ・はじめに ・数字の「1」は、なぜこのような形になっているのか ・ローマ数字の「Ⅰ」には、なぜ上下に短い線があるのか ・数字の「1」は、乗法の単位元 ・数字の「1」は、素数ではない ・同じ数字を並べて素数を作成できるのは「1」のみ ・数字の「1」の表記 ・漢字の「一」 ・宗教における数字の「1」 ・スポーツにみられる数字の「1」 ・数学における数字としての「1」 ・化学・物理学における数字としての「1」 ・その他の数字の「1」が現れるケース ・最後に今回は、いよいよ数字の「1」について、それが現れてくる例やその理由等について調べている。数字の「1」は、基本中の基本となる数字であり、最も重要な数字なので、限られた紙面の中で何を語るのかを選択することは極めて難しい。数字の「1」は、「始まり（スタート）」、「唯一（オンリーワン）」、「独自（ユニーク）」、「頂点（トップ）」、「個人・自身（セルフ）」、「統一（ユニティ）」等の様々な意味合いを有しており、日常生活の各種の場面で現れてくる。今回は、この中で個人的な興味・関心に基づいたトピックを中心に取り上げることとする。このため、これまで以上に、このレポートで紹介するのは、数字の「1」が現れる一部に過ぎないことを述べておく。 数字の「1」は、なぜこのような形になっているのか 数字の「1」を表すのに、縦の一本棒になっていることに、殆どの人は違和感を持たないだろう。数字の「1」を表すのには、古代からこのような形が",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-25T10:04:37.000Z",
+    "category": "insurance",
+    "keywords": [
+      "数字の「1」に関わる各種",
+      "わる各種の話題－様々な意",
+      "様々な意味合いを有する基",
+      "有する基本中の基本となる",
+      "本となる数字だけに、何を"
     ],
     "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85060?site=nli"
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84986?site=nli"
+  },
+  {
+    "id": "rss-insurance-003e22903fb6ae",
+    "title": "数字の「1」に関わる各種の話題－様々な意味合いを有する基本中の基本となる数字だけに、何を語るのかは極めて難しい－",
+    "summary": "■要旨 数字の「1」は、基本中の基本となる数字であり、最も重要な数字なので、限られた紙面の中で何を語るのかを選択することは極めて難しい。数字の「1」は、多くの意味を有しており、日常生活の各種の場面で現れてくる。今回は、個人的な興味・関心に基づいたトピックを中心に取り上げることとする。 ■目次 ・はじめに ・数字の「1」は、なぜこのような形になっているのか ・ローマ数字の「Ⅰ」には、なぜ上下に短い線があるのか ・数字の「1」は、乗法の単位元 ・数字の「1」は、素数ではない ・同じ数字を並べて素数を作成できるのは「1」のみ ・数字の「1」の表記 ・漢字の「一」 ・宗教における数字の「1」 ・スポーツにみられる数字の「1」 ・数学における数字としての「1」 ・化学・物理学における数字としての「1」 ・その他の数字の「1」が現れるケース ・最後に今回は、いよいよ数字の「1」について、それが現れてくる例やその理由等について調べている。数字の「1」は、基本中の基本となる数字であり、最も重要な数字なので、限られた紙面の中で何を語るのかを選択することは極めて難しい。数字の「1」は、「始まり（スタート）」、「唯一（オンリーワン）」、「独自（ユニーク）」、「頂点（トップ）」、「個人・自身（セルフ）」、「統一（ユニティ）」等の様々な意味合いを有しており、日常生活の各種の場面で現れてくる。今回は、この中で個人的な興味・関心に基づいたトピックを中心に取り上げることとする。このため、これまで以上に、このレポートで紹介するのは、数字の「1」が現れる一部に過ぎないことを述べておく。 数字の「1」は、なぜこのような形になっているのか 数字の「1」を表すのに、縦の一本棒になっていることに、殆どの人は違和感を持たないだろう。数字の「1」を表すのには、古代からこのような形が",
+    "sourceName": "ニッセイ基礎研（年金）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-25T10:04:37.000Z",
+    "category": "insurance",
+    "keywords": [
+      "数字の「1」に関わる各種",
+      "わる各種の話題－様々な意",
+      "様々な意味合いを有する基",
+      "有する基本中の基本となる",
+      "本となる数字だけに、何を"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84986?site=nli"
+  },
+  {
+    "id": "rss-insurance-003e22903fb6ae",
+    "title": "数字の「1」に関わる各種の話題－様々な意味合いを有する基本中の基本となる数字だけに、何を語るのかは極めて難しい－",
+    "summary": "■要旨 数字の「1」は、基本中の基本となる数字であり、最も重要な数字なので、限られた紙面の中で何を語るのかを選択することは極めて難しい。数字の「1」は、多くの意味を有しており、日常生活の各種の場面で現れてくる。今回は、個人的な興味・関心に基づいたトピックを中心に取り上げることとする。 ■目次 ・はじめに ・数字の「1」は、なぜこのような形になっているのか ・ローマ数字の「Ⅰ」には、なぜ上下に短い線があるのか ・数字の「1」は、乗法の単位元 ・数字の「1」は、素数ではない ・同じ数字を並べて素数を作成できるのは「1」のみ ・数字の「1」の表記 ・漢字の「一」 ・宗教における数字の「1」 ・スポーツにみられる数字の「1」 ・数学における数字としての「1」 ・化学・物理学における数字としての「1」 ・その他の数字の「1」が現れるケース ・最後に今回は、いよいよ数字の「1」について、それが現れてくる例やその理由等について調べている。数字の「1」は、基本中の基本となる数字であり、最も重要な数字なので、限られた紙面の中で何を語るのかを選択することは極めて難しい。数字の「1」は、「始まり（スタート）」、「唯一（オンリーワン）」、「独自（ユニーク）」、「頂点（トップ）」、「個人・自身（セルフ）」、「統一（ユニティ）」等の様々な意味合いを有しており、日常生活の各種の場面で現れてくる。今回は、この中で個人的な興味・関心に基づいたトピックを中心に取り上げることとする。このため、これまで以上に、このレポートで紹介するのは、数字の「1」が現れる一部に過ぎないことを述べておく。 数字の「1」は、なぜこのような形になっているのか 数字の「1」を表すのに、縦の一本棒になっていることに、殆どの人は違和感を持たないだろう。数字の「1」を表すのには、古代からこのような形が",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-25T10:04:37.000Z",
+    "category": "insurance",
+    "keywords": [
+      "数字の「1」に関わる各種",
+      "わる各種の話題－様々な意",
+      "様々な意味合いを有する基",
+      "有する基本中の基本となる",
+      "本となる数字だけに、何を"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84986?site=nli"
+  },
+  {
+    "id": "rss-insurance-003e22903fb6ae",
+    "title": "数字の「1」に関わる各種の話題－様々な意味合いを有する基本中の基本となる数字だけに、何を語るのかは極めて難しい－",
+    "summary": "■要旨 数字の「1」は、基本中の基本となる数字であり、最も重要な数字なので、限られた紙面の中で何を語るのかを選択することは極めて難しい。数字の「1」は、多くの意味を有しており、日常生活の各種の場面で現れてくる。今回は、個人的な興味・関心に基づいたトピックを中心に取り上げることとする。 ■目次 ・はじめに ・数字の「1」は、なぜこのような形になっているのか ・ローマ数字の「Ⅰ」には、なぜ上下に短い線があるのか ・数字の「1」は、乗法の単位元 ・数字の「1」は、素数ではない ・同じ数字を並べて素数を作成できるのは「1」のみ ・数字の「1」の表記 ・漢字の「一」 ・宗教における数字の「1」 ・スポーツにみられる数字の「1」 ・数学における数字としての「1」 ・化学・物理学における数字としての「1」 ・その他の数字の「1」が現れるケース ・最後に今回は、いよいよ数字の「1」について、それが現れてくる例やその理由等について調べている。数字の「1」は、基本中の基本となる数字であり、最も重要な数字なので、限られた紙面の中で何を語るのかを選択することは極めて難しい。数字の「1」は、「始まり（スタート）」、「唯一（オンリーワン）」、「独自（ユニーク）」、「頂点（トップ）」、「個人・自身（セルフ）」、「統一（ユニティ）」等の様々な意味合いを有しており、日常生活の各種の場面で現れてくる。今回は、この中で個人的な興味・関心に基づいたトピックを中心に取り上げることとする。このため、これまで以上に、このレポートで紹介するのは、数字の「1」が現れる一部に過ぎないことを述べておく。 数字の「1」は、なぜこのような形になっているのか 数字の「1」を表すのに、縦の一本棒になっていることに、殆どの人は違和感を持たないだろう。数字の「1」を表すのには、古代からこのような形が",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-25T10:04:37.000Z",
+    "category": "insurance",
+    "keywords": [
+      "数字の「1」に関わる各種",
+      "わる各種の話題－様々な意",
+      "様々な意味合いを有する基",
+      "有する基本中の基本となる",
+      "本となる数字だけに、何を"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84986?site=nli"
+  },
+  {
+    "id": "rss-insurance-f88a3476b442e8",
+    "title": "制度創設から間もなく20年、堅調な成長を続ける少額短期保険市場－保有件数、収入保険料ともに生保個人保険を上回る成長－簡単な手続、低廉な保険料が成長要因の決め手か－",
+    "summary": "■要旨 2006年４月に制度創設された少額短期保険は、間もなく創設20年を迎えることとなるが、制度創設以来、堅調な成長を続けている。 本稿では、少額短期保険の制度概要について触れた後、少額短期保険の業績動向、高成長を続けている背景等について、照会したい。 ■目次 1――少額短期保険の制度概要 2――制度創設から20年、堅調な成長を続ける少額短期保険 （１）会社数の推移 （２）業績の推移 （３）少額短期保険が高成長を続けている背景 3――おわりに1990 年代後半から2000年代の初頭にかけて、特段の設立根拠法を持たず、いずれの監督も受けないまま葬祭共済やペット共済等、保険類似の事業を行う、いわゆる「根拠法のない共済」が急増した。これらの中には、ディスクロージャーの不備、販売時の説明不足などの問題を指摘されるものが散見され、中には、契約した金額が支払われずトラブルになるケースや不適切な販売が問題となる事例も見られた。 こうした状況を踏まえ、小規模な保険引受を一定の規制の下で認める枠組みとして2005年の保険業法改正（平成17年法律第38号）により創設され、2006年4月から施行されたのが少額短期保険業である。 少額短期保険業者は、少額の保険金額（例：疾病死亡保険300万円以下、損害保険1000万円以下等）で短期（生命・医療保険は1年以内、損害保険は2年以内）の保険契約のみを引き受けることができる。また、ディスクロージャー、責任準備金の積立、早期是正措置等の監督規制が課され、年間収入保険料は50億円以下とされるなど事業規模にも制約が設けられている。なお、保険契約者保護機構の対象外とされている。 本稿では、制度創設から間もなく20年を迎える少額短期保険の現状について、概観することとしたい。 2――制度創設から20年 （１）会社数の推移 （図",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-24T05:27:34.000Z",
+    "category": "insurance",
+    "keywords": [
+      "制度創設から間もなく20年",
+      "堅調な成長を続ける少額短期保険市場－保有件数",
+      "低廉な保険料が成長要因の決め手か－"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84966?site=nli"
+  },
+  {
+    "id": "rss-insurance-f88a3476b442e8",
+    "title": "制度創設から間もなく20年、堅調な成長を続ける少額短期保険市場－保有件数、収入保険料ともに生保個人保険を上回る成長－簡単な手続、低廉な保険料が成長要因の決め手か－",
+    "summary": "■要旨 2006年４月に制度創設された少額短期保険は、間もなく創設20年を迎えることとなるが、制度創設以来、堅調な成長を続けている。 本稿では、少額短期保険の制度概要について触れた後、少額短期保険の業績動向、高成長を続けている背景等について、照会したい。 ■目次 1――少額短期保険の制度概要 2――制度創設から20年、堅調な成長を続ける少額短期保険 （１）会社数の推移 （２）業績の推移 （３）少額短期保険が高成長を続けている背景 3――おわりに1990 年代後半から2000年代の初頭にかけて、特段の設立根拠法を持たず、いずれの監督も受けないまま葬祭共済やペット共済等、保険類似の事業を行う、いわゆる「根拠法のない共済」が急増した。これらの中には、ディスクロージャーの不備、販売時の説明不足などの問題を指摘されるものが散見され、中には、契約した金額が支払われずトラブルになるケースや不適切な販売が問題となる事例も見られた。 こうした状況を踏まえ、小規模な保険引受を一定の規制の下で認める枠組みとして2005年の保険業法改正（平成17年法律第38号）により創設され、2006年4月から施行されたのが少額短期保険業である。 少額短期保険業者は、少額の保険金額（例：疾病死亡保険300万円以下、損害保険1000万円以下等）で短期（生命・医療保険は1年以内、損害保険は2年以内）の保険契約のみを引き受けることができる。また、ディスクロージャー、責任準備金の積立、早期是正措置等の監督規制が課され、年間収入保険料は50億円以下とされるなど事業規模にも制約が設けられている。なお、保険契約者保護機構の対象外とされている。 本稿では、制度創設から間もなく20年を迎える少額短期保険の現状について、概観することとしたい。 2――制度創設から20年 （１）会社数の推移 （図",
+    "sourceName": "ニッセイ基礎研（年金）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-24T05:27:34.000Z",
+    "category": "insurance",
+    "keywords": [
+      "制度創設から間もなく20年",
+      "堅調な成長を続ける少額短期保険市場－保有件数",
+      "低廉な保険料が成長要因の決め手か－"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84966?site=nli"
+  },
+  {
+    "id": "rss-insurance-f88a3476b442e8",
+    "title": "制度創設から間もなく20年、堅調な成長を続ける少額短期保険市場－保有件数、収入保険料ともに生保個人保険を上回る成長－簡単な手続、低廉な保険料が成長要因の決め手か－",
+    "summary": "■要旨 2006年４月に制度創設された少額短期保険は、間もなく創設20年を迎えることとなるが、制度創設以来、堅調な成長を続けている。 本稿では、少額短期保険の制度概要について触れた後、少額短期保険の業績動向、高成長を続けている背景等について、照会したい。 ■目次 1――少額短期保険の制度概要 2――制度創設から20年、堅調な成長を続ける少額短期保険 （１）会社数の推移 （２）業績の推移 （３）少額短期保険が高成長を続けている背景 3――おわりに1990 年代後半から2000年代の初頭にかけて、特段の設立根拠法を持たず、いずれの監督も受けないまま葬祭共済やペット共済等、保険類似の事業を行う、いわゆる「根拠法のない共済」が急増した。これらの中には、ディスクロージャーの不備、販売時の説明不足などの問題を指摘されるものが散見され、中には、契約した金額が支払われずトラブルになるケースや不適切な販売が問題となる事例も見られた。 こうした状況を踏まえ、小規模な保険引受を一定の規制の下で認める枠組みとして2005年の保険業法改正（平成17年法律第38号）により創設され、2006年4月から施行されたのが少額短期保険業である。 少額短期保険業者は、少額の保険金額（例：疾病死亡保険300万円以下、損害保険1000万円以下等）で短期（生命・医療保険は1年以内、損害保険は2年以内）の保険契約のみを引き受けることができる。また、ディスクロージャー、責任準備金の積立、早期是正措置等の監督規制が課され、年間収入保険料は50億円以下とされるなど事業規模にも制約が設けられている。なお、保険契約者保護機構の対象外とされている。 本稿では、制度創設から間もなく20年を迎える少額短期保険の現状について、概観することとしたい。 2――制度創設から20年 （１）会社数の推移 （図",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-24T05:27:34.000Z",
+    "category": "insurance",
+    "keywords": [
+      "制度創設から間もなく20年",
+      "堅調な成長を続ける少額短期保険市場－保有件数",
+      "低廉な保険料が成長要因の決め手か－"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84966?site=nli"
+  },
+  {
+    "id": "rss-insurance-f88a3476b442e8",
+    "title": "制度創設から間もなく20年、堅調な成長を続ける少額短期保険市場－保有件数、収入保険料ともに生保個人保険を上回る成長－簡単な手続、低廉な保険料が成長要因の決め手か－",
+    "summary": "■要旨 2006年４月に制度創設された少額短期保険は、間もなく創設20年を迎えることとなるが、制度創設以来、堅調な成長を続けている。 本稿では、少額短期保険の制度概要について触れた後、少額短期保険の業績動向、高成長を続けている背景等について、照会したい。 ■目次 1――少額短期保険の制度概要 2――制度創設から20年、堅調な成長を続ける少額短期保険 （１）会社数の推移 （２）業績の推移 （３）少額短期保険が高成長を続けている背景 3――おわりに1990 年代後半から2000年代の初頭にかけて、特段の設立根拠法を持たず、いずれの監督も受けないまま葬祭共済やペット共済等、保険類似の事業を行う、いわゆる「根拠法のない共済」が急増した。これらの中には、ディスクロージャーの不備、販売時の説明不足などの問題を指摘されるものが散見され、中には、契約した金額が支払われずトラブルになるケースや不適切な販売が問題となる事例も見られた。 こうした状況を踏まえ、小規模な保険引受を一定の規制の下で認める枠組みとして2005年の保険業法改正（平成17年法律第38号）により創設され、2006年4月から施行されたのが少額短期保険業である。 少額短期保険業者は、少額の保険金額（例：疾病死亡保険300万円以下、損害保険1000万円以下等）で短期（生命・医療保険は1年以内、損害保険は2年以内）の保険契約のみを引き受けることができる。また、ディスクロージャー、責任準備金の積立、早期是正措置等の監督規制が課され、年間収入保険料は50億円以下とされるなど事業規模にも制約が設けられている。なお、保険契約者保護機構の対象外とされている。 本稿では、制度創設から間もなく20年を迎える少額短期保険の現状について、概観することとしたい。 2――制度創設から20年 （１）会社数の推移 （図",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-24T05:27:34.000Z",
+    "category": "insurance",
+    "keywords": [
+      "制度創設から間もなく20年",
+      "堅調な成長を続ける少額短期保険市場－保有件数",
+      "低廉な保険料が成長要因の決め手か－"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84966?site=nli"
+  },
+  {
+    "id": "rss-insurance-b8ec17c29ece78",
+    "title": "中国の年金格差－最大29倍？広がる制度間の受給格差",
+    "summary": "■要旨 中国の公的年金制度は加入者が10億人を超え、加入率も95％に達するなど世界最大規模となっている。一方で、加入する制度の違いにより受給額には大きな差があり、公務員の年金は都市の会社員の約1.7倍、都市・農村住民の約29倍に達する。こうした格差は制度設計や財政補填の違いなどが背景に、老後所得の不平等や制度への不信感につながっている。政府は都市・農村住民の基礎年金の引き上げなどで格差の緩和を図ろうとしているが、その効果は限定的にとどまる可能性が高い。 ■目次 1――加入者10.7億人、加入率95％以上、世界最大規模の公的年金制度 2――公務員の平均受給額は、都市・会社員の約1.7倍、都市・農村住民の約28.5倍 3――受給格差の制度的背景 4――公務員向けに手厚い財政投入 5――政府は基礎年金の引上げで対応中国では近年、急速な高齢化の進展を背景に、老後の所得を支える公的年金制度の重要性が一段と高まっている。政府は1990年代以降制度整備を進め、都市の会社員を対象とする都市職工年金の改正や、都市の非就労者・農村住民を対象とする都市・農村住民年金の導入を通じて、全国的な普及を図ってきた。その結果、中国の公的年金制度は広い範囲の国民をカバーする仕組みが整いつつある。 2025年９月、中国の社会保障制度を管轄する人力資源社会保障部は、第14次5ヵ年計画期間（2021-2025）中の成果を総括する発表を行った1。そこでは、「第14次5カ年計画期間は、社会保障分野における改革が最も進んだ時期である」と評価した。また、「現在、全国の公的年金制度の加入者数は10億7,200万人に達し、第13次5カ年計画期間より7,300万人以上が増加、加入率は91％から95％に上昇した」とし、加入規模と普及状況に胸を張った。 その一方で、中国の公的年金制度には依然",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-23T00:58:37.000Z",
+    "category": "insurance",
+    "keywords": [
+      "中国の年金格差－最大29倍",
+      "広がる制度間の受給格差"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84952?site=nli"
+  },
+  {
+    "id": "rss-insurance-b8ec17c29ece78",
+    "title": "中国の年金格差－最大29倍？広がる制度間の受給格差",
+    "summary": "■要旨 中国の公的年金制度は加入者が10億人を超え、加入率も95％に達するなど世界最大規模となっている。一方で、加入する制度の違いにより受給額には大きな差があり、公務員の年金は都市の会社員の約1.7倍、都市・農村住民の約29倍に達する。こうした格差は制度設計や財政補填の違いなどが背景に、老後所得の不平等や制度への不信感につながっている。政府は都市・農村住民の基礎年金の引き上げなどで格差の緩和を図ろうとしているが、その効果は限定的にとどまる可能性が高い。 ■目次 1――加入者10.7億人、加入率95％以上、世界最大規模の公的年金制度 2――公務員の平均受給額は、都市・会社員の約1.7倍、都市・農村住民の約28.5倍 3――受給格差の制度的背景 4――公務員向けに手厚い財政投入 5――政府は基礎年金の引上げで対応中国では近年、急速な高齢化の進展を背景に、老後の所得を支える公的年金制度の重要性が一段と高まっている。政府は1990年代以降制度整備を進め、都市の会社員を対象とする都市職工年金の改正や、都市の非就労者・農村住民を対象とする都市・農村住民年金の導入を通じて、全国的な普及を図ってきた。その結果、中国の公的年金制度は広い範囲の国民をカバーする仕組みが整いつつある。 2025年９月、中国の社会保障制度を管轄する人力資源社会保障部は、第14次5ヵ年計画期間（2021-2025）中の成果を総括する発表を行った1。そこでは、「第14次5カ年計画期間は、社会保障分野における改革が最も進んだ時期である」と評価した。また、「現在、全国の公的年金制度の加入者数は10億7,200万人に達し、第13次5カ年計画期間より7,300万人以上が増加、加入率は91％から95％に上昇した」とし、加入規模と普及状況に胸を張った。 その一方で、中国の公的年金制度には依然",
+    "sourceName": "ニッセイ基礎研（年金）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-23T00:58:37.000Z",
+    "category": "insurance",
+    "keywords": [
+      "中国の年金格差－最大29倍",
+      "広がる制度間の受給格差"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84952?site=nli"
+  },
+  {
+    "id": "rss-insurance-b8ec17c29ece78",
+    "title": "中国の年金格差－最大29倍？広がる制度間の受給格差",
+    "summary": "■要旨 中国の公的年金制度は加入者が10億人を超え、加入率も95％に達するなど世界最大規模となっている。一方で、加入する制度の違いにより受給額には大きな差があり、公務員の年金は都市の会社員の約1.7倍、都市・農村住民の約29倍に達する。こうした格差は制度設計や財政補填の違いなどが背景に、老後所得の不平等や制度への不信感につながっている。政府は都市・農村住民の基礎年金の引き上げなどで格差の緩和を図ろうとしているが、その効果は限定的にとどまる可能性が高い。 ■目次 1――加入者10.7億人、加入率95％以上、世界最大規模の公的年金制度 2――公務員の平均受給額は、都市・会社員の約1.7倍、都市・農村住民の約28.5倍 3――受給格差の制度的背景 4――公務員向けに手厚い財政投入 5――政府は基礎年金の引上げで対応中国では近年、急速な高齢化の進展を背景に、老後の所得を支える公的年金制度の重要性が一段と高まっている。政府は1990年代以降制度整備を進め、都市の会社員を対象とする都市職工年金の改正や、都市の非就労者・農村住民を対象とする都市・農村住民年金の導入を通じて、全国的な普及を図ってきた。その結果、中国の公的年金制度は広い範囲の国民をカバーする仕組みが整いつつある。 2025年９月、中国の社会保障制度を管轄する人力資源社会保障部は、第14次5ヵ年計画期間（2021-2025）中の成果を総括する発表を行った1。そこでは、「第14次5カ年計画期間は、社会保障分野における改革が最も進んだ時期である」と評価した。また、「現在、全国の公的年金制度の加入者数は10億7,200万人に達し、第13次5カ年計画期間より7,300万人以上が増加、加入率は91％から95％に上昇した」とし、加入規模と普及状況に胸を張った。 その一方で、中国の公的年金制度には依然",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-23T00:58:37.000Z",
+    "category": "insurance",
+    "keywords": [
+      "中国の年金格差－最大29倍",
+      "広がる制度間の受給格差"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84952?site=nli"
+  },
+  {
+    "id": "rss-insurance-b8ec17c29ece78",
+    "title": "中国の年金格差－最大29倍？広がる制度間の受給格差",
+    "summary": "■要旨 中国の公的年金制度は加入者が10億人を超え、加入率も95％に達するなど世界最大規模となっている。一方で、加入する制度の違いにより受給額には大きな差があり、公務員の年金は都市の会社員の約1.7倍、都市・農村住民の約29倍に達する。こうした格差は制度設計や財政補填の違いなどが背景に、老後所得の不平等や制度への不信感につながっている。政府は都市・農村住民の基礎年金の引き上げなどで格差の緩和を図ろうとしているが、その効果は限定的にとどまる可能性が高い。 ■目次 1――加入者10.7億人、加入率95％以上、世界最大規模の公的年金制度 2――公務員の平均受給額は、都市・会社員の約1.7倍、都市・農村住民の約28.5倍 3――受給格差の制度的背景 4――公務員向けに手厚い財政投入 5――政府は基礎年金の引上げで対応中国では近年、急速な高齢化の進展を背景に、老後の所得を支える公的年金制度の重要性が一段と高まっている。政府は1990年代以降制度整備を進め、都市の会社員を対象とする都市職工年金の改正や、都市の非就労者・農村住民を対象とする都市・農村住民年金の導入を通じて、全国的な普及を図ってきた。その結果、中国の公的年金制度は広い範囲の国民をカバーする仕組みが整いつつある。 2025年９月、中国の社会保障制度を管轄する人力資源社会保障部は、第14次5ヵ年計画期間（2021-2025）中の成果を総括する発表を行った1。そこでは、「第14次5カ年計画期間は、社会保障分野における改革が最も進んだ時期である」と評価した。また、「現在、全国の公的年金制度の加入者数は10億7,200万人に達し、第13次5カ年計画期間より7,300万人以上が増加、加入率は91％から95％に上昇した」とし、加入規模と普及状況に胸を張った。 その一方で、中国の公的年金制度には依然",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-23T00:58:37.000Z",
+    "category": "insurance",
+    "keywords": [
+      "中国の年金格差－最大29倍",
+      "広がる制度間の受給格差"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84952?site=nli"
+  },
+  {
+    "id": "rss-insurance-ef278b96df51d3",
+    "title": "保険デイリーニュース(03/23)",
+    "summary": "本日の主なニュース ・損保ジャパン、「SOMPOあんしん事故連絡」開始…GPS・写真アップロード機能搭載 ・マンションの保険料、突然の倍増「事実上の更新拒否だ」今後深刻化か ・事故ると最悪な「無保険車」増加の懸念？ 街から消える“自賠責”の窓口 ビッグモーター事件の...",
+    "sourceName": "保険デイリーニュース（やなはる）",
+    "sourceIcon": "📎",
+    "publishedAt": "2026-03-22T15:14:23.000Z",
+    "category": "insurance",
+    "keywords": [
+      "保険デイリーニュース(0",
+      "ース(03/23)"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": false,
+    "url": "http://blog.livedoor.jp/yanaharu_yanaharu/archives/65989230.html"
   },
   {
     "id": "rss-insurance-f219d4a45a7ecb",
@@ -1793,6 +1947,91 @@
     "url": "https://www.money-press.info/amazon-newlifesalefinal2026/"
   },
   {
+    "id": "rss-insurance-0396ce882ff3f5",
+    "title": "数字の「31」に関わる各種の話題－グレゴリオ暦では大の月は31日－",
+    "summary": "■要旨 数字の「31」は、比較的大きな素数であることもあって、多くの人にとってそれほど馴染みがある数字とはいえないものと思われる。あくまでも1か月が31日で、短歌が三十一文字であることぐらいの印象があるだけだと思われる。実際に調べてみても、確かに数字の「31」が現れてくる場面は限られているように思われる。それでも思わぬところで、かなり知的好奇心をくすぐられるような形で現れてくるので、今回はこれらを紹介したい。 ■目次 ・はじめに ・現在、暦のグレゴリオ暦の大の月は31日 ・31日には特別な呼び名はあるのか ・会社名やブランド名、各種のプロジェクト名に使用される「31」 ・短歌は五・七・五・七・七の三十一文字 ・モーザーの円分割問題 ・数学における数字としての「31」 ・最後に数字の「31」は素数である。「30」という幅広く使用されている数字と2の5乗（25）でこれもそれなりに出会う機会が多いと思われる「32」という数字に囲まれて、何とも目立たない数字だとの印象を受けると思われる。数字の「31」と聞くと、多くの人は、現在の暦の大の月が31日あるということを思い浮かべるだろう。さらには、短歌の「三十一文字（みそひともじ）」を思い出す人も多いと思われる。でも、それ以外のケースを思い付く人は殆どいないものと思われる。 今回は、この数字の「31」について、それが現れてくる例やその理由等について調べてみた。 現在、暦のグレゴリオ暦の大の月は31日 現在の暦のグレゴリオ暦の大の月の日数は「31」となっている。具体的には、1月、3月、5月、7月、8月、10月、12月の7つの月が大の月となっている。1年365日を12か月に区分するのであれば、基本的には1か月を30日にして、5つの月だけを31日にすればよいと考えるのが自然ではあるが、そのような形にはなっ",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-18T04:29:45.000Z",
+    "category": "insurance",
+    "keywords": [
+      "数字の「31」に関わる各",
+      "関わる各種の話題－グレゴ",
+      "－グレゴリオ暦では大の月",
+      "は大の月は31日－"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84923?site=nli"
+  },
+  {
+    "id": "rss-insurance-ca2ce58102d9df",
+    "title": "中国で広がる、子育て世帯就労支援の新潮流－「ママポスト」から「子育て支援ポスト」へ",
+    "summary": "■要旨 中国で、子育て期の女性を対象とした就労支援策「ママポスト」が広がっている。この取り組みは、柔軟な働き方の導入や再就職機会の提供を通じて、女性が仕事を続けやすい環境づくりに役立っている。一方で、再就職の場合は就ける仕事が低賃金の職種に偏りやすいことや、地域によって制度内容に差があることが課題とされる。近年は父親も対象とする「子育て支援ポスト」への移行が進み、支援の対象を母親中心から子育て世帯へ広げており、仕事と育児の両立を支える環境整備として注目されている。 ■目次 1――少子化と女性就労を背景に登場した「ママポスト」 2――地方発の取り組みが全国へ拡大 3――広東モデルと湖北モデル 4――ママポストから「子育て支援ポスト」へ 5――浮彫りになる男女間の認識差 6――日中比較にみる制度思想の違い 7――就労支援政策の転換点近年の中国では、急速な少子化の進行と女性の就業継続支援を背景に、子育て期に配慮した雇用機会の創出が重要な政策課題として浮上している。その代表例が、中国語で「媽媽崗」と呼ばれる母親向けの柔軟な就労形態であり、本稿ではこれを「ママポスト」とする。 ママポストは主に二つの機能を持っている。第一は、在職中の女性に対する働き方の調整である。企業が短時間勤務やフレックスタイム、在宅勤務などを導入し、育児との両立を可能にする環境整備を行う。第二は、出産や育児を機に離職した女性に対する再就職機会の提供である。電子商取引のカスタマーサービスや事務補助、軽作業など、勤務時間を柔軟に設定しやすい業務が中心となっている。 このような制度は地方政府が企業に導入を促す形で広がり、女性の労働市場参加を支える新たな雇用モデルとして注目されている。同時に、出産とキャリアの両立を可能にする仕組みとして、少子化対策と労働政策の接点に位置づけられる点",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-18T01:00:07.000Z",
+    "category": "insurance",
+    "keywords": [
+      "中国で広がる、子育て世帯",
+      "育て世帯就労支援の新潮流",
+      "の新潮流－「ママポスト」",
+      "ポスト」から「子育て支援",
+      "育て支援ポスト」へ"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84919?site=nli"
+  },
+  {
+    "id": "rss-insurance-b57b12fd15b1de",
+    "title": "保険デイリーニュース(03/16)",
+    "summary": "本日の主なニュース ・東京海上など損保、保険料で採算重視 企業向け共同保険｢脱横並び｣ ・損保ジャパン、保険加入者にひょうの警告通知 東芝の予測技術活用 ・ウズベクで走行データ利活用へ 交通事故抑制や渋滞解消--あいおいニッセイ ・共栄火災、元代理店店主が7740万円...",
+    "sourceName": "保険デイリーニュース（やなはる）",
+    "sourceIcon": "📎",
+    "publishedAt": "2026-03-15T15:00:08.000Z",
+    "category": "insurance",
+    "keywords": [
+      "保険デイリーニュース(0",
+      "ース(03/16)"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": false,
+    "url": "http://blog.livedoor.jp/yanaharu_yanaharu/archives/65989135.html"
+  },
+  {
+    "id": "rss-insurance-b9e0d69fe0ed4a",
+    "title": "保険デイリーニュース(03/06)",
+    "summary": "本日の主なニュース ・三井住友海上、WRバークレーの株式15%取得 6000億円規模で ・日系損保、中東での船舶保険料上乗せ拡大へ イラン情勢見極め判断 ・クマ被害、事業継続リスクに あいおいは企業向け出没情報マップ ・2025年 盗難車ランキング 1位は5年連続同じ車種 車両...",
+    "sourceName": "保険デイリーニュース（やなはる）",
+    "sourceIcon": "📎",
+    "publishedAt": "2026-03-05T15:00:53.000Z",
+    "category": "insurance",
+    "keywords": [
+      "保険デイリーニュース(0",
+      "ース(03/06)"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": false,
+    "url": "http://blog.livedoor.jp/yanaharu_yanaharu/archives/65989007.html"
+  },
+  {
+    "id": "rss-insurance-bd83ac6c989cb3",
+    "title": "保険デイリーニュース(03/04)",
+    "summary": "本日の主なニュース ・大手海上保険各社、湾岸で戦争リスク補償停止 イラン情勢受け ・イラン、「捨て身」の海峡封鎖 米欧損保は戦争保険の引き受け中止 ・金融のデジタル投資に勢い、3割増3兆円 損保が相次ぎ最新システム ・生保大手4社、営業拠点5年連続で縮小へ コスト...",
+    "sourceName": "保険デイリーニュース（やなはる）",
+    "sourceIcon": "📎",
+    "publishedAt": "2026-03-03T15:00:25.000Z",
+    "category": "insurance",
+    "keywords": [
+      "保険デイリーニュース(0",
+      "ース(03/04)"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": false,
+    "url": "http://blog.livedoor.jp/yanaharu_yanaharu/archives/65988988.html"
+  },
+  {
     "id": "rss-insurance-61e95dfa119464",
     "title": "PayPay（ペイペイ）で三井住友カードを使ってVポイント3000万ポイント山分けキャンペーンが開催中！2026年4月30日（木）まで",
     "summary": "PayPayで三井住友カードを使ってVポイント3000万ポイント山分けキャンペーン 三井住友カードは2026年3月2日（月）から「PayPayで三井住友カードを使ってVポイント3000万ポイント山分けキャンペーン」を開催 ...",
@@ -1810,6 +2049,54 @@
     "bannerClass": "from-emerald-900 to-teal-800",
     "isNew": false,
     "url": "https://www.money-press.info/paypay-smbccard3000manptyamawakecp/"
+  },
+  {
+    "id": "rss-insurance-0b8d2db870183c",
+    "title": "保険デイリーニュース(03/02)",
+    "summary": "本日の主なニュース ・損保リサーチ「おわび」を公表へ、社内調査結果も 元社員の連続放火・詐欺事件で ・損保「大災害債」、10年で4倍 世界の新規発行、昨年3.7兆円 被害補償で再保険を代替 ・住友生命が中堅の年収１００～１５０万円増へ、新入社員に続き待遇改善…成績...",
+    "sourceName": "保険デイリーニュース（やなはる）",
+    "sourceIcon": "📎",
+    "publishedAt": "2026-03-01T15:00:52.000Z",
+    "category": "insurance",
+    "keywords": [
+      "保険デイリーニュース(0",
+      "ース(03/02)"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": false,
+    "url": "http://blog.livedoor.jp/yanaharu_yanaharu/archives/65988964.html"
+  },
+  {
+    "id": "rss-insurance-e78a7cf80e3ee6",
+    "title": "保険デイリーニュース(02/27)",
+    "summary": "本日の主なニュース ・SOMPO、米損保のアスペン買収完了 5400億円規模 ・｢大災害債｣10年で4倍3兆円超 世界の損保、保険料だけで賄えず ・生保業界に大ナタ､金融庁が狙う｢伏魔殿｣解体／｢高市一強｣時代とプルデンシャル不祥事で狭まる規制強化の包囲網 ・住友生命、平均５％...",
+    "sourceName": "保険デイリーニュース（やなはる）",
+    "sourceIcon": "📎",
+    "publishedAt": "2026-02-26T15:00:08.000Z",
+    "category": "insurance",
+    "keywords": [
+      "保険デイリーニュース(0",
+      "ース(02/27)"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": false,
+    "url": "http://blog.livedoor.jp/yanaharu_yanaharu/archives/65988921.html"
+  },
+  {
+    "id": "rss-insurance-07145d42e4a67d",
+    "title": "保険デイリーニュース(02/24)",
+    "summary": "本日の主なニュース ・車保険料1・8％値上げへ 損保ジャパン、今年2回目 ・損保ジャパン、ドローンで森林調査 自治体向け、日立系と連携 ・【社長交代】三井住友海上社長に海山裕氏 “合併とビジネスモデル変革が使命” ・比較推奨販売が大幅見直し、自動車ディーラーと損...",
+    "sourceName": "保険デイリーニュース（やなはる）",
+    "sourceIcon": "📎",
+    "publishedAt": "2026-02-23T15:00:31.000Z",
+    "category": "insurance",
+    "keywords": [
+      "保険デイリーニュース(0",
+      "ース(02/24)"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": false,
+    "url": "http://blog.livedoor.jp/yanaharu_yanaharu/archives/65988891.html"
   },
   {
     "id": "rss-insurance-8dfd8babe1147f",
