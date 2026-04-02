@@ -1,0 +1,41 @@
+# 1 日 2 回（JST 9:00 / 21:00）RSS を取り込み、news-feed.json をコミットして push → Render が自動ビルド
+# 手動: Actions → 「Refresh news feed」→ Run workflow
+
+name: Refresh news feed
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - run: npm ci
+
+      - name: Fetch RSS and write public/news-feed.json
+        run: node scripts/fetch-external-news.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/news-feed.json
+          if git diff --staged --quiet; then
+            echo "No changes to news-feed.json"
+          else
+            git commit -m "chore: refresh news-feed.json"
+            git push
+          fi
