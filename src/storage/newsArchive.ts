@@ -1,5 +1,6 @@
 import type { NewsItem } from '../data/mockNews'
 import { MOCK_NEWS } from '../data/mockNews'
+import { normalizeNewsUrl } from '../lib/normalizeNewsUrl'
 import { sortNewsItems } from '../lib/newsSort'
 
 const STORAGE_KEY = 'news-matome-archive-v1'
@@ -42,11 +43,13 @@ export function mergeCumulative(
 ): NewsItem[] {
   const byUrl = new Map<string, NewsItem>()
   for (const x of existing) {
-    byUrl.set(x.url, x)
+    const u = normalizeNewsUrl(x.url)
+    byUrl.set(u, { ...x, url: u })
   }
   // 同じ URL はフィード側（incoming）を優先（sortBoost など最新メタを反映）
   for (const x of incoming) {
-    byUrl.set(x.url, x)
+    const u = normalizeNewsUrl(x.url)
+    byUrl.set(u, { ...x, url: u })
   }
   return sortNewsItems([...byUrl.values()])
 }

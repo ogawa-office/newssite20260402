@@ -154,7 +154,8 @@ const FEEDS = [
     bannerClass: 'from-amber-900 to-orange-950',
     max: 12,
     lang: 'ja',
-    sortBoost: 5,
+    // 週次まとめで pubDate が古く、他ソースに埋もれやすい → 並び上げを強めに
+    sortBoost: 18,
   },
   {
     url: 'https://www.shinnihon-ins.co.jp/industry-news/feed/',
@@ -287,6 +288,15 @@ async function translateToJa(text) {
 
 function hashUrl(u) {
   return createHash('sha256').update(u).digest('hex').slice(0, 14)
+}
+
+/** livedoor の記事URLを https に揃える（クライアントの merge と同じ） */
+function normalizeNewsUrl(u) {
+  const s = String(u ?? '').trim().split('#')[0]
+  if (s.startsWith('http://blog.livedoor.jp/')) {
+    return `https://${s.slice('http://'.length)}`
+  }
+  return s
 }
 
 /** 日本語タイトルから簡易キーワード（句読点・空白で分割、足りなければ先頭から区切り） */
@@ -493,11 +503,12 @@ function isNewish(iso) {
  * @param {(typeof FEEDS)[number]} meta
  */
 function itemToNews(item, meta) {
-  const link =
+  const linkRaw =
     item.link ||
     item.guid ||
     (typeof item.id === 'string' ? item.id : '') ||
     ''
+  const link = normalizeNewsUrl(linkRaw)
   if (!link) return null
   const title = stripHtml(item.title) || '(無題)'
   const raw =
@@ -520,7 +531,7 @@ function itemToNews(item, meta) {
     keywords: pickKeywords(title, meta.lang),
     bannerClass: meta.bannerClass,
     isNew: isNewish(publishedAt),
-    url: link.split('#')[0],
+    url: link,
     ...(sortBoost > 0 ? { sortBoost } : {}),
   }
 }
