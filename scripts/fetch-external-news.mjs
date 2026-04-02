@@ -24,7 +24,14 @@ const parser = new Parser({
 
 /** @type {Array<{ url: string; category: NewsCategory; sourceName: string; sourceIcon: string; bannerClass: string; max: number; lang?: 'ja' }>} */
 const FEEDS = [
-  // --- 英語 ---
+  了解です。ではニッセイはそのままにして、当初の方針で進めます。
+  実施内容：
+  
+  削除：金融庁（調達・入札）、PRESIDENT Online、ダイヤモンド・オンライン、ASCII.jp
+  追加：Reinsurance News、The Insurer、Artemis、Risk.net（Insurance Insiderはスキップ）
+  reinsurance カテゴリを新設してArtemis・Reinsurance Newsを分類
+  
+  javascript// --- 英語 ---
   {
     url: 'https://techcrunch.com/feed/',
     category: 'ai',
@@ -47,6 +54,38 @@ const FEEDS = [
     sourceName: 'Insurance Journal',
     sourceIcon: '🛡️',
     bannerClass: 'from-slate-800 via-slate-700 to-amber-900/90',
+    max: 5,
+  },
+  {
+    url: 'https://reinsurancene.ws/feed/',
+    category: 'reinsurance',
+    sourceName: 'Reinsurance News',
+    sourceIcon: '🔁',
+    bannerClass: 'from-indigo-950 via-blue-900 to-slate-800',
+    max: 6,
+  },
+  {
+    url: 'https://www.theinsurer.com/feed/',
+    category: 'reinsurance',
+    sourceName: 'The Insurer',
+    sourceIcon: '🏢',
+    bannerClass: 'from-slate-900 via-indigo-950 to-blue-950',
+    max: 5,
+  },
+  {
+    url: 'https://www.artemis.bm/feed/',
+    category: 'reinsurance',
+    sourceName: 'Artemis',
+    sourceIcon: '🎯',
+    bannerClass: 'from-violet-950 via-purple-900 to-indigo-950',
+    max: 6,
+  },
+  {
+    url: 'https://www.risk.net/rss',
+    category: 'insurance',
+    sourceName: 'Risk.net',
+    sourceIcon: '⚖️',
+    bannerClass: 'from-zinc-900 via-slate-800 to-neutral-900',
     max: 5,
   },
   {
@@ -76,15 +115,6 @@ const FEEDS = [
     lang: 'ja',
   },
   {
-    url: 'https://ascii.jp/rss.xml',
-    category: 'ai',
-    sourceName: 'ASCII.jp',
-    sourceIcon: '🇯🇵',
-    bannerClass: 'from-slate-800 to-indigo-900',
-    max: 5,
-    lang: 'ja',
-  },
-  {
     url: 'https://gigazine.net/news/rss_2.0/',
     category: 'ai_theory',
     sourceName: 'GIGAZINE',
@@ -102,7 +132,6 @@ const FEEDS = [
     max: 4,
     lang: 'ja',
   },
-  // 保険・金融行政・シンクタンク（大手生保・損保の多くは公式RSS未提供のため未掲載）
   {
     url: 'https://www.fsa.go.jp/fsaNewsListAll_rss2.xml',
     category: 'insurance',
@@ -113,18 +142,9 @@ const FEEDS = [
     lang: 'ja',
   },
   {
-    url: 'https://www.fsa.go.jp/fsaProcurementList_rss2.xml',
-    category: 'insurance',
-    sourceName: '金融庁（調達・入札）',
-    sourceIcon: '🏛️',
-    bannerClass: 'from-zinc-800 to-neutral-800',
-    max: 5,
-    lang: 'ja',
-  },
-  {
     url: 'https://www.nli-research.co.jp/rss/?data_format=xml&site=nli&tag_category_id=11',
     category: 'insurance',
-    sourceName: 'ニッセイ基礎研究所（保険）',
+    sourceName: 'ニッセイ基礎研（保険）',
     sourceIcon: '🇯🇵',
     bannerClass: 'from-teal-950 to-emerald-900',
     max: 8,
@@ -133,7 +153,7 @@ const FEEDS = [
   {
     url: 'https://www.nli-research.co.jp/rss/?data_format=xml&site=nli&tag_category_id=9',
     category: 'insurance',
-    sourceName: 'ニッセイ基礎研究所（年金）',
+    sourceName: 'ニッセイ基礎研（年金）',
     sourceIcon: '🇯🇵',
     bannerClass: 'from-cyan-950 to-teal-900',
     max: 6,
@@ -142,7 +162,7 @@ const FEEDS = [
   {
     url: 'https://www.nli-research.co.jp/rss/?data_format=xml&site=nli&tag_category_id=10',
     category: 'insurance',
-    sourceName: 'ニッセイ基礎研究所（社会保障）',
+    sourceName: 'ニッセイ基礎研（社会保障）',
     sourceIcon: '🇯🇵',
     bannerClass: 'from-emerald-950 to-green-900',
     max: 6,
@@ -151,7 +171,7 @@ const FEEDS = [
   {
     url: 'https://www.nli-research.co.jp/rss/?data_format=xml&site=nli&tag_category_id=7',
     category: 'insurance',
-    sourceName: 'ニッセイ基礎研究所（金融・為替）',
+    sourceName: 'ニッセイ基礎研（金融・為替）',
     sourceIcon: '🇯🇵',
     bannerClass: 'from-blue-950 to-indigo-950',
     max: 6,
@@ -181,24 +201,6 @@ const FEEDS = [
     sourceName: '東洋経済オンライン',
     sourceIcon: '🇯🇵',
     bannerClass: 'from-green-950 to-emerald-900',
-    max: 5,
-    lang: 'ja',
-  },
-  {
-    url: 'https://president.jp/list/rss',
-    category: 'market',
-    sourceName: 'PRESIDENT Online',
-    sourceIcon: '🇯🇵',
-    bannerClass: 'from-violet-950 to-indigo-900',
-    max: 5,
-    lang: 'ja',
-  },
-  {
-    url: 'https://diamond.jp/list/rss',
-    category: 'market',
-    sourceName: 'ダイヤモンド・オンライン',
-    sourceIcon: '🇯🇵',
-    bannerClass: 'from-zinc-900 to-slate-800',
     max: 5,
     lang: 'ja',
   },
@@ -451,7 +453,15 @@ function itemToNews(item, meta) {
 
 async function fetchFeed(meta) {
   try {
-    const feed = await parser.parseURL(meta.url)
+    // rss-parser 側の timeout 設定が効かないケースがあるため、
+    // ここで強制的に打ち切る（Actions で1時間以上固まるのを防ぐ）
+    const FEED_TIMEOUT_MS = 30000
+    const feed = await Promise.race([
+      parser.parseURL(meta.url),
+      new Promise((_, reject) =>
+        setTimeout(() => reject(new Error('feed timeout')), FEED_TIMEOUT_MS),
+      ),
+    ])
     const out = []
     const items = feed.items ?? []
     for (const it of items) {
@@ -467,8 +477,12 @@ async function fetchFeed(meta) {
 }
 
 async function main() {
-  const batches = await Promise.all(FEEDS.map((f) => fetchFeed(f)))
-  const merged = batches.flat()
+  // 同時取得（Promise.all）にすると、どれかが遅延した時に全体が長引くため直列取得にする
+  const merged = []
+  for (const f of FEEDS) {
+    const part = await fetchFeed(f)
+    merged.push(...part)
+  }
   merged.sort(
     (a, b) =>
       new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
