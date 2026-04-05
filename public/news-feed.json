@@ -12,7 +12,7 @@
       "米国子会社を新設"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260403-4/",
     "sortBoost": 5
   },
@@ -29,7 +29,7 @@
       "厚生労働省から「プラチナくるみん」認定を取得"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260403-3/",
     "sortBoost": 5
   },
@@ -47,7 +47,7 @@
       "2026」に認定"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260403-2/",
     "sortBoost": 5
   },
@@ -67,7 +67,7 @@
       "別広告を4月4日に実施"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260403/",
     "sortBoost": 5
   },
@@ -77,7 +77,7 @@
     "summary": "「暗号資産交換業等におけるサイバーセキュリティ強化に向けた取組方針（案）」に対するパブリック・コメントの結果等について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-05T01:25:27.993Z",
+    "publishedAt": "2026-04-05T12:33:49.722Z",
     "category": "insurance",
     "keywords": [
       "「暗号資産交換業等におけ",
@@ -96,7 +96,7 @@
     "summary": "その他,「金融機関のサードパーティ・サイバーセキュリティリスク管理強化に関する調査」報告書等について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-05T01:25:27.993Z",
+    "publishedAt": "2026-04-05T12:33:49.722Z",
     "category": "insurance",
     "keywords": [
       "その他,「金融機関のサー",
@@ -115,7 +115,7 @@
     "summary": "「FinTech実証実験ハブ・決済高度化プロジェクト（PIP）」支援決定案件について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-05T01:25:27.993Z",
+    "publishedAt": "2026-04-05T12:33:49.722Z",
     "category": "insurance",
     "keywords": [
       "「FinTech実証実験",
@@ -134,7 +134,7 @@
     "summary": "採用,職員を募集しています。（保険会社等のモニタリング業務等に従事する職員）",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-05T01:25:27.993Z",
+    "publishedAt": "2026-04-05T12:33:49.722Z",
     "category": "insurance",
     "keywords": [
       "採用,職員を募集しています",
@@ -150,7 +150,7 @@
     "summary": "「コーポレートガバナンス・コードの改訂に関する有識者会議」（令和７年度第３回）議事次第について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-05T01:25:27.993Z",
+    "publishedAt": "2026-04-05T12:33:49.722Z",
     "category": "insurance",
     "keywords": [
       "「コーポレートガバナンス",
@@ -169,7 +169,7 @@
     "summary": "採用,非常勤職員を募集しています。（専門調査員）",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-05T01:25:27.993Z",
+    "publishedAt": "2026-04-05T12:33:49.722Z",
     "category": "insurance",
     "keywords": [
       "採用,非常勤職員を募集しています",
@@ -185,7 +185,7 @@
     "summary": "採用,職員を募集しています。（国際関連業務に従事する職員）",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-05T01:25:27.993Z",
+    "publishedAt": "2026-04-05T12:33:49.722Z",
     "category": "insurance",
     "keywords": [
       "採用,職員を募集しています",
@@ -201,7 +201,7 @@
     "summary": "「企業内容等の開示に関する内閣府令の一部を改正する内閣府令」の公布等について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-05T01:25:27.993Z",
+    "publishedAt": "2026-04-05T12:33:49.722Z",
     "category": "insurance",
     "keywords": [
       "「企業内容等の開示に関す",
@@ -215,20 +215,375 @@
     "url": "https://www.fsa.go.jp/news/r7/shouken/20260401/20260401.html"
   },
   {
-    "id": "rss-economy-2ac33176a8b8d7",
-    "title": "「スキマバイト」でトラブル なぜ",
-    "summary": "「スキマバイト」でトラブル なぜ",
-    "sourceName": "Yahoo!ニュース",
+    "id": "rss-economy-530d02d948dc28",
+    "title": "京都府知事選 現職の西脇隆俊氏 3回目の当選が確実",
+    "summary": "現職と新人の3人の争いとなった京都府知事選挙は、現職の西脇隆俊氏（70）の3回目の当選が確実になりました。",
+    "sourceName": "NHKニュース",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-05T01:00:56.000Z",
+    "publishedAt": "2026-04-05T12:23:15.000Z",
     "category": "economy",
     "keywords": [
-      "「スキマバイト」でトラブル",
-      "なぜ"
+      "京都府知事選",
+      "現職の西脇隆俊氏",
+      "3回目の当選が確実"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015090831000"
+  },
+  {
+    "id": "rss-economy-236d84cd01c5a5",
+    "title": "第3の賃上げ「社員食堂」回帰へ",
+    "summary": "第3の賃上げ「社員食堂」回帰へ",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-05T12:03:08.000Z",
+    "category": "economy",
+    "keywords": [
+      "第3の賃上げ「社員食堂」",
+      "員食堂」回帰へ"
     ],
     "bannerClass": "from-amber-900 to-orange-950",
     "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6575238?source=rss"
+    "url": "https://news.yahoo.co.jp/pickup/6575305?source=rss"
+  },
+  {
+    "id": "rss-ai_theory-192c36024f8e19",
+    "title": "「温かい風呂」につかることがマラソンランナーの走力を向上させるかもしれない",
+    "summary": "1日の終わりに温かい風呂につかり、疲れを取るのが日々の楽しみだという人もいるはず。学術誌のThe Journal of Physiologyに掲載された論文で、「温かい風呂につかることが長距離ランナーの走力を向上させる可能性がある」という興味深い研究結果が報告されました。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-05T12:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "「温かい風呂」につかるこ",
+      "つかることがマラソンラン",
+      "ソンランナーの走力を向上",
+      "力を向上させるかもしれな",
+      "もしれない"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260405-hot-baths-help-marathon-training/"
+  },
+  {
+    "id": "rss-economy-27ff87ae2ee6a5",
+    "title": "今年度予算案 自民 磯崎参院国対委員長 “今週前半に成立を”",
+    "summary": "参議院で審議が続く今年度予算案をめぐって、自民党の磯崎参議院国会対策委員長は、野党側が求める集中審議を複数回行ったうえで、今週前半に採決し、成立を図る考えを強調しました。",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-05T11:54:25.000Z",
+    "category": "economy",
+    "keywords": [
+      "今年度予算案",
+      "自民",
+      "磯崎参院国対委員長",
+      "“今週前半に成立を”"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015092491000"
+  },
+  {
+    "id": "rss-market-d89d9a74599acd",
+    "title": "Trump confirms missing U.S. crew member in Iran has been rescued",
+    "summary": "Trump says the officer was rescued \"deep in Enemy Territory\" in mountainous terrain.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-04-05T11:37:30.000Z",
+    "category": "market",
+    "keywords": [
+      "Trump",
+      "confirms",
+      "missing",
+      "crew",
+      "member"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/04/05/us-trump-confirms-missing-us-pilot-rescued.html",
+    "summaryJa": "トランプ大統領は、警官は「敵地の奥深く」山岳地帯で救助されたと述べた。"
+  },
+  {
+    "id": "rss-economy-0c8cbf88f7b051",
+    "title": "京都府知事選 西脇氏の3選確実",
+    "summary": "京都府知事選 西脇氏の3選確実",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-05T11:21:52.000Z",
+    "category": "economy",
+    "keywords": [
+      "京都府知事選",
+      "西脇氏の3選確実"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6575300?source=rss"
+  },
+  {
+    "id": "rss-ai_theory-f35b818c679163",
+    "title": "無料で不要なスマホ通知をフィルタリング・ブロックできるAndroidアプリ「DoNotNotify」レビュー",
+    "summary": "スマホアプリの通知機能は便利で有益である反面「この通知はいらない」と感じる局面が多く、その割にアプリ側で細かな通知のオンオフ設定はできない場合がほとんどです。DoNotNotifyはアプリ外から通知の許可・拒否を細かく設定できるAndroidアプリです。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-05T11:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "無料で不要なスマホ通知を",
+      "ホ通知をフィルタリング・",
+      "リング・ブロックできるA",
+      "できるAndroidアプ",
+      "idアプリ「DoNotN"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260405-do-not-notify/"
+  },
+  {
+    "id": "rss-economy-6c6fce93f4d306",
+    "title": "鳥取で強風 倒木や建物被害相次ぐ",
+    "summary": "鳥取で強風 倒木や建物被害相次ぐ",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-05T10:56:25.000Z",
+    "category": "economy",
+    "keywords": [
+      "鳥取で強風",
+      "倒木や建物被害相次ぐ"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6575298?source=rss"
+  },
+  {
+    "id": "rss-economy-69c9cf66e0cd11",
+    "title": "トランプ大統領“戦闘機の乗員救出” イラン側 徹底抗戦の構え",
+    "summary": "アメリカのトランプ大統領は5日、イランで撃墜され行方がわからなくなっていた戦闘機の乗員1人を救出したと明らかにしました。トランプ大統領は「彼らに地獄が降りかかるまであと48時間だ」として、ホルムズ海峡…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-05T10:38:06.000Z",
+    "category": "economy",
+    "keywords": [
+      "トランプ大統領“戦闘機の乗員救出”",
+      "イラン側",
+      "徹底抗戦の構え"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015092351000"
+  },
+  {
+    "id": "rss-economy-9016e8a23ac8f0",
+    "title": "政府 石油元売り会社に“重要施設への直接販売”要請の方針",
+    "summary": "イラン情勢の緊迫で、医療や公共交通などで必要な石油製品が調達できないという声が出ていることを受けて、政府は石油元売り会社に対し、重要施設に直接販売を行うよう近く文書で要請する方針を固めました。今後、ど…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-05T10:19:14.000Z",
+    "category": "economy",
+    "keywords": [
+      "政府石油元売り会社に“重",
+      "社に“重要施設への直接販",
+      "の直接販売”要請の方針",
+      "の方針"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015092581000"
+  },
+  {
+    "id": "rss-ai_theory-9e93ef32779fdc",
+    "title": "電子工作に必要なハードウェアをAIでサクッと調べられるウェブサイト「Open Hardware Directory」",
+    "summary": "シングルボードコンピューターや無線チップなどのオープンソースハードウェアの充実によって、自分好みのデバイスを自作できる環境が整いつつあります。しかし、電子工作初心者にとっては適切なデバイスの選定は難しいものです。そんな時に役立つウェブサイトが「Open Hardware Directory」で、膨大なオープンソースハードウェアの中から自分の目的に合ったデバイスをAIの力を借りつつ探すことができます。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-05T10:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "Hardware",
+      "Directory」"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260405-open-hardware-directory-diy/"
+  },
+  {
+    "id": "rss-economy-3ae9270adbca00",
+    "title": "米 中東に長距離ミサイル集中投入",
+    "summary": "米 中東に長距離ミサイル集中投入",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-05T09:12:01.000Z",
+    "category": "economy",
+    "keywords": [
+      "米中東に長距離ミサイル集",
+      "サイル集中投入"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6575292?source=rss"
+  },
+  {
+    "id": "rss-ai_theory-cae24c40fdc091",
+    "title": "無料で重複した動画ファイル・画像ファイルを類似性に基づいて検出する「Video Duplicate Finder」、他の重複ファイル検索ツールと異なり解像度やフレームレート違い・透かしの入った重複ファイルも検出可能",
+    "summary": "動画や画像ファイルの重複を検出するツールは数多くありますが、「ファイル名が一致する」・「ハッシュ値が一致する」など付加情報や完全一致でしか重複を判断できないケースがほとんどです。「Video Duplicate Finder」はファイルの形式や解像度が違ったり、透かしなど一部だけが加工されているような動画や画像でも、見た目の類似度から重複を検出できるオープンソースのツールです。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-05T09:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "無料で重複した動画ファイル",
+      "Duplicate",
+      "Finder」",
+      "透かしの入った重複ファイルも検出可能"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260405-video-duplicate-finder/"
+  },
+  {
+    "id": "rss-economy-cf3c394ab9a4db",
+    "title": "誤情報で「パニック買い」 注意",
+    "summary": "誤情報で「パニック買い」 注意",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-05T08:40:18.000Z",
+    "category": "economy",
+    "keywords": [
+      "誤情報で「パニック買い」",
+      "注意"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6575288?source=rss"
+  },
+  {
+    "id": "rss-ai_theory-8f4ca24e47288b",
+    "title": "ロケット自作に役立つ無料シミュレーター「OpenRocket Simulator」",
+    "summary": "日本時間の2026年4月2日に月のフライバイを目指すオリオン宇宙船が打ち上げられました。オリオン宇宙船には4人の宇宙飛行士が搭乗しており、50年以上ぶりに月を目指すミッションに興奮した人は多いはず。そんな宇宙関連ニュースに触発されてロケットの自作を夢見た人たちに役立ちそうなソフトウェアが「OpenRocket Simulator」です。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-05T08:37:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "ロケット自作に役立つ無料",
+      "立つ無料シミュレーター「",
+      "ーター「OpenRock",
+      "RocketSimula",
+      "mulator」"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260405-openrocket-simulator/"
+  },
+  {
+    "id": "rss-economy-b86afa4b5f3e71",
+    "title": "エンジェルス 外野手アデル “史上最高の守備” 米メディア",
+    "summary": "大リーグ、エンジェルスの外野手、アデル選手が4日のマリナーズ戦でホームラン性の当たりを1試合で3回キャッチする離れ業を見せ、チームを1対0の勝利に導きました。アメリカメディアは「史上最高の守備」などと…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-05T08:33:11.000Z",
+    "category": "economy",
+    "keywords": [
+      "エンジェルス",
+      "外野手アデル",
+      "“史上最高の守備”",
+      "米メディア"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015092501000"
+  },
+  {
+    "id": "rss-market-513287ae5ff8d1",
+    "title": "'Anything but autos': Can defense save Europe’s ailing car industry?",
+    "summary": "The transition from wheels to weapons is achievable in part because many of the underlying skills are highly transferable, according to experts.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-04-05T05:00:01.000Z",
+    "category": "market",
+    "keywords": [
+      "Anything",
+      "autos",
+      "defense",
+      "save",
+      "Europe"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/04/05/autos-defense-europe-car-industry.html",
+    "summaryJa": "専門家によれば、車輪から武器への移行は、基礎となるスキルの多くが高度に応用可能であるため、部分的には達成可能であるという。"
+  },
+  {
+    "id": "rss-economy-10b29faf5b807a",
+    "title": "｢頭の回転が速い人｣が実はやっている考え方 | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
+    "summary": "人と話していて、「この人、頭の回転が速いな」と感じた経験は、誰しも一度はあるのではないでしょうか。…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-05T05:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "｢頭の回転が速い人｣が実はやっている考え方",
+      "リーダーシップ",
+      "教養",
+      "資格",
+      "スキル"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/940181?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-4df968d3566fe5",
+    "title": "幼い頃の｢心の傷｣癒やす\"親との関係の手放し方\" | 健康 | 東洋経済オンライン",
+    "summary": "子どもの心を傷つけてしまう親も、必ずしも「悪い人」だったわけではありません。深い傷を抱え、感情をう…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-05T04:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "幼い頃の｢心の傷｣癒やす\"親との関係の手放し方\"",
+      "健康",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/939509?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-0a6ceb5b871be5",
+    "title": "人気編集者が手放した｢褒められたい｣の呪縛 | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
+    "summary": "2025年に放送された朝ドラ『あんぱん』は「決してひっくり返らない正義」を見つけるまでの、やなせたかし…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-05T03:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "人気編集者が手放した｢褒められたい｣の呪縛",
+      "リーダーシップ",
+      "教養",
+      "資格",
+      "スキル"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/938830?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-b3073a253dc61a",
+    "title": "娘とミュージアム､親の見たいものは\"全スルー\" | ちかごろのわかい娘と | 東洋経済オンライン",
+    "summary": "「もともと子育てには興味がなかった」、という実録系マンガ家・西アズナブル氏。ところが初育児で我が子…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-05T02:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "娘とミュージアム､親の見たいものは\"全スルー\"",
+      "ちかごろのわかい娘と",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/939884?utm_source=rss&utm_medium=http&utm_campaign=link_back"
   },
   {
     "id": "rss-economy-ce90cb9e4a9a01",
@@ -249,104 +604,6 @@
     "url": "https://toyokeizai.net/articles/-/939974?utm_source=rss&utm_medium=http&utm_campaign=link_back"
   },
   {
-    "id": "rss-economy-48283a26f5eaae",
-    "title": "NATOから米が脱退示唆 可能性は",
-    "summary": "NATOから米が脱退示唆 可能性は",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-05T00:44:42.000Z",
-    "category": "economy",
-    "keywords": [
-      "NATOから米が脱退示唆",
-      "可能性は"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6575235?source=rss"
-  },
-  {
-    "id": "rss-economy-1255611951b4f8",
-    "title": "「ドバイチョコ」ブーム続く背景",
-    "summary": "「ドバイチョコ」ブーム続く背景",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-05T00:28:47.000Z",
-    "category": "economy",
-    "keywords": [
-      "「ドバイチョコ」ブーム続",
-      "ブーム続く背景"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6575234?source=rss"
-  },
-  {
-    "id": "rss-economy-4eeb372b38c5de",
-    "title": "気温上昇 夏日予想も 関東は局地的に急な雷雨に注意",
-    "summary": "前線と低気圧の影響で、4日から5日明け方にかけては各地で雨や風が強まり、荒れた天気となりました。5日は西から次第に晴れて気温が上がり、25度以上の夏日となるところもある見込みです。",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-05T00:20:06.000Z",
-    "category": "economy",
-    "keywords": [
-      "気温上昇",
-      "夏日予想も",
-      "関東は局地的に急な雷雨に注意"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015092381000"
-  },
-  {
-    "id": "rss-economy-e814ed063b2ba1",
-    "title": "政府 燃料や石油製品を「仲介」",
-    "summary": "政府 燃料や石油製品を「仲介」",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-05T00:10:05.000Z",
-    "category": "economy",
-    "keywords": [
-      "政府",
-      "燃料や石油製品を「仲介」"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6575231?source=rss"
-  },
-  {
-    "id": "rss-economy-1d75415bfadf26",
-    "title": "｢戦隊ヒーロー休止｣に地球の裏側で起こった反響 | テレビ | 東洋経済オンライン",
-    "summary": "2月8日、テレビ朝日系列で放送されていた東映制作のスーパー戦隊シリーズ『ナンバーワン戦隊ゴジュウジャ…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-05T00:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "｢戦隊ヒーロー休止｣に地球の裏側で起こった反響",
-      "テレビ",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/939635?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-d0650f8b5e500e",
-    "title": "トランプ氏の圧力 イラン側が反発",
-    "summary": "トランプ氏の圧力 イラン側が反発",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-04T23:47:18.000Z",
-    "category": "economy",
-    "keywords": [
-      "トランプ氏の圧力",
-      "イラン側が反発"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6575229?source=rss"
-  },
-  {
     "id": "rss-ai-5ce5dd9649a72f",
     "title": "ChatGPTやClaudeが知らぬ間に操られる「間接的プロンプトインジェクション」の脅威",
     "summary": "AIエージェントの普及とともに、新たなサイバー攻撃「間接的プロンプトインジェクション」が注目されています。ChatGPTやClaude、開発ツールのVS Codeでも情報漏えいや不正操作を引き起こす可能性が確認されているこの手法について、仕組みを解説します。",
@@ -364,111 +621,6 @@
     "bannerClass": "from-sky-900 to-slate-800",
     "isNew": true,
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/05/news007.html"
-  },
-  {
-    "id": "rss-ai_theory-b1e628c3afbccf",
-    "title": "Steamでゲームを通じて音楽を無許可で配信しているとしてValveが提訴される",
-    "summary": "ゲーム配信プラットフォームのSteamを運営するValveが、イギリスの著作権管理団体であるPRS(Performing Right Society)から訴えられました。PRSは、Valveがゲームを配信することはゲーム内音楽を無許可で配信することにもなると訴えています。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-04T23:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "Steamでゲームを通じ",
-      "ムを通じて音楽を無許可で",
-      "無許可で配信しているとし",
-      "いるとしてValveが提",
-      "veが提訴される"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260405-steam-music-rights-lawsuit/"
-  },
-  {
-    "id": "rss-economy-497e5f6cd94c54",
-    "title": "犯罪者にアドバイスする｢悪徳弁護士｣の腹積もり | 九条の大罪 | 東洋経済オンライン",
-    "summary": "『闇金ウシジマくん』の真鍋昌平が新たに心血を注ぐ法とモラルの極限クライムエンタテインメント！弁護士…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-04T23:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "犯罪者にアドバイスする｢悪徳弁護士｣の腹積もり",
-      "九条の大罪",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/939708?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-fd109373cdfdab",
-    "title": "ゼレンスキー大統領 トルコと安全保障面の協力強化で合意",
-    "summary": "ウクライナのゼレンスキー大統領はトルコのエルドアン大統領と会談し、安全保障面での協力を強化することで合意したほか、トルコ側は、ウクライナとロシアの間の交渉を引き続き支援する考えを示しました。",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-04T22:42:07.000Z",
-    "category": "economy",
-    "keywords": [
-      "ゼレンスキー大統領",
-      "トルコと安全保障面の協力強化で合意"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015092391000"
-  },
-  {
-    "id": "rss-market-bfd26ad9bb586b",
-    "title": "Trump warns Iran '48 hours before all Hell will reign down,' while search for missing crew member intensifies",
-    "summary": "The U.S. military continued to search for a missing American airman on Saturday after an F-15E fighter jet was shot down over southwestern Iran.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-04-04T22:40:32.000Z",
-    "category": "market",
-    "keywords": [
-      "Trump",
-      "warns",
-      "Iran",
-      "hours",
-      "Hell"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/04/04/debris-from-interception-strikes-oracle-building-in-dubai-uae-says.html",
-    "summaryJa": "米軍は土曜日、イラン南西部上空でF-15E戦闘機が撃墜され、行方不明のアメリカ人航空士の捜索を続けた。"
-  },
-  {
-    "id": "rss-economy-69c9cf66e0cd11",
-    "title": "イラン「新防空システム導入」 トランプ大統領「あと48時間」",
-    "summary": "イラン情勢をめぐってアメリカの戦闘機など2機がイランの攻撃を受けて墜落したと伝えられる中、イランの中央司令部の報道官は、新しい防空システムの導入で撃墜に成功したと主張しました。一方、アメリカのトランプ…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-04T22:21:25.000Z",
-    "category": "economy",
-    "keywords": [
-      "イラン「新防空システム導入」",
-      "トランプ大統領「あと48時間」"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015092351000"
-  },
-  {
-    "id": "rss-economy-56d56c5dd0e290",
-    "title": "｢東大に淡い未練｣防衛大で仮面浪人した彼の悔恨 | 浪人したら人生「劇的に」変わった | 東洋経済オンライン",
-    "summary": "今日は、灘高等学校を卒業後、防衛大学校に進学し、大学内で東大を目指して仮面浪人を経験した大前秀人さ…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-04T22:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "｢東大に淡い未練｣防衛大で仮面浪人した彼の悔恨",
-      "浪人したら人生「劇的に」変わった",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/939694?utm_source=rss&utm_medium=http&utm_campaign=link_back"
   },
   {
     "id": "rss-ai-ccf0cbede1f609",
@@ -491,25 +643,6 @@
     "summaryJa": "なぜファウンダーズ・ファンドは牛管理スタートアップのホルター社に2億2,000万ドルを投資したのでしょうか?"
   },
   {
-    "id": "rss-market-7b0a3be76a03ac",
-    "title": "Polymarket removes wagers on U.S. service member rescue mission in Iran",
-    "summary": "Rep. Seth Moulton, D-Mass., called the market \"DISGUSTING\" and said bettors were wagering on whether American troops would be saved.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-04-04T21:08:16.000Z",
-    "category": "market",
-    "keywords": [
-      "Polymarket",
-      "removes",
-      "wagers",
-      "service",
-      "member"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/04/04/polymarket-war-bet-iran-rescue-prediction-market-moulton.html"
-  },
-  {
     "id": "rss-ai-b1c80615dd89d7",
     "title": "Embattled startup Delve has ‘parted ways’ with Y Combinator",
     "summary": "The controversy around Delve appears to have cost the compliance startup its relationship with accelerator Y Combinator.",
@@ -528,39 +661,6 @@
     "isNew": true,
     "url": "https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/",
     "summaryJa": "Delve をめぐる論争により、コンプライアンス関連のスタートアップである同社とアクセラレータの Y Combinator との関係が損なわれたようだ。"
-  },
-  {
-    "id": "rss-economy-ffa7ce066488fe",
-    "title": "｢発達に特性のある子への教育｣の意外な汎用性 | 東洋経済education×ICT | 東洋経済オンライン",
-    "summary": "新年度を前に、学級運営への関心が高まっている。新しいクラスをどうまとめるか、多くの教員が、不安と期…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-04T21:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "｢発達に特性のある子への教育｣の意外な汎用性",
-      "東洋経済education×ICT",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/939671?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-b9e4606d4085ff",
-    "title": "国立公園制度100年の2031年へ環境省 訪日外国人利用増やす方針",
-    "summary": "国立公園の制度が始まって2031年で100年になるのに向けて、環境省は今後5年間で園内の廃屋撤去などで景観を改善し、ブランド力向上を図ることで訪日外国人の利用者数をおよそ1.4倍に増やす方針を示しまし…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-04T20:30:44.000Z",
-    "category": "economy",
-    "keywords": [
-      "国立公園制度100年の2031年へ環境省",
-      "訪日外国人利用増やす方針"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015092321000"
   },
   {
     "id": "rss-ai-1ae4914c85aec0",
@@ -599,27 +699,7 @@
     ],
     "bannerClass": "from-indigo-950 to-blue-800",
     "isNew": true,
-    "url": "https://www.cnbc.com/2026/04/04/warsh-fed-nomination-hearing-set-for-mid-april.html",
-    "summaryJa": "上院委員会は、委員の一人が依然として指名阻止を計画しているにもかかわらず、ケビン・ウォーシュ氏の指名を検討する予定である。"
-  },
-  {
-    "id": "rss-market-c8ac234d7abb8c",
-    "title": "U.S.-Iran war 'tax' begins to hit American businesses and consumers",
-    "summary": "A U.S.-Iran war 'tax' is beginning to hit consumers as diesel and jet fuel prices rise and stress business profitability, and there is no relief in sight.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-04-04T13:16:08.000Z",
-    "category": "market",
-    "keywords": [
-      "-Iran",
-      "war",
-      "tax",
-      "begins",
-      "hit"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/04/04/us-iran-war-gas-prices-diesel-jet-fuel-economy-consumer-tax.html"
+    "url": "https://www.cnbc.com/2026/04/04/warsh-fed-nomination-hearing-set-for-mid-april.html"
   },
   {
     "id": "rss-ai-5a713663bbd550",
@@ -640,119 +720,6 @@
     "isNew": true,
     "url": "https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/",
     "summaryJa": "ミッコ・ヒッポネンは、サイバーセキュリティ業界で最もよく知られた人物の 1 人です。 35 年以上コンピューター ウイルス、ワーム、マルウェアと戦ってきた彼は、現在殺人ドローンを阻止するシステムの開発に取り組んでいる理由を TechCrunch に語った。"
-  },
-  {
-    "id": "rss-ai_theory-647b7b9b288ec3",
-    "title": "パイプカット手術を受ける男性が大学バスケの全米トーナメントに合わせて増加する理由とは？",
-    "summary": "精巣で作られる精子を運ぶ精管を切除する精管結紮(パイプカット)は、男性向けの避妊手術として幅広く行われています。アメリカでは、3月～4月に行われる大学バスケットボールの大会に合わせて、パイプカットの手術を受ける男性が急増するとのことで、科学系メディアのScience Alertがその理由について解説しました。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-04T13:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "パイプカット手術を受ける",
-      "を受ける男性が大学バスケ",
-      "学バスケの全米トーナメン",
-      "ーナメントに合わせて増加",
-      "せて増加する理由とは？"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260404-vasectomies-spike-during-major-basketball-event/"
-  },
-  {
-    "id": "rss-economy-dc34b3431cf2a4",
-    "title": "原油 来年の年明けまで確保できると見込む 政府",
-    "summary": "イラン情勢の緊迫で原油の安定供給への懸念が続く中、政府は、ホルムズ海峡を通らない代替ルートなどを使って、5月には、去年の実績の6割程度まで原油を確保できるめどがたったとしていることが関係者への取材でわ…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-04T12:57:41.000Z",
-    "category": "economy",
-    "keywords": [
-      "原油",
-      "来年の年明けまで確保できると見込む",
-      "政府"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015092241000"
-  },
-  {
-    "id": "rss-market-65279964c75c8a",
-    "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win",
-    "summary": "In dominating consumer devices, Apple sold users on the promise of privacy. To compete in AI, it may have to pivot.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-04-04T12:00:01.000Z",
-    "category": "market",
-    "keywords": [
-      "Apple",
-      "iPhone",
-      "maker",
-      "blew",
-      "5-year"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html",
-    "summaryJa": "Apple は消費者向けデバイスを独占する中で、プライバシーを約束してユーザーを売り込みました。 AI で競争するには、方向転換する必要があるかもしれません。"
-  },
-  {
-    "id": "rss-ai_theory-f4bbaa06151bac",
-    "title": "AIデータセンター建設計画の半数は変圧器やバッテリー不足で延期または取り消しになる見込み",
-    "summary": "AI需要の高まりに合わせて、多くのAIデータセンターを建設する計画が進められていますが、その半数は延期またはキャンセルになる見込みであることがわかりました。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-04T12:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "AIデータセンター建設計",
-      "ー建設計画の半数は変圧器",
-      "は変圧器やバッテリー不足",
-      "リー不足で延期または取り",
-      "たは取り消しになる見込み"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260404-ai-data-center-delayed-canceled/"
-  },
-  {
-    "id": "rss-ai_theory-bceec12a3fb67f",
-    "title": "人間工学マウスの空洞に推しのアイテムを飾れるサンワサプライの「推し活マウス」を使ってみた",
-    "summary": "サンワダイレクトの「推し活マウス 400-MAWB217BK」は3分の充電で約2カ月長持ちする超急速充電に対応したマウスで、握る手が疲れにくい立体的なエルゴノミクス(人間工学)構造になっています。エルゴノミクスマウス特有の縦に高い構造の中に小型のフィギュアや缶バッジなどを飾れるようになっており、PC操作しながら「推し活」できるマウスとのことなので、どのようなものか実際に使ってみました。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-04T10:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "人間工学マウスの空洞に推",
-      "空洞に推しのアイテムを飾",
-      "テムを飾れるサンワサプラ",
-      "ワサプライの「推し活マウ",
-      "し活マウス」を使ってみた"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260404-sanwa-400-mawb217bk/"
-  },
-  {
-    "id": "rss-ai_theory-0a7f6027e630e6",
-    "title": "無料でオープンソースの「Claude Cowork」代替ソフト「OpenWork」レビュー",
-    "summary": "デスクトップの操作をAIに指示して実行させることができるClaude Coworkは、便利なAIツールですがClaude Codeを利用するため使用料がかかります。無料でオープンソースの「OpenWork」では、自由にAIプロバイダサービスが選択できるOpenCodeを利用することで、無料で自動化環境が構築できます。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-04T09:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "無料でオープンソースの「",
-      "ースの「ClaudeCo",
-      "deCowork」代替ソ",
-      "」代替ソフト「OpenW",
-      "penWork」レビュー"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260404-openwork/"
   },
   {
     "id": "rss-ai-4b0bfe97681515",
@@ -1001,6 +968,25 @@
     "summaryJa": "労働省によると、雇用主は予想をはるかに上回る17万8000人の雇用を追加した。"
   },
   {
+    "id": "rss-market-ce964dc4420e8f",
+    "title": "The Tech Download: Defense startups eye Iran war windfall as U.S. and Gulf states turn to tech",
+    "summary": "Funding for defense startups has ballooned in recent years as militaries scramble to modernize.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-04-03T11:00:01.000Z",
+    "category": "market",
+    "keywords": [
+      "Tech",
+      "Download",
+      "Defense",
+      "startups",
+      "eye"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": false,
+    "url": "https://www.cnbc.com/2026/04/03/the-tech-download-defense-startups-eye-iran-war-windfall.html"
+  },
+  {
     "id": "rss-insurance-50bd52f6b39b69",
     "title": "ADB issuing its first parametric catastrophe bonds, for Kyrgyz Republic & Tajikistan",
     "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. The Asian Development Bank (ADB) is in the market to issue its first catastrophe bonds with two offerings totalling $150 million of notes, that are designed to provide $75 million of multi-year parametric earthquake and extreme precipitation disaster risk transfer to each of the Kyrgyz Republic and Tajikistan, Artemis can report. We understand these first […] ADB issuing its first parametric catastrophe bonds, for Kyrgyz Republic & Tajikistan was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
@@ -1016,85 +1002,29 @@
       "bonds"
     ],
     "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.artemis.bm/news/adb-issuing-its-first-parametric-catastrophe-bonds-for-kyrgyz-republic-tajikistan/?utm_source=rss&utm_medium=rss&utm_campaign=adb-issuing-its-first-parametric-catastrophe-bonds-for-kyrgyz-republic-tajikistan",
     "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。アルテミスの報告によると、アジア開発銀行（ADB）は、キルギス共和国とタジキスタンのそれぞれに複数年にわたるパラメトリック地震と極度の降雨による災害リスク移転として7,500万ドルを提供することを目的とした2つの発行総額1億5,000万ドルの債券を含む初の大災害債券を発行する市場に参入しているとのこと。私たちはこれらのことを最初に理解しています […] ADB、キルギス共和国とタジキスタン向けに初のパラメトリック災害債券を発行 発行元: www.Artemis.bm 災害債券取引ディレクトリ 私たちの無料週刊誌"
   },
   {
-    "id": "rss-insurance-95869b166ecc17",
-    "title": "グローバル株式市場動向(2026年3月)－エネルギーが上昇する一方、他業種は全て下落",
-    "summary": "■要旨 米国・イスラエルによるイラン攻撃に端を発した中東情勢の緊迫化とホルムズ海峡封鎖により原油価格は急騰した。これにより世界の株式市場ではエネルギーを除いた幅広い業種が下落した。原油先物市場からは年後半の原油価格下落が見込まれているが、ホルムズ海峡封鎖が長引いた場合には原油価格高騰や株式市場への下押しが繰り返されるリスクもある。 ■目次 1――エネルギーが上昇する一方、他業種は全て下落 2――国・業種別の動向 3――世界の主要企業の株価動向 4――今後の見通しと注目されるテーマ2026年3月、世界の株式市場は下落した。米国・イスラエルによるイラン攻撃に端を発した中東情勢の緊迫化とホルムズ海峡封鎖により原油価格は急騰した。これによりエネルギーを除いた幅広い業種が下落した。代表的な世界株指数(含む新興国)であるMSCI All Country World Index (MSCI ACWI)の騰落率1は2026年3月▲7.4％、過去1年(2025年4月-2026年3月)では+18.4％となった(図表１)。 先進国と新興国を比べると、先進国が新興国を上回った。先進国(MSCI World Index)が▲6.6％、新興国(MSCI Emerging Markets Index)が▲13.2％となった(図表２)。グロース・バリューでは、グロース指数(MSCI ACWI Growth Index)が▲7.6％、バリュー指数(MSCI ACWI Value Index)が▲7.2％とバリュー優位となった(図表３)。企業規模別では、大型株(MSCI ACWI Large Cap Index)が▲7.2％、中型株(MSCI ACWI Mid Cap Index)が▲8.3％、小型株(MSCI ACWI Small Cap Index)が▲8.4％と大",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T06:43:16.000Z",
-    "category": "insurance",
+    "id": "rss-market-cd6e662a612951",
+    "title": "Chinese chip firms hit record high revenue driven by the AI boom and U.S. curbs",
+    "summary": "Chinese chip companies have benefited from strong domestic demand for AI as U.S. tech curbs have bolstered local firms.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-04-03T05:00:01.000Z",
+    "category": "market",
     "keywords": [
-      "グローバル株式市場動向(",
-      "場動向(2026年3月)",
-      "年3月)－エネルギーが上",
-      "ギーが上昇する一方、他業",
-      "方、他業種は全て下落"
+      "Chinese",
+      "chip",
+      "firms",
+      "hit",
+      "record"
     ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85097?site=nli"
-  },
-  {
-    "id": "rss-insurance-95869b166ecc17",
-    "title": "グローバル株式市場動向(2026年3月)－エネルギーが上昇する一方、他業種は全て下落",
-    "summary": "■要旨 米国・イスラエルによるイラン攻撃に端を発した中東情勢の緊迫化とホルムズ海峡封鎖により原油価格は急騰した。これにより世界の株式市場ではエネルギーを除いた幅広い業種が下落した。原油先物市場からは年後半の原油価格下落が見込まれているが、ホルムズ海峡封鎖が長引いた場合には原油価格高騰や株式市場への下押しが繰り返されるリスクもある。 ■目次 1――エネルギーが上昇する一方、他業種は全て下落 2――国・業種別の動向 3――世界の主要企業の株価動向 4――今後の見通しと注目されるテーマ2026年3月、世界の株式市場は下落した。米国・イスラエルによるイラン攻撃に端を発した中東情勢の緊迫化とホルムズ海峡封鎖により原油価格は急騰した。これによりエネルギーを除いた幅広い業種が下落した。代表的な世界株指数(含む新興国)であるMSCI All Country World Index (MSCI ACWI)の騰落率1は2026年3月▲7.4％、過去1年(2025年4月-2026年3月)では+18.4％となった(図表１)。 先進国と新興国を比べると、先進国が新興国を上回った。先進国(MSCI World Index)が▲6.6％、新興国(MSCI Emerging Markets Index)が▲13.2％となった(図表２)。グロース・バリューでは、グロース指数(MSCI ACWI Growth Index)が▲7.6％、バリュー指数(MSCI ACWI Value Index)が▲7.2％とバリュー優位となった(図表３)。企業規模別では、大型株(MSCI ACWI Large Cap Index)が▲7.2％、中型株(MSCI ACWI Mid Cap Index)が▲8.3％、小型株(MSCI ACWI Small Cap Index)が▲8.4％と大",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T06:43:16.000Z",
-    "category": "insurance",
-    "keywords": [
-      "グローバル株式市場動向(",
-      "場動向(2026年3月)",
-      "年3月)－エネルギーが上",
-      "ギーが上昇する一方、他業",
-      "方、他業種は全て下落"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85097?site=nli"
-  },
-  {
-    "id": "rss-insurance-95869b166ecc17",
-    "title": "グローバル株式市場動向(2026年3月)－エネルギーが上昇する一方、他業種は全て下落",
-    "summary": "■要旨 米国・イスラエルによるイラン攻撃に端を発した中東情勢の緊迫化とホルムズ海峡封鎖により原油価格は急騰した。これにより世界の株式市場ではエネルギーを除いた幅広い業種が下落した。原油先物市場からは年後半の原油価格下落が見込まれているが、ホルムズ海峡封鎖が長引いた場合には原油価格高騰や株式市場への下押しが繰り返されるリスクもある。 ■目次 1――エネルギーが上昇する一方、他業種は全て下落 2――国・業種別の動向 3――世界の主要企業の株価動向 4――今後の見通しと注目されるテーマ2026年3月、世界の株式市場は下落した。米国・イスラエルによるイラン攻撃に端を発した中東情勢の緊迫化とホルムズ海峡封鎖により原油価格は急騰した。これによりエネルギーを除いた幅広い業種が下落した。代表的な世界株指数(含む新興国)であるMSCI All Country World Index (MSCI ACWI)の騰落率1は2026年3月▲7.4％、過去1年(2025年4月-2026年3月)では+18.4％となった(図表１)。 先進国と新興国を比べると、先進国が新興国を上回った。先進国(MSCI World Index)が▲6.6％、新興国(MSCI Emerging Markets Index)が▲13.2％となった(図表２)。グロース・バリューでは、グロース指数(MSCI ACWI Growth Index)が▲7.6％、バリュー指数(MSCI ACWI Value Index)が▲7.2％とバリュー優位となった(図表３)。企業規模別では、大型株(MSCI ACWI Large Cap Index)が▲7.2％、中型株(MSCI ACWI Mid Cap Index)が▲8.3％、小型株(MSCI ACWI Small Cap Index)が▲8.4％と大",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T06:43:16.000Z",
-    "category": "insurance",
-    "keywords": [
-      "グローバル株式市場動向(",
-      "場動向(2026年3月)",
-      "年3月)－エネルギーが上",
-      "ギーが上昇する一方、他業",
-      "方、他業種は全て下落"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85097?site=nli"
-  },
-  {
-    "id": "rss-insurance-95869b166ecc17",
-    "title": "グローバル株式市場動向(2026年3月)－エネルギーが上昇する一方、他業種は全て下落",
-    "summary": "■要旨 米国・イスラエルによるイラン攻撃に端を発した中東情勢の緊迫化とホルムズ海峡封鎖により原油価格は急騰した。これにより世界の株式市場ではエネルギーを除いた幅広い業種が下落した。原油先物市場からは年後半の原油価格下落が見込まれているが、ホルムズ海峡封鎖が長引いた場合には原油価格高騰や株式市場への下押しが繰り返されるリスクもある。 ■目次 1――エネルギーが上昇する一方、他業種は全て下落 2――国・業種別の動向 3――世界の主要企業の株価動向 4――今後の見通しと注目されるテーマ2026年3月、世界の株式市場は下落した。米国・イスラエルによるイラン攻撃に端を発した中東情勢の緊迫化とホルムズ海峡封鎖により原油価格は急騰した。これによりエネルギーを除いた幅広い業種が下落した。代表的な世界株指数(含む新興国)であるMSCI All Country World Index (MSCI ACWI)の騰落率1は2026年3月▲7.4％、過去1年(2025年4月-2026年3月)では+18.4％となった(図表１)。 先進国と新興国を比べると、先進国が新興国を上回った。先進国(MSCI World Index)が▲6.6％、新興国(MSCI Emerging Markets Index)が▲13.2％となった(図表２)。グロース・バリューでは、グロース指数(MSCI ACWI Growth Index)が▲7.6％、バリュー指数(MSCI ACWI Value Index)が▲7.2％とバリュー優位となった(図表３)。企業規模別では、大型株(MSCI ACWI Large Cap Index)が▲7.2％、中型株(MSCI ACWI Mid Cap Index)が▲8.3％、小型株(MSCI ACWI Small Cap Index)が▲8.4％と大",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T06:43:16.000Z",
-    "category": "insurance",
-    "keywords": [
-      "グローバル株式市場動向(",
-      "場動向(2026年3月)",
-      "年3月)－エネルギーが上",
-      "ギーが上昇する一方、他業",
-      "方、他業種は全て下落"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85097?site=nli"
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": false,
+    "url": "https://www.cnbc.com/2026/04/03/chinese-chip-firms-record-revenue-ai-boom-us-curbs.html",
+    "summaryJa": "米国のハイテク規制が地元企業を支援する中、中国の半導体企業はAIに対する国内の旺盛な需要の恩恵を受けてきた。"
   },
   {
     "id": "rss-ai-e68fb4e82a0c7f",
@@ -1109,7 +1039,7 @@
       "2026年6月から"
     ],
     "bannerClass": "from-sky-900 to-slate-800",
-    "isNew": true,
+    "isNew": false,
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/03/news054.html"
   },
   {
@@ -1126,7 +1056,7 @@
       "注意点は"
     ],
     "bannerClass": "from-sky-900 to-slate-800",
-    "isNew": true,
+    "isNew": false,
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/03/news053.html"
   },
   {
@@ -1142,332 +1072,8 @@
       "Googleが始めた認定資格の内容は"
     ],
     "bannerClass": "from-sky-900 to-slate-800",
-    "isNew": true,
+    "isNew": false,
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/03/news047.html"
-  },
-  {
-    "id": "rss-insurance-99c35d1ca2e3d4",
-    "title": "おすすめの１冊：世界の戦史 第十巻 第二次世界大戦－国立国会図書館デジタルコレクションより－",
-    "summary": "■要旨 戦前から戦中にかけて、わが国には各方面から俊英を集めた総力戦研究所という組織が存在した。その名を今日にまで知らしめているのは開戦前の1941年８月、第１期生による演習で日米が開戦した場合の敗北は必至と結論づけたことであった。 国立国会図書館デジタルコレクションで遭遇した「世界の戦史 第十巻」（1967年、人物往来社、以下「世界の戦史(10)」）では、若き日に総力戦研究所の第１期生であった原種行氏が第二次世界大戦を執筆している。縦横無尽とも言える筆力であり、専門家ではない一般人が読んでも興味が途切れることなく、大戦の全体像を理解させてくれる貴重な１冊と言えよう。 大戦の潮目が変わったのはドイツに侵攻されたソ連が反転攻勢に移ったときと思われるが、戦後の冷戦期に敵となったソ連の功績を西側諸国の中で述べることは難しかった。他方、「世界の戦史(10)」は冷戦真っ只中の時期にありながら、ソ連の反転攻勢がターニングポイントであったことを前提に、その翌日に真珠湾攻撃を行ったわが国の為政者を痛烈に批判している。その鋭い分析に触れる意味でも一読をおすすめしたい。 ■目次 1――総力戦研究所 2――第二次世界大戦の概要を知れる１冊 3――第二次世界大戦のターニングポイント昨年、総力戦研究所という組織に関連して騒動が報じられたことをご存じだろうか。 1940年９月、陸軍・海軍や特定省庁の下ではなく、内閣総理大臣直轄として総力戦研究所が開設された。近代戦は武力だけではなく、思想、政略、経済など全面的な国家総力戦となる。その基本的研究を行うとともに、総力戦を担う人材を教育訓練することが目的であった。 対象となる研究生の任期は１年、第１期生の採用において、その資格は「人格高潔、智能優秀、身体強健にして将来各方面の首脳者たるべき素質を有する者」としている。武",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T00:57:21.000Z",
-    "category": "insurance",
-    "keywords": [
-      "おすすめの１冊：世界の戦史",
-      "第十巻"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85088?site=nli"
-  },
-  {
-    "id": "rss-insurance-99c35d1ca2e3d4",
-    "title": "おすすめの１冊：世界の戦史 第十巻 第二次世界大戦－国立国会図書館デジタルコレクションより－",
-    "summary": "■要旨 戦前から戦中にかけて、わが国には各方面から俊英を集めた総力戦研究所という組織が存在した。その名を今日にまで知らしめているのは開戦前の1941年８月、第１期生による演習で日米が開戦した場合の敗北は必至と結論づけたことであった。 国立国会図書館デジタルコレクションで遭遇した「世界の戦史 第十巻」（1967年、人物往来社、以下「世界の戦史(10)」）では、若き日に総力戦研究所の第１期生であった原種行氏が第二次世界大戦を執筆している。縦横無尽とも言える筆力であり、専門家ではない一般人が読んでも興味が途切れることなく、大戦の全体像を理解させてくれる貴重な１冊と言えよう。 大戦の潮目が変わったのはドイツに侵攻されたソ連が反転攻勢に移ったときと思われるが、戦後の冷戦期に敵となったソ連の功績を西側諸国の中で述べることは難しかった。他方、「世界の戦史(10)」は冷戦真っ只中の時期にありながら、ソ連の反転攻勢がターニングポイントであったことを前提に、その翌日に真珠湾攻撃を行ったわが国の為政者を痛烈に批判している。その鋭い分析に触れる意味でも一読をおすすめしたい。 ■目次 1――総力戦研究所 2――第二次世界大戦の概要を知れる１冊 3――第二次世界大戦のターニングポイント昨年、総力戦研究所という組織に関連して騒動が報じられたことをご存じだろうか。 1940年９月、陸軍・海軍や特定省庁の下ではなく、内閣総理大臣直轄として総力戦研究所が開設された。近代戦は武力だけではなく、思想、政略、経済など全面的な国家総力戦となる。その基本的研究を行うとともに、総力戦を担う人材を教育訓練することが目的であった。 対象となる研究生の任期は１年、第１期生の採用において、その資格は「人格高潔、智能優秀、身体強健にして将来各方面の首脳者たるべき素質を有する者」としている。武",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T00:57:21.000Z",
-    "category": "insurance",
-    "keywords": [
-      "おすすめの１冊：世界の戦史",
-      "第十巻"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85088?site=nli"
-  },
-  {
-    "id": "rss-insurance-99c35d1ca2e3d4",
-    "title": "おすすめの１冊：世界の戦史 第十巻 第二次世界大戦－国立国会図書館デジタルコレクションより－",
-    "summary": "■要旨 戦前から戦中にかけて、わが国には各方面から俊英を集めた総力戦研究所という組織が存在した。その名を今日にまで知らしめているのは開戦前の1941年８月、第１期生による演習で日米が開戦した場合の敗北は必至と結論づけたことであった。 国立国会図書館デジタルコレクションで遭遇した「世界の戦史 第十巻」（1967年、人物往来社、以下「世界の戦史(10)」）では、若き日に総力戦研究所の第１期生であった原種行氏が第二次世界大戦を執筆している。縦横無尽とも言える筆力であり、専門家ではない一般人が読んでも興味が途切れることなく、大戦の全体像を理解させてくれる貴重な１冊と言えよう。 大戦の潮目が変わったのはドイツに侵攻されたソ連が反転攻勢に移ったときと思われるが、戦後の冷戦期に敵となったソ連の功績を西側諸国の中で述べることは難しかった。他方、「世界の戦史(10)」は冷戦真っ只中の時期にありながら、ソ連の反転攻勢がターニングポイントであったことを前提に、その翌日に真珠湾攻撃を行ったわが国の為政者を痛烈に批判している。その鋭い分析に触れる意味でも一読をおすすめしたい。 ■目次 1――総力戦研究所 2――第二次世界大戦の概要を知れる１冊 3――第二次世界大戦のターニングポイント昨年、総力戦研究所という組織に関連して騒動が報じられたことをご存じだろうか。 1940年９月、陸軍・海軍や特定省庁の下ではなく、内閣総理大臣直轄として総力戦研究所が開設された。近代戦は武力だけではなく、思想、政略、経済など全面的な国家総力戦となる。その基本的研究を行うとともに、総力戦を担う人材を教育訓練することが目的であった。 対象となる研究生の任期は１年、第１期生の採用において、その資格は「人格高潔、智能優秀、身体強健にして将来各方面の首脳者たるべき素質を有する者」としている。武",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T00:57:21.000Z",
-    "category": "insurance",
-    "keywords": [
-      "おすすめの１冊：世界の戦史",
-      "第十巻"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85088?site=nli"
-  },
-  {
-    "id": "rss-insurance-99c35d1ca2e3d4",
-    "title": "おすすめの１冊：世界の戦史 第十巻 第二次世界大戦－国立国会図書館デジタルコレクションより－",
-    "summary": "■要旨 戦前から戦中にかけて、わが国には各方面から俊英を集めた総力戦研究所という組織が存在した。その名を今日にまで知らしめているのは開戦前の1941年８月、第１期生による演習で日米が開戦した場合の敗北は必至と結論づけたことであった。 国立国会図書館デジタルコレクションで遭遇した「世界の戦史 第十巻」（1967年、人物往来社、以下「世界の戦史(10)」）では、若き日に総力戦研究所の第１期生であった原種行氏が第二次世界大戦を執筆している。縦横無尽とも言える筆力であり、専門家ではない一般人が読んでも興味が途切れることなく、大戦の全体像を理解させてくれる貴重な１冊と言えよう。 大戦の潮目が変わったのはドイツに侵攻されたソ連が反転攻勢に移ったときと思われるが、戦後の冷戦期に敵となったソ連の功績を西側諸国の中で述べることは難しかった。他方、「世界の戦史(10)」は冷戦真っ只中の時期にありながら、ソ連の反転攻勢がターニングポイントであったことを前提に、その翌日に真珠湾攻撃を行ったわが国の為政者を痛烈に批判している。その鋭い分析に触れる意味でも一読をおすすめしたい。 ■目次 1――総力戦研究所 2――第二次世界大戦の概要を知れる１冊 3――第二次世界大戦のターニングポイント昨年、総力戦研究所という組織に関連して騒動が報じられたことをご存じだろうか。 1940年９月、陸軍・海軍や特定省庁の下ではなく、内閣総理大臣直轄として総力戦研究所が開設された。近代戦は武力だけではなく、思想、政略、経済など全面的な国家総力戦となる。その基本的研究を行うとともに、総力戦を担う人材を教育訓練することが目的であった。 対象となる研究生の任期は１年、第１期生の採用において、その資格は「人格高潔、智能優秀、身体強健にして将来各方面の首脳者たるべき素質を有する者」としている。武",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T00:57:21.000Z",
-    "category": "insurance",
-    "keywords": [
-      "おすすめの１冊：世界の戦史",
-      "第十巻"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85088?site=nli"
-  },
-  {
-    "id": "rss-insurance-0eb68795b50362",
-    "title": "改めて規制改革の推進を",
-    "summary": "総選挙が終了し、具体的な成長戦略が再び議論される中、財政の持続可能性に債券、資本市場の関心が向いている。その面であまり報道されていない解決策の１つが規制改革ではないか。 1990年代の行財政改革、2012年からのアベノミクスの第３の矢にみるように、政府は規制改革の旗を振ってきた。しかし、世界銀行によるビジネス環境サーベイ(2019年が最新)、スイスのビジネススクールIMDによる世界競争力ランキングのいずれでも日本は、韓国や台湾を下回る30位前後に低迷している。前者では起業の手続き、後者では政府やビジネスの効率性の順位が低いという。 実際、行政手続きのIT化は期待ほど進展していない。また、当局や業界の暗黙のルールや関係者間の利害調整が新規参入を妨げる例もあると聞く。上記のサーベイが経営者や専門家へのヒアリングを参考にして作成されている点を考えると、実業界が感じる非効率や不透明さは決して払拭できていないのだろう。 規制改革は漢方薬に似て、目に見えた成果がすぐには出にくい一方、財政や国債市場への負担は小さい。起業や内外からの投資、雇用の土台を作り、経済成長を加速する戦略として、改めて重視してみてはどうだろうか。 【関連レポート】 再生可能エネルギー導入に伴う消防の課題と挑戦～米国消防専門家の知見から考える日本の課題～ 社会保障の原風景と新しい形－国民会議に求める役割と、社会保障と税の一体改革の行方 日本の成長戦略を支える核融合の可能性～高市政権の危機管理投資とエネルギー安全保障における位置づけ～ EU規制から見える環境広告の新たな方向性－「グリーンウォッシュ」対策がもたらすSDGs疲れの向こう側",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T00:56:39.000Z",
-    "category": "insurance",
-    "keywords": [
-      "改めて規制改革の推進を",
-      "推進を"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=84941?site=nli"
-  },
-  {
-    "id": "rss-insurance-0eb68795b50362",
-    "title": "改めて規制改革の推進を",
-    "summary": "総選挙が終了し、具体的な成長戦略が再び議論される中、財政の持続可能性に債券、資本市場の関心が向いている。その面であまり報道されていない解決策の１つが規制改革ではないか。 1990年代の行財政改革、2012年からのアベノミクスの第３の矢にみるように、政府は規制改革の旗を振ってきた。しかし、世界銀行によるビジネス環境サーベイ(2019年が最新)、スイスのビジネススクールIMDによる世界競争力ランキングのいずれでも日本は、韓国や台湾を下回る30位前後に低迷している。前者では起業の手続き、後者では政府やビジネスの効率性の順位が低いという。 実際、行政手続きのIT化は期待ほど進展していない。また、当局や業界の暗黙のルールや関係者間の利害調整が新規参入を妨げる例もあると聞く。上記のサーベイが経営者や専門家へのヒアリングを参考にして作成されている点を考えると、実業界が感じる非効率や不透明さは決して払拭できていないのだろう。 規制改革は漢方薬に似て、目に見えた成果がすぐには出にくい一方、財政や国債市場への負担は小さい。起業や内外からの投資、雇用の土台を作り、経済成長を加速する戦略として、改めて重視してみてはどうだろうか。 【関連レポート】 再生可能エネルギー導入に伴う消防の課題と挑戦～米国消防専門家の知見から考える日本の課題～ 社会保障の原風景と新しい形－国民会議に求める役割と、社会保障と税の一体改革の行方 日本の成長戦略を支える核融合の可能性～高市政権の危機管理投資とエネルギー安全保障における位置づけ～ EU規制から見える環境広告の新たな方向性－「グリーンウォッシュ」対策がもたらすSDGs疲れの向こう側",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T00:56:39.000Z",
-    "category": "insurance",
-    "keywords": [
-      "改めて規制改革の推進を",
-      "推進を"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=84941?site=nli"
-  },
-  {
-    "id": "rss-insurance-0eb68795b50362",
-    "title": "改めて規制改革の推進を",
-    "summary": "総選挙が終了し、具体的な成長戦略が再び議論される中、財政の持続可能性に債券、資本市場の関心が向いている。その面であまり報道されていない解決策の１つが規制改革ではないか。 1990年代の行財政改革、2012年からのアベノミクスの第３の矢にみるように、政府は規制改革の旗を振ってきた。しかし、世界銀行によるビジネス環境サーベイ(2019年が最新)、スイスのビジネススクールIMDによる世界競争力ランキングのいずれでも日本は、韓国や台湾を下回る30位前後に低迷している。前者では起業の手続き、後者では政府やビジネスの効率性の順位が低いという。 実際、行政手続きのIT化は期待ほど進展していない。また、当局や業界の暗黙のルールや関係者間の利害調整が新規参入を妨げる例もあると聞く。上記のサーベイが経営者や専門家へのヒアリングを参考にして作成されている点を考えると、実業界が感じる非効率や不透明さは決して払拭できていないのだろう。 規制改革は漢方薬に似て、目に見えた成果がすぐには出にくい一方、財政や国債市場への負担は小さい。起業や内外からの投資、雇用の土台を作り、経済成長を加速する戦略として、改めて重視してみてはどうだろうか。 【関連レポート】 再生可能エネルギー導入に伴う消防の課題と挑戦～米国消防専門家の知見から考える日本の課題～ 社会保障の原風景と新しい形－国民会議に求める役割と、社会保障と税の一体改革の行方 日本の成長戦略を支える核融合の可能性～高市政権の危機管理投資とエネルギー安全保障における位置づけ～ EU規制から見える環境広告の新たな方向性－「グリーンウォッシュ」対策がもたらすSDGs疲れの向こう側",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T00:56:39.000Z",
-    "category": "insurance",
-    "keywords": [
-      "改めて規制改革の推進を",
-      "推進を"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=84941?site=nli"
-  },
-  {
-    "id": "rss-insurance-0eb68795b50362",
-    "title": "改めて規制改革の推進を",
-    "summary": "総選挙が終了し、具体的な成長戦略が再び議論される中、財政の持続可能性に債券、資本市場の関心が向いている。その面であまり報道されていない解決策の１つが規制改革ではないか。 1990年代の行財政改革、2012年からのアベノミクスの第３の矢にみるように、政府は規制改革の旗を振ってきた。しかし、世界銀行によるビジネス環境サーベイ(2019年が最新)、スイスのビジネススクールIMDによる世界競争力ランキングのいずれでも日本は、韓国や台湾を下回る30位前後に低迷している。前者では起業の手続き、後者では政府やビジネスの効率性の順位が低いという。 実際、行政手続きのIT化は期待ほど進展していない。また、当局や業界の暗黙のルールや関係者間の利害調整が新規参入を妨げる例もあると聞く。上記のサーベイが経営者や専門家へのヒアリングを参考にして作成されている点を考えると、実業界が感じる非効率や不透明さは決して払拭できていないのだろう。 規制改革は漢方薬に似て、目に見えた成果がすぐには出にくい一方、財政や国債市場への負担は小さい。起業や内外からの投資、雇用の土台を作り、経済成長を加速する戦略として、改めて重視してみてはどうだろうか。 【関連レポート】 再生可能エネルギー導入に伴う消防の課題と挑戦～米国消防専門家の知見から考える日本の課題～ 社会保障の原風景と新しい形－国民会議に求める役割と、社会保障と税の一体改革の行方 日本の成長戦略を支える核融合の可能性～高市政権の危機管理投資とエネルギー安全保障における位置づけ～ EU規制から見える環境広告の新たな方向性－「グリーンウォッシュ」対策がもたらすSDGs疲れの向こう側",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T00:56:39.000Z",
-    "category": "insurance",
-    "keywords": [
-      "改めて規制改革の推進を",
-      "推進を"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=84941?site=nli"
-  },
-  {
-    "id": "rss-insurance-cc8241d11c5078",
-    "title": "会計上の負担軽減が進む退職給付制度",
-    "summary": "退職給付会計上の積み立て状況が大きく改善している。背景には、ここ数年の国債利回りの上昇によって、退職給付債務の評価額が減少していることや、良好な市場環境に恵まれる中、企業年金の運用で目標を上回る収益が積み上げられてきたことがある。 10年前の2016年３月末時点の国債イールドカーブは、同年１月に日銀がマイナス金利政策を導入した影響により、残存期間10年以下の利回りがマイナスに陥るなど、歴史的な低水準となった。この結果、2016年３月期決算では、退職給付債務の評価に適用される割引率は、退職給付債務・年金資産・割引率のデータ取得が可能な確定給付企業年金を採用する上場企業752社の平均で0.5％という低さとなり、退職給付債務の評価額は一段と膨らむこととなった。 その後、2016年９月にイールドカーブ・コントロールが導入された関係で、国債イールドカーブはしばらく低水準で推移したが、2021年のコロナ禍からの経済回復過程で世界的にインフレ率が高進し、米欧の国債利回りが上昇に転じると、国内でも超長期ゾーンが先行する形で国債利回りは上昇トレンド入りした。2024年３月に異次元金融緩和が解除された後は、デフレ脱却の現実味が強まるもとで、国債利回りは上昇基調を強める展開となり、昨年３月末の国債イールドカーブは2016年３月末よりも残存期間1～30年の平均で1.7％高い水準まで上昇。これにともない３月期決算の割引率は上場企業752社の平均で1.4％まで引き上げられ、2016年３月期決算で増大していた退職給付債務は大幅に減額修正されることとなった。この間、運用面では、先述のような国債利回りの推移を受け、国内債券の年度リターンはゼロ％近傍での推移を続けた後、2021年度以降はマイナス幅を徐々に拡大する展開となった。それでも、株高基調がコロナ禍に見舞われながら",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T00:56:20.000Z",
-    "category": "insurance",
-    "keywords": [
-      "会計上の負担軽減が進む退",
-      "が進む退職給付制度"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=84942?site=nli"
-  },
-  {
-    "id": "rss-insurance-cc8241d11c5078",
-    "title": "会計上の負担軽減が進む退職給付制度",
-    "summary": "退職給付会計上の積み立て状況が大きく改善している。背景には、ここ数年の国債利回りの上昇によって、退職給付債務の評価額が減少していることや、良好な市場環境に恵まれる中、企業年金の運用で目標を上回る収益が積み上げられてきたことがある。 10年前の2016年３月末時点の国債イールドカーブは、同年１月に日銀がマイナス金利政策を導入した影響により、残存期間10年以下の利回りがマイナスに陥るなど、歴史的な低水準となった。この結果、2016年３月期決算では、退職給付債務の評価に適用される割引率は、退職給付債務・年金資産・割引率のデータ取得が可能な確定給付企業年金を採用する上場企業752社の平均で0.5％という低さとなり、退職給付債務の評価額は一段と膨らむこととなった。 その後、2016年９月にイールドカーブ・コントロールが導入された関係で、国債イールドカーブはしばらく低水準で推移したが、2021年のコロナ禍からの経済回復過程で世界的にインフレ率が高進し、米欧の国債利回りが上昇に転じると、国内でも超長期ゾーンが先行する形で国債利回りは上昇トレンド入りした。2024年３月に異次元金融緩和が解除された後は、デフレ脱却の現実味が強まるもとで、国債利回りは上昇基調を強める展開となり、昨年３月末の国債イールドカーブは2016年３月末よりも残存期間1～30年の平均で1.7％高い水準まで上昇。これにともない３月期決算の割引率は上場企業752社の平均で1.4％まで引き上げられ、2016年３月期決算で増大していた退職給付債務は大幅に減額修正されることとなった。この間、運用面では、先述のような国債利回りの推移を受け、国内債券の年度リターンはゼロ％近傍での推移を続けた後、2021年度以降はマイナス幅を徐々に拡大する展開となった。それでも、株高基調がコロナ禍に見舞われながら",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T00:56:20.000Z",
-    "category": "insurance",
-    "keywords": [
-      "会計上の負担軽減が進む退",
-      "が進む退職給付制度"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=84942?site=nli"
-  },
-  {
-    "id": "rss-insurance-cc8241d11c5078",
-    "title": "会計上の負担軽減が進む退職給付制度",
-    "summary": "退職給付会計上の積み立て状況が大きく改善している。背景には、ここ数年の国債利回りの上昇によって、退職給付債務の評価額が減少していることや、良好な市場環境に恵まれる中、企業年金の運用で目標を上回る収益が積み上げられてきたことがある。 10年前の2016年３月末時点の国債イールドカーブは、同年１月に日銀がマイナス金利政策を導入した影響により、残存期間10年以下の利回りがマイナスに陥るなど、歴史的な低水準となった。この結果、2016年３月期決算では、退職給付債務の評価に適用される割引率は、退職給付債務・年金資産・割引率のデータ取得が可能な確定給付企業年金を採用する上場企業752社の平均で0.5％という低さとなり、退職給付債務の評価額は一段と膨らむこととなった。 その後、2016年９月にイールドカーブ・コントロールが導入された関係で、国債イールドカーブはしばらく低水準で推移したが、2021年のコロナ禍からの経済回復過程で世界的にインフレ率が高進し、米欧の国債利回りが上昇に転じると、国内でも超長期ゾーンが先行する形で国債利回りは上昇トレンド入りした。2024年３月に異次元金融緩和が解除された後は、デフレ脱却の現実味が強まるもとで、国債利回りは上昇基調を強める展開となり、昨年３月末の国債イールドカーブは2016年３月末よりも残存期間1～30年の平均で1.7％高い水準まで上昇。これにともない３月期決算の割引率は上場企業752社の平均で1.4％まで引き上げられ、2016年３月期決算で増大していた退職給付債務は大幅に減額修正されることとなった。この間、運用面では、先述のような国債利回りの推移を受け、国内債券の年度リターンはゼロ％近傍での推移を続けた後、2021年度以降はマイナス幅を徐々に拡大する展開となった。それでも、株高基調がコロナ禍に見舞われながら",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T00:56:20.000Z",
-    "category": "insurance",
-    "keywords": [
-      "会計上の負担軽減が進む退",
-      "が進む退職給付制度"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=84942?site=nli"
-  },
-  {
-    "id": "rss-insurance-cc8241d11c5078",
-    "title": "会計上の負担軽減が進む退職給付制度",
-    "summary": "退職給付会計上の積み立て状況が大きく改善している。背景には、ここ数年の国債利回りの上昇によって、退職給付債務の評価額が減少していることや、良好な市場環境に恵まれる中、企業年金の運用で目標を上回る収益が積み上げられてきたことがある。 10年前の2016年３月末時点の国債イールドカーブは、同年１月に日銀がマイナス金利政策を導入した影響により、残存期間10年以下の利回りがマイナスに陥るなど、歴史的な低水準となった。この結果、2016年３月期決算では、退職給付債務の評価に適用される割引率は、退職給付債務・年金資産・割引率のデータ取得が可能な確定給付企業年金を採用する上場企業752社の平均で0.5％という低さとなり、退職給付債務の評価額は一段と膨らむこととなった。 その後、2016年９月にイールドカーブ・コントロールが導入された関係で、国債イールドカーブはしばらく低水準で推移したが、2021年のコロナ禍からの経済回復過程で世界的にインフレ率が高進し、米欧の国債利回りが上昇に転じると、国内でも超長期ゾーンが先行する形で国債利回りは上昇トレンド入りした。2024年３月に異次元金融緩和が解除された後は、デフレ脱却の現実味が強まるもとで、国債利回りは上昇基調を強める展開となり、昨年３月末の国債イールドカーブは2016年３月末よりも残存期間1～30年の平均で1.7％高い水準まで上昇。これにともない３月期決算の割引率は上場企業752社の平均で1.4％まで引き上げられ、2016年３月期決算で増大していた退職給付債務は大幅に減額修正されることとなった。この間、運用面では、先述のような国債利回りの推移を受け、国内債券の年度リターンはゼロ％近傍での推移を続けた後、2021年度以降はマイナス幅を徐々に拡大する展開となった。それでも、株高基調がコロナ禍に見舞われながら",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T00:56:20.000Z",
-    "category": "insurance",
-    "keywords": [
-      "会計上の負担軽減が進む退",
-      "が進む退職給付制度"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=84942?site=nli"
-  },
-  {
-    "id": "rss-insurance-05cca1d455b7ed",
-    "title": "金利・物価上昇環境における家計の資産形成の論点",
-    "summary": "近年、日本経済は金利と物価が同時に上昇する局面にある。低金利・低インフレが長期にわたり常態化してきた日本において、この環境変化は、企業や金融市場のみならず、家計の資産形成行動にも構造的な影響を及ぼしている。 こうした環境下で家計の資産形成を考えるにあたっては、個別の金融商品や運用手法を論じる前に、家計全体の資産・負債・将来収支を統合的に捉える家計ALM（Asset Liability Management）の視点が不可欠になる。図表は、金利・物価上昇環境における家計の資産形成について、資産・負債・将来収支を一体として管理する家計ALMの視点から、主要な対応策や論点を整理したものである。家計ALMとは、金融資産や実物資産といった資産サイド、住宅ローン等の負債サイド、さらには将来の収入と支出を統合的に捉え、家計のバランスシートとキャッシュフローの安定性を確保する考え方である。金利上昇は一般に「家計に不利」と受け止められがちである。しかし、家計は同時に「借り手」と「貸し手」の両面を持つ存在であり、その影響は各家計のバランスシート構造によって大きく異なる。特に変動金利型住宅ローンを抱える家計にとって、金利上昇は支払利息の増加という形で直接的に表れる。一方で、定期預貯金や個人向け国債といった金利系金融商品を保有する家計にとっては、金利上昇は長らく抑制されてきた利回りの改善を意味する。重要なのは、金利上昇そのものが家計に一律の影響を与えるのではなく、借入依存度の高低や金融資産保有比率の違いによって、その影響が分岐するという点である。この非対称性を踏まえずに金利環境を論じることは、家計行動の実態を見誤ることにつながる。 物価上昇、とりわけインフレ局面において重要なのは、物価水準そのものよりも、各要素の調整速度の違いである。家計の主要な収入源である賃",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T00:55:55.000Z",
-    "category": "insurance",
-    "keywords": [
-      "金利",
-      "物価上昇環境における家計の資産形成の論点"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=84943?site=nli"
-  },
-  {
-    "id": "rss-insurance-05cca1d455b7ed",
-    "title": "金利・物価上昇環境における家計の資産形成の論点",
-    "summary": "近年、日本経済は金利と物価が同時に上昇する局面にある。低金利・低インフレが長期にわたり常態化してきた日本において、この環境変化は、企業や金融市場のみならず、家計の資産形成行動にも構造的な影響を及ぼしている。 こうした環境下で家計の資産形成を考えるにあたっては、個別の金融商品や運用手法を論じる前に、家計全体の資産・負債・将来収支を統合的に捉える家計ALM（Asset Liability Management）の視点が不可欠になる。図表は、金利・物価上昇環境における家計の資産形成について、資産・負債・将来収支を一体として管理する家計ALMの視点から、主要な対応策や論点を整理したものである。家計ALMとは、金融資産や実物資産といった資産サイド、住宅ローン等の負債サイド、さらには将来の収入と支出を統合的に捉え、家計のバランスシートとキャッシュフローの安定性を確保する考え方である。金利上昇は一般に「家計に不利」と受け止められがちである。しかし、家計は同時に「借り手」と「貸し手」の両面を持つ存在であり、その影響は各家計のバランスシート構造によって大きく異なる。特に変動金利型住宅ローンを抱える家計にとって、金利上昇は支払利息の増加という形で直接的に表れる。一方で、定期預貯金や個人向け国債といった金利系金融商品を保有する家計にとっては、金利上昇は長らく抑制されてきた利回りの改善を意味する。重要なのは、金利上昇そのものが家計に一律の影響を与えるのではなく、借入依存度の高低や金融資産保有比率の違いによって、その影響が分岐するという点である。この非対称性を踏まえずに金利環境を論じることは、家計行動の実態を見誤ることにつながる。 物価上昇、とりわけインフレ局面において重要なのは、物価水準そのものよりも、各要素の調整速度の違いである。家計の主要な収入源である賃",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T00:55:55.000Z",
-    "category": "insurance",
-    "keywords": [
-      "金利",
-      "物価上昇環境における家計の資産形成の論点"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=84943?site=nli"
-  },
-  {
-    "id": "rss-insurance-05cca1d455b7ed",
-    "title": "金利・物価上昇環境における家計の資産形成の論点",
-    "summary": "近年、日本経済は金利と物価が同時に上昇する局面にある。低金利・低インフレが長期にわたり常態化してきた日本において、この環境変化は、企業や金融市場のみならず、家計の資産形成行動にも構造的な影響を及ぼしている。 こうした環境下で家計の資産形成を考えるにあたっては、個別の金融商品や運用手法を論じる前に、家計全体の資産・負債・将来収支を統合的に捉える家計ALM（Asset Liability Management）の視点が不可欠になる。図表は、金利・物価上昇環境における家計の資産形成について、資産・負債・将来収支を一体として管理する家計ALMの視点から、主要な対応策や論点を整理したものである。家計ALMとは、金融資産や実物資産といった資産サイド、住宅ローン等の負債サイド、さらには将来の収入と支出を統合的に捉え、家計のバランスシートとキャッシュフローの安定性を確保する考え方である。金利上昇は一般に「家計に不利」と受け止められがちである。しかし、家計は同時に「借り手」と「貸し手」の両面を持つ存在であり、その影響は各家計のバランスシート構造によって大きく異なる。特に変動金利型住宅ローンを抱える家計にとって、金利上昇は支払利息の増加という形で直接的に表れる。一方で、定期預貯金や個人向け国債といった金利系金融商品を保有する家計にとっては、金利上昇は長らく抑制されてきた利回りの改善を意味する。重要なのは、金利上昇そのものが家計に一律の影響を与えるのではなく、借入依存度の高低や金融資産保有比率の違いによって、その影響が分岐するという点である。この非対称性を踏まえずに金利環境を論じることは、家計行動の実態を見誤ることにつながる。 物価上昇、とりわけインフレ局面において重要なのは、物価水準そのものよりも、各要素の調整速度の違いである。家計の主要な収入源である賃",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T00:55:55.000Z",
-    "category": "insurance",
-    "keywords": [
-      "金利",
-      "物価上昇環境における家計の資産形成の論点"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=84943?site=nli"
-  },
-  {
-    "id": "rss-insurance-05cca1d455b7ed",
-    "title": "金利・物価上昇環境における家計の資産形成の論点",
-    "summary": "近年、日本経済は金利と物価が同時に上昇する局面にある。低金利・低インフレが長期にわたり常態化してきた日本において、この環境変化は、企業や金融市場のみならず、家計の資産形成行動にも構造的な影響を及ぼしている。 こうした環境下で家計の資産形成を考えるにあたっては、個別の金融商品や運用手法を論じる前に、家計全体の資産・負債・将来収支を統合的に捉える家計ALM（Asset Liability Management）の視点が不可欠になる。図表は、金利・物価上昇環境における家計の資産形成について、資産・負債・将来収支を一体として管理する家計ALMの視点から、主要な対応策や論点を整理したものである。家計ALMとは、金融資産や実物資産といった資産サイド、住宅ローン等の負債サイド、さらには将来の収入と支出を統合的に捉え、家計のバランスシートとキャッシュフローの安定性を確保する考え方である。金利上昇は一般に「家計に不利」と受け止められがちである。しかし、家計は同時に「借り手」と「貸し手」の両面を持つ存在であり、その影響は各家計のバランスシート構造によって大きく異なる。特に変動金利型住宅ローンを抱える家計にとって、金利上昇は支払利息の増加という形で直接的に表れる。一方で、定期預貯金や個人向け国債といった金利系金融商品を保有する家計にとっては、金利上昇は長らく抑制されてきた利回りの改善を意味する。重要なのは、金利上昇そのものが家計に一律の影響を与えるのではなく、借入依存度の高低や金融資産保有比率の違いによって、その影響が分岐するという点である。この非対称性を踏まえずに金利環境を論じることは、家計行動の実態を見誤ることにつながる。 物価上昇、とりわけインフレ局面において重要なのは、物価水準そのものよりも、各要素の調整速度の違いである。家計の主要な収入源である賃",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T00:55:55.000Z",
-    "category": "insurance",
-    "keywords": [
-      "金利",
-      "物価上昇環境における家計の資産形成の論点"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=84943?site=nli"
-  },
-  {
-    "id": "rss-insurance-c3a4b0146cc291",
-    "title": "投資市場および賃貸市場で需要が高まる賃貸マンション",
-    "summary": "近年、新築分譲マンション価格は上昇基調が続き、歴史的な高値圏に達している。不動産経済研究所によると、2025年の新築分譲マンションの平均価格は、首都圏で9,182万円（2015年比＋66％上昇）、東京23区で1億3,613万円（同＋102％上昇）となった（図表１）。低金利環境の長期化を背景に、共働き世帯（いわゆるパワーカップルなど）を中心とした実需に加え、国内外の投資資金も流入するなか、マンションデベロッパーは販売価格を段階的に引き上げてきた。 一方で、供給戸数は減少している。2025年のマンション発売戸数は首都圏で約2.2万戸（2015年比▲46％）、東京23区で約0.8万戸（同▲56％）となった。2026年についても、供給戸数は横ばいで推移する見通しである。こうした供給減少の要因の１つとして、実需層の購買力の低下が挙げられる。世帯所得の伸びはマンション価格の上昇ペースに追い付いていない。加えて、金利上昇に伴う借入可能額の減少や返済額の増加、返済期間の長期化によって家計負担は一段と重くなっている。売れ行きの好不調の目安とされる初月契約率70％を上回った月は、2025年はわずか１回にとどまった。また、マンション価格上昇の要因の１つである建築コストの上昇は、今後も続く見通しである。分譲マンション事業では、デベロッパーは開発に投じた資金を販売によって比較的短期間で回収するビジネスモデルが一般的である。しかし、建築コストが上昇する局面では、販売価格を実需層が購入可能な水準に抑えることが難しくなる。その結果、新築マンションを実需層に分譲する従来型の住宅供給モデルは、デベロッパーの採算面と購入者の資力面の双方から、成り立ち難い状況に直面しつつある。 一方で、国内外の機関投資家や富裕層を中心に、賃貸マンションへの投資意欲は引き続き旺盛である。賃貸",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T00:55:39.000Z",
-    "category": "insurance",
-    "keywords": [
-      "投資市場および賃貸市場で",
-      "貸市場で需要が高まる賃貸",
-      "まる賃貸マンション"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=84944?site=nli"
-  },
-  {
-    "id": "rss-insurance-c3a4b0146cc291",
-    "title": "投資市場および賃貸市場で需要が高まる賃貸マンション",
-    "summary": "近年、新築分譲マンション価格は上昇基調が続き、歴史的な高値圏に達している。不動産経済研究所によると、2025年の新築分譲マンションの平均価格は、首都圏で9,182万円（2015年比＋66％上昇）、東京23区で1億3,613万円（同＋102％上昇）となった（図表１）。低金利環境の長期化を背景に、共働き世帯（いわゆるパワーカップルなど）を中心とした実需に加え、国内外の投資資金も流入するなか、マンションデベロッパーは販売価格を段階的に引き上げてきた。 一方で、供給戸数は減少している。2025年のマンション発売戸数は首都圏で約2.2万戸（2015年比▲46％）、東京23区で約0.8万戸（同▲56％）となった。2026年についても、供給戸数は横ばいで推移する見通しである。こうした供給減少の要因の１つとして、実需層の購買力の低下が挙げられる。世帯所得の伸びはマンション価格の上昇ペースに追い付いていない。加えて、金利上昇に伴う借入可能額の減少や返済額の増加、返済期間の長期化によって家計負担は一段と重くなっている。売れ行きの好不調の目安とされる初月契約率70％を上回った月は、2025年はわずか１回にとどまった。また、マンション価格上昇の要因の１つである建築コストの上昇は、今後も続く見通しである。分譲マンション事業では、デベロッパーは開発に投じた資金を販売によって比較的短期間で回収するビジネスモデルが一般的である。しかし、建築コストが上昇する局面では、販売価格を実需層が購入可能な水準に抑えることが難しくなる。その結果、新築マンションを実需層に分譲する従来型の住宅供給モデルは、デベロッパーの採算面と購入者の資力面の双方から、成り立ち難い状況に直面しつつある。 一方で、国内外の機関投資家や富裕層を中心に、賃貸マンションへの投資意欲は引き続き旺盛である。賃貸",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T00:55:39.000Z",
-    "category": "insurance",
-    "keywords": [
-      "投資市場および賃貸市場で",
-      "貸市場で需要が高まる賃貸",
-      "まる賃貸マンション"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=84944?site=nli"
-  },
-  {
-    "id": "rss-insurance-c3a4b0146cc291",
-    "title": "投資市場および賃貸市場で需要が高まる賃貸マンション",
-    "summary": "近年、新築分譲マンション価格は上昇基調が続き、歴史的な高値圏に達している。不動産経済研究所によると、2025年の新築分譲マンションの平均価格は、首都圏で9,182万円（2015年比＋66％上昇）、東京23区で1億3,613万円（同＋102％上昇）となった（図表１）。低金利環境の長期化を背景に、共働き世帯（いわゆるパワーカップルなど）を中心とした実需に加え、国内外の投資資金も流入するなか、マンションデベロッパーは販売価格を段階的に引き上げてきた。 一方で、供給戸数は減少している。2025年のマンション発売戸数は首都圏で約2.2万戸（2015年比▲46％）、東京23区で約0.8万戸（同▲56％）となった。2026年についても、供給戸数は横ばいで推移する見通しである。こうした供給減少の要因の１つとして、実需層の購買力の低下が挙げられる。世帯所得の伸びはマンション価格の上昇ペースに追い付いていない。加えて、金利上昇に伴う借入可能額の減少や返済額の増加、返済期間の長期化によって家計負担は一段と重くなっている。売れ行きの好不調の目安とされる初月契約率70％を上回った月は、2025年はわずか１回にとどまった。また、マンション価格上昇の要因の１つである建築コストの上昇は、今後も続く見通しである。分譲マンション事業では、デベロッパーは開発に投じた資金を販売によって比較的短期間で回収するビジネスモデルが一般的である。しかし、建築コストが上昇する局面では、販売価格を実需層が購入可能な水準に抑えることが難しくなる。その結果、新築マンションを実需層に分譲する従来型の住宅供給モデルは、デベロッパーの採算面と購入者の資力面の双方から、成り立ち難い状況に直面しつつある。 一方で、国内外の機関投資家や富裕層を中心に、賃貸マンションへの投資意欲は引き続き旺盛である。賃貸",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T00:55:39.000Z",
-    "category": "insurance",
-    "keywords": [
-      "投資市場および賃貸市場で",
-      "貸市場で需要が高まる賃貸",
-      "まる賃貸マンション"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=84944?site=nli"
-  },
-  {
-    "id": "rss-insurance-c3a4b0146cc291",
-    "title": "投資市場および賃貸市場で需要が高まる賃貸マンション",
-    "summary": "近年、新築分譲マンション価格は上昇基調が続き、歴史的な高値圏に達している。不動産経済研究所によると、2025年の新築分譲マンションの平均価格は、首都圏で9,182万円（2015年比＋66％上昇）、東京23区で1億3,613万円（同＋102％上昇）となった（図表１）。低金利環境の長期化を背景に、共働き世帯（いわゆるパワーカップルなど）を中心とした実需に加え、国内外の投資資金も流入するなか、マンションデベロッパーは販売価格を段階的に引き上げてきた。 一方で、供給戸数は減少している。2025年のマンション発売戸数は首都圏で約2.2万戸（2015年比▲46％）、東京23区で約0.8万戸（同▲56％）となった。2026年についても、供給戸数は横ばいで推移する見通しである。こうした供給減少の要因の１つとして、実需層の購買力の低下が挙げられる。世帯所得の伸びはマンション価格の上昇ペースに追い付いていない。加えて、金利上昇に伴う借入可能額の減少や返済額の増加、返済期間の長期化によって家計負担は一段と重くなっている。売れ行きの好不調の目安とされる初月契約率70％を上回った月は、2025年はわずか１回にとどまった。また、マンション価格上昇の要因の１つである建築コストの上昇は、今後も続く見通しである。分譲マンション事業では、デベロッパーは開発に投じた資金を販売によって比較的短期間で回収するビジネスモデルが一般的である。しかし、建築コストが上昇する局面では、販売価格を実需層が購入可能な水準に抑えることが難しくなる。その結果、新築マンションを実需層に分譲する従来型の住宅供給モデルは、デベロッパーの採算面と購入者の資力面の双方から、成り立ち難い状況に直面しつつある。 一方で、国内外の機関投資家や富裕層を中心に、賃貸マンションへの投資意欲は引き続き旺盛である。賃貸",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-03T00:55:39.000Z",
-    "category": "insurance",
-    "keywords": [
-      "投資市場および賃貸市場で",
-      "貸市場で需要が高まる賃貸",
-      "まる賃貸マンション"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=84944?site=nli"
   },
   {
     "id": "rss-economy-c5fd74eac21b80",
@@ -1507,7 +1113,7 @@
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": false,
     "url": "https://www.insurancejournal.com/news/international/2026/04/02/864470.htm",
-    "summaryJa": "大手再保険ブローカーによると、不安定な地政学的情勢や不透明な経済見通しにもかかわらず、４月１日の更新期間中、再保険金利は引き続き軟化した。 「構造的な混乱がなく、規律ある生産能力と出再者に優しい価格設定で、更新が秩序正しく完了すること、…"
+    "summaryJa": "大手再保険ブローカーによると、不安定な地政学的情勢や不確実な経済見通しにもかかわらず、４月１日の更新期間中、再保険金利は引き続き軟化した。 「構造的な混乱がなく、規律ある生産能力と出再者に優しい価格設定で、リニューアルが秩序正しく完了しました。…"
   },
   {
     "id": "rss-insurance-3baefee1f2b37e",
@@ -1706,7 +1312,7 @@
     "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
     "isNew": false,
     "url": "https://www.reinsurancene.ws/axa-uk-ireland-appoints-caroline-riddy-as-general-counsel/",
-    "summaryJa": "AXA UK & Irelandは、2026年4月7日付けでキャロライン・リディ氏を法務顧問に任命したと発表した。リディ氏は、24年間英国のAXAのさまざまな法人に勤務した後、12月に退任したエミリー・クープランド氏の後任となる。 Riddy は、金融サービス分野で 20 年以上の法務および会社事務局の経験をもたらします。最近では、彼女は […] AXA UK & Ireland が法務顧問に Caroline Riddy を任命するという記事が ReinsuranceNe.ws に最初に掲載されました。"
+    "summaryJa": "AXA UK & Irelandは、2026年4月7日付けでキャロライン・リディ氏を法務顧問に任命したと発表した。リディ氏は、24年間英国のAXAのさまざまな法人に勤務した後、12月に退任したエミリー・クープランド氏の後任となる。 Riddy は、金融サービス分野で 20 年以上の法務および会社事務局の経験をもたらします。最近では、彼女 […] AXA UK & Ireland が法務顧問に Caroline Riddy を任命するという記事が ReinsuranceNe.ws に最初に掲載されました。"
   },
   {
     "id": "rss-insurance-4e56272dd51f15",
@@ -1809,41 +1415,144 @@
     "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。再保険、インシュアテック、保険リンク証券（ILS）、運輸に特化した投資運用会社であるハドソン・ストラクチャード・キャピタル・マネジメント（HSCM）は、現在同社のマネージング・ディレクター兼最高財務責任者を務めるバーナード・オポク氏をパートナーに昇進させ、組織全体で他のいくつかの重要な昇進を行った。 Opoku は 2018 年に副社長兼コントローラーとして HSCM に入社し、その後退任しました […] Hudson Structured (HSCM) が一連のプロモーションの中で Opoku をパートナーに指名"
   },
   {
-    "id": "rss-insurance-e8d2059d7fdc97",
-    "title": "中東情勢、資源高から急落～2026年３月の日本株式の振り返りと今後のポイント～",
-    "summary": "■要旨 2026年３月の日本株式は、中東情勢の緊迫化やそれに伴う原油価格の高騰が嫌気されて急落し、年初からの上げ幅をほぼ消失する展開となった。 米国株式と比べて特に下落が目立ったが、日本の中東への資源依存度の高さが意識されたほか、１、２月の急伸に対する反動も出たといえよう。 急落により株価の過熱感は消失したが、依然として業績の下振れを十分に織り込んでいない楽観的な水準にあり、今後も先行きに対する不透明感が強い中、中東情勢の動向に左右される展開が続くことが見込まれる。 ■目次 1――急落し、２月までの上げ幅がほぼ消失 2――１、２月の急上昇の反動も 3――中東情勢の動向に左右される展開が続く2026年３月の日本株式を振り返ると、上旬は中東情勢の緊迫化やそれに伴う原油高が嫌気され大きく下落して始まった。日経平均株価は、２日から４日の３日間で約4,600円急落し、４日には５万4,200円台まで沈んだ。その後、５日、６日と５万5,000円を上回る場面も見られたが、長期化懸念が株価を押し下げ、９日には５万3,000円を割り込む展開となった。 中旬は、原油価格の上昇一服や米半導体株高を好感し、11日には再び５万5,000円台を回復した。しかし、12日以降は原油価格が高止まりする中、18日に一時５万5,000円台を付ける場面があったものの、概ね５万3,000円台での一進一退の推移が続いた。 下旬に入ると、戦闘激化の警戒感や原油高に伴うインフレ懸念から23日に５万1,500円まで売られる展開となった。25日、26日には停戦期待から一時５万4,000円に迫ったが、月末にかけて再び情勢悪化への懸念が台頭したため、月末は５万1,000円目前まで値を切り下げて終えた。 2――１、２月の急上昇の反動も このように、３月の日本株式は日経平均株価の下落幅が7,78",
+    "id": "rss-insurance-41007f71f3e140",
+    "title": "中国の介護保険制度、2028年をめどに全国導入へ",
+    "summary": "■要旨 中国では2016年以降、公的介護保険制度の試行導入が段階的に進められてきた。約10年にわたる試行を通じて、財源の不安定さや地域間格差といった課題が明らかとなっている。こうした状況を踏まえ、政府は今般、2028年を目途とする全国導入に向けた指針を示し、財源構造の見直しや給付・要介護認定の統一、制度運営の標準化を進める方針を示した。しかしながら、財政の持続可能性や地域差への対応など、引き続き検討すべき課題も残されている。 ■目次 1――試行開始から10年、全国導入へ向けた動きが加速 2――試行段階の到達点と制度的特徴 3――2026年意見の概要―普及に向けた制度設計の改善 4――制度運営における今後の検討課題中国では近年、急速な高齢化の進展を背景に、高齢者の介護ニーズが急増している。家族機能の変容や都市化の進展により、従来の家族介護に依存した支援体制には限界が生じつつあり、公的な介護保障制度の整備が重要な政策課題として浮上している。 こうした中、2016年以降、中国は公的介護保険の試行を段階的に拡大し、現在では92地域において制度運用が行われている。これは都市ベースでみれば、おおむね３割程度の地域で導入が進んでいることになる。しかし、これまでの試行は地域ごとの制度設計に委ねられてきたため、財源構造や要介護認定基準、受けられる介護サービスなどに大きな差異が存在し、地域によって制度格差が大きい点が指摘されていた。 このような状況を踏まえ、2026年3月25日、国務院は介護保険制度の普及を促進するための意見1を公表した。本意見は、従来の試行中心の段階から一歩進み、2028年をめど（３年以内）に全国導入という目標を提示した点に特徴がある。導入期限を明示するとともに、全国的な制度整備を見据えた方向性を打ち出したことは、中国の介護保険制度にと",
     "sourceName": "ニッセイ基礎研（保険）",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T06:22:38.000Z",
+    "publishedAt": "2026-04-02T01:01:05.000Z",
     "category": "insurance",
     "keywords": [
-      "中東情勢、資源高から急落",
-      "から急落～2026年３月",
-      "6年３月の日本株式の振り",
-      "式の振り返りと今後のポイ",
-      "後のポイント～"
+      "中国の介護保険制度",
+      "2028年をめどに全国導入へ"
     ],
     "bannerClass": "from-teal-950 to-emerald-900",
     "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85068?site=nli"
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=85064?site=nli"
   },
   {
-    "id": "rss-insurance-2aab7982a8b532",
-    "title": "日米欧の製造業およびサービス業の実質賃金推移とその特徴",
-    "summary": "■要旨 本稿では、日米欧主要国の実質賃金上昇率の要因分解（労働生産性上昇率、交易条件上昇率、労働分配率等上昇率への分解）を製造業とサービス業でそれぞれ確認した。 98年から24年までの雇用者1人あたり実質賃金上昇率は、米国、ユーロ圏、日本の順に高い。これは、製造業でもサービス業でも変わらない（ユーロ圏は国によってバラツキがある）が、サービス業の方が実質賃金上昇率の地域ごとの格差が大きい（図表1・2）。時間あたり実質賃金上昇率でも、格差がやや縮小するものの概ね同じ傾向にある。 雇用者1人あたり実質賃金上昇率を要因分解すると、中核となる労働生産性上昇率は製造業、サービス業ともに米国が突出して高い（図表1・3）。また、日本とユーロ圏の労働生産性上昇率は製造業においては同程度だが、サービス業では日本がユーロ圏よりも低い。製造業では交易条件の悪化や労働分配率等の低下が実質賃金を押し下げている面も大きいが、サービス業では労働生産性上昇率の差が実質賃金上昇率の差にほぼ直結している。 ■目次 ・（実質賃金の分解とその推移概観） ・（製造業の実質賃金分解と推移） ・（サービス業の実質賃金分解と推移） ・（労働生産性のさらなる分解） ・（労働時間） ・（まとめ）本稿では、98年を基準に24年までの日米欧（日本、米国、ユーロ圏（ドイツ、フランス、イタリア、スペイン））における産業別、特に製造業とサービス業1の実質賃金（雇用者報酬）上昇率を労働生産性上昇率、交易条件上昇率、労働分配率等上昇率に要因分解し、その推移を考察した2。 実質賃金の分解は、具体的には、となる（両辺の対数を取ると、実質賃金上昇率を労働生産性上昇率、交易条件上昇率、労働分配率上昇率の和で近似する式となる4）。なお、以前のレポートでは産業全体の実質賃金を要因分解した5。その結果は、分析期間で",
-    "sourceName": "ニッセイ基礎研（保険）",
+    "id": "rss-insurance-41007f71f3e140",
+    "title": "中国の介護保険制度、2028年をめどに全国導入へ",
+    "summary": "■要旨 中国では2016年以降、公的介護保険制度の試行導入が段階的に進められてきた。約10年にわたる試行を通じて、財源の不安定さや地域間格差といった課題が明らかとなっている。こうした状況を踏まえ、政府は今般、2028年を目途とする全国導入に向けた指針を示し、財源構造の見直しや給付・要介護認定の統一、制度運営の標準化を進める方針を示した。しかしながら、財政の持続可能性や地域差への対応など、引き続き検討すべき課題も残されている。 ■目次 1――試行開始から10年、全国導入へ向けた動きが加速 2――試行段階の到達点と制度的特徴 3――2026年意見の概要―普及に向けた制度設計の改善 4――制度運営における今後の検討課題中国では近年、急速な高齢化の進展を背景に、高齢者の介護ニーズが急増している。家族機能の変容や都市化の進展により、従来の家族介護に依存した支援体制には限界が生じつつあり、公的な介護保障制度の整備が重要な政策課題として浮上している。 こうした中、2016年以降、中国は公的介護保険の試行を段階的に拡大し、現在では92地域において制度運用が行われている。これは都市ベースでみれば、おおむね３割程度の地域で導入が進んでいることになる。しかし、これまでの試行は地域ごとの制度設計に委ねられてきたため、財源構造や要介護認定基準、受けられる介護サービスなどに大きな差異が存在し、地域によって制度格差が大きい点が指摘されていた。 このような状況を踏まえ、2026年3月25日、国務院は介護保険制度の普及を促進するための意見1を公表した。本意見は、従来の試行中心の段階から一歩進み、2028年をめど（３年以内）に全国導入という目標を提示した点に特徴がある。導入期限を明示するとともに、全国的な制度整備を見据えた方向性を打ち出したことは、中国の介護保険制度にと",
+    "sourceName": "ニッセイ基礎研（年金）",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-02T04:36:45.000Z",
+    "publishedAt": "2026-04-02T01:01:05.000Z",
     "category": "insurance",
     "keywords": [
-      "日米欧の製造業およびサー",
-      "よびサービス業の実質賃金",
-      "実質賃金推移とその特徴",
-      "の特徴"
+      "中国の介護保険制度",
+      "2028年をめどに全国導入へ"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=85064?site=nli"
+  },
+  {
+    "id": "rss-insurance-41007f71f3e140",
+    "title": "中国の介護保険制度、2028年をめどに全国導入へ",
+    "summary": "■要旨 中国では2016年以降、公的介護保険制度の試行導入が段階的に進められてきた。約10年にわたる試行を通じて、財源の不安定さや地域間格差といった課題が明らかとなっている。こうした状況を踏まえ、政府は今般、2028年を目途とする全国導入に向けた指針を示し、財源構造の見直しや給付・要介護認定の統一、制度運営の標準化を進める方針を示した。しかしながら、財政の持続可能性や地域差への対応など、引き続き検討すべき課題も残されている。 ■目次 1――試行開始から10年、全国導入へ向けた動きが加速 2――試行段階の到達点と制度的特徴 3――2026年意見の概要―普及に向けた制度設計の改善 4――制度運営における今後の検討課題中国では近年、急速な高齢化の進展を背景に、高齢者の介護ニーズが急増している。家族機能の変容や都市化の進展により、従来の家族介護に依存した支援体制には限界が生じつつあり、公的な介護保障制度の整備が重要な政策課題として浮上している。 こうした中、2016年以降、中国は公的介護保険の試行を段階的に拡大し、現在では92地域において制度運用が行われている。これは都市ベースでみれば、おおむね３割程度の地域で導入が進んでいることになる。しかし、これまでの試行は地域ごとの制度設計に委ねられてきたため、財源構造や要介護認定基準、受けられる介護サービスなどに大きな差異が存在し、地域によって制度格差が大きい点が指摘されていた。 このような状況を踏まえ、2026年3月25日、国務院は介護保険制度の普及を促進するための意見1を公表した。本意見は、従来の試行中心の段階から一歩進み、2028年をめど（３年以内）に全国導入という目標を提示した点に特徴がある。導入期限を明示するとともに、全国的な制度整備を見据えた方向性を打ち出したことは、中国の介護保険制度にと",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T01:01:05.000Z",
+    "category": "insurance",
+    "keywords": [
+      "中国の介護保険制度",
+      "2028年をめどに全国導入へ"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=85064?site=nli"
+  },
+  {
+    "id": "rss-insurance-41007f71f3e140",
+    "title": "中国の介護保険制度、2028年をめどに全国導入へ",
+    "summary": "■要旨 中国では2016年以降、公的介護保険制度の試行導入が段階的に進められてきた。約10年にわたる試行を通じて、財源の不安定さや地域間格差といった課題が明らかとなっている。こうした状況を踏まえ、政府は今般、2028年を目途とする全国導入に向けた指針を示し、財源構造の見直しや給付・要介護認定の統一、制度運営の標準化を進める方針を示した。しかしながら、財政の持続可能性や地域差への対応など、引き続き検討すべき課題も残されている。 ■目次 1――試行開始から10年、全国導入へ向けた動きが加速 2――試行段階の到達点と制度的特徴 3――2026年意見の概要―普及に向けた制度設計の改善 4――制度運営における今後の検討課題中国では近年、急速な高齢化の進展を背景に、高齢者の介護ニーズが急増している。家族機能の変容や都市化の進展により、従来の家族介護に依存した支援体制には限界が生じつつあり、公的な介護保障制度の整備が重要な政策課題として浮上している。 こうした中、2016年以降、中国は公的介護保険の試行を段階的に拡大し、現在では92地域において制度運用が行われている。これは都市ベースでみれば、おおむね３割程度の地域で導入が進んでいることになる。しかし、これまでの試行は地域ごとの制度設計に委ねられてきたため、財源構造や要介護認定基準、受けられる介護サービスなどに大きな差異が存在し、地域によって制度格差が大きい点が指摘されていた。 このような状況を踏まえ、2026年3月25日、国務院は介護保険制度の普及を促進するための意見1を公表した。本意見は、従来の試行中心の段階から一歩進み、2028年をめど（３年以内）に全国導入という目標を提示した点に特徴がある。導入期限を明示するとともに、全国的な制度整備を見据えた方向性を打ち出したことは、中国の介護保険制度にと",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-02T01:01:05.000Z",
+    "category": "insurance",
+    "keywords": [
+      "中国の介護保険制度",
+      "2028年をめどに全国導入へ"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=85064?site=nli"
+  },
+  {
+    "id": "rss-insurance-35eac70abd655c",
+    "title": "米国個人年金販売額は2025年も過去最高を更新－但し減速、今後は伸び悩むとの予想－",
+    "summary": "■要旨 米国における個人年金の販売額は2021年以降2024年まで前年比増加を続けてきたものの、2025年は金利の低下を受けて定額年金の減少が見込まれる中、全体でも前年比減少に転じると予想されていた。 だが実際には4,613億ドルと前年比6％増で過去最高を更新するに至った。最も販売実績の大きい確定利付き据置定額年金が前年比５％の増加を確保し定額年金が微増となり、実額としては定額年金の半分以下ながらも変額年金の伸びが全体を押し上げた。もっとも、2024年の販売実績が前年比13％増であったことと比較すれば、その成長が減速したことは否めない。 2028年までの中期見通しでは2025年をピークに、その後は伸び悩むと予想される。ここ数年の販売実績を支えてきた短期（３～５年）の確定利付き据置定額年金が相次いで満期を迎える中、引き続き個人年金にその資金を取り込めるかが大きな課題となる。 中東情勢の不安定化をはじめ中期見通しの前提となる経済環境には不透明な点が多い一方で、65歳以上人口の増加によって個人年金の市場規模が拡大を続ける構図に変わりはない。今後の動向に注視が必要である。 ■目次 1――はじめに 2――2025年の販売実績 3――中期見通し（参考、2026年1月時点） 4――おわりに米国における個人年金の販売額は2021年から2024年まで前年比増加を続けてきた。2024年の販売額4,349億ドルは過去最高を更新したものである。 個人年金は主に退職前後の資産の運用商品として活用されてきた。老後の生活資金を一生涯にわたって年金の形で受け取りたいという希望に応え、また、元本確保など安定的な運用を志向するニーズに沿った商品であるためだ。変額年金を除けば、個人年金加入は退職年齢となることが多い65歳前後に集中する傾向1にある。 米国の人口動態において",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-01T04:51:00.000Z",
+    "category": "insurance",
+    "keywords": [
+      "米国個人年金販売額は20",
+      "額は2025年も過去最高",
+      "過去最高を更新－但し減速",
+      "但し減速、今後は伸び悩む",
+      "伸び悩むとの予想－"
     ],
     "bannerClass": "from-teal-950 to-emerald-900",
     "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=85065?site=nli"
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=85047?site=nli"
+  },
+  {
+    "id": "rss-insurance-35eac70abd655c",
+    "title": "米国個人年金販売額は2025年も過去最高を更新－但し減速、今後は伸び悩むとの予想－",
+    "summary": "■要旨 米国における個人年金の販売額は2021年以降2024年まで前年比増加を続けてきたものの、2025年は金利の低下を受けて定額年金の減少が見込まれる中、全体でも前年比減少に転じると予想されていた。 だが実際には4,613億ドルと前年比6％増で過去最高を更新するに至った。最も販売実績の大きい確定利付き据置定額年金が前年比５％の増加を確保し定額年金が微増となり、実額としては定額年金の半分以下ながらも変額年金の伸びが全体を押し上げた。もっとも、2024年の販売実績が前年比13％増であったことと比較すれば、その成長が減速したことは否めない。 2028年までの中期見通しでは2025年をピークに、その後は伸び悩むと予想される。ここ数年の販売実績を支えてきた短期（３～５年）の確定利付き据置定額年金が相次いで満期を迎える中、引き続き個人年金にその資金を取り込めるかが大きな課題となる。 中東情勢の不安定化をはじめ中期見通しの前提となる経済環境には不透明な点が多い一方で、65歳以上人口の増加によって個人年金の市場規模が拡大を続ける構図に変わりはない。今後の動向に注視が必要である。 ■目次 1――はじめに 2――2025年の販売実績 3――中期見通し（参考、2026年1月時点） 4――おわりに米国における個人年金の販売額は2021年から2024年まで前年比増加を続けてきた。2024年の販売額4,349億ドルは過去最高を更新したものである。 個人年金は主に退職前後の資産の運用商品として活用されてきた。老後の生活資金を一生涯にわたって年金の形で受け取りたいという希望に応え、また、元本確保など安定的な運用を志向するニーズに沿った商品であるためだ。変額年金を除けば、個人年金加入は退職年齢となることが多い65歳前後に集中する傾向1にある。 米国の人口動態において",
+    "sourceName": "ニッセイ基礎研（年金）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-01T04:51:00.000Z",
+    "category": "insurance",
+    "keywords": [
+      "米国個人年金販売額は20",
+      "額は2025年も過去最高",
+      "過去最高を更新－但し減速",
+      "但し減速、今後は伸び悩む",
+      "伸び悩むとの予想－"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=85047?site=nli"
+  },
+  {
+    "id": "rss-insurance-35eac70abd655c",
+    "title": "米国個人年金販売額は2025年も過去最高を更新－但し減速、今後は伸び悩むとの予想－",
+    "summary": "■要旨 米国における個人年金の販売額は2021年以降2024年まで前年比増加を続けてきたものの、2025年は金利の低下を受けて定額年金の減少が見込まれる中、全体でも前年比減少に転じると予想されていた。 だが実際には4,613億ドルと前年比6％増で過去最高を更新するに至った。最も販売実績の大きい確定利付き据置定額年金が前年比５％の増加を確保し定額年金が微増となり、実額としては定額年金の半分以下ながらも変額年金の伸びが全体を押し上げた。もっとも、2024年の販売実績が前年比13％増であったことと比較すれば、その成長が減速したことは否めない。 2028年までの中期見通しでは2025年をピークに、その後は伸び悩むと予想される。ここ数年の販売実績を支えてきた短期（３～５年）の確定利付き据置定額年金が相次いで満期を迎える中、引き続き個人年金にその資金を取り込めるかが大きな課題となる。 中東情勢の不安定化をはじめ中期見通しの前提となる経済環境には不透明な点が多い一方で、65歳以上人口の増加によって個人年金の市場規模が拡大を続ける構図に変わりはない。今後の動向に注視が必要である。 ■目次 1――はじめに 2――2025年の販売実績 3――中期見通し（参考、2026年1月時点） 4――おわりに米国における個人年金の販売額は2021年から2024年まで前年比増加を続けてきた。2024年の販売額4,349億ドルは過去最高を更新したものである。 個人年金は主に退職前後の資産の運用商品として活用されてきた。老後の生活資金を一生涯にわたって年金の形で受け取りたいという希望に応え、また、元本確保など安定的な運用を志向するニーズに沿った商品であるためだ。変額年金を除けば、個人年金加入は退職年齢となることが多い65歳前後に集中する傾向1にある。 米国の人口動態において",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-01T04:51:00.000Z",
+    "category": "insurance",
+    "keywords": [
+      "米国個人年金販売額は20",
+      "額は2025年も過去最高",
+      "過去最高を更新－但し減速",
+      "但し減速、今後は伸び悩む",
+      "伸び悩むとの予想－"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=85047?site=nli"
+  },
+  {
+    "id": "rss-insurance-35eac70abd655c",
+    "title": "米国個人年金販売額は2025年も過去最高を更新－但し減速、今後は伸び悩むとの予想－",
+    "summary": "■要旨 米国における個人年金の販売額は2021年以降2024年まで前年比増加を続けてきたものの、2025年は金利の低下を受けて定額年金の減少が見込まれる中、全体でも前年比減少に転じると予想されていた。 だが実際には4,613億ドルと前年比6％増で過去最高を更新するに至った。最も販売実績の大きい確定利付き据置定額年金が前年比５％の増加を確保し定額年金が微増となり、実額としては定額年金の半分以下ながらも変額年金の伸びが全体を押し上げた。もっとも、2024年の販売実績が前年比13％増であったことと比較すれば、その成長が減速したことは否めない。 2028年までの中期見通しでは2025年をピークに、その後は伸び悩むと予想される。ここ数年の販売実績を支えてきた短期（３～５年）の確定利付き据置定額年金が相次いで満期を迎える中、引き続き個人年金にその資金を取り込めるかが大きな課題となる。 中東情勢の不安定化をはじめ中期見通しの前提となる経済環境には不透明な点が多い一方で、65歳以上人口の増加によって個人年金の市場規模が拡大を続ける構図に変わりはない。今後の動向に注視が必要である。 ■目次 1――はじめに 2――2025年の販売実績 3――中期見通し（参考、2026年1月時点） 4――おわりに米国における個人年金の販売額は2021年から2024年まで前年比増加を続けてきた。2024年の販売額4,349億ドルは過去最高を更新したものである。 個人年金は主に退職前後の資産の運用商品として活用されてきた。老後の生活資金を一生涯にわたって年金の形で受け取りたいという希望に応え、また、元本確保など安定的な運用を志向するニーズに沿った商品であるためだ。変額年金を除けば、個人年金加入は退職年齢となることが多い65歳前後に集中する傾向1にある。 米国の人口動態において",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-01T04:51:00.000Z",
+    "category": "insurance",
+    "keywords": [
+      "米国個人年金販売額は20",
+      "額は2025年も過去最高",
+      "過去最高を更新－但し減速",
+      "但し減速、今後は伸び悩む",
+      "伸び悩むとの予想－"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=85047?site=nli"
   },
   {
     "id": "rss-insurance-01891140326155",
@@ -1863,6 +1572,154 @@
     "sortBoost": 18
   },
   {
+    "id": "rss-insurance-44b4cf08c23c60",
+    "title": "第15次5ヵ年計画期における社会保障制度改革の方向性と課題",
+    "summary": "■要旨 国際環境と国内経済が大きな転換点を迎える中、第15次5ヵ年計画では、社会保障制度の役割にも重要な変化がみられる。従来のセーフティネットとしての機能に加え、内需を下支えする経済政策としての位置づけが一層強まっている点が特徴である。 こうした認識のもとで、同計画では、少子化・高齢化・雇用の不安定化といった新たな社会リスクへの対応が重視されている。その結果、社会保障は「共同富裕」の実現を支えると同時に、経済成長を下支えする中核的な政策として再定義されつつある。 ■目次 1――はじめに 2――社会保障に求められる役割の変化 3――第14次５ヵ年計画期における社会保険改革の成果と振り返り （１）定年延長の実現 （２）労災－ギグワーカーの勤務中の事故に新たな保障スキームを導入 （３）子育て支援－子育て世代のサポート強化 （４）介護・高齢者対策－高齢化対策を国家戦略の１つとして格上げ （５）生活の不安定化の改善を目指すも一定の限界も 4――第15次５ヵ年計画期間における社会保障制度改革の重点 （１）子育て支援 （２）介護・高齢者対策 （３）ギグワーカー対策 （４）既存の制度の改革 5――おわりに中国はこれまで、５年間の国家目標を設定し、その達成に向けて政策を体系的に実行する計画主導型の発展モデルを採用してきた。5ヵ年計画は、経済発展の方向性を示すだけでなく、社会政策や制度改革の優先順位を定める国家運営の基本枠組みとして機能している。 直近の第14次５ヵ年計画（2021～2025年）の期間は、国際環境と国内経済の双方において大きな転換点となった。国際的には、地政学的緊張の高まりを背景に、対外依存の低減やサプライチェーンの再構築が重要課題として浮上した。これを受けて「自立自強」の方針の下、先端技術分野を中心に対外依存の見直しが進められ、国内循環",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-26T06:37:47.000Z",
+    "category": "insurance",
+    "keywords": [
+      "第15次5ヵ年計画期にお",
+      "画期における社会保障制度",
+      "保障制度改革の方向性と課",
+      "向性と課題"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=85004?site=nli"
+  },
+  {
+    "id": "rss-insurance-44b4cf08c23c60",
+    "title": "第15次5ヵ年計画期における社会保障制度改革の方向性と課題",
+    "summary": "■要旨 国際環境と国内経済が大きな転換点を迎える中、第15次5ヵ年計画では、社会保障制度の役割にも重要な変化がみられる。従来のセーフティネットとしての機能に加え、内需を下支えする経済政策としての位置づけが一層強まっている点が特徴である。 こうした認識のもとで、同計画では、少子化・高齢化・雇用の不安定化といった新たな社会リスクへの対応が重視されている。その結果、社会保障は「共同富裕」の実現を支えると同時に、経済成長を下支えする中核的な政策として再定義されつつある。 ■目次 1――はじめに 2――社会保障に求められる役割の変化 3――第14次５ヵ年計画期における社会保険改革の成果と振り返り （１）定年延長の実現 （２）労災－ギグワーカーの勤務中の事故に新たな保障スキームを導入 （３）子育て支援－子育て世代のサポート強化 （４）介護・高齢者対策－高齢化対策を国家戦略の１つとして格上げ （５）生活の不安定化の改善を目指すも一定の限界も 4――第15次５ヵ年計画期間における社会保障制度改革の重点 （１）子育て支援 （２）介護・高齢者対策 （３）ギグワーカー対策 （４）既存の制度の改革 5――おわりに中国はこれまで、５年間の国家目標を設定し、その達成に向けて政策を体系的に実行する計画主導型の発展モデルを採用してきた。5ヵ年計画は、経済発展の方向性を示すだけでなく、社会政策や制度改革の優先順位を定める国家運営の基本枠組みとして機能している。 直近の第14次５ヵ年計画（2021～2025年）の期間は、国際環境と国内経済の双方において大きな転換点となった。国際的には、地政学的緊張の高まりを背景に、対外依存の低減やサプライチェーンの再構築が重要課題として浮上した。これを受けて「自立自強」の方針の下、先端技術分野を中心に対外依存の見直しが進められ、国内循環",
+    "sourceName": "ニッセイ基礎研（年金）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-26T06:37:47.000Z",
+    "category": "insurance",
+    "keywords": [
+      "第15次5ヵ年計画期にお",
+      "画期における社会保障制度",
+      "保障制度改革の方向性と課",
+      "向性と課題"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=85004?site=nli"
+  },
+  {
+    "id": "rss-insurance-44b4cf08c23c60",
+    "title": "第15次5ヵ年計画期における社会保障制度改革の方向性と課題",
+    "summary": "■要旨 国際環境と国内経済が大きな転換点を迎える中、第15次5ヵ年計画では、社会保障制度の役割にも重要な変化がみられる。従来のセーフティネットとしての機能に加え、内需を下支えする経済政策としての位置づけが一層強まっている点が特徴である。 こうした認識のもとで、同計画では、少子化・高齢化・雇用の不安定化といった新たな社会リスクへの対応が重視されている。その結果、社会保障は「共同富裕」の実現を支えると同時に、経済成長を下支えする中核的な政策として再定義されつつある。 ■目次 1――はじめに 2――社会保障に求められる役割の変化 3――第14次５ヵ年計画期における社会保険改革の成果と振り返り （１）定年延長の実現 （２）労災－ギグワーカーの勤務中の事故に新たな保障スキームを導入 （３）子育て支援－子育て世代のサポート強化 （４）介護・高齢者対策－高齢化対策を国家戦略の１つとして格上げ （５）生活の不安定化の改善を目指すも一定の限界も 4――第15次５ヵ年計画期間における社会保障制度改革の重点 （１）子育て支援 （２）介護・高齢者対策 （３）ギグワーカー対策 （４）既存の制度の改革 5――おわりに中国はこれまで、５年間の国家目標を設定し、その達成に向けて政策を体系的に実行する計画主導型の発展モデルを採用してきた。5ヵ年計画は、経済発展の方向性を示すだけでなく、社会政策や制度改革の優先順位を定める国家運営の基本枠組みとして機能している。 直近の第14次５ヵ年計画（2021～2025年）の期間は、国際環境と国内経済の双方において大きな転換点となった。国際的には、地政学的緊張の高まりを背景に、対外依存の低減やサプライチェーンの再構築が重要課題として浮上した。これを受けて「自立自強」の方針の下、先端技術分野を中心に対外依存の見直しが進められ、国内循環",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-26T06:37:47.000Z",
+    "category": "insurance",
+    "keywords": [
+      "第15次5ヵ年計画期にお",
+      "画期における社会保障制度",
+      "保障制度改革の方向性と課",
+      "向性と課題"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=85004?site=nli"
+  },
+  {
+    "id": "rss-insurance-44b4cf08c23c60",
+    "title": "第15次5ヵ年計画期における社会保障制度改革の方向性と課題",
+    "summary": "■要旨 国際環境と国内経済が大きな転換点を迎える中、第15次5ヵ年計画では、社会保障制度の役割にも重要な変化がみられる。従来のセーフティネットとしての機能に加え、内需を下支えする経済政策としての位置づけが一層強まっている点が特徴である。 こうした認識のもとで、同計画では、少子化・高齢化・雇用の不安定化といった新たな社会リスクへの対応が重視されている。その結果、社会保障は「共同富裕」の実現を支えると同時に、経済成長を下支えする中核的な政策として再定義されつつある。 ■目次 1――はじめに 2――社会保障に求められる役割の変化 3――第14次５ヵ年計画期における社会保険改革の成果と振り返り （１）定年延長の実現 （２）労災－ギグワーカーの勤務中の事故に新たな保障スキームを導入 （３）子育て支援－子育て世代のサポート強化 （４）介護・高齢者対策－高齢化対策を国家戦略の１つとして格上げ （５）生活の不安定化の改善を目指すも一定の限界も 4――第15次５ヵ年計画期間における社会保障制度改革の重点 （１）子育て支援 （２）介護・高齢者対策 （３）ギグワーカー対策 （４）既存の制度の改革 5――おわりに中国はこれまで、５年間の国家目標を設定し、その達成に向けて政策を体系的に実行する計画主導型の発展モデルを採用してきた。5ヵ年計画は、経済発展の方向性を示すだけでなく、社会政策や制度改革の優先順位を定める国家運営の基本枠組みとして機能している。 直近の第14次５ヵ年計画（2021～2025年）の期間は、国際環境と国内経済の双方において大きな転換点となった。国際的には、地政学的緊張の高まりを背景に、対外依存の低減やサプライチェーンの再構築が重要課題として浮上した。これを受けて「自立自強」の方針の下、先端技術分野を中心に対外依存の見直しが進められ、国内循環",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-26T06:37:47.000Z",
+    "category": "insurance",
+    "keywords": [
+      "第15次5ヵ年計画期にお",
+      "画期における社会保障制度",
+      "保障制度改革の方向性と課",
+      "向性と課題"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=85004?site=nli"
+  },
+  {
+    "id": "rss-insurance-003e22903fb6ae",
+    "title": "数字の「1」に関わる各種の話題－様々な意味合いを有する基本中の基本となる数字だけに、何を語るのかは極めて難しい－",
+    "summary": "■要旨 数字の「1」は、基本中の基本となる数字であり、最も重要な数字なので、限られた紙面の中で何を語るのかを選択することは極めて難しい。数字の「1」は、多くの意味を有しており、日常生活の各種の場面で現れてくる。今回は、個人的な興味・関心に基づいたトピックを中心に取り上げることとする。 ■目次 ・はじめに ・数字の「1」は、なぜこのような形になっているのか ・ローマ数字の「Ⅰ」には、なぜ上下に短い線があるのか ・数字の「1」は、乗法の単位元 ・数字の「1」は、素数ではない ・同じ数字を並べて素数を作成できるのは「1」のみ ・数字の「1」の表記 ・漢字の「一」 ・宗教における数字の「1」 ・スポーツにみられる数字の「1」 ・数学における数字としての「1」 ・化学・物理学における数字としての「1」 ・その他の数字の「1」が現れるケース ・最後に今回は、いよいよ数字の「1」について、それが現れてくる例やその理由等について調べている。数字の「1」は、基本中の基本となる数字であり、最も重要な数字なので、限られた紙面の中で何を語るのかを選択することは極めて難しい。数字の「1」は、「始まり（スタート）」、「唯一（オンリーワン）」、「独自（ユニーク）」、「頂点（トップ）」、「個人・自身（セルフ）」、「統一（ユニティ）」等の様々な意味合いを有しており、日常生活の各種の場面で現れてくる。今回は、この中で個人的な興味・関心に基づいたトピックを中心に取り上げることとする。このため、これまで以上に、このレポートで紹介するのは、数字の「1」が現れる一部に過ぎないことを述べておく。 数字の「1」は、なぜこのような形になっているのか 数字の「1」を表すのに、縦の一本棒になっていることに、殆どの人は違和感を持たないだろう。数字の「1」を表すのには、古代からこのような形が",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-25T10:04:37.000Z",
+    "category": "insurance",
+    "keywords": [
+      "数字の「1」に関わる各種",
+      "わる各種の話題－様々な意",
+      "様々な意味合いを有する基",
+      "有する基本中の基本となる",
+      "本となる数字だけに、何を"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84986?site=nli"
+  },
+  {
+    "id": "rss-insurance-003e22903fb6ae",
+    "title": "数字の「1」に関わる各種の話題－様々な意味合いを有する基本中の基本となる数字だけに、何を語るのかは極めて難しい－",
+    "summary": "■要旨 数字の「1」は、基本中の基本となる数字であり、最も重要な数字なので、限られた紙面の中で何を語るのかを選択することは極めて難しい。数字の「1」は、多くの意味を有しており、日常生活の各種の場面で現れてくる。今回は、個人的な興味・関心に基づいたトピックを中心に取り上げることとする。 ■目次 ・はじめに ・数字の「1」は、なぜこのような形になっているのか ・ローマ数字の「Ⅰ」には、なぜ上下に短い線があるのか ・数字の「1」は、乗法の単位元 ・数字の「1」は、素数ではない ・同じ数字を並べて素数を作成できるのは「1」のみ ・数字の「1」の表記 ・漢字の「一」 ・宗教における数字の「1」 ・スポーツにみられる数字の「1」 ・数学における数字としての「1」 ・化学・物理学における数字としての「1」 ・その他の数字の「1」が現れるケース ・最後に今回は、いよいよ数字の「1」について、それが現れてくる例やその理由等について調べている。数字の「1」は、基本中の基本となる数字であり、最も重要な数字なので、限られた紙面の中で何を語るのかを選択することは極めて難しい。数字の「1」は、「始まり（スタート）」、「唯一（オンリーワン）」、「独自（ユニーク）」、「頂点（トップ）」、「個人・自身（セルフ）」、「統一（ユニティ）」等の様々な意味合いを有しており、日常生活の各種の場面で現れてくる。今回は、この中で個人的な興味・関心に基づいたトピックを中心に取り上げることとする。このため、これまで以上に、このレポートで紹介するのは、数字の「1」が現れる一部に過ぎないことを述べておく。 数字の「1」は、なぜこのような形になっているのか 数字の「1」を表すのに、縦の一本棒になっていることに、殆どの人は違和感を持たないだろう。数字の「1」を表すのには、古代からこのような形が",
+    "sourceName": "ニッセイ基礎研（年金）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-25T10:04:37.000Z",
+    "category": "insurance",
+    "keywords": [
+      "数字の「1」に関わる各種",
+      "わる各種の話題－様々な意",
+      "様々な意味合いを有する基",
+      "有する基本中の基本となる",
+      "本となる数字だけに、何を"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84986?site=nli"
+  },
+  {
+    "id": "rss-insurance-003e22903fb6ae",
+    "title": "数字の「1」に関わる各種の話題－様々な意味合いを有する基本中の基本となる数字だけに、何を語るのかは極めて難しい－",
+    "summary": "■要旨 数字の「1」は、基本中の基本となる数字であり、最も重要な数字なので、限られた紙面の中で何を語るのかを選択することは極めて難しい。数字の「1」は、多くの意味を有しており、日常生活の各種の場面で現れてくる。今回は、個人的な興味・関心に基づいたトピックを中心に取り上げることとする。 ■目次 ・はじめに ・数字の「1」は、なぜこのような形になっているのか ・ローマ数字の「Ⅰ」には、なぜ上下に短い線があるのか ・数字の「1」は、乗法の単位元 ・数字の「1」は、素数ではない ・同じ数字を並べて素数を作成できるのは「1」のみ ・数字の「1」の表記 ・漢字の「一」 ・宗教における数字の「1」 ・スポーツにみられる数字の「1」 ・数学における数字としての「1」 ・化学・物理学における数字としての「1」 ・その他の数字の「1」が現れるケース ・最後に今回は、いよいよ数字の「1」について、それが現れてくる例やその理由等について調べている。数字の「1」は、基本中の基本となる数字であり、最も重要な数字なので、限られた紙面の中で何を語るのかを選択することは極めて難しい。数字の「1」は、「始まり（スタート）」、「唯一（オンリーワン）」、「独自（ユニーク）」、「頂点（トップ）」、「個人・自身（セルフ）」、「統一（ユニティ）」等の様々な意味合いを有しており、日常生活の各種の場面で現れてくる。今回は、この中で個人的な興味・関心に基づいたトピックを中心に取り上げることとする。このため、これまで以上に、このレポートで紹介するのは、数字の「1」が現れる一部に過ぎないことを述べておく。 数字の「1」は、なぜこのような形になっているのか 数字の「1」を表すのに、縦の一本棒になっていることに、殆どの人は違和感を持たないだろう。数字の「1」を表すのには、古代からこのような形が",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-25T10:04:37.000Z",
+    "category": "insurance",
+    "keywords": [
+      "数字の「1」に関わる各種",
+      "わる各種の話題－様々な意",
+      "様々な意味合いを有する基",
+      "有する基本中の基本となる",
+      "本となる数字だけに、何を"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84986?site=nli"
+  },
+  {
+    "id": "rss-insurance-003e22903fb6ae",
+    "title": "数字の「1」に関わる各種の話題－様々な意味合いを有する基本中の基本となる数字だけに、何を語るのかは極めて難しい－",
+    "summary": "■要旨 数字の「1」は、基本中の基本となる数字であり、最も重要な数字なので、限られた紙面の中で何を語るのかを選択することは極めて難しい。数字の「1」は、多くの意味を有しており、日常生活の各種の場面で現れてくる。今回は、個人的な興味・関心に基づいたトピックを中心に取り上げることとする。 ■目次 ・はじめに ・数字の「1」は、なぜこのような形になっているのか ・ローマ数字の「Ⅰ」には、なぜ上下に短い線があるのか ・数字の「1」は、乗法の単位元 ・数字の「1」は、素数ではない ・同じ数字を並べて素数を作成できるのは「1」のみ ・数字の「1」の表記 ・漢字の「一」 ・宗教における数字の「1」 ・スポーツにみられる数字の「1」 ・数学における数字としての「1」 ・化学・物理学における数字としての「1」 ・その他の数字の「1」が現れるケース ・最後に今回は、いよいよ数字の「1」について、それが現れてくる例やその理由等について調べている。数字の「1」は、基本中の基本となる数字であり、最も重要な数字なので、限られた紙面の中で何を語るのかを選択することは極めて難しい。数字の「1」は、「始まり（スタート）」、「唯一（オンリーワン）」、「独自（ユニーク）」、「頂点（トップ）」、「個人・自身（セルフ）」、「統一（ユニティ）」等の様々な意味合いを有しており、日常生活の各種の場面で現れてくる。今回は、この中で個人的な興味・関心に基づいたトピックを中心に取り上げることとする。このため、これまで以上に、このレポートで紹介するのは、数字の「1」が現れる一部に過ぎないことを述べておく。 数字の「1」は、なぜこのような形になっているのか 数字の「1」を表すのに、縦の一本棒になっていることに、殆どの人は違和感を持たないだろう。数字の「1」を表すのには、古代からこのような形が",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-25T10:04:37.000Z",
+    "category": "insurance",
+    "keywords": [
+      "数字の「1」に関わる各種",
+      "わる各種の話題－様々な意",
+      "様々な意味合いを有する基",
+      "有する基本中の基本となる",
+      "本となる数字だけに、何を"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84986?site=nli"
+  },
+  {
     "id": "rss-insurance-b9bd15a7729d7d",
     "title": "保険デイリーニュース(03/16)",
     "summary": "本日の主なニュース ・東京海上など損保、保険料で採算重視 企業向け共同保険｢脱横並び｣ ・損保ジャパン、保険加入者にひょうの警告通知 東芝の予測技術活用 ・ウズベクで走行データ利活用へ 交通事故抑制や渋滞解消--あいおいニッセイ ・共栄火災、元代理店店主が7740万円...",
@@ -1880,6 +1737,138 @@
     "sortBoost": 18
   },
   {
+    "id": "rss-insurance-f88a3476b442e8",
+    "title": "制度創設から間もなく20年、堅調な成長を続ける少額短期保険市場－保有件数、収入保険料ともに生保個人保険を上回る成長－簡単な手続、低廉な保険料が成長要因の決め手か－",
+    "summary": "■要旨 2006年４月に制度創設された少額短期保険は、間もなく創設20年を迎えることとなるが、制度創設以来、堅調な成長を続けている。 本稿では、少額短期保険の制度概要について触れた後、少額短期保険の業績動向、高成長を続けている背景等について、照会したい。 ■目次 1――少額短期保険の制度概要 2――制度創設から20年、堅調な成長を続ける少額短期保険 （１）会社数の推移 （２）業績の推移 （３）少額短期保険が高成長を続けている背景 3――おわりに1990 年代後半から2000年代の初頭にかけて、特段の設立根拠法を持たず、いずれの監督も受けないまま葬祭共済やペット共済等、保険類似の事業を行う、いわゆる「根拠法のない共済」が急増した。これらの中には、ディスクロージャーの不備、販売時の説明不足などの問題を指摘されるものが散見され、中には、契約した金額が支払われずトラブルになるケースや不適切な販売が問題となる事例も見られた。 こうした状況を踏まえ、小規模な保険引受を一定の規制の下で認める枠組みとして2005年の保険業法改正（平成17年法律第38号）により創設され、2006年4月から施行されたのが少額短期保険業である。 少額短期保険業者は、少額の保険金額（例：疾病死亡保険300万円以下、損害保険1000万円以下等）で短期（生命・医療保険は1年以内、損害保険は2年以内）の保険契約のみを引き受けることができる。また、ディスクロージャー、責任準備金の積立、早期是正措置等の監督規制が課され、年間収入保険料は50億円以下とされるなど事業規模にも制約が設けられている。なお、保険契約者保護機構の対象外とされている。 本稿では、制度創設から間もなく20年を迎える少額短期保険の現状について、概観することとしたい。 2――制度創設から20年 （１）会社数の推移 （図",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-24T05:27:34.000Z",
+    "category": "insurance",
+    "keywords": [
+      "制度創設から間もなく20年",
+      "堅調な成長を続ける少額短期保険市場－保有件数",
+      "低廉な保険料が成長要因の決め手か－"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84966?site=nli"
+  },
+  {
+    "id": "rss-insurance-f88a3476b442e8",
+    "title": "制度創設から間もなく20年、堅調な成長を続ける少額短期保険市場－保有件数、収入保険料ともに生保個人保険を上回る成長－簡単な手続、低廉な保険料が成長要因の決め手か－",
+    "summary": "■要旨 2006年４月に制度創設された少額短期保険は、間もなく創設20年を迎えることとなるが、制度創設以来、堅調な成長を続けている。 本稿では、少額短期保険の制度概要について触れた後、少額短期保険の業績動向、高成長を続けている背景等について、照会したい。 ■目次 1――少額短期保険の制度概要 2――制度創設から20年、堅調な成長を続ける少額短期保険 （１）会社数の推移 （２）業績の推移 （３）少額短期保険が高成長を続けている背景 3――おわりに1990 年代後半から2000年代の初頭にかけて、特段の設立根拠法を持たず、いずれの監督も受けないまま葬祭共済やペット共済等、保険類似の事業を行う、いわゆる「根拠法のない共済」が急増した。これらの中には、ディスクロージャーの不備、販売時の説明不足などの問題を指摘されるものが散見され、中には、契約した金額が支払われずトラブルになるケースや不適切な販売が問題となる事例も見られた。 こうした状況を踏まえ、小規模な保険引受を一定の規制の下で認める枠組みとして2005年の保険業法改正（平成17年法律第38号）により創設され、2006年4月から施行されたのが少額短期保険業である。 少額短期保険業者は、少額の保険金額（例：疾病死亡保険300万円以下、損害保険1000万円以下等）で短期（生命・医療保険は1年以内、損害保険は2年以内）の保険契約のみを引き受けることができる。また、ディスクロージャー、責任準備金の積立、早期是正措置等の監督規制が課され、年間収入保険料は50億円以下とされるなど事業規模にも制約が設けられている。なお、保険契約者保護機構の対象外とされている。 本稿では、制度創設から間もなく20年を迎える少額短期保険の現状について、概観することとしたい。 2――制度創設から20年 （１）会社数の推移 （図",
+    "sourceName": "ニッセイ基礎研（年金）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-24T05:27:34.000Z",
+    "category": "insurance",
+    "keywords": [
+      "制度創設から間もなく20年",
+      "堅調な成長を続ける少額短期保険市場－保有件数",
+      "低廉な保険料が成長要因の決め手か－"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84966?site=nli"
+  },
+  {
+    "id": "rss-insurance-f88a3476b442e8",
+    "title": "制度創設から間もなく20年、堅調な成長を続ける少額短期保険市場－保有件数、収入保険料ともに生保個人保険を上回る成長－簡単な手続、低廉な保険料が成長要因の決め手か－",
+    "summary": "■要旨 2006年４月に制度創設された少額短期保険は、間もなく創設20年を迎えることとなるが、制度創設以来、堅調な成長を続けている。 本稿では、少額短期保険の制度概要について触れた後、少額短期保険の業績動向、高成長を続けている背景等について、照会したい。 ■目次 1――少額短期保険の制度概要 2――制度創設から20年、堅調な成長を続ける少額短期保険 （１）会社数の推移 （２）業績の推移 （３）少額短期保険が高成長を続けている背景 3――おわりに1990 年代後半から2000年代の初頭にかけて、特段の設立根拠法を持たず、いずれの監督も受けないまま葬祭共済やペット共済等、保険類似の事業を行う、いわゆる「根拠法のない共済」が急増した。これらの中には、ディスクロージャーの不備、販売時の説明不足などの問題を指摘されるものが散見され、中には、契約した金額が支払われずトラブルになるケースや不適切な販売が問題となる事例も見られた。 こうした状況を踏まえ、小規模な保険引受を一定の規制の下で認める枠組みとして2005年の保険業法改正（平成17年法律第38号）により創設され、2006年4月から施行されたのが少額短期保険業である。 少額短期保険業者は、少額の保険金額（例：疾病死亡保険300万円以下、損害保険1000万円以下等）で短期（生命・医療保険は1年以内、損害保険は2年以内）の保険契約のみを引き受けることができる。また、ディスクロージャー、責任準備金の積立、早期是正措置等の監督規制が課され、年間収入保険料は50億円以下とされるなど事業規模にも制約が設けられている。なお、保険契約者保護機構の対象外とされている。 本稿では、制度創設から間もなく20年を迎える少額短期保険の現状について、概観することとしたい。 2――制度創設から20年 （１）会社数の推移 （図",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-24T05:27:34.000Z",
+    "category": "insurance",
+    "keywords": [
+      "制度創設から間もなく20年",
+      "堅調な成長を続ける少額短期保険市場－保有件数",
+      "低廉な保険料が成長要因の決め手か－"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84966?site=nli"
+  },
+  {
+    "id": "rss-insurance-f88a3476b442e8",
+    "title": "制度創設から間もなく20年、堅調な成長を続ける少額短期保険市場－保有件数、収入保険料ともに生保個人保険を上回る成長－簡単な手続、低廉な保険料が成長要因の決め手か－",
+    "summary": "■要旨 2006年４月に制度創設された少額短期保険は、間もなく創設20年を迎えることとなるが、制度創設以来、堅調な成長を続けている。 本稿では、少額短期保険の制度概要について触れた後、少額短期保険の業績動向、高成長を続けている背景等について、照会したい。 ■目次 1――少額短期保険の制度概要 2――制度創設から20年、堅調な成長を続ける少額短期保険 （１）会社数の推移 （２）業績の推移 （３）少額短期保険が高成長を続けている背景 3――おわりに1990 年代後半から2000年代の初頭にかけて、特段の設立根拠法を持たず、いずれの監督も受けないまま葬祭共済やペット共済等、保険類似の事業を行う、いわゆる「根拠法のない共済」が急増した。これらの中には、ディスクロージャーの不備、販売時の説明不足などの問題を指摘されるものが散見され、中には、契約した金額が支払われずトラブルになるケースや不適切な販売が問題となる事例も見られた。 こうした状況を踏まえ、小規模な保険引受を一定の規制の下で認める枠組みとして2005年の保険業法改正（平成17年法律第38号）により創設され、2006年4月から施行されたのが少額短期保険業である。 少額短期保険業者は、少額の保険金額（例：疾病死亡保険300万円以下、損害保険1000万円以下等）で短期（生命・医療保険は1年以内、損害保険は2年以内）の保険契約のみを引き受けることができる。また、ディスクロージャー、責任準備金の積立、早期是正措置等の監督規制が課され、年間収入保険料は50億円以下とされるなど事業規模にも制約が設けられている。なお、保険契約者保護機構の対象外とされている。 本稿では、制度創設から間もなく20年を迎える少額短期保険の現状について、概観することとしたい。 2――制度創設から20年 （１）会社数の推移 （図",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-24T05:27:34.000Z",
+    "category": "insurance",
+    "keywords": [
+      "制度創設から間もなく20年",
+      "堅調な成長を続ける少額短期保険市場－保有件数",
+      "低廉な保険料が成長要因の決め手か－"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84966?site=nli"
+  },
+  {
+    "id": "rss-insurance-b8ec17c29ece78",
+    "title": "中国の年金格差－最大29倍？広がる制度間の受給格差",
+    "summary": "■要旨 中国の公的年金制度は加入者が10億人を超え、加入率も95％に達するなど世界最大規模となっている。一方で、加入する制度の違いにより受給額には大きな差があり、公務員の年金は都市の会社員の約1.7倍、都市・農村住民の約29倍に達する。こうした格差は制度設計や財政補填の違いなどが背景に、老後所得の不平等や制度への不信感につながっている。政府は都市・農村住民の基礎年金の引き上げなどで格差の緩和を図ろうとしているが、その効果は限定的にとどまる可能性が高い。 ■目次 1――加入者10.7億人、加入率95％以上、世界最大規模の公的年金制度 2――公務員の平均受給額は、都市・会社員の約1.7倍、都市・農村住民の約28.5倍 3――受給格差の制度的背景 4――公務員向けに手厚い財政投入 5――政府は基礎年金の引上げで対応中国では近年、急速な高齢化の進展を背景に、老後の所得を支える公的年金制度の重要性が一段と高まっている。政府は1990年代以降制度整備を進め、都市の会社員を対象とする都市職工年金の改正や、都市の非就労者・農村住民を対象とする都市・農村住民年金の導入を通じて、全国的な普及を図ってきた。その結果、中国の公的年金制度は広い範囲の国民をカバーする仕組みが整いつつある。 2025年９月、中国の社会保障制度を管轄する人力資源社会保障部は、第14次5ヵ年計画期間（2021-2025）中の成果を総括する発表を行った1。そこでは、「第14次5カ年計画期間は、社会保障分野における改革が最も進んだ時期である」と評価した。また、「現在、全国の公的年金制度の加入者数は10億7,200万人に達し、第13次5カ年計画期間より7,300万人以上が増加、加入率は91％から95％に上昇した」とし、加入規模と普及状況に胸を張った。 その一方で、中国の公的年金制度には依然",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-23T00:58:37.000Z",
+    "category": "insurance",
+    "keywords": [
+      "中国の年金格差－最大29倍",
+      "広がる制度間の受給格差"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84952?site=nli"
+  },
+  {
+    "id": "rss-insurance-b8ec17c29ece78",
+    "title": "中国の年金格差－最大29倍？広がる制度間の受給格差",
+    "summary": "■要旨 中国の公的年金制度は加入者が10億人を超え、加入率も95％に達するなど世界最大規模となっている。一方で、加入する制度の違いにより受給額には大きな差があり、公務員の年金は都市の会社員の約1.7倍、都市・農村住民の約29倍に達する。こうした格差は制度設計や財政補填の違いなどが背景に、老後所得の不平等や制度への不信感につながっている。政府は都市・農村住民の基礎年金の引き上げなどで格差の緩和を図ろうとしているが、その効果は限定的にとどまる可能性が高い。 ■目次 1――加入者10.7億人、加入率95％以上、世界最大規模の公的年金制度 2――公務員の平均受給額は、都市・会社員の約1.7倍、都市・農村住民の約28.5倍 3――受給格差の制度的背景 4――公務員向けに手厚い財政投入 5――政府は基礎年金の引上げで対応中国では近年、急速な高齢化の進展を背景に、老後の所得を支える公的年金制度の重要性が一段と高まっている。政府は1990年代以降制度整備を進め、都市の会社員を対象とする都市職工年金の改正や、都市の非就労者・農村住民を対象とする都市・農村住民年金の導入を通じて、全国的な普及を図ってきた。その結果、中国の公的年金制度は広い範囲の国民をカバーする仕組みが整いつつある。 2025年９月、中国の社会保障制度を管轄する人力資源社会保障部は、第14次5ヵ年計画期間（2021-2025）中の成果を総括する発表を行った1。そこでは、「第14次5カ年計画期間は、社会保障分野における改革が最も進んだ時期である」と評価した。また、「現在、全国の公的年金制度の加入者数は10億7,200万人に達し、第13次5カ年計画期間より7,300万人以上が増加、加入率は91％から95％に上昇した」とし、加入規模と普及状況に胸を張った。 その一方で、中国の公的年金制度には依然",
+    "sourceName": "ニッセイ基礎研（年金）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-23T00:58:37.000Z",
+    "category": "insurance",
+    "keywords": [
+      "中国の年金格差－最大29倍",
+      "広がる制度間の受給格差"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84952?site=nli"
+  },
+  {
+    "id": "rss-insurance-b8ec17c29ece78",
+    "title": "中国の年金格差－最大29倍？広がる制度間の受給格差",
+    "summary": "■要旨 中国の公的年金制度は加入者が10億人を超え、加入率も95％に達するなど世界最大規模となっている。一方で、加入する制度の違いにより受給額には大きな差があり、公務員の年金は都市の会社員の約1.7倍、都市・農村住民の約29倍に達する。こうした格差は制度設計や財政補填の違いなどが背景に、老後所得の不平等や制度への不信感につながっている。政府は都市・農村住民の基礎年金の引き上げなどで格差の緩和を図ろうとしているが、その効果は限定的にとどまる可能性が高い。 ■目次 1――加入者10.7億人、加入率95％以上、世界最大規模の公的年金制度 2――公務員の平均受給額は、都市・会社員の約1.7倍、都市・農村住民の約28.5倍 3――受給格差の制度的背景 4――公務員向けに手厚い財政投入 5――政府は基礎年金の引上げで対応中国では近年、急速な高齢化の進展を背景に、老後の所得を支える公的年金制度の重要性が一段と高まっている。政府は1990年代以降制度整備を進め、都市の会社員を対象とする都市職工年金の改正や、都市の非就労者・農村住民を対象とする都市・農村住民年金の導入を通じて、全国的な普及を図ってきた。その結果、中国の公的年金制度は広い範囲の国民をカバーする仕組みが整いつつある。 2025年９月、中国の社会保障制度を管轄する人力資源社会保障部は、第14次5ヵ年計画期間（2021-2025）中の成果を総括する発表を行った1。そこでは、「第14次5カ年計画期間は、社会保障分野における改革が最も進んだ時期である」と評価した。また、「現在、全国の公的年金制度の加入者数は10億7,200万人に達し、第13次5カ年計画期間より7,300万人以上が増加、加入率は91％から95％に上昇した」とし、加入規模と普及状況に胸を張った。 その一方で、中国の公的年金制度には依然",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-23T00:58:37.000Z",
+    "category": "insurance",
+    "keywords": [
+      "中国の年金格差－最大29倍",
+      "広がる制度間の受給格差"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84952?site=nli"
+  },
+  {
+    "id": "rss-insurance-b8ec17c29ece78",
+    "title": "中国の年金格差－最大29倍？広がる制度間の受給格差",
+    "summary": "■要旨 中国の公的年金制度は加入者が10億人を超え、加入率も95％に達するなど世界最大規模となっている。一方で、加入する制度の違いにより受給額には大きな差があり、公務員の年金は都市の会社員の約1.7倍、都市・農村住民の約29倍に達する。こうした格差は制度設計や財政補填の違いなどが背景に、老後所得の不平等や制度への不信感につながっている。政府は都市・農村住民の基礎年金の引き上げなどで格差の緩和を図ろうとしているが、その効果は限定的にとどまる可能性が高い。 ■目次 1――加入者10.7億人、加入率95％以上、世界最大規模の公的年金制度 2――公務員の平均受給額は、都市・会社員の約1.7倍、都市・農村住民の約28.5倍 3――受給格差の制度的背景 4――公務員向けに手厚い財政投入 5――政府は基礎年金の引上げで対応中国では近年、急速な高齢化の進展を背景に、老後の所得を支える公的年金制度の重要性が一段と高まっている。政府は1990年代以降制度整備を進め、都市の会社員を対象とする都市職工年金の改正や、都市の非就労者・農村住民を対象とする都市・農村住民年金の導入を通じて、全国的な普及を図ってきた。その結果、中国の公的年金制度は広い範囲の国民をカバーする仕組みが整いつつある。 2025年９月、中国の社会保障制度を管轄する人力資源社会保障部は、第14次5ヵ年計画期間（2021-2025）中の成果を総括する発表を行った1。そこでは、「第14次5カ年計画期間は、社会保障分野における改革が最も進んだ時期である」と評価した。また、「現在、全国の公的年金制度の加入者数は10億7,200万人に達し、第13次5カ年計画期間より7,300万人以上が増加、加入率は91％から95％に上昇した」とし、加入規模と普及状況に胸を張った。 その一方で、中国の公的年金制度には依然",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-23T00:58:37.000Z",
+    "category": "insurance",
+    "keywords": [
+      "中国の年金格差－最大29倍",
+      "広がる制度間の受給格差"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84952?site=nli"
+  },
+  {
     "id": "rss-insurance-f219d4a45a7ecb",
     "title": "Amazon 新生活セール FINALが開催！2026年4月3日（金）からポイントアップキャンペーン&100,000ポイント当選のチャンスも",
     "summary": "Amazon 新生活セール FINAL Amazonで2026年4月3日（金）から「新生活セール FINAL」が開催されます。 2026年4月6日（月）まで キャンペーンは2026年4月6日（月）までの期間限定です。 キ ...",
@@ -1895,6 +1884,43 @@
     "bannerClass": "from-emerald-900 to-teal-800",
     "isNew": false,
     "url": "https://www.money-press.info/amazon-newlifesalefinal2026/"
+  },
+  {
+    "id": "rss-insurance-0396ce882ff3f5",
+    "title": "数字の「31」に関わる各種の話題－グレゴリオ暦では大の月は31日－",
+    "summary": "■要旨 数字の「31」は、比較的大きな素数であることもあって、多くの人にとってそれほど馴染みがある数字とはいえないものと思われる。あくまでも1か月が31日で、短歌が三十一文字であることぐらいの印象があるだけだと思われる。実際に調べてみても、確かに数字の「31」が現れてくる場面は限られているように思われる。それでも思わぬところで、かなり知的好奇心をくすぐられるような形で現れてくるので、今回はこれらを紹介したい。 ■目次 ・はじめに ・現在、暦のグレゴリオ暦の大の月は31日 ・31日には特別な呼び名はあるのか ・会社名やブランド名、各種のプロジェクト名に使用される「31」 ・短歌は五・七・五・七・七の三十一文字 ・モーザーの円分割問題 ・数学における数字としての「31」 ・最後に数字の「31」は素数である。「30」という幅広く使用されている数字と2の5乗（25）でこれもそれなりに出会う機会が多いと思われる「32」という数字に囲まれて、何とも目立たない数字だとの印象を受けると思われる。数字の「31」と聞くと、多くの人は、現在の暦の大の月が31日あるということを思い浮かべるだろう。さらには、短歌の「三十一文字（みそひともじ）」を思い出す人も多いと思われる。でも、それ以外のケースを思い付く人は殆どいないものと思われる。 今回は、この数字の「31」について、それが現れてくる例やその理由等について調べてみた。 現在、暦のグレゴリオ暦の大の月は31日 現在の暦のグレゴリオ暦の大の月の日数は「31」となっている。具体的には、1月、3月、5月、7月、8月、10月、12月の7つの月が大の月となっている。1年365日を12か月に区分するのであれば、基本的には1か月を30日にして、5つの月だけを31日にすればよいと考えるのが自然ではあるが、そのような形にはなっ",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-18T04:29:45.000Z",
+    "category": "insurance",
+    "keywords": [
+      "数字の「31」に関わる各",
+      "関わる各種の話題－グレゴ",
+      "－グレゴリオ暦では大の月",
+      "は大の月は31日－"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84923?site=nli"
+  },
+  {
+    "id": "rss-insurance-ca2ce58102d9df",
+    "title": "中国で広がる、子育て世帯就労支援の新潮流－「ママポスト」から「子育て支援ポスト」へ",
+    "summary": "■要旨 中国で、子育て期の女性を対象とした就労支援策「ママポスト」が広がっている。この取り組みは、柔軟な働き方の導入や再就職機会の提供を通じて、女性が仕事を続けやすい環境づくりに役立っている。一方で、再就職の場合は就ける仕事が低賃金の職種に偏りやすいことや、地域によって制度内容に差があることが課題とされる。近年は父親も対象とする「子育て支援ポスト」への移行が進み、支援の対象を母親中心から子育て世帯へ広げており、仕事と育児の両立を支える環境整備として注目されている。 ■目次 1――少子化と女性就労を背景に登場した「ママポスト」 2――地方発の取り組みが全国へ拡大 3――広東モデルと湖北モデル 4――ママポストから「子育て支援ポスト」へ 5――浮彫りになる男女間の認識差 6――日中比較にみる制度思想の違い 7――就労支援政策の転換点近年の中国では、急速な少子化の進行と女性の就業継続支援を背景に、子育て期に配慮した雇用機会の創出が重要な政策課題として浮上している。その代表例が、中国語で「媽媽崗」と呼ばれる母親向けの柔軟な就労形態であり、本稿ではこれを「ママポスト」とする。 ママポストは主に二つの機能を持っている。第一は、在職中の女性に対する働き方の調整である。企業が短時間勤務やフレックスタイム、在宅勤務などを導入し、育児との両立を可能にする環境整備を行う。第二は、出産や育児を機に離職した女性に対する再就職機会の提供である。電子商取引のカスタマーサービスや事務補助、軽作業など、勤務時間を柔軟に設定しやすい業務が中心となっている。 このような制度は地方政府が企業に導入を促す形で広がり、女性の労働市場参加を支える新たな雇用モデルとして注目されている。同時に、出産とキャリアの両立を可能にする仕組みとして、少子化対策と労働政策の接点に位置づけられる点",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-03-18T01:00:07.000Z",
+    "category": "insurance",
+    "keywords": [
+      "中国で広がる、子育て世帯",
+      "育て世帯就労支援の新潮流",
+      "の新潮流－「ママポスト」",
+      "ポスト」から「子育て支援",
+      "育て支援ポスト」へ"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=84919?site=nli"
   },
   {
     "id": "rss-insurance-4d8ae1f993ec6b",
