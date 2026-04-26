@@ -12,7 +12,7 @@
       "ース(04/24)"
     ],
     "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://blog.livedoor.jp/yanaharu_yanaharu/archives/65989684.html",
     "sortBoost": 18
   },
@@ -83,7 +83,7 @@
       "JUNGLIAクーリングパートナー2026に参画"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260424-7/",
     "sortBoost": 5
   },
@@ -100,7 +100,7 @@
       "女性活躍推進法に基づく新たな行動計画を策定"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260424-6/",
     "sortBoost": 5
   },
@@ -117,7 +117,7 @@
       "公益財団法人アイメイト協会へ寄付金贈呈"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260424-5/",
     "sortBoost": 5
   },
@@ -137,7 +137,7 @@
       "救助法を適用"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260424-4/",
     "sortBoost": 5
   },
@@ -157,7 +157,7 @@
       "ソニー損保」開催"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260424-3/",
     "sortBoost": 5
   },
@@ -174,7 +174,7 @@
       "全日本交通安全協会による交通安全啓発活動に協賛"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260424-2/",
     "sortBoost": 5
   },
@@ -191,9 +191,596 @@
       "霧島市と『地方創生に係る包括連携協定』を締結"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260424/",
     "sortBoost": 5
+  },
+  {
+    "id": "rss-insurance-9fa660712e64e3",
+    "title": "その他,無登録で金融商品取引業を行う者の名称等について更新しました。",
+    "summary": "その他,無登録で金融商品取引業を行う者の名称等について更新しました。",
+    "sourceName": "金融庁（新着情報）",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-04-26T01:45:57.900Z",
+    "category": "insurance",
+    "keywords": [
+      "その他,無登録で金融商品",
+      "金融商品取引業を行う者の",
+      "行う者の名称等について更",
+      "ついて更新しました。",
+      "た。"
+    ],
+    "bannerClass": "from-slate-900 to-slate-700",
+    "isNew": true,
+    "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku.html"
+  },
+  {
+    "id": "rss-insurance-5269406ec78448",
+    "title": "調達,入札公告等を更新しました。",
+    "summary": "調達,入札公告等を更新しました。",
+    "sourceName": "金融庁（新着情報）",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-04-26T01:45:57.900Z",
+    "category": "insurance",
+    "keywords": [
+      "調達,入札公告等を更新し",
+      "を更新しました。"
+    ],
+    "bannerClass": "from-slate-900 to-slate-700",
+    "isNew": true,
+    "url": "https://www.fsa.go.jp/choutatu/choutatu_j/nyusatu_menu.html"
+  },
+  {
+    "id": "rss-insurance-f3ca5101856ab8",
+    "title": "大量保有報告書等の提出について公表しました。",
+    "summary": "大量保有報告書等の提出について公表しました。",
+    "sourceName": "金融庁（新着情報）",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-04-26T01:45:57.900Z",
+    "category": "insurance",
+    "keywords": [
+      "大量保有報告書等の提出に",
+      "の提出について公表しまし",
+      "表しました。"
+    ],
+    "bannerClass": "from-slate-900 to-slate-700",
+    "isNew": true,
+    "url": "https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html"
+  },
+  {
+    "id": "rss-insurance-005ad6e0ca9e9d",
+    "title": "企業会計審議会監査部会（第56回）議事次第について公表しました。",
+    "summary": "企業会計審議会監査部会（第56回）議事次第について公表しました。",
+    "sourceName": "金融庁（新着情報）",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-04-26T01:45:57.900Z",
+    "category": "insurance",
+    "keywords": [
+      "企業会計審議会監査部会（",
+      "査部会（第56回）議事次",
+      "）議事次第について公表し",
+      "て公表しました。"
+    ],
+    "bannerClass": "from-slate-900 to-slate-700",
+    "isNew": true,
+    "url": "https://www.fsa.go.jp/singi/singi_kigyou/siryou/kansa/20260424.html"
+  },
+  {
+    "id": "rss-insurance-337052d61e0944",
+    "title": "企業会計審議会総会 議事次第について公表しました。",
+    "summary": "企業会計審議会総会 議事次第について公表しました。",
+    "sourceName": "金融庁（新着情報）",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-04-26T01:45:57.900Z",
+    "category": "insurance",
+    "keywords": [
+      "企業会計審議会総会",
+      "議事次第について公表しました"
+    ],
+    "bannerClass": "from-slate-900 to-slate-700",
+    "isNew": true,
+    "url": "https://www.fsa.go.jp/singi/singi_kigyou/siryou/kaikei/20260424.html"
+  },
+  {
+    "id": "rss-insurance-3febd9fb72b519",
+    "title": "その他,「金融・資産運用特区に関する各種調査」及び「金融・資産運用特区のプロモーション戦略案」について公表しました。",
+    "summary": "その他,「金融・資産運用特区に関する各種調査」及び「金融・資産運用特区のプロモーション戦略案」について公表しました。",
+    "sourceName": "金融庁（新着情報）",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-04-26T01:45:57.900Z",
+    "category": "insurance",
+    "keywords": [
+      "その他,「金融",
+      "資産運用特区に関する各種調査」及び「金融"
+    ],
+    "bannerClass": "from-slate-900 to-slate-700",
+    "isNew": true,
+    "url": "https://www.fsa.go.jp/common/about/research/20260423/report.html"
+  },
+  {
+    "id": "rss-insurance-7ccfe2ea7ab701",
+    "title": "金融経済教育推進機構（J-FLEC）の理事及び運営委員会の委員の任命について公表しました。",
+    "summary": "金融経済教育推進機構（J-FLEC）の理事及び運営委員会の委員の任命について公表しました。",
+    "sourceName": "金融庁（新着情報）",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-04-26T01:45:57.900Z",
+    "category": "insurance",
+    "keywords": [
+      "金融経済教育推進機構（J",
+      "機構（J-FLEC）の理",
+      "C）の理事及び運営委員会",
+      "営委員会の委員の任命につ",
+      "任命について公表しました"
+    ],
+    "bannerClass": "from-slate-900 to-slate-700",
+    "isNew": true,
+    "url": "https://www.fsa.go.jp/news/r7/sonota/20260423-1/20260423-1.html"
+  },
+  {
+    "id": "rss-insurance-6e9099deedde3c",
+    "title": "令和８年岩手県大槌町の林野火災に係る災害等に対する金融上の措置について公表しました。",
+    "summary": "令和８年岩手県大槌町の林野火災に係る災害等に対する金融上の措置について公表しました。",
+    "sourceName": "金融庁（新着情報）",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-04-26T01:45:57.900Z",
+    "category": "insurance",
+    "keywords": [
+      "令和８年岩手県大槌町の林",
+      "槌町の林野火災に係る災害",
+      "係る災害等に対する金融上",
+      "る金融上の措置について公",
+      "ついて公表しました。"
+    ],
+    "bannerClass": "from-slate-900 to-slate-700",
+    "isNew": true,
+    "url": "https://www.fsa.go.jp/news/r7/ginkou/20260423.html"
+  },
+  {
+    "id": "rss-economy-2bb699c0a872e2",
+    "title": "米大統領出席のイベントで大きな音トランプ氏は会場離れ無事",
+    "summary": "アメリカのCNNテレビは、ホワイトハウス記者会の夕食会の会場で大きな音がしたあと、出席していたトランプ大統領は会場をあとにしたと速報で伝えました。トランプ大統領は、舞台の上に着席していましたが、駆けつ…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-26T01:43:07.000Z",
+    "category": "economy",
+    "keywords": [
+      "米大統領出席のイベントで",
+      "ベントで大きな音トランプ",
+      "トランプ氏は会場離れ無事",
+      "離れ無事"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015108571000"
+  },
+  {
+    "id": "rss-market-39383c9d8595d5",
+    "title": "Trump to hold press conference after shooting at White House Correspondents' Dinner",
+    "summary": "Trump, seated next to first lady Melania Trump, was quickly surrounded by Secret Service members, while many attendees ducked under their tables.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-04-26T01:39:28.000Z",
+    "category": "market",
+    "keywords": [
+      "Trump",
+      "hold",
+      "press",
+      "conference",
+      "shooting"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/04/25/trump-gunshots-white-house-correspondents-dinner.html",
+    "summaryJa": "メラニア・トランプ大統領夫人の隣に座っていたトランプ氏はすぐにシークレットサービスのメンバーらに取り囲まれ、多くの出席者はテーブルの下に身を潜めた。"
+  },
+  {
+    "id": "rss-economy-fb180facea125f",
+    "title": "【アグネス論争から40年】渦中の2人が振り返る…オヤジ雑誌が煽った｢産む女と産まない女の対立｣への違和感 | ライフ | 東洋経済オンライン",
+    "summary": "1980年代に大きな話題となった｢アグネス論争｣。女性同士の対立構図をメディアが煽る中､本人たちの思いはどのようなものだったのでしょうか。論争の渦中にいたアグネス･チャンさんと上野千鶴子さんが語る本…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-26T01:30:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "【アグネス論争から40年】渦中の2人が振り返る",
+      "ライフ",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/941524?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-82a10462baaa66",
+    "title": "米大統領が退避 夕食会で発砲か",
+    "summary": "米大統領が退避 夕食会で発砲か",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-26T01:23:48.000Z",
+    "category": "economy",
+    "keywords": [
+      "米大統領が退避",
+      "夕食会で発砲か"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6577681?source=rss"
+  },
+  {
+    "id": "rss-economy-83ca54342e8431",
+    "title": "ヒルズ族･不倫･毒親…婚活をこじらせたアラフォー女性､\"結婚願望なし\"男性と交際0日婚約叶えた｢初デートでキス｣戦略 | ライフ | 東洋経済オンライン",
+    "summary": "婚活で躓き､母親との確執や不倫経験など数々の苦悩を抱えた近藤麻美さん（仮名）。心の葛藤を乗り越え､思いがけない縁と共に新たな人生を手に入れます。彼女が人生を逆転させた､その波乱万丈の歩みとは――？（…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-26T01:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "ヒルズ族･不倫･毒親",
+      "ライフ",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/941196?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-9c1ac6f624e4b8",
+    "title": "ゼレンスキー大統領 アゼルバイジャンと防衛協力で一致",
+    "summary": "ウクライナのゼレンスキー大統領は25日、アゼルバイジャンでアリエフ大統領と会談し、防衛分野などで協力を進めていくことで一致しました。",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-26T00:36:58.000Z",
+    "category": "economy",
+    "keywords": [
+      "ゼレンスキー大統領",
+      "アゼルバイジャンと防衛協力で一致"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015108481000"
+  },
+  {
+    "id": "rss-economy-c5fde78ed6bc7a",
+    "title": "秀吉でも明智光秀でもない…《信長が最も信頼した部下》の正体 | ライフ | 東洋経済オンライン",
+    "summary": "天下人･豊臣秀吉を支えた弟､豊臣秀長に光を当てる本連載。今回は､信長が最も信頼を寄せた名臣･森可成を紹介。信長の援軍が来ないなか､浅井･朝倉軍と対峙した最期を解説します。",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-26T00:30:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "秀吉でも明智光秀でもない",
+      "《信長が最も信頼した部下》の正体",
+      "ライフ",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/942205?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-64a6ae32f0be68",
+    "title": "高速道でガス欠 交通違反の可能性",
+    "summary": "高速道でガス欠 交通違反の可能性",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-26T00:24:27.000Z",
+    "category": "economy",
+    "keywords": [
+      "高速道でガス欠",
+      "交通違反の可能性"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6577674?source=rss"
+  },
+  {
+    "id": "rss-economy-c4816c06cf0073",
+    "title": "夢奪われた20代女性 飲酒運転被害",
+    "summary": "夢奪われた20代女性 飲酒運転被害",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-26T00:18:56.000Z",
+    "category": "economy",
+    "keywords": [
+      "夢奪われた20代女性",
+      "飲酒運転被害"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6577671?source=rss"
+  },
+  {
+    "id": "rss-ai_theory-9db5abadd416b9",
+    "title": "Googleが競合AI企業のAnthropicに最大6兆4000億円を投資",
+    "summary": "AIアシスタントのGeminiを提供するGoogleが、AIアシスタントのClaudeを開発する競合他社であるAnthropicに、最大400億ドル(約6兆4000億円)を投資することを計画していると報じられました。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-26T00:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "Googleが競合AI企",
+      "合AI企業のAnthro",
+      "thropicに最大6兆",
+      "最大6兆4000億円を投",
+      "億円を投資"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260426-google-invest-up-to-40-billion-anthropic/"
+  },
+  {
+    "id": "rss-economy-42e2cd3717674e",
+    "title": "｢親不孝者と言われても｣…親の希望｢家で家族だけで介護して｣はどこまで尊重すべきか？ 男女でずれる介護観の現実 | ライフ | 東洋経済オンライン",
+    "summary": "もし将来自分が要介護状態になったら､どこで誰に世話をしてもらいたいと思いますか？ 家族介護の実態と葛藤､制度利用の壁――。都内に暮らす家族のケースを通じ､高齢社会で不可避となる｢介護の現実｣を考えま…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-26T00:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "｢親不孝者と言われても｣",
+      "男女でずれる介護観の現実",
+      "ライフ",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/942453?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-8a05bd97cccf4b",
+    "title": "中国が｢イラン和平｣への関与から逃げ続けている理由／アメリカ没落の好機､責任を負わされるのも避けたい？ | ライフ | 東洋経済オンライン",
+    "summary": "アメリカがイラン港湾の海上封鎖を続ける中､戦争と世界的なエネルギー危機を終わらせる条件をイラン政府に受け入れさせるため､｢中国政府が圧力をかけるべきだ｣という声が強まっています。",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-26T00:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "ライフ",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/942449?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-568d45a5c95ede",
+    "title": "高市・片山・小池氏 共通の危機感",
+    "summary": "高市・片山・小池氏 共通の危機感",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-25T23:07:17.000Z",
+    "category": "economy",
+    "keywords": [
+      "高市",
+      "片山",
+      "小池氏",
+      "共通の危機感"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6577663?source=rss"
+  },
+  {
+    "id": "rss-economy-f48a8d5d5e5d45",
+    "title": "イラン外相 パキスタン首相らと会談 米は特使らの派遣取りやめ",
+    "summary": "イランのアラグチ外相は25日、仲介国のパキスタンでシャリフ首相らとの会談を終え、次の訪問先のオマーンに移動しました。このあとアメリカのトランプ大統領は25日に予定していたウィトコフ特使らのパキスタンへ…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-25T23:02:14.000Z",
+    "category": "economy",
+    "keywords": [
+      "イラン外相",
+      "パキスタン首相らと会談",
+      "米は特使らの派遣取りやめ"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015108471000"
+  },
+  {
+    "id": "rss-ai-2f3f9c59bd8f2e",
+    "title": "「Python一択ではなくなった」 AIコーディング時代、新人が学んで損しないプログラミング言語は？",
+    "summary": "生成AIの普及で「コードを書く力」の意味が変わりつつあります。新人であれば、どのプログラミング言語を学ぶべきなのでしょうか。人気や話題性、求人数、案件単価といった視点から、最新ランキングを基に「学んで損しない言語」を整理します。",
+    "sourceName": "ITmedia AI",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-25T23:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "「Python一択ではなくなった」",
+      "AIコーディング時代",
+      "新人が学んで損しないプログラミング言語は"
+    ],
+    "bannerClass": "from-sky-900 to-slate-800",
+    "isNew": true,
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/26/news009.html"
+  },
+  {
+    "id": "rss-ai_theory-898d14a1c4dae7",
+    "title": "言語を学ぶ人にとってネイティブスピーカーがしばしば失礼だと感じられる理由とは",
+    "summary": "ネイティブスピーカーと話していると、相手に悪意のかけらもないことは明らかなのになぜか失礼だと感じることがあります。言語学の専門家がこの感覚について解説しています。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-25T23:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "言語を学ぶ人にとってネイ",
+      "ってネイティブスピーカー",
+      "ピーカーがしばしば失礼だ",
+      "ば失礼だと感じられる理由",
+      "れる理由とは"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260426-second-language-rude/"
+  },
+  {
+    "id": "rss-economy-930a3301d023f8",
+    "title": "昨年の日本人出国 コロナ前の7割",
+    "summary": "昨年の日本人出国 コロナ前の7割",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-25T22:44:52.000Z",
+    "category": "economy",
+    "keywords": [
+      "昨年の日本人出国",
+      "コロナ前の7割"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6577657?source=rss"
+  },
+  {
+    "id": "rss-ai-d7e79a9a094acb",
+    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+    "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-04-25T21:43:37.000Z",
+    "category": "ai",
+    "keywords": [
+      "Anthropic",
+      "created",
+      "test",
+      "marketplace",
+      "agent-on-agent"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+    "summaryJa": "最近の実験で、Anthropic は、AI エージェントが買い手と売り手の両方を代理し、実際の商品と実際のお金で実際の取引を行う機密市場を作成しました。"
+  },
+  {
+    "id": "rss-economy-8511a264def8a6",
+    "title": "岩手 大槌町の山林火災 避難指示地区以外にも火が迫る",
+    "summary": "岩手県大槌町の山林火災は26日で発生から5日目です。町や消防によりますと避難指示が出ていない地区にも火が迫っているということで、26日もおよそ1300人の態勢で地上からの消火活動にあたっています。",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-25T21:39:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "岩手",
+      "大槌町の山林火災",
+      "避難指示地区以外にも火が迫る"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015108391000"
+  },
+  {
+    "id": "rss-economy-76127b7ab5b137",
+    "title": "北海道・三陸沖後発地震注意情報 日頃の備え確認を",
+    "summary": "今月20日に三陸沖で起きたマグニチュード7.7の大地震を受けて、気象庁は、千島海溝・日本海溝沿いでは、巨大地震が発生する可能性がふだんより高まっているとして「北海道・三陸沖後発地震注意情報」を発表して…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-04-25T21:00:32.000Z",
+    "category": "economy",
+    "keywords": [
+      "北海道",
+      "三陸沖後発地震注意情報",
+      "日頃の備え確認を"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015108491000"
+  },
+  {
+    "id": "rss-ai-00c19d68629729",
+    "title": "Maine’s governor vetoes data center moratorium",
+    "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-04-25T20:57:08.000Z",
+    "category": "ai",
+    "keywords": [
+      "Maine",
+      "governor",
+      "vetoes",
+      "data",
+      "center"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+    "summaryJa": "L.D. 307は、国内初の州全域で新規データセンターの一時停止を課すことになるが、この場合、その期間は2027年11月1日まで続くことになる。"
+  },
+  {
+    "id": "rss-market-d8be542a4039ce",
+    "title": "Trump cancels U.S. envoy trip to Pakistan for Iran war negotiations: 'If they want to talk, all they have to do is call'",
+    "summary": "U.S. special envoy Steve Witkoff and Jared Kushner had been expected to arrive in Islamabad on Saturday.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-04-25T19:33:33.000Z",
+    "category": "market",
+    "keywords": [
+      "Trump",
+      "cancels",
+      "envoy",
+      "trip",
+      "Pakistan"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/04/25/iran-says-no-meeting-with-us-negotiators-planned-in-pakistan.html",
+    "summaryJa": "米国特使のスティーブ・ウィトコフ氏とジャレッド・クシュナー氏は土曜日にイスラマバードに到着する予定だった。"
+  },
+  {
+    "id": "rss-ai-286cc351d90397",
+    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+    "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-04-25T17:17:56.000Z",
+    "category": "ai",
+    "keywords": [
+      "OpenAI",
+      "CEO",
+      "apologizes",
+      "Tumbler",
+      "Ridge"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+    "summaryJa": "OpenAIのサム・アルトマン最高経営責任者（CEO）は、カナダのタンブラーリッジの住民に宛てた書簡の中で、同社が最近起きた銃乱射事件の容疑者について法執行機関に通報しなかったことを「深く遺憾に思う」と述べた。"
+  },
+  {
+    "id": "rss-ai-39034468f6c41f",
+    "title": "The climate tech IPO window could finally be cracking open",
+    "summary": "Nuclear startup X-energy went public, geothermal startup Fervo is about to. Could this be the moment that climate tech investors have been waiting for?",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-04-25T16:33:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "climate",
+      "tech",
+      "IPO",
+      "window",
+      "finally"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/",
+    "summaryJa": "原子力スタートアップのX-energyが上場し、地熱スタートアップのFervoも上場しようとしている。これは気候変動テクノロジー投資家が待ち望んでいた瞬間なのだろうか？"
+  },
+  {
+    "id": "rss-ai-4964b1f63e40db",
+    "title": "Why Cohere is merging with Aleph Alpha",
+    "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-04-25T16:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "Cohere",
+      "merging",
+      "Aleph",
+      "Alpha"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+    "summaryJa": "カナダの AI スタートアップ Cohere は、Lidl の所有者である Schwarz Group の支援を受けて、ドイツに本拠を置く Aleph Alpha を買収します。両社は各国政府の恩恵を受けて、米国企業が独占するAI環境において企業に主権的な代替手段を提供するつもりだ。"
   },
   {
     "id": "rss-insurance-5e4a235abbafce",
@@ -233,160 +820,42 @@
     "sortBoost": 5
   },
   {
-    "id": "rss-insurance-9fa660712e64e3",
-    "title": "その他,無登録で金融商品取引業を行う者の名称等について更新しました。",
-    "summary": "その他,無登録で金融商品取引業を行う者の名称等について更新しました。",
-    "sourceName": "金融庁（新着情報）",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-25T12:38:39.636Z",
-    "category": "insurance",
+    "id": "rss-market-64351ef9873879",
+    "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI",
+    "summary": "Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-04-25T12:43:39.000Z",
+    "category": "market",
     "keywords": [
-      "その他,無登録で金融商品",
-      "金融商品取引業を行う者の",
-      "行う者の名称等について更",
-      "ついて更新しました。",
-      "た。"
+      "talent",
+      "war",
+      "Software",
+      "industry",
+      "target"
     ],
-    "bannerClass": "from-slate-900 to-slate-700",
+    "bannerClass": "from-indigo-950 to-blue-800",
     "isNew": true,
-    "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku.html"
+    "url": "https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html"
   },
   {
-    "id": "rss-insurance-5269406ec78448",
-    "title": "調達,入札公告等を更新しました。",
-    "summary": "調達,入札公告等を更新しました。",
-    "sourceName": "金融庁（新着情報）",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-25T12:38:39.636Z",
-    "category": "insurance",
+    "id": "rss-market-17f738377b1881",
+    "title": "Berkshire attracts interest as it slips further behind the S&P 500",
+    "summary": "As Berkshire Hathaway shares fall, the stock is drawing attention from some investors.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-04-25T12:35:30.000Z",
+    "category": "market",
     "keywords": [
-      "調達,入札公告等を更新し",
-      "を更新しました。"
+      "Berkshire",
+      "attracts",
+      "interest",
+      "slips",
+      "further"
     ],
-    "bannerClass": "from-slate-900 to-slate-700",
+    "bannerClass": "from-indigo-950 to-blue-800",
     "isNew": true,
-    "url": "https://www.fsa.go.jp/choutatu/choutatu_j/nyusatu_menu.html"
-  },
-  {
-    "id": "rss-insurance-f3ca5101856ab8",
-    "title": "大量保有報告書等の提出について公表しました。",
-    "summary": "大量保有報告書等の提出について公表しました。",
-    "sourceName": "金融庁（新着情報）",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-25T12:38:39.636Z",
-    "category": "insurance",
-    "keywords": [
-      "大量保有報告書等の提出に",
-      "の提出について公表しまし",
-      "表しました。"
-    ],
-    "bannerClass": "from-slate-900 to-slate-700",
-    "isNew": true,
-    "url": "https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html"
-  },
-  {
-    "id": "rss-insurance-005ad6e0ca9e9d",
-    "title": "企業会計審議会監査部会（第56回）議事次第について公表しました。",
-    "summary": "企業会計審議会監査部会（第56回）議事次第について公表しました。",
-    "sourceName": "金融庁（新着情報）",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-25T12:38:39.636Z",
-    "category": "insurance",
-    "keywords": [
-      "企業会計審議会監査部会（",
-      "査部会（第56回）議事次",
-      "）議事次第について公表し",
-      "て公表しました。"
-    ],
-    "bannerClass": "from-slate-900 to-slate-700",
-    "isNew": true,
-    "url": "https://www.fsa.go.jp/singi/singi_kigyou/siryou/kansa/20260424.html"
-  },
-  {
-    "id": "rss-insurance-337052d61e0944",
-    "title": "企業会計審議会総会 議事次第について公表しました。",
-    "summary": "企業会計審議会総会 議事次第について公表しました。",
-    "sourceName": "金融庁（新着情報）",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-25T12:38:39.636Z",
-    "category": "insurance",
-    "keywords": [
-      "企業会計審議会総会",
-      "議事次第について公表しました"
-    ],
-    "bannerClass": "from-slate-900 to-slate-700",
-    "isNew": true,
-    "url": "https://www.fsa.go.jp/singi/singi_kigyou/siryou/kaikei/20260424.html"
-  },
-  {
-    "id": "rss-insurance-3febd9fb72b519",
-    "title": "その他,「金融・資産運用特区に関する各種調査」及び「金融・資産運用特区のプロモーション戦略案」について公表しました。",
-    "summary": "その他,「金融・資産運用特区に関する各種調査」及び「金融・資産運用特区のプロモーション戦略案」について公表しました。",
-    "sourceName": "金融庁（新着情報）",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-25T12:38:39.636Z",
-    "category": "insurance",
-    "keywords": [
-      "その他,「金融",
-      "資産運用特区に関する各種調査」及び「金融"
-    ],
-    "bannerClass": "from-slate-900 to-slate-700",
-    "isNew": true,
-    "url": "https://www.fsa.go.jp/common/about/research/20260423/report.html"
-  },
-  {
-    "id": "rss-insurance-7ccfe2ea7ab701",
-    "title": "金融経済教育推進機構（J-FLEC）の理事及び運営委員会の委員の任命について公表しました。",
-    "summary": "金融経済教育推進機構（J-FLEC）の理事及び運営委員会の委員の任命について公表しました。",
-    "sourceName": "金融庁（新着情報）",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-25T12:38:39.636Z",
-    "category": "insurance",
-    "keywords": [
-      "金融経済教育推進機構（J",
-      "機構（J-FLEC）の理",
-      "C）の理事及び運営委員会",
-      "営委員会の委員の任命につ",
-      "任命について公表しました"
-    ],
-    "bannerClass": "from-slate-900 to-slate-700",
-    "isNew": true,
-    "url": "https://www.fsa.go.jp/news/r7/sonota/20260423-1/20260423-1.html"
-  },
-  {
-    "id": "rss-insurance-6e9099deedde3c",
-    "title": "令和８年岩手県大槌町の林野火災に係る災害等に対する金融上の措置について公表しました。",
-    "summary": "令和８年岩手県大槌町の林野火災に係る災害等に対する金融上の措置について公表しました。",
-    "sourceName": "金融庁（新着情報）",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-04-25T12:38:39.636Z",
-    "category": "insurance",
-    "keywords": [
-      "令和８年岩手県大槌町の林",
-      "槌町の林野火災に係る災害",
-      "係る災害等に対する金融上",
-      "る金融上の措置について公",
-      "ついて公表しました。"
-    ],
-    "bannerClass": "from-slate-900 to-slate-700",
-    "isNew": true,
-    "url": "https://www.fsa.go.jp/news/r7/ginkou/20260423.html"
-  },
-  {
-    "id": "rss-economy-7d869cbc72a785",
-    "title": "なぜ美容院タダ 0円カットモデル",
-    "summary": "なぜ美容院タダ 0円カットモデル",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-25T12:20:10.000Z",
-    "category": "economy",
-    "keywords": [
-      "なぜ美容院タダ",
-      "0円カットモデル"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6577630?source=rss"
+    "url": "https://www.cnbc.com/2026/04/25/berkshire-attracts-interest-as-it-slips-further-behind-the-sp-500.html"
   },
   {
     "id": "rss-ai_theory-6e1d4a211bc115",
@@ -408,57 +877,6 @@
     "url": "https://gigazine.net/news/20260425-dashy/"
   },
   {
-    "id": "rss-market-0619e76793b90e",
-    "title": "This little-known ETF is up over 600% amid U.S.-Iran war, a better trade than oil or energy stocks",
-    "summary": "The Breakwave Tanker Shipping ETF (BWET) has surged more than 600% since the beginning of the year, vastly outperforming crude oil and energy stocks.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-04-25T11:53:07.000Z",
-    "category": "market",
-    "keywords": [
-      "little-known",
-      "ETF",
-      "600",
-      "amid",
-      "-Iran"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/04/25/crude-oil-freight-tanker-strait-hormuz-iran-war-energy-stocks.html"
-  },
-  {
-    "id": "rss-economy-2a7be64102bf4d",
-    "title": "ヘンリー王子 私は常に英王室一員",
-    "summary": "ヘンリー王子 私は常に英王室一員",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-25T11:11:49.000Z",
-    "category": "economy",
-    "keywords": [
-      "ヘンリー王子",
-      "私は常に英王室一員"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6577621?source=rss"
-  },
-  {
-    "id": "rss-economy-3d6a8fee72cf2a",
-    "title": "800kgの鉄板と地面に挟まれ 死亡",
-    "summary": "800kgの鉄板と地面に挟まれ 死亡",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-25T11:01:53.000Z",
-    "category": "economy",
-    "keywords": [
-      "800kgの鉄板と地面に挟まれ",
-      "死亡"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6577619?source=rss"
-  },
-  {
     "id": "rss-ai_theory-28cb1d088ae01a",
     "title": "重量990gで超軽量＆超薄型なノートPC「Acer Swift Air 16」外観フォトレビュー",
     "summary": "PCメーカーのAcerから、携帯性を重視して重量わずか990gでありながら16インチディスプレイを搭載したノートPC「Acer Swift Air 16」が登場しました。Acerから実機を借りることができたので、まずはその外観やキーボードタッチなどのハードウェアデザインをチェックしてみました。 続きを読む...",
@@ -476,42 +894,9 @@
     "url": "https://gigazine.net/news/20260425-acer-swift-air-appearance/"
   },
   {
-    "id": "rss-economy-c431267efe27c0",
-    "title": "岩手 大槌町 山林火災で住宅近くまで火が迫る地点増える",
-    "summary": "岩手県大槌町の山林火災は25日で発生から4日目となりますが、延焼が続いています。消防によりますと住宅の近くに火が迫っている地点がさらに増えているということで、1000人以上の規模での消火活動が行われて…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-25T10:17:50.000Z",
-    "category": "economy",
-    "keywords": [
-      "岩手",
-      "大槌町",
-      "山林火災で住宅近くまで火が迫る地点増える"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015107961000"
-  },
-  {
-    "id": "rss-economy-bf37fbbd2ab0c0",
-    "title": "米特使らパキスタンへ イラン代表団はパキスタン高官と会談",
-    "summary": "アメリカのトランプ政権は、特使らがイラン側と協議するため仲介国パキスタンに向かうと明らかにしました。一方、イランの代表団は現地に到着してパキスタンの高官と会談を行いましたが、アメリカとの協議は予定され…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-25T10:16:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "米特使らパキスタンへ",
-      "イラン代表団はパキスタン高官と会談"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015107801000"
-  },
-  {
     "id": "rss-ai_theory-b78ccb1b93bb06",
     "title": "ソフトウェアをリリースした経験がなかった人がAnthropic主催のOpus 4.6ハッカソンで優勝した理由とは、AI製品に求められているものとは？",
-    "summary": "Anthropicは2026年2月に「Claude Opus 4.6」を発表し、Opus 4.6をどのように活用するかを競う「Built with Opus 4.6」というハッカソンを開催しました。約1万3000人が応募し、選抜された500人が参加したハッカソンで優勝した人物はソフトウェアをリリーした経験がないカリフォルニア州の弁護士で、他にも非専門家が複数受賞しました。そんなハッカソンの結果から得られるAI製ソフトウェアの重要なポイントについて、システム研究社のデクスター・ハドリー氏が解説しています。 続きを読む...",
+    "summary": "Anthropicは2026年2月に「Claude Opus 4.6」を発表し、Opus 4.6をどのように活用するかを競う「Built with Opus 4.6」というハッカソンを開催しました。約1万3000人が応募し、選抜された500人が参加したハッカソンで優勝した人物はソフトウェアをリリースした経験がないカリフォルニア州の弁護士で、他にも非専門家が複数受賞しました。そんなハッカソンの結果から得られるAI製ソフトウェアの重要なポイントについて、システム研究社のデクスター・ハドリー氏が解説しています。 続きを読む...",
     "sourceName": "GIGAZINE",
     "sourceIcon": "🇯🇵",
     "publishedAt": "2026-04-25T10:00:00.000Z",
@@ -523,278 +908,6 @@
     "bannerClass": "from-fuchsia-950 to-violet-900",
     "isNew": true,
     "url": "https://gigazine.net/news/20260425-anthropic-hackathon/"
-  },
-  {
-    "id": "rss-economy-f5c37e889997f4",
-    "title": "【食料品の消費税を下げても中東情勢による物価高で…】次期大阪府知事選の行方／国民民主に対する信頼感の低下／中東情勢で節約モードに？／維新から厚労大臣の可能性【青山和弘の政治の見方（遠藤敬）】 | ビジネス | 東洋経済オンライン",
-    "summary": "政治ジャーナリストの青山和弘が、政党や各界の論客をゲストに招き、日本の政治を深掘りする「青山和弘の政治の見方」。今回のゲストは、日本維新の会・国対委員長で衆議院議員の遠藤敬氏（後編）です。【タイムテ…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-25T10:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "【食料品の消費税を下げても中東情勢による物価高で",
-      "ビジネス",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/942701?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-f365f9845851a4",
-    "title": "尼崎脱線で両脚切断 21年続く葛藤",
-    "summary": "尼崎脱線で両脚切断 21年続く葛藤",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-25T09:55:08.000Z",
-    "category": "economy",
-    "keywords": [
-      "尼崎脱線で両脚切断",
-      "21年続く葛藤"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6577611?source=rss"
-  },
-  {
-    "id": "rss-economy-f596f47a48f0c1",
-    "title": "JR福知山線脱線事故から21年 犠牲者に祈り 兵庫 尼崎",
-    "summary": "107人が死亡したJR福知山線の脱線事故から25日で21年です。事故現場では慰霊式が行われ、遺族やJR西日本の役員などが犠牲者に祈りをささげました。",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-25T09:08:54.000Z",
-    "category": "economy",
-    "keywords": [
-      "JR福知山線脱線事故から21年",
-      "犠牲者に祈り",
-      "兵庫",
-      "尼崎"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015107811000"
-  },
-  {
-    "id": "rss-ai_theory-193e074f7af3da",
-    "title": "スペインの全法律をMarkdownファイル化しGitリポジトリで公開するプロジェクト「legalize-es」、法改正はコミットとして管理され追跡も可能",
-    "summary": "法律は社会のルールを定める重要な文書ではあるものの一般人は条文そのものに触れる機会はあまり多くありません。「legalize-es」プロジェクトはスペインの全法律をMarkdownファイルとしてGitリポジトリで公開することで法律の透明性やアクセス性を向上させることを目指したプロジェクトです。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-25T09:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "スペインの全法律をMar",
-      "をMarkdownファイ",
-      "nファイル化しGitリポ",
-      "itリポジトリで公開する",
-      "公開するプロジェクト「l"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260425-legalize-es/"
-  },
-  {
-    "id": "rss-economy-53d5ca5ec4371b",
-    "title": "ヤクルト神宮球場が\"最強の稼ぎ場\"に!? ｢つば九郎復活｣｢売り子名鑑｣に｢インバウンド太客｣…攻めすぎ営業の舞台裏 | ライフ | 東洋経済オンライン",
-    "summary": "好調なヤクルトスワローズは､神宮球場を舞台に観客動員やグッズ販売でも勢いを見せています。移転した人気カフェには連日行列ができ､斬新な営業戦略とファンサービスも話題に。なぜ今､ヤクルトが\"イケイケ\"な…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-25T09:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "ヤクルト神宮球場が\"最強の稼ぎ場\"に",
-      "攻めすぎ営業の舞台裏",
-      "ライフ",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/942342?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-market-d8be542a4039ce",
-    "title": "Iran says no meeting with U.S. negotiators planned in Pakistan, with Trump envoys due to head to Islamabad",
-    "summary": "U.S. special envoy Steve Witkoff and Jared Kushner are expected to arrive in Islamabad on Saturday.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-04-25T08:44:32.000Z",
-    "category": "market",
-    "keywords": [
-      "Iran",
-      "meeting",
-      "negotiators",
-      "planned",
-      "Pakistan"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/04/25/iran-says-no-meeting-with-us-negotiators-planned-in-pakistan.html",
-    "summaryJa": "米国特使のスティーブ・ウィトコフ氏とジャレッド・クシュナー氏は土曜日にイスラマバードに到着する予定だ。"
-  },
-  {
-    "id": "rss-economy-c820918c1c312b",
-    "title": "鉄道 運転士のミス・違反 5年で300件超明らかに 具体的内容は?",
-    "summary": "107人が死亡したJR福知山線の脱線事故をきっかけに国への報告が義務づけられた、運転士の信号見落としや速度超過などのミスや違反が昨年度までの5年間で322件起き、このうちおよそ2割は運転免許停止の行政…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-25T08:42:29.000Z",
-    "category": "economy",
-    "keywords": [
-      "鉄道",
-      "運転士のミス",
-      "違反",
-      "5年で300件超明らかに",
-      "具体的内容は"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015108211000"
-  },
-  {
-    "id": "rss-economy-3137ad201df183",
-    "title": "「トー横」周辺の補導 5年で10倍",
-    "summary": "「トー横」周辺の補導 5年で10倍",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-25T08:18:37.000Z",
-    "category": "economy",
-    "keywords": [
-      "「トー横」周辺の補導",
-      "5年で10倍"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6577597?source=rss"
-  },
-  {
-    "id": "rss-economy-1c9e9291f90a5c",
-    "title": "三陸沖 地震後もスロースリップが継続か 専門家",
-    "summary": "今月20日に大地震が発生した三陸沖では、去年11月から「微動」と呼ばれる小さな揺れが頻繁に観測され、地震のあと、その「微動」の場所が徐々に移動していることが専門家の分析でわかりました。プレート境界がゆ…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-25T07:20:33.000Z",
-    "category": "economy",
-    "keywords": [
-      "三陸沖",
-      "地震後もスロースリップが継続か",
-      "専門家"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015108231000"
-  },
-  {
-    "id": "rss-economy-a7fa892e6bffd5",
-    "title": "北朝鮮の金正恩総書記とベラルーシのルカシェンコ大統領との首脳会談は歴史的転換になる可能性がある（上） | キャリア・教育 | 東洋経済オンライン",
-    "summary": "佐藤優氏による人気コラム。ビジネスパーソンに真の教養をお届けします。｢知の技法 出世の作法｣第905回です。",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-25T07:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "キャリア",
-      "教育",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/942433?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-62a7de9c554fac",
-    "title": "【独占寄稿③】伝説の投資家が｢中小型株投資では機関投資家より個人投資家のほうが圧倒的に有利｣と断言するワケ | 政治・経済・投資 | 東洋経済オンライン",
-    "summary": "株式投資に興味がある方は必見。伝説のファンドマネジャー清原達郎氏が中小型株投資の魅力と個人投資家が絶対に取るべき戦略を明かします。",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-25T06:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "政治",
-      "経済",
-      "投資",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/942685?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-ai_theory-0985f6f3b51d01",
-    "title": "フランス政府機関がサイバー攻撃を受けて1100万件超の個人情報を盗まれる事態が発生、犯人はダークウェブで情報を販売開始",
-    "summary": "フランスの運転免許証や身分証明証などの発行を担っている政府機関「Agence Nationale des Titres Sécurisés (ANTS)」がサイバー攻撃の被害に遭い、1170万件の個人情報を盗み出されたことが明らかになりました。すでに犯人と思われる人物がダークウェブで情報を販売しています。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-25T05:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "フランス政府機関がサイバ",
-      "がサイバー攻撃を受けて1",
-      "受けて1100万件超の個",
-      "件超の個人情報を盗まれる",
-      "盗まれる事態が発生、犯人"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260425-france-government-cyber-attack/"
-  },
-  {
-    "id": "rss-ai-85ef338b48c7ef",
-    "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
-    "summary": "This round, should it occur, would double the house-help startup's valuation in a matter of weeks.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-04-25T03:30:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "Lachy",
-      "Groom",
-      "India",
-      "startup",
-      "Pronto"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
-    "summaryJa": "このラウンドが実現すれば、ハウスヘルプスタートアップの評価額は数週間のうちに2倍になるだろう。"
-  },
-  {
-    "id": "rss-economy-fb4c9ac21a06aa",
-    "title": "世界の鉄道ファンを魅了するミャンマー国鉄を再建させた､ある元国鉄マンの努力と技術者としての矜持 | 政治・経済・投資 | 東洋経済オンライン",
-    "summary": "日本の鉄道が今も現地を走るミャンマー。その裏には､元国鉄技師･高松重信さんの現場主義と信頼に基づく技術支援がありました。設備も資材もない異国で､どのように日本流のメンテナンス体系を根付かせたのでしょ…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-25T03:30:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "政治",
-      "経済",
-      "投資",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/942118?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-ai-7173b34b2b4bb1",
-    "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
-    "summary": "Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him as an investor.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-04-24T23:32:11.000Z",
-    "category": "ai",
-    "keywords": [
-      "Steve",
-      "Ballmer",
-      "blasts",
-      "founder",
-      "backed"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
-    "summaryJa": "スティーブ・バルマー氏は、不名誉な創業者ジョセフ・サンバーグ氏の判決に際し、投資家として彼に降りかかるあらゆる損害を文書化した激しい手紙を書いた。"
   },
   {
     "id": "rss-ai-a40879e47e2a3c",
@@ -813,86 +926,6 @@
     "bannerClass": "from-sky-900 to-slate-800",
     "isNew": true,
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/25/news019.html"
-  },
-  {
-    "id": "rss-market-2c82147e9a66c3",
-    "title": "Nvidia stock closes at record, pushing market cap past $5 trillion",
-    "summary": "Nvidia's stock closed at its first record since October, as a rally in Intel pushed chipmakers higher.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-04-24T22:40:51.000Z",
-    "category": "market",
-    "keywords": [
-      "Nvidia",
-      "stock",
-      "closes",
-      "record",
-      "pushing"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/04/24/nvidia-stock-closes-at-record-pushing-market-cap-past-5-trillion.html",
-    "summaryJa": "インテル株の上昇でチップメーカー株が上昇し、エヌビディア株は１０月以来の最高値で取引を終えた。"
-  },
-  {
-    "id": "rss-market-55e400771b495a",
-    "title": "Pirro could reopen Fed probe at any time, Democratic senators warn",
-    "summary": "Sens. Elizabeth Warren and Dick Durbin, in a letter obtained first by CNBC, question Jeanine Pirro's mention of reopening a probe of Fed Chair Jerome Powell.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-04-24T22:02:04.000Z",
-    "category": "market",
-    "keywords": [
-      "Pirro",
-      "reopen",
-      "Fed",
-      "probe",
-      "time"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/04/24/fed-powell-pirro-elizabeth-warren-durbin.html",
-    "summaryJa": "エリザベス・ウォーレン上院議員とディック・ダービン上院議員は、CNBCが最初に入手した書簡の中で、ジャニーン・ピロ氏がジェローム・パウエル議長に対する調査を再開すると言及したことに疑問を呈している。"
-  },
-  {
-    "id": "rss-ai-43ba2ba1a5cbc0",
-    "title": "Palantir is reportedly helping the IRS investigate financial crimes",
-    "summary": "The IRS has used Palantir's software since at least 2018, The Intercept reports.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-04-24T21:53:44.000Z",
-    "category": "ai",
-    "keywords": [
-      "Palantir",
-      "reportedly",
-      "helping",
-      "IRS",
-      "investigate"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
-    "summaryJa": "IRSは少なくとも2018年からPalantirのソフトウェアを使用しているとThe Interceptは報じている。"
-  },
-  {
-    "id": "rss-ai-1aedaf1a06ca01",
-    "title": "Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’",
-    "summary": "Cohere, the Canada-based AI company that makes AI tools for businesses in regulated industries, announced Friday it would merge with Aleph Alpha, a German company that also builds AI systems for businesses and governments.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-04-24T21:35:30.000Z",
-    "category": "ai",
-    "keywords": [
-      "Cohere",
-      "acquires",
-      "merges",
-      "Germany-based",
-      "startup"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
-    "summaryJa": "カナダに本拠を置き、規制産業の企業向けAIツールを開発するAI企業Cohereは金曜日、同じく企業や政府向けのAIシステムを構築するドイツ企業Aleph Alphaと合併すると発表した。"
   },
   {
     "id": "rss-economy-ce4a106e066c16",
@@ -915,24 +948,24 @@
     "summaryJa": "燃料価格の上昇を受けて、中国のBYDは世界的な化石燃料離れから恩恵を受ける立場にあると述べている。"
   },
   {
-    "id": "rss-ai-07178b51485ae4",
-    "title": "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage",
-    "summary": "Series, a social networking app that's grown popular on college campuses, announced a $5.1 million pre-seed round from some big names in tech.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-04-24T21:05:59.000Z",
-    "category": "ai",
+    "id": "rss-market-c6736f47021370",
+    "title": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
+    "summary": "The decision could have important ramifications for policymaking at an especially delicate time.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-04-24T19:19:00.000Z",
+    "category": "market",
     "keywords": [
-      "college",
-      "kids",
-      "raise",
-      "million",
-      "pre-seed"
+      "stay",
+      "criminal",
+      "probe",
+      "Fed",
+      "Chair"
     ],
-    "bannerClass": "from-slate-800 to-slate-600",
+    "bannerClass": "from-indigo-950 to-blue-800",
     "isNew": true,
-    "url": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/",
-    "summaryJa": "大学キャンパスで人気を集めているソーシャル ネットワーキング アプリの Series は、テクノロジー業界の著名人からの 510 万ドルのプレシードラウンドを発表した。"
+    "url": "https://www.cnbc.com/2026/04/24/will-he-stay-or-will-he-go-with-criminal-probe-over-fed-chair-powell-faces-big-decision.html",
+    "summaryJa": "この決定は、特にデリケートな時期の政策決定に重要な影響を与える可能性がある。"
   },
   {
     "id": "rss-economy-f46dcae4a29fc6",
@@ -953,25 +986,6 @@
     "isNew": true,
     "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
     "summaryJa": "ドナルド・トランプ大統領は、FRBビルの改修工事で不適切な費用超過があったとしてパウエル議長を非難していた。"
-  },
-  {
-    "id": "rss-market-6e465fa9994619",
-    "title": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets",
-    "summary": "Anthropic said its latest agreement with Google expands on a longstanding partnership between the two companies.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-04-24T18:32:44.000Z",
-    "category": "market",
-    "keywords": [
-      "Google",
-      "invest",
-      "billion",
-      "Anthropic",
-      "search"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html"
   },
   {
     "id": "rss-insurance-9ec32b9ed1cf9f",
@@ -1011,7 +1025,7 @@
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
     "url": "https://www.insurancejournal.com/news/midwest/2026/04/24/867256.htm",
-    "summaryJa": "Inszone Insurance Services は、James R. Vozar Insurance Agency の買収を発表しました。アテネ、クインシー、ミシガン州ユニオンシティにオフィスを構えるこの買収により、中西部におけるInszoneの存在感がさらに強化され、農業部門における深い専門知識が加わり…"
+    "summaryJa": "Inszone Insurance Services は、James R. Vozar Insurance Agency の買収を発表しました。アテネ、クインシー、ミシガン州ユニオンシティにオフィスを構えるこの買収により、中西部におけるInszoneの存在感がさらに強化され、農業分野における深い専門知識が加わり…"
   },
   {
     "id": "rss-insurance-5a085ec6f5b980",
@@ -1031,7 +1045,7 @@
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
     "url": "https://www.insurancejournal.com/news/southcentral/2026/04/24/867247.htm",
-    "summaryJa": "テキサス州は、今年有毒廃水を漏洩する現場の数が50％以上増加したことを受け、いわゆるゾンビ油井への対応を加速するための新たな規則を計画している。米国最大の原油生産州の石油会社は、非常に石油を供給している…"
+    "summaryJa": "テキサス州は、今年有毒廃水を漏洩する現場の数が50％以上増加したことを受け、いわゆるゾンビ油井への対応を加速するための新たな規則を計画している。米国最大の原油産出州の石油会社は、非常に石油を供給している…"
   },
   {
     "id": "rss-insurance-f4434b280031b5",
@@ -1231,7 +1245,7 @@
     "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
     "isNew": true,
     "url": "https://www.reinsurancene.ws/lloyds-market-association-barnett-waddingham-launch-ai-adoption-toolkit-for-mgas/",
-    "summaryJa": "管理代理店とロイズ仲介業者の利益を代表する団体であるロイズ市場協会（LMA）は、プロフェッショナル サービス コンサルタント会社でハウデンの一部であるバーネット ワディンガムと協力して、管理代理店（MGA）がロイズ市場全体で人工知能（AI）のガバナンス フレームワークを開発および強化するのを支援する AI 導入ツールキットを立ち上げました。 The […] The post Lloyd’s Market Association & Barnett Waddingham launch AI Adoption Toolkit for MGAs appeared first on ReinsuranceNe.ws."
+    "summaryJa": "管理代理店とロイズ仲介業者の利益を代表する団体であるロイズ市場協会（LMA）は、プロフェッショナル サービス コンサルタント会社でハウデンの一部であるバーネット ワディンガムと協力して、管理代理店（MGA）がロイズ市場全体で人工知能（AI）のガバナンス フレームワークを開発および強化するのを支援する AI 導入ツールキットを立ち上げました。 […]ロイズ市場協会とバーネット・ワディンガムが MGA 向け AI 導入ツールキットを立ち上げた後の記事は、ReinsuranceNews に最初に掲載されました。"
   },
   {
     "id": "rss-economy-59f17288224287",
@@ -1487,7 +1501,7 @@
     "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
     "isNew": true,
     "url": "https://www.artemis.bm/news/catiq-sees-higher-sums-insured-in-2026-canadian-industry-exposure-database/?utm_source=rss&utm_medium=rss&utm_campaign=catiq-sees-higher-sums-insured-in-2026-canadian-industry-exposure-database",
-    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。カナダの保険損失およびエクスポージャー指数プロバイダーであり、チューリッヒに本拠を置くPERILS AGの子会社であるCatIQは、2026年のカナダ保険IED（産業エクスポージャーデータベース）の最新情報を発表しました。これは、カナダの自然災害に対して保険が適用される不動産資産が、2025年末時点で総額23兆カナダドルに達したことを示しています。これは、2026年に保険金額が増加すると見込んでいるCatIQのカナダ産業エクスポージャーデータベースが公開されました。 by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter"
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。カナダの保険損失およびエクスポージャー指数プロバイダーであり、チューリッヒに本拠を置くPERILS AGの子会社であるCatIQは、2026年のカナダ保険IED（産業エクスポージャーデータベース）の最新情報を発表しました。これは、カナダの自然災害に対して保険が適用される不動産資産が、2025年末時点で総額23兆カナダドルに達したことを示しています。これは、2026年に保険金額が増加すると見込んでいるCatIQのカナダ産業エクスポージャーデータベースが公開されました。提供: www.Artemis.bm 災害債券取引ディレクトリ 毎週の無料電子メール ニュースレター"
   },
   {
     "id": "rss-insurance-2ae3fa2b5c558a",
@@ -1613,24 +1627,6 @@
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/24/news049.html"
   },
   {
-    "id": "rss-ai-8b62300413e1ba",
-    "title": "「Java 26」は何が変わった？ 現場の実装・運用に影響をもたらす10の仕様",
-    "summary": "Oracleは「Java 26」の提供を開始した。AI統合を強化する10件の仕様変更や新サポート基盤「JVP」の発表は、実装・運用にどう影響するのか。",
-    "sourceName": "ITmedia AI",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-04-24T04:00:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "「Java",
-      "26」は何が変わった",
-      "現場の実装",
-      "運用に影響をもたらす10の仕様"
-    ],
-    "bannerClass": "from-sky-900 to-slate-800",
-    "isNew": true,
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/24/news038.html"
-  },
-  {
     "id": "rss-insurance-ffd3c184eb9c97",
     "title": "消費者物価（全国26年3月）－26年度入り後はCPIの押し下げ・押し上げ要因が混在",
     "summary": "■要旨 26年3月の全国消費者物価指数（生鮮食品を除く総合＝コアCPI）は前年比1.8％（2月：同1.8％）となり、上昇率が前月から0.2ポイント拡大した。中東情勢の緊迫化に伴う原油価格高騰を背景にガソリンや灯油価格が大幅に上昇し、全体を押し上げた。 食料（除く生鮮）は前年比5.2％と8ヵ月連続で上昇率が縮小した。米類は25年5月の前年比101.7％から10ヵ月連続で上昇率が鈍化し、26年3月には同6.8％となった。 先行きについては、授業料・給食費無償化、ガソリン補助金が物価を押し下げる一方、電気・ガス補助金の縮小・終了や年度替わりの値上げが押し上げ要因となる。原油価格高騰を受けた電気・ガス代の上昇は秋以降に本格化するため、補助金政策が再開される公算が大きい。コアCPI上昇率は当面1％台後半から2％程度で推移すると予想される。 ■目次 １．コアCPI上昇率は前月から0.2ポイント拡大 ２．物価上昇品目数が4ヵ月連続で減少 ３．コアCPI上昇率は当面1％台後半～2％程度で推移する見通し総務省統計局が4月24日に公表した消費者物価指数によると、26年3月の消費者物価（全国、生鮮食品を除く総合、以下コアCPI）は前年比1.8％（2月：同1.6％）となり、上昇率は前月から0.2ポイント拡大した。事前の市場予想（QUICK集計：1.8％、当社予想も1.8％）通りの結果であった。 食料（生鮮食品を除く）の上昇率は縮小したが、中東情勢緊迫化を受けた原油価格高騰に伴いガソリン、灯油価格が大幅に上昇したことがコアCPIを押し上げた。 生鮮食品及びエネルギーを除く総合（コアコアCPI）は前年比2.4％（2月：同2.5％）、総合は前年比1.4％（2月：同1.4％）となった。 コアCPIの内訳をみると、電気代（2月：前年比▲8.0％→3月：同▲8.0％）、",
@@ -1646,7 +1642,7 @@
       "押し上げ要因が混在"
     ],
     "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.nli-research.co.jp/topics_detail1/id=85315?site=nli"
   },
   {
@@ -1665,7 +1661,7 @@
       "押し上げ要因が混在"
     ],
     "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.nli-research.co.jp/topics_detail1/id=85315?site=nli"
   },
   {
@@ -1684,7 +1680,7 @@
       "押し上げ要因が混在"
     ],
     "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.nli-research.co.jp/topics_detail1/id=85315?site=nli"
   },
   {
@@ -1703,7 +1699,7 @@
       "押し上げ要因が混在"
     ],
     "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.nli-research.co.jp/topics_detail1/id=85315?site=nli"
   },
   {
@@ -1722,7 +1718,7 @@
       "mass"
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss",
     "summaryJa": "Michael Kratsios氏のメモには、主に中国の企業が米国のAIモデルを不当に抽出していると書かれている。"
   },
