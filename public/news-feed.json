@@ -239,12 +239,28 @@
     "sortBoost": 5
   },
   {
+    "id": "rss-insurance-5269406ec78448",
+    "title": "調達,入札公告等を更新しました。",
+    "summary": "調達,入札公告等を更新しました。",
+    "sourceName": "金融庁（新着情報）",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-07-15T13:08:36.812Z",
+    "category": "insurance",
+    "keywords": [
+      "調達,入札公告等を更新し",
+      "を更新しました。"
+    ],
+    "bannerClass": "from-slate-900 to-slate-700",
+    "isNew": true,
+    "url": "https://www.fsa.go.jp/choutatu/choutatu_j/nyusatu_menu.html"
+  },
+  {
     "id": "rss-insurance-3098b621ef5c60",
     "title": "その他,金融仲介機能の発揮に向けたプログレスレポートについて公表しました。",
     "summary": "その他,金融仲介機能の発揮に向けたプログレスレポートについて公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-07-15T01:21:53.931Z",
+    "publishedAt": "2026-07-15T13:08:36.812Z",
     "category": "insurance",
     "keywords": [
       "その他,金融仲介機能の発",
@@ -263,7 +279,7 @@
     "summary": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年７月10日）について掲載しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-07-15T01:21:53.931Z",
+    "publishedAt": "2026-07-15T13:08:36.812Z",
     "category": "insurance",
     "keywords": [
       "記者会見,片山財務大臣兼",
@@ -282,7 +298,7 @@
     "summary": "令和６年能登半島地震関連情報に関する特設ページを更新しました。（令和８年７月14日 15時00分時点）",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-07-15T01:21:53.931Z",
+    "publishedAt": "2026-07-15T13:08:36.812Z",
     "category": "insurance",
     "keywords": [
       "（令和８年７月14日",
@@ -298,7 +314,7 @@
     "summary": "令和８年７月滋賀県甲賀市の土砂崩れに係る災害等に対する金融上の措置について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-07-15T01:21:53.931Z",
+    "publishedAt": "2026-07-15T13:08:36.812Z",
     "category": "insurance",
     "keywords": [
       "令和８年７月滋賀県甲賀市",
@@ -317,7 +333,7 @@
     "summary": "金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in旭川」の開催について公表しました。詳しくは特設サイトをご覧ください。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-07-15T01:21:53.931Z",
+    "publishedAt": "2026-07-15T13:08:36.812Z",
     "category": "insurance",
     "keywords": [
       "金融経済教育イベント「ワニーサと学ぶ",
@@ -334,7 +350,7 @@
     "summary": "人事異動（令和８年７月10日付及び令和８年７月11日付）について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-07-15T01:21:53.931Z",
+    "publishedAt": "2026-07-15T13:08:36.812Z",
     "category": "insurance",
     "keywords": [
       "人事異動（令和８年７月1",
@@ -353,7 +369,7 @@
     "summary": "「貸金業法施行規則の一部を改正する内閣府令（案）」に対するパブリックコメントの実施について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-07-15T01:21:53.931Z",
+    "publishedAt": "2026-07-15T13:08:36.812Z",
     "category": "insurance",
     "keywords": [
       "「貸金業法施行規則の一部",
@@ -367,368 +383,655 @@
     "url": "https://www.fsa.go.jp/news/r8/kashikin/20260710/20260710.html"
   },
   {
-    "id": "rss-insurance-c79dab322db980",
-    "title": "「連結財務諸表の用語、様式及び作成方法に関する規則に規定する金融庁長官が定める企業会計の基準を指定する件」に対するパブリックコメントの実施について公表しました。",
-    "summary": "「連結財務諸表の用語、様式及び作成方法に関する規則に規定する金融庁長官が定める企業会計の基準を指定する件」に対するパブリックコメントの実施について公表しました。",
-    "sourceName": "金融庁（新着情報）",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-07-15T01:21:53.931Z",
+    "id": "rss-ai-182bd9af334a69",
+    "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+    "summary": "Rime is handling over 100 million calls each month across multiple companies",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-07-15T13:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "Rime",
+      "picks",
+      "24M",
+      "Series",
+      "help"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+    "summaryJa": "Rime は複数の企業にわたって毎月 1 億件以上の電話を処理しています"
+  },
+  {
+    "id": "rss-ai-e4526c18c3bb1d",
+    "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+    "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-07-15T13:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "Reelful",
+      "turns",
+      "camera",
+      "roll",
+      "short-form"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+    "summaryJa": "このアプリは、ソーシャル コンテンツを作成したいが、従来のビデオ編集ツールは複雑すぎたり、時間がかかりすぎたりする人向けに設計されています。"
+  },
+  {
+    "id": "rss-ai_theory-31c8a4ba9b51e6",
+    "title": "Starlinkなどを含む合計3万基以上の人工衛星の現在位置がわかるライブマップ「Satellite Tracker」",
+    "summary": "以前から地球の周囲には気象観測や科学研究のために多数の人工衛星が打ち上げられており、近年はStarlinkをはじめとする衛星インターネットの発展によって、人工衛星の数は飛躍的に増加しています。そんな人工衛星の現在位置をチェックできるライブマップが「Satellite Tracker」です。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T13:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "Starlinkなどを含",
+      "などを含む合計3万基以上",
+      "万基以上の人工衛星の現在",
+      "星の現在位置がわかるライ",
+      "かるライブマップ「Sat"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260715-satellite-tracker-live-map/"
+  },
+  {
+    "id": "rss-market-bfe4f434da5c17",
+    "title": "IRS chief Frank Bisignano will lead Trump accounts expansion",
+    "summary": "The Treasury Department is putting a top official in charge of the new program as it enrolls millions of families.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-07-15T12:56:15.000Z",
+    "category": "market",
+    "keywords": [
+      "IRS",
+      "chief",
+      "Frank",
+      "Bisignano",
+      "lead"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/07/15/irs-chief-frank-bisignano-will-lead-trump-accounts-expansion.html"
+  },
+  {
+    "id": "rss-market-394dd155798fcd",
+    "title": "Wholesale prices unexpectedly declined 0.3% in June on big drop in gasoline",
+    "summary": "As with consumer prices, the index benefited from easing energy costs, particularly as oil fell due to the brief pause in tensions between the U.S. and Iran.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-07-15T12:53:17.000Z",
+    "category": "market",
+    "keywords": [
+      "Wholesale",
+      "prices",
+      "unexpectedly",
+      "declined",
+      "June"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/07/15/wholesale-inflation-june-2026-.html",
+    "summaryJa": "消費者物価と同様に、特に米国とイラン間の緊張の一時停止による原油安により、指数もエネルギーコストの緩和から恩恵を受けた。"
+  },
+  {
+    "id": "rss-market-392f60aec378c6",
+    "title": "Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambling'",
+    "summary": "The investor has been sharply critical of the stock market, one that he says is increasingly defined by speculative trading as opposed to long-term investing.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-07-15T12:50:50.000Z",
+    "category": "market",
+    "keywords": [
+      "Warren",
+      "Buffett",
+      "market",
+      "today",
+      "tough"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html",
+    "summaryJa": "同投資家は株式市場を厳しく批判しており、株式市場は長期投資ではなく投機取引によってますます定義されつつあると述べた。"
+  },
+  {
+    "id": "rss-economy-598d8d735c5434",
+    "title": "便混入で殺害か 死因は多臓器不全",
+    "summary": "便混入で殺害か 死因は多臓器不全",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T12:46:18.000Z",
+    "category": "economy",
+    "keywords": [
+      "便混入で殺害か",
+      "死因は多臓器不全"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6588080?source=rss"
+  },
+  {
+    "id": "rss-insurance-d4e739236b8c1c",
+    "title": "Business Moves: Duck Creek Buys Send to Create Novel Agentic Solution",
+    "summary": "Insurance industry software-as-a-service provider Duck Creek Technologies said it has acquired commercial underwriting platform Send Technology Solutions. Duck Creek said together the companies will create the “first and only agentic solution to unite core insurance operations and intelligent underwriting workflows …",
+    "sourceName": "Insurance Journal",
+    "sourceIcon": "🛡️",
+    "publishedAt": "2026-07-15T12:36:07.000Z",
     "category": "insurance",
     "keywords": [
-      "「連結財務諸表の用語、様",
-      "用語、様式及び作成方法に",
-      "成方法に関する規則に規定",
-      "則に規定する金融庁長官が",
-      "庁長官が定める企業会計の"
+      "Moves",
+      "Duck",
+      "Creek",
+      "Buys",
+      "Send"
     ],
-    "bannerClass": "from-slate-900 to-slate-700",
+    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
-    "url": "https://www.fsa.go.jp/news/r8/sonota/20260710-2/20260710.html"
+    "url": "https://www.insurancejournal.com/news/national/2026/07/15/877681.htm",
+    "summaryJa": "保険業界のSoftware-as-a-ServiceプロバイダーであるDuck Creek Technologiesは、商業引受プラットフォームのSend Technology Solutionsを買収したと発表した。ダック・クリーク氏は、両社が協力して「中核的な保険業務とインテリジェントな保険引受ワークフローを統合する最初で唯一の代理店ソリューションを構築する」と述べた。"
   },
   {
-    "id": "rss-economy-15188429814473",
-    "title": "北陸新幹線延伸ルート “「桂川案」が望ましい” 与党委員会",
-    "summary": "北陸新幹線の新大阪までの延伸ルートを議論する与党の委員会は、福井県小浜市から京都駅の西側にある桂川駅付近を経由するルートが望ましいとする報告をまとめました。物価の上昇が続く中、建設費は当初の想定よりも…",
+    "id": "rss-ai_theory-b0bea4c8d6a5fc",
+    "title": "イギリス政府が未成年者のSNS禁止措置を拡大、16歳・17歳について「夜間のSNS使用禁止」の方針",
+    "summary": "イギリス政府が16歳未満のSNS利用の全面禁止に続いて、16歳・17歳のティーンエイジャーについても、深夜0時から朝6時までの夜間はSNSの使用を禁止する方針を打ち出しました。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T12:30:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "イギリス政府が未成年者のSNS禁止措置を拡大",
+      "16歳",
+      "17歳について「夜間のSNS使用禁止」の方針"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260715-uk-midnight-social-media-restriction-for-teenager/"
+  },
+  {
+    "id": "rss-economy-244046abb66aa7",
+    "title": "芥川賞に小砂川チトさん 直木賞に朝倉かすみさん",
+    "summary": "第175回芥川賞と直木賞の選考会が15日、都内で開かれ、芥川賞に小砂川チトさんの「ゾンビ回収婦」が、直木賞に朝倉かすみさんの「けんぐゎい」がそれぞれ選ばれました。",
     "sourceName": "NHKニュース",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-15T01:21:05.000Z",
+    "publishedAt": "2026-07-15T12:24:46.000Z",
     "category": "economy",
     "keywords": [
-      "北陸新幹線延伸ルート",
-      "“「桂川案」が望ましい”",
-      "与党委員会"
+      "芥川賞に小砂川チトさん",
+      "直木賞に朝倉かすみさん"
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015177231000"
+    "url": "https://news.web.nhk/newsweb/na/na-k10015176901000"
   },
   {
-    "id": "rss-economy-85c1e81ae628bc",
-    "title": "W杯 スペイン 4大会ぶり決勝進出 フランス3大会連続決勝ならず",
-    "summary": "サッカーワールドカップ北中米大会の準決勝、フランス 対 スペインはスペインが2対0で勝って4大会ぶりに決勝へ進みました。フランスは3大会連続の決勝進出はなりませんでした。スペインは国際Aマッチと呼ばれ…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-15T01:19:46.000Z",
-    "category": "economy",
-    "keywords": [
-      "W杯",
-      "スペイン",
-      "4大会ぶり決勝進出",
-      "フランス3大会連続決勝ならず"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015177181000"
-  },
-  {
-    "id": "rss-economy-11060a584e2c6c",
-    "title": "富山 新潟 山梨で38度の危険な暑さ予想 東北でも猛烈な暑さに",
-    "summary": "15日も、九州から東北にかけての広い範囲で気温が上がり、富山県や新潟県、それに山梨県では最高気温が38度と危険な暑さが予想されています。エアコンを適切に使い、こまめに水分補給するなど、熱中症対策を徹底…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-15T01:18:56.000Z",
-    "category": "economy",
-    "keywords": [
-      "富山",
-      "新潟",
-      "山梨で38度の危険な暑さ予想",
-      "東北でも猛烈な暑さに"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015176981000"
-  },
-  {
-    "id": "rss-market-5f210cbb6c25ae",
-    "title": "SK Hynix South Korean shares jump 11% as Asia tech stocks rally",
-    "summary": "SK Hynix led a broad rally in Asian technology shares on Wednesday, tracking a rebound in U.S. semiconductor shares after a sharp selloff earlier this week.",
+    "id": "rss-market-00f7a185395d8f",
+    "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
+    "summary": "Like at peers Goldman Sachs and JPMorgan Chase, a massive beat in equities trading drove the quarter's outsized results.",
     "sourceName": "CNBC",
     "sourceIcon": "📈",
-    "publishedAt": "2026-07-15T01:17:45.000Z",
+    "publishedAt": "2026-07-15T12:14:59.000Z",
     "category": "market",
     "keywords": [
-      "Hynix",
-      "South",
-      "Korean",
-      "shares",
-      "jump"
+      "Morgan",
+      "Stanley",
+      "posts",
+      "record",
+      "quarterly"
     ],
     "bannerClass": "from-indigo-950 to-blue-800",
     "isNew": true,
-    "url": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html"
+    "url": "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html",
+    "summaryJa": "同業のゴールドマン・サックスやJPモルガン・チェースと同様、株式取引の大躍進が当四半期の大幅な業績を押し上げた。"
   },
   {
-    "id": "rss-economy-f5880e701e2953",
-    "title": "〈NHKのネット配信〉事業は2つのサービスに収斂､今後のカギは｢テレビを観ない層｣へのアピール | ビジネス | 東洋経済オンライン",
-    "summary": "スマホ世代やテレビを持たない層へどこまでリーチできるのか。これが今後の大きな課題です。",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-15T01:02:00.000Z",
+    "id": "rss-economy-46f739afe4d4d7",
+    "title": "Cash-strapped Thames Water poses big test for Burnham",
+    "summary": "Despite returning to profit after hiking bills 40%, the deeply troubled company is far from out of the woods.",
+    "sourceName": "BBC Business",
+    "sourceIcon": "¥",
+    "publishedAt": "2026-07-15T12:09:08.000Z",
     "category": "economy",
     "keywords": [
-      "ビジネス",
-      "東洋経済オンライン"
+      "Cash-strapped",
+      "Thames",
+      "Water",
+      "poses",
+      "big"
     ],
-    "bannerClass": "from-green-950 to-emerald-900",
+    "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/951296?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    "url": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
+    "summaryJa": "請求額を40％引き上げた後に黒字に戻ったにもかかわらず、深刻な問題を抱えた同社はまだ森から抜け出していない。"
   },
   {
-    "id": "rss-economy-4c0218d56cbeaa",
-    "title": "〈NHK受信料〉収支均衡達成に向けて受信料｢下げ止まり｣対策を強化､支払い督促の申立件数は過去最多に | ビジネス | 東洋経済オンライン",
-    "summary": "受信料収入の減少が続くNHKは､収支均衡を目指して｢未収対策｣に本腰を入れています。",
-    "sourceName": "東洋経済オンライン",
+    "id": "rss-market-20e8674097f59a",
+    "title": "U.S. launches fresh wave of strikes on Iran, as analysts warn conflict risks becoming 'forever war'",
+    "summary": "Fighting in the Middle East has intensified in recent days, but could escalate further if Iran fails to cooperate, President Donald Trump said.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-07-15T12:07:12.000Z",
+    "category": "market",
+    "keywords": [
+      "launches",
+      "fresh",
+      "wave",
+      "strikes",
+      "Iran"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/07/15/trump-iran-hormuz-strikes-power-plants-targeted.html",
+    "summaryJa": "中東での戦闘はここ数日激化しているが、イランが協力しなければさらに激化する可能性があるとドナルド・トランプ大統領は述べた。"
+  },
+  {
+    "id": "rss-economy-050a939a4dfb0c",
+    "title": "不祥事相次いだ東京大学附属病院を「東京大学病院」に変更へ",
+    "summary": "東京大学は医学部附属病院で相次いだ不祥事を受けて、ガバナンスを強化するため附属病院を本部直轄の組織に改編したうえで、名称を「東京大学病院」に変更することを公表しました。",
+    "sourceName": "NHKニュース",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-15T01:01:00.000Z",
+    "publishedAt": "2026-07-15T12:00:39.000Z",
     "category": "economy",
     "keywords": [
-      "ビジネス",
-      "東洋経済オンライン"
+      "不祥事相次いだ東京大学附",
+      "京大学附属病院を「東京大",
+      "「東京大学病院」に変更へ",
+      "に変更へ"
     ],
-    "bannerClass": "from-green-950 to-emerald-900",
+    "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/951293?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    "url": "https://news.web.nhk/newsweb/na/na-k10015177821000"
   },
   {
-    "id": "rss-economy-19002208de3f10",
-    "title": "井上会長が語るNHKの未来…｢スポーツ･エンタメは公共放送の重要な役割､配信も含めて質の高い番組を提供していく｣ | ビジネス | 東洋経済オンライン",
-    "summary": "――NHKは今年のサッカーワールドカップ北中米大会で、日本代表の全試合を地上波とBS（衛星放送）で生中継し、録画を含めると全104試合を放送しています。ここまで力を注いだ理由は何ですか。NHKがサッ…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-15T01:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "井上会長が語るNHKの未来",
-      "ビジネス",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/951268?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-af9d88d54cc66c",
-    "title": "｢外国勢力による関与の痕跡｣｢選挙介入も｣情報操作が容易な令和､専門家が進言する｢制度的対策｣の中身 | キャリア・教育 | 東洋経済オンライン",
-    "summary": "デマやフェイク情報が社会を席巻する中､2025年の参議院選挙では外国勢力による選挙介入が現実味を帯びてきました。AIとボットによる情報操作が世論形成に与える影響､その背後に潜むリスクとは。私たちは今…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-15T01:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "キャリア",
-      "教育",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/950354?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-da0c1f547e8e60",
-    "title": "FRB議長「インフレ容認しない」",
-    "summary": "FRB議長「インフレ容認しない」",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-15T00:40:22.000Z",
-    "category": "economy",
-    "keywords": [
-      "FRB議長「インフレ容認",
-      "フレ容認しない」"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6587990?source=rss"
-  },
-  {
-    "id": "rss-economy-405467007f62f5",
-    "title": "習主席側近の失脚相次ぐ 摘発激化",
-    "summary": "習主席側近の失脚相次ぐ 摘発激化",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-15T00:30:50.000Z",
-    "category": "economy",
-    "keywords": [
-      "習主席側近の失脚相次ぐ",
-      "摘発激化"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6587987?source=rss"
-  },
-  {
-    "id": "rss-economy-85d2c56d22297b",
-    "title": "なぜ男性の｢チビ･デブ･ハゲ｣は\"いじっていい\"ことになるのか…｢傷つかないだろう｣の思い込みの下で､相手は黙って耐えている | ライフ | 東洋経済オンライン",
-    "summary": "私たちは気づかないうちに､男性にも厳しいルッキズムを押し付けているかもしれません。たとえば､｢男なら大きく､強くなければ｣という無言の圧力。｢男性は傷つかない｣と思いがちな偏見の中で､笑顔の裏に隠さ…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-15T00:30:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "ライフ",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/949873?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-ai-06f6d22989a125",
-    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-    "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+    "id": "rss-ai-0069ac994440e1",
+    "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+    "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
     "sourceName": "TechCrunch",
     "sourceIcon": "📰",
-    "publishedAt": "2026-07-15T00:27:04.000Z",
+    "publishedAt": "2026-07-15T12:00:00.000Z",
     "category": "ai",
+    "keywords": [
+      "Indian",
+      "coding",
+      "startup",
+      "Emergent",
+      "becomes"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+    "summaryJa": "このスタートアップは年間収益ランレート 1 億 2,000 万ドルに達し、有料顧客数は 20 万人を超えています。"
+  },
+  {
+    "id": "rss-ai-63ab2ff3d1ff9c",
+    "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+    "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-07-15T12:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "Vint",
+      "Cerf",
+      "working",
+      "plan",
+      "unleash"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+    "summaryJa": "TCP/IP の背後にいる人は、実際の AI エージェントを識別するための標準に取り組んでいます。"
+  },
+  {
+    "id": "rss-ai-222d470fb4d46b",
+    "title": "Why Realta Fusion is building a fusion reactor at an old hot dog factory",
+    "summary": "An old Oscar Mayer factory in Wisconsin will become America's latest fusion power research and development hub.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-07-15T12:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "Realta",
+      "Fusion",
+      "building",
+      "fusion",
+      "reactor"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/07/15/why-realta-fusion-is-building-a-fusion-reactor-at-an-old-hot-dog-factory/",
+    "summaryJa": "ウィスコンシン州にある古いオスカー・メイヤー工場は、アメリカの最新の核融合発電研究開発拠点となる。"
+  },
+  {
+    "id": "rss-ai_theory-3d50aecaa26063",
+    "title": "世界最大の合計15TBに達するマインクラフトの無法地帯「2b2t」のワールドデータが公開される、実際にダウンロードして利用可能",
+    "summary": "マインクラフトの老舗アナーキーサーバー「2b2t」のワールドを保存する大規模アーカイブプロジェクト「2b2t.place」が、合計約15TBに達する世界最大のマインクラフトワールドデータを一般公開しました。データはTorrentでダウンロードできるほか、ブラウザ上で閲覧したり、専用サーバー上で実際に探索したりすることも可能です。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T12:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "世界最大の合計15TBに",
+      "5TBに達するマインクラ",
+      "インクラフトの無法地帯「",
+      "法地帯「2b2t」のワー",
+      "」のワールドデータが公開"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260715-2b2t-place-minecraft/"
+  },
+  {
+    "id": "rss-economy-c7808fa7dbc765",
+    "title": "ニチレイ サイバー攻撃を公表 外食企業や食品メーカーに影響",
+    "summary": "冷凍食品大手の「ニチレイ」でシステム障害が発生し、外食チェーンなどの間で商品の欠品などの影響が出ている問題で、会社はサイバー攻撃を受けたと公表しました。",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T11:58:18.000Z",
+    "category": "economy",
+    "keywords": [
+      "ニチレイ",
+      "サイバー攻撃を公表",
+      "外食企業や食品メーカーに影響"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015177751000"
+  },
+  {
+    "id": "rss-economy-92f76a3eef199a",
+    "title": "米軍 イランを5日連続で攻撃",
+    "summary": "米軍 イランを5日連続で攻撃",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T11:51:10.000Z",
+    "category": "economy",
+    "keywords": [
+      "米軍",
+      "イランを5日連続で攻撃"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6588078?source=rss"
+  },
+  {
+    "id": "rss-economy-5565746749b723",
+    "title": "「検察なめんな」法廷で映像上映",
+    "summary": "「検察なめんな」法廷で映像上映",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T11:40:04.000Z",
+    "category": "economy",
+    "keywords": [
+      "「検察なめんな」法廷で映",
+      "法廷で映像上映"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6588077?source=rss"
+  },
+  {
+    "id": "rss-insurance-52e9b231dc9486",
+    "title": "Update: After Hormuz, Iran Turns to Red Sea Gateway as New Pressure Point",
+    "summary": "Having choked off shipping through the Strait of Hormuz, Iran is now signaling it could play its most dangerous card yet: using Yemen’s Houthi allies to shut the Bab el-Mandeb gateway to the Red Sea, opening a new front against …",
+    "sourceName": "Insurance Journal",
+    "sourceIcon": "🛡️",
+    "publishedAt": "2026-07-15T11:32:35.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Update",
+      "Hormuz",
+      "Iran",
+      "Turns",
+      "Red"
+    ],
+    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
+    "isNew": true,
+    "url": "https://www.insurancejournal.com/news/international/2026/07/15/877659.htm",
+    "summaryJa": "ホルムズ海峡を通過する船舶の輸送を阻止したイランは現在、これまでで最も危険なカードを使う可能性があることを示唆している。それはイエメンのフーシ派同盟国を利用して紅海へのバブ・エル・マンデブの玄関口を封鎖し、対する新たな戦線を開くというものだ。"
+  },
+  {
+    "id": "rss-economy-bcab151f399f0c",
+    "title": "Don't panic - five ways to stop your kids' endless scrolling",
+    "summary": "Parenting experts share their tips on how to keep children's screen time under control.",
+    "sourceName": "BBC Business",
+    "sourceIcon": "¥",
+    "publishedAt": "2026-07-15T11:13:40.000Z",
+    "category": "economy",
+    "keywords": [
+      "Don",
+      "panic",
+      "five",
+      "ways",
+      "stop"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://www.bbc.co.uk/news/articles/c86e3q5j992o?at_medium=RSS&at_campaign=rss",
+    "summaryJa": "子育ての専門家が、子どもの画面時間をコントロールする方法についてのヒントを共有します。"
+  },
+  {
+    "id": "rss-ai_theory-b9ec740525432b",
+    "title": "『サンダー３』原作者・池田祐輝さんにインタビュー、アニメの感想から独特なマンガの描き方まで1時間たっぷり語ってもらいました",
+    "summary": "2026年7月8日(水)からフジテレビ「+Ultra」枠ほかで放送・配信中のTVアニメ『サンダー３』は、第1話にして前半の雰囲気から一転し、主人公たちがマルチバースの別世界でさらわれてしまった妹を助けるために戦う作品であることが明らかになりました。本作は「月刊少年マガジン」に2022年から2026年6月にかけて連載された漫画が原作で、今回、アニメの放送に合わせて原作者である池田祐輝さんにインタビューする機会を得たので、作品をどのように生み出したのか、アニメについてはどう受け止めているのか、そもそもどのように漫画を描いているのかなど、いろいろなことを伺ってきました。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T11:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "『サンダー３』原作者",
+      "池田祐輝さんにインタビュー"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260715-thunder-3-yuuki-ikeda-interview/"
+  },
+  {
+    "id": "rss-insurance-3964e3f2a46873",
+    "title": "Russian Strike on Ukraine’s Odesa Kills Three as Moscow, Kyiv Battle Over Black Sea",
+    "summary": "Russia and Ukraine stepped up their battle over the Black Sea and key trade routes on Wednesday, with Moscow killing three people in an attack on the Ukrainian port city of Odesa and Kyiv’s drone forces striking Russian shipping. Odesa …",
+    "sourceName": "Insurance Journal",
+    "sourceIcon": "🛡️",
+    "publishedAt": "2026-07-15T10:53:11.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Russian",
+      "Strike",
+      "Ukraine",
+      "Odesa",
+      "Kills"
+    ],
+    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
+    "isNew": true,
+    "url": "https://www.insurancejournal.com/news/international/2026/07/15/877649.htm",
+    "summaryJa": "ロシアとウクライナは水曜日、黒海と主要な貿易ルートを巡る攻防を強化し、モスクワはウクライナの港湾都市オデーサへの攻撃で3人を殺害し、キエフの無人機部隊はロシアの船舶を攻撃した。オデサ …"
+  },
+  {
+    "id": "rss-economy-4ca5e3f21986ad",
+    "title": "首相 国民会議の消費税減税議論 “8月頭ぐらいなら間に合う”",
+    "summary": "国会では、高市総理大臣と野党6党の党首による党首討論が行われました。高市総理大臣は、食料品の消費税減税をめぐり、来月はじめごろまでに超党派の「国民会議」で議論がまとまれば法整備などに向けた作業は間に合…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T10:50:06.000Z",
+    "category": "economy",
+    "keywords": [
+      "首相",
+      "国民会議の消費税減税議論",
+      "“8月頭ぐらいなら間に合う”"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015177561000"
+  },
+  {
+    "id": "rss-insurance-bf04889449f1d9",
+    "title": "OpenAI Unaware of ‘Any Evidence’ Showing Apple Lawsuit Has Merit",
+    "summary": "OpenAI said on Tuesday that it’s “not aware of any evidence” that an Apple Inc. lawsuit alleging trade-secret theft has merit. The latest remarks come four days after Apple filed the suit, which claimed that OpenAI took proprietary technology to …",
+    "sourceName": "Insurance Journal",
+    "sourceIcon": "🛡️",
+    "publishedAt": "2026-07-15T10:35:05.000Z",
+    "category": "insurance",
     "keywords": [
       "OpenAI",
-      "researcher",
-      "Miles",
-      "Wang",
-      "talks"
+      "Unaware",
+      "Evidence",
+      "Showing",
+      "Apple"
     ],
-    "bannerClass": "from-slate-800 to-slate-600",
+    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
-    "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-    "summaryJa": "資金調達に関する議論は、AIを応用してライフサイエンスのブレークスルーを実現することに投資家が関心を持っていることを示している。"
+    "url": "https://www.insurancejournal.com/news/national/2026/07/15/877616.htm",
+    "summaryJa": "OpenAIは火曜日、企業秘密の窃盗を主張するアップル社の訴訟に価値があるという「いかなる証拠も認識していない」と述べた。最新の発言は、OpenAIが独自の技術を利用して…と主張したAppleの訴訟の4日後に出た。"
   },
   {
-    "id": "rss-economy-755475eb660fdd",
-    "title": "中学生死亡 川で魚追いかけ溺れる",
-    "summary": "中学生死亡 川で魚追いかけ溺れる",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-15T00:25:26.000Z",
-    "category": "economy",
+    "id": "rss-insurance-1d6ae5065e3fea",
+    "title": "AI Bumps Power Cost 60% as Mega US Grid Fails to Hit Supply Goal",
+    "summary": "Power-hungry data centers have increased supply costs for the largest US electric grid by more than 60%, the system watchdog said. PJM Interconnection LLC, which serves 13 states and Washington, DC, said Tuesday that its auction to procure power for …",
+    "sourceName": "Insurance Journal",
+    "sourceIcon": "🛡️",
+    "publishedAt": "2026-07-15T10:30:53.000Z",
+    "category": "insurance",
     "keywords": [
-      "中学生死亡",
-      "川で魚追いかけ溺れる"
+      "Bumps",
+      "Power",
+      "Cost",
+      "Mega",
+      "Grid"
     ],
-    "bannerClass": "from-amber-900 to-orange-950",
+    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6587988?source=rss"
+    "url": "https://www.insurancejournal.com/news/national/2026/07/15/877619.htm",
+    "summaryJa": "システム監視団体によると、電力を大量に消費するデータセンターにより、米国最大の電力網への供給コストが60％以上増加しているという。 13の州とワシントンDCにサービスを提供するPJMインターコネクションLLCは火曜日、電力を調達するための入札を発表した。"
   },
   {
-    "id": "rss-market-edb6f7c8f1f859",
-    "title": "U.S. strikes Iran before Hormuz Strait blockade restarts",
-    "summary": "President Donald Trump has said the U.S.-Iran ceasefire is over following multiple flare-ups of hostilities in the region.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-07-15T00:24:59.000Z",
-    "category": "market",
+    "id": "rss-insurance-28f4a0feb1411e",
+    "title": "Unlocking capital markets to close the protection gap demands standardised infrastructure: Montauk Point’s Michel",
+    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. As the global protection gap continues to widen, closing it is no longer a question of mobilising more capital, it is a matter of engineering entirely new markets. A new paper authored by Gero Michel, Chief Risk & Analytics Officer at Montauk Point Ltd., argues that the primary obstacle to scaling risk transfer is not […] Unlocking capital markets to close the protection gap demands standardised infrastructure: Montauk Point’s Michel was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
+    "sourceName": "Artemis",
+    "sourceIcon": "🎯",
+    "publishedAt": "2026-07-15T10:30:49.000Z",
+    "category": "insurance",
     "keywords": [
-      "strikes",
-      "Iran",
-      "Hormuz",
-      "Strait",
-      "blockade"
+      "Unlocking",
+      "capital",
+      "markets",
+      "close",
+      "protection"
     ],
-    "bannerClass": "from-indigo-950 to-blue-800",
+    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
     "isNew": true,
-    "url": "https://www.cnbc.com/2026/07/14/iran-strikes-hormuz-strait-blockade-trump-tolls.html"
+    "url": "https://www.artemis.bm/news/unlocking-capital-markets-to-close-the-protection-gap-demands-standardised-infrastructure-montauk-points-michel/?utm_source=rss&utm_medium=rss&utm_campaign=unlocking-capital-markets-to-close-the-protection-gap-demands-standardised-infrastructure-montauk-points-michel",
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示することはできません。そうでない場合は、侵害が発生します。世界的な保護格差が拡大し続ける中、この格差を埋めることはもはや資本をさらに動員することではなく、まったく新しい市場を構築することの問題となっています。モントーク・ポイント社の最高リスク・分析責任者、ジェロ・ミシェルが執筆した新しい論文は、リスク移転の拡大に対する主な障害は次のようなものではないと主張している […] 保護ギャップを埋めるために資本市場のロックを解除するには、標準化されたインフラストラクチャが必要である: モントーク・ポイントのミシェルの発行者: www.Artemis.bm 災害債券取引ディレクトリ 毎週の無料電子メール n"
   },
   {
-    "id": "rss-economy-3125159a240399",
-    "title": "寄生虫感染症が拡大 米で1600人超",
-    "summary": "寄生虫感染症が拡大 米で1600人超",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-15T00:10:57.000Z",
-    "category": "economy",
-    "keywords": [
-      "寄生虫感染症が拡大",
-      "米で1600人超"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6587984?source=rss"
-  },
-  {
-    "id": "rss-economy-c9036ec8d3e17c",
-    "title": "Xbox workers stunned after jobs 'bloodbath'",
-    "summary": "The video game giant owned by Microsoft plans to let 3,200 workers go. Will it be a big reset or a system crash?",
+    "id": "rss-economy-f2555b9aef917f",
+    "title": "Several flights diverted after plane blocks Gatwick runway",
+    "summary": "An Easyjet flight had to land at Stanstead Airport instead, but then became stuck there when it couldn't find fuel.",
     "sourceName": "BBC Business",
     "sourceIcon": "¥",
-    "publishedAt": "2026-07-15T00:09:04.000Z",
+    "publishedAt": "2026-07-15T10:23:27.000Z",
     "category": "economy",
     "keywords": [
-      "Xbox",
-      "workers",
-      "stunned",
-      "jobs",
-      "bloodbath"
+      "Several",
+      "flights",
+      "diverted",
+      "plane",
+      "blocks"
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
-    "url": "https://www.bbc.co.uk/news/articles/c932eynvq1do?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/news/articles/c3ryr25gvjdo?at_medium=RSS&at_campaign=rss",
+    "summaryJa": "イージージェット便は代わりにスタンステッド空港に着陸する必要があったが、燃料が見つからずそこで立ち往生した。"
   },
   {
-    "id": "rss-economy-f6cc6efca8615b",
-    "title": "北陸新幹線延伸「桂川」案に決定",
-    "summary": "北陸新幹線延伸「桂川」案に決定",
+    "id": "rss-economy-a97e4daf736bdd",
+    "title": "ニチレイ障害 サイバー攻撃が原因",
+    "summary": "ニチレイ障害 サイバー攻撃が原因",
     "sourceName": "Yahoo!ニュース",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-14T23:37:27.000Z",
+    "publishedAt": "2026-07-15T10:15:56.000Z",
     "category": "economy",
     "keywords": [
-      "北陸新幹線延伸「桂川」案",
-      "桂川」案に決定"
+      "ニチレイ障害",
+      "サイバー攻撃が原因"
     ],
     "bannerClass": "from-amber-900 to-orange-950",
     "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6587983?source=rss"
+    "url": "https://news.yahoo.co.jp/pickup/6588070?source=rss"
   },
   {
-    "id": "rss-ai-b4562ff52976f0",
-    "title": "Lorde says AI glasses are ‘not sexy’",
-    "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-07-14T23:10:02.000Z",
-    "category": "ai",
+    "id": "rss-ai_theory-b47527bb2fcd7d",
+    "title": "路線に沿って駅名を入力してタイピング力を鍛える無料ゲーム「電車でタイピング」レビュー、乗り換え手順を考える楽しさもアリ",
+    "summary": "「電車でタイピング」は日本全国の駅名を入力しながら路線に沿って旅できる無料タイピングゲームです。記事作成時点で全国602路線・87983駅に対応しており、アカウント作成不要で即座にプレイ可能とのこと。面白そうなので遊んでみました。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T10:00:00.000Z",
+    "category": "ai_theory",
     "keywords": [
-      "Lorde",
-      "glasses",
-      "sexy"
+      "路線に沿って駅名を入力し",
+      "を入力してタイピング力を",
+      "ング力を鍛える無料ゲーム",
+      "料ゲーム「電車でタイピン",
+      "タイピング」レビュー、乗"
     ],
-    "bannerClass": "from-slate-800 to-slate-600",
+    "bannerClass": "from-fuchsia-950 to-violet-900",
     "isNew": true,
-    "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-    "summaryJa": "「私たちの世界では、何が真実なのかを知ることがますます難しくなっている」とロードはステージ上で語った。"
+    "url": "https://gigazine.net/news/20260715-train-typing-training/"
   },
   {
-    "id": "rss-economy-7a1ab2bf1d2e44",
-    "title": "I changed jobs 10 times in 10 years to get the career I wanted",
-    "summary": "The lily-padding trend sees young people repeatedly move jobs to try to advance in the workplace.",
-    "sourceName": "BBC Business",
-    "sourceIcon": "¥",
-    "publishedAt": "2026-07-14T23:04:15.000Z",
+    "id": "rss-economy-6a89c9a57f3280",
+    "title": "【今さら聞けない骨太の方針】“高市カラー”で初の大方針／金利上昇で市場が警戒？／責任ある積極財政の中身／半導体・AIなど17分野の投資効果／悪い円安、インフレへの備え | ビジネス | 東洋経済オンライン",
+    "summary": "高市政権発足後、初となる経済財政運営と改革の基本方針、通称「骨太の方針」が７月に閣議決定される見通しだ。国の借金が約1100兆円にものぼる中、政権が掲げるのは「責任ある積極財政」。今後の成長に向けて…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T10:00:00.000Z",
     "category": "economy",
     "keywords": [
-      "changed",
-      "jobs",
-      "times",
-      "career",
-      "wanted"
+      "／責任ある積極財政の中身／半導体",
+      "AIなど17分野の投資効果／悪い円安",
+      "インフレへの備え",
+      "ビジネス",
+      "東洋経済オンライン"
     ],
-    "bannerClass": "from-stone-800 to-neutral-700",
+    "bannerClass": "from-green-950 to-emerald-900",
     "isNew": true,
-    "url": "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo?at_medium=RSS&at_campaign=rss",
-    "summaryJa": "ユリパディングの傾向では、若者が職場での昇進を目指して転職を繰り返しています。"
+    "url": "https://toyokeizai.net/articles/-/951678?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-5dc127fdfe454f",
+    "title": "4人刺傷 胸刺された男性語る惨劇",
+    "summary": "4人刺傷 胸刺された男性語る惨劇",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T09:31:06.000Z",
+    "category": "economy",
+    "keywords": [
+      "4人刺傷",
+      "胸刺された男性語る惨劇"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6588063?source=rss"
   },
   {
     "id": "rss-economy-e11abe6caa22a0",
-    "title": "Buy Now Pay Later rules to bring refunds and rejections",
+    "title": "How will Buy Now Pay Later changes affect you?",
     "summary": "Consumers should be better protected as Buy Now Pay Later lenders now require authorisation to operate.",
     "sourceName": "BBC Business",
     "sourceIcon": "¥",
-    "publishedAt": "2026-07-14T23:01:57.000Z",
+    "publishedAt": "2026-07-15T08:43:15.000Z",
     "category": "economy",
     "keywords": [
       "Buy",
       "Pay",
       "Later",
-      "rules",
-      "bring"
+      "changes",
+      "affect"
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
@@ -736,9 +1039,363 @@
     "summaryJa": "「今すぐ購入して後で支払う」金融機関が運営するには認可が必要になったため、消費者はさらに保護されるべきです。"
   },
   {
+    "id": "rss-economy-a4579cb0802969",
+    "title": "皇室典範改正案 参議院で審議入り 委員会採決はあすに見送り",
+    "summary": "皇族数の確保に向けた皇室典範改正案が、15日、参議院で審議入りしました。改正案をめぐり、参議院自民党と立憲民主党の国会対策委員長が会談し、野党側が十分な審議を求めていることも踏まえ特別委員会での採決は…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T08:32:52.000Z",
+    "category": "economy",
+    "keywords": [
+      "皇室典範改正案",
+      "参議院で審議入り",
+      "委員会採決はあすに見送り"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015176941000"
+  },
+  {
+    "id": "rss-insurance-43a094338de8c0",
+    "title": "ILS provides crucial portfolio diversification ahead of Super El Niño: VP Bank’s Allgäuer",
+    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Whilst it appears that a super El Niño could be on the horizon, a new commentary from VP Bank AG authored by Senior Investment Strategist Bernhard Allgäuer indicates that insurance-linked securities (ILS) can provide portfolio diversification as their returns are driven by natural disasters, rather than financial market turmoil, making them largely uncorrelated with traditional […] ILS provides crucial portfolio diversification ahead of Super El Niño: VP Bank’s Allgäuer was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
+    "sourceName": "Artemis",
+    "sourceIcon": "🎯",
+    "publishedAt": "2026-07-15T08:00:27.000Z",
+    "category": "insurance",
+    "keywords": [
+      "ILS",
+      "provides",
+      "crucial",
+      "portfolio",
+      "diversification"
+    ],
+    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.artemis.bm/news/ils-provides-crucial-portfolio-diversification-ahead-of-super-el-nino-vp-banks-allgauer/?utm_source=rss&utm_medium=rss&utm_campaign=ils-provides-crucial-portfolio-diversification-ahead-of-super-el-nino-vp-banks-allgauer",
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示することはできません。そうでない場合は、侵害が発生します。スーパーエルニーニョが間近に迫っているように見える一方で、シニア投資ストラテジストのベルンハルト・アルゴイアー氏が執筆したVP Bank AGの新しい解説は、保険リンク証券（ILS）のリターンが金融市場の混乱ではなく自然災害によってもたらされるため、ポートフォリオの多様化を提供できることを示しており、従来の[…] ILSはスーパーエルニーニョに先立って重要なポートフォリオの多様化を提供する：VP Bankのアルゴイアー氏が発表by: www.Artemis.bm カタストロフィ ボンド d"
+  },
+  {
+    "id": "rss-insurance-d762abbf6230ab",
+    "title": "Gallagher Re estimates global insured cat losses at $46bn for H1’26, 28% below 10-year average",
+    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Insured losses from natural catastrophe events across the globe in the first half of 2026 are estimated to have reached USD $46 billion, down on last year’s $84 billion and 28% below the 10-year average of $64 billion, according to reinsurance broker Gallagher Re’s H1 2026 Natural Catastrophe and Climate Report. At $46 billion, H1’26 […] Gallagher Re estimates global insured cat losses at $46bn for H1’26, 28% below 10-year average was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
+    "sourceName": "Artemis",
+    "sourceIcon": "🎯",
+    "publishedAt": "2026-07-15T07:00:00.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Gallagher",
+      "estimates",
+      "global",
+      "insured",
+      "cat"
+    ],
+    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.artemis.bm/news/gallagher-re-estimates-global-insured-cat-losses-at-46bn-for-h126-28-below-10-year-average/?utm_source=rss&utm_medium=rss&utm_campaign=gallagher-re-estimates-global-insured-cat-losses-at-46bn-for-h126-28-below-10-year-average",
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示することはできません。そうでない場合は、侵害が発生します。再保険仲介業者ギャラガー・リーの2026年上半期自然災害と気候レポートによると、2026年上半期の世界中の自然災害による保険損失は460億ドルに達すると推定されており、昨年の840億ドルから減少し、10年平均の640億ドルを28％下回っている。 2026 年上半期は 460 億ドル […] ギャラガー再保険は、2026 年上半期の世界の猫保険の損失額を 460 億ドルと見積もっており、過去 10 年間の平均を 28% 下回っています。"
+  },
+  {
+    "id": "rss-economy-b16a151611daf9",
+    "title": "高市首相の悲願｢消費減税｣に垣間見える国民の本音…公約死守か､国債金利･超円安への配慮か | 政治・経済・投資 | 東洋経済オンライン",
+    "summary": "高市首相が掲げた食料品の消費減税が､1％税率と給付による｢実質ゼロ｣で現実味を帯びつつあります。しかし､5兆円超の財政支出や供給制約による減税効果の限定､財政悪化への不安､そして本音と建前が交錯する…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T07:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "高市首相の悲願｢消費減税｣に垣間見える国民の本音",
+      "公約死守か､国債金利･超円安への配慮か",
+      "政治",
+      "経済",
+      "投資"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/950904?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-3128527d5553a7",
+    "title": "世界スマホ3位シャオミ､スマホ･家電･EVをつなぐ巨大エコシステムは車をどう変えるか | ビジネス | 東洋経済オンライン",
+    "summary": "中国発のスマートフォンメーカー､シャオミとファーウェイが､独自OSとエコシステムを武器にEV市場へ本格参入。家電やIoTから車までをシームレスにつなぐ新たな競争軸が自動車業界を揺るがしている。",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T06:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "ビジネス",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/951397?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-6a075e101b58f6",
+    "title": "生成AIは人々を豊かにしているのか？ 世界の研究者が警鐘を鳴らす｢思考力低下｣の実態 | ビジネス | 東洋経済オンライン",
+    "summary": "ChatGPTなどの生成AIチャットボットの普及は､調べ物や課題の作成を驚くほど手軽にし､便利さゆえに私たちの思考力や学習意欲に影響を及ぼし始めている。AIへの依存が進む中､｢自分で考える｣必要性は…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T05:30:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "生成AIは人々を豊かにしているのか",
+      "世界の研究者が警鐘を鳴らす｢思考力低下｣の実態",
+      "ビジネス",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/951360?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-b70abd16092bfd",
+    "title": "実は｢ブレークスルー｣を模索していた一面も…作中でのび太が自らを鼓舞していた《壮大なハッタリ》のセリフ | ライフ | 東洋経済オンライン",
+    "summary": "夢を掲げ努力し続けるのび太の姿に､子どもの頃の自分を重ねる人も多いでしょう。大人になると現実に追われがちですが､夢を語ること自体が人生を豊かにします。壁にぶつかったときこそ\"自分は世界一だ\"と信じて…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T05:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "実は｢ブレークスルー｣を模索していた一面も",
+      "ライフ",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/948705?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-insurance-7d7b163293889c",
+    "title": "中国の不動産関連統計（26年6月）～販売低迷が続く。在庫の減少は緩やかに進展",
+    "summary": "・中国国家統計局が2026年7月15日に26年6月の不動産関連統計を発表した。不動産販売床面積の前年同月比（当社試算値、図表1）は、▲14.3％となった（前月は▲13.2％）。当社試算の前月比（図表2）は、▲3.8％となった（前月は▲3.2％）。・26年5月の住宅販売価格（70都市単純平均）は、前年同月比で▲3.5％となった（前月は▲3.6％）（図表3）。1・2線都市で下落幅が縮小した。前月比では、▲0.15％となった（前月は▲0.2％）（図表4）。1線都市で上昇幅が縮小した一方、2・3線都市では下落幅が縮小した。・不動産開発投資の前年同月比（当社試算値、図表5）は、▲24.4％となった（前月は▲24.4％）。当社試算の前月比（図表6）は、▲10.7％となった（前月は▲7.6％）。・不動産開発景気指数1（図表7）は、25年12月まで発表されていたが、26年に入り、データの発表は停止となった。 1 不動産開発投資を基準指標とし、不動産投資・資金・面積・販売関連の指標を選び、季節要因を取り除いて算出した指標。通常、100が最適、95～105が適度、95以下が不景気、105以上が過熱気味。 ・不動産開発投資資金の前年同月比（当社試算値、図表8）は、▲25.1％となった（前月は▲21.5％）（図表8）。 ・不動産完成在庫床面積は7.6億m2で、前年同月比のマイナス幅は前月から拡大した（図表9）。住宅着工床面積（3カ月後方移動平均、以下同）の前年同月比はマイナス幅が拡大、住宅竣工床面積の前年同月比はマイナス幅も拡大した。 【関連レポート】 中国の貿易統計（26年6月）～輸出、輸入ともに加速。半導体関連がけん引、中東情勢の影響は続く 中国の物価関連統計（26年6月）～原油価格上昇の影響は一服し、CPIは低下 最近の中国経済の注目点（4）－厳しい地",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T04:12:52.000Z",
+    "category": "insurance",
+    "keywords": [
+      "中国の不動産関連統計（2",
+      "統計（26年6月）～販売",
+      "）～販売低迷が続く。在庫",
+      "く。在庫の減少は緩やかに",
+      "緩やかに進展"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86257?site=nli"
+  },
+  {
+    "id": "rss-insurance-7d7b163293889c",
+    "title": "中国の不動産関連統計（26年6月）～販売低迷が続く。在庫の減少は緩やかに進展",
+    "summary": "・中国国家統計局が2026年7月15日に26年6月の不動産関連統計を発表した。不動産販売床面積の前年同月比（当社試算値、図表1）は、▲14.3％となった（前月は▲13.2％）。当社試算の前月比（図表2）は、▲3.8％となった（前月は▲3.2％）。・26年5月の住宅販売価格（70都市単純平均）は、前年同月比で▲3.5％となった（前月は▲3.6％）（図表3）。1・2線都市で下落幅が縮小した。前月比では、▲0.15％となった（前月は▲0.2％）（図表4）。1線都市で上昇幅が縮小した一方、2・3線都市では下落幅が縮小した。・不動産開発投資の前年同月比（当社試算値、図表5）は、▲24.4％となった（前月は▲24.4％）。当社試算の前月比（図表6）は、▲10.7％となった（前月は▲7.6％）。・不動産開発景気指数1（図表7）は、25年12月まで発表されていたが、26年に入り、データの発表は停止となった。 1 不動産開発投資を基準指標とし、不動産投資・資金・面積・販売関連の指標を選び、季節要因を取り除いて算出した指標。通常、100が最適、95～105が適度、95以下が不景気、105以上が過熱気味。 ・不動産開発投資資金の前年同月比（当社試算値、図表8）は、▲25.1％となった（前月は▲21.5％）（図表8）。 ・不動産完成在庫床面積は7.6億m2で、前年同月比のマイナス幅は前月から拡大した（図表9）。住宅着工床面積（3カ月後方移動平均、以下同）の前年同月比はマイナス幅が拡大、住宅竣工床面積の前年同月比はマイナス幅も拡大した。 【関連レポート】 中国の貿易統計（26年6月）～輸出、輸入ともに加速。半導体関連がけん引、中東情勢の影響は続く 中国の物価関連統計（26年6月）～原油価格上昇の影響は一服し、CPIは低下 最近の中国経済の注目点（4）－厳しい地",
+    "sourceName": "ニッセイ基礎研（年金）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T04:12:52.000Z",
+    "category": "insurance",
+    "keywords": [
+      "中国の不動産関連統計（2",
+      "統計（26年6月）～販売",
+      "）～販売低迷が続く。在庫",
+      "く。在庫の減少は緩やかに",
+      "緩やかに進展"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86257?site=nli"
+  },
+  {
+    "id": "rss-insurance-7d7b163293889c",
+    "title": "中国の不動産関連統計（26年6月）～販売低迷が続く。在庫の減少は緩やかに進展",
+    "summary": "・中国国家統計局が2026年7月15日に26年6月の不動産関連統計を発表した。不動産販売床面積の前年同月比（当社試算値、図表1）は、▲14.3％となった（前月は▲13.2％）。当社試算の前月比（図表2）は、▲3.8％となった（前月は▲3.2％）。・26年5月の住宅販売価格（70都市単純平均）は、前年同月比で▲3.5％となった（前月は▲3.6％）（図表3）。1・2線都市で下落幅が縮小した。前月比では、▲0.15％となった（前月は▲0.2％）（図表4）。1線都市で上昇幅が縮小した一方、2・3線都市では下落幅が縮小した。・不動産開発投資の前年同月比（当社試算値、図表5）は、▲24.4％となった（前月は▲24.4％）。当社試算の前月比（図表6）は、▲10.7％となった（前月は▲7.6％）。・不動産開発景気指数1（図表7）は、25年12月まで発表されていたが、26年に入り、データの発表は停止となった。 1 不動産開発投資を基準指標とし、不動産投資・資金・面積・販売関連の指標を選び、季節要因を取り除いて算出した指標。通常、100が最適、95～105が適度、95以下が不景気、105以上が過熱気味。 ・不動産開発投資資金の前年同月比（当社試算値、図表8）は、▲25.1％となった（前月は▲21.5％）（図表8）。 ・不動産完成在庫床面積は7.6億m2で、前年同月比のマイナス幅は前月から拡大した（図表9）。住宅着工床面積（3カ月後方移動平均、以下同）の前年同月比はマイナス幅が拡大、住宅竣工床面積の前年同月比はマイナス幅も拡大した。 【関連レポート】 中国の貿易統計（26年6月）～輸出、輸入ともに加速。半導体関連がけん引、中東情勢の影響は続く 中国の物価関連統計（26年6月）～原油価格上昇の影響は一服し、CPIは低下 最近の中国経済の注目点（4）－厳しい地",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T04:12:52.000Z",
+    "category": "insurance",
+    "keywords": [
+      "中国の不動産関連統計（2",
+      "統計（26年6月）～販売",
+      "）～販売低迷が続く。在庫",
+      "く。在庫の減少は緩やかに",
+      "緩やかに進展"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86257?site=nli"
+  },
+  {
+    "id": "rss-insurance-7d7b163293889c",
+    "title": "中国の不動産関連統計（26年6月）～販売低迷が続く。在庫の減少は緩やかに進展",
+    "summary": "・中国国家統計局が2026年7月15日に26年6月の不動産関連統計を発表した。不動産販売床面積の前年同月比（当社試算値、図表1）は、▲14.3％となった（前月は▲13.2％）。当社試算の前月比（図表2）は、▲3.8％となった（前月は▲3.2％）。・26年5月の住宅販売価格（70都市単純平均）は、前年同月比で▲3.5％となった（前月は▲3.6％）（図表3）。1・2線都市で下落幅が縮小した。前月比では、▲0.15％となった（前月は▲0.2％）（図表4）。1線都市で上昇幅が縮小した一方、2・3線都市では下落幅が縮小した。・不動産開発投資の前年同月比（当社試算値、図表5）は、▲24.4％となった（前月は▲24.4％）。当社試算の前月比（図表6）は、▲10.7％となった（前月は▲7.6％）。・不動産開発景気指数1（図表7）は、25年12月まで発表されていたが、26年に入り、データの発表は停止となった。 1 不動産開発投資を基準指標とし、不動産投資・資金・面積・販売関連の指標を選び、季節要因を取り除いて算出した指標。通常、100が最適、95～105が適度、95以下が不景気、105以上が過熱気味。 ・不動産開発投資資金の前年同月比（当社試算値、図表8）は、▲25.1％となった（前月は▲21.5％）（図表8）。 ・不動産完成在庫床面積は7.6億m2で、前年同月比のマイナス幅は前月から拡大した（図表9）。住宅着工床面積（3カ月後方移動平均、以下同）の前年同月比はマイナス幅が拡大、住宅竣工床面積の前年同月比はマイナス幅も拡大した。 【関連レポート】 中国の貿易統計（26年6月）～輸出、輸入ともに加速。半導体関連がけん引、中東情勢の影響は続く 中国の物価関連統計（26年6月）～原油価格上昇の影響は一服し、CPIは低下 最近の中国経済の注目点（4）－厳しい地",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T04:12:52.000Z",
+    "category": "insurance",
+    "keywords": [
+      "中国の不動産関連統計（2",
+      "統計（26年6月）～販売",
+      "）～販売低迷が続く。在庫",
+      "く。在庫の減少は緩やかに",
+      "緩やかに進展"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86257?site=nli"
+  },
+  {
+    "id": "rss-ai_theory-483ee502bcffbd",
+    "title": "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets",
+    "summary": "arXiv:2607.11888v1 Announce Type: new Abstract: We develop a rigorous theoretical framework for optimal market making in perpetual futures markets with zero maker fees. We model the market maker's problem as a stochastic optimal control problem on a filtered probability space, where the controls are adaptive bid-ask spreads and inventory hedging decisions across two exchanges. Our contributions include: (i) a PnL decomposition theorem separating revenue into spread income, adverse selection loss, inventory carrying cost, hedging friction, and funding rate exposure; (ii) the Hamilton-Jacobi-Bellman equation for the joint spread-inventory-hedging control problem under CARA utility with a verification theorem; (iii) High-APY Regime Theorems characterizing profitable region",
+    "sourceName": "arXiv cs.AI",
+    "sourceIcon": "◆",
+    "publishedAt": "2026-07-15T04:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "Optimal",
+      "Adaptive",
+      "Market",
+      "Making",
+      "Theoretical"
+    ],
+    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
+    "isNew": true,
+    "url": "https://arxiv.org/abs/2607.11888",
+    "summaryJa": "arXiv:2607.11888v1 発表の種類: 新しい要約: 私たちは、メーカー手数料ゼロで永久先物市場で最適なマーケットメイクを行うための厳密な理論的フレームワークを開発します。マーケットメーカーの問題を、フィルタリングされた確率空間上の確率的最適制御問題としてモデル化します。ここでの制御は、2 つの取引所にわたる適応的な買値と売値のスプレッドと在庫ヘッジの決定です。当社の貢献には次のものが含まれます。(i) 収益をスプレッド収益、逆選択損失、在庫維持コスト、ヘッジ摩擦、および資金調達率エクスポージャーに分離する損益分解定理。 (ii) 共同スプレッド・インベンのハミルトン・ヤコビ・ベルマン方程式"
+  },
+  {
+    "id": "rss-ai_theory-5a7f37d3a72d44",
+    "title": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
+    "summary": "arXiv:2607.11906v1 Announce Type: new Abstract: The development of decision-pretrained transformers, algorithm distillation, long-context meta-RL, and retrieval-augmented agents has renewed interest in in-context reinforcement learning (ICRL): the ability of a pretrained or fine-tuned decision model to infer latent task rules and improve future behavior from interaction context, without test-time parameter updates. This line of work asks when trial-and-error evidence, rewards, transitions, demonstrations, feedback, or retrieved experience can make learning-like computation happen inside the context window. However, existing surveys of ICRL mainly organize the field around pretraining objectives, architectures, context formats, evaluation protocols, and theoretical mecha",
+    "sourceName": "arXiv cs.AI",
+    "sourceIcon": "◆",
+    "publishedAt": "2026-07-15T04:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "In-Context",
+      "Reinforcement",
+      "Learning",
+      "Non-Stationarity",
+      "Survey"
+    ],
+    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
+    "isNew": true,
+    "url": "https://arxiv.org/abs/2607.11906",
+    "summaryJa": "arXiv:2607.11906v1 発表タイプ: 新しい 要約: 意思決定事前トレーニング済みトランスフォーマー、アルゴリズム蒸留、ロングコンテキスト メタ RL、および検索拡張エージェントの開発により、インコンテキスト強化学習 (ICRL) に対する新たな関心が高まっています。これは、テスト時のパラメーターを更新せずに、インタラクション コンテキストから潜在的なタスク ルールを推論し、インタラクション コンテキストから将来の動作を改善する、事前トレーニングまたは微調整された意思決定モデルの機能です。この一連の作業では、試行錯誤の証拠、報酬、遷移、デモンストレーション、フィードバック、または取得されたエクスペリエンスによって、コンテキスト ウィンドウ内で学習のような計算がいつ行われるかを問います。ただし、既存の調査では、"
+  },
+  {
+    "id": "rss-ai_theory-901ea799aeb989",
+    "title": "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study",
+    "summary": "arXiv:2607.11948v1 Announce Type: new Abstract: Regulated financial institutions operating under data-residency rules need tenant-owned language models that can run inside the institution's perimeter. This paper combines two related FAOS studies into one mechanism-and-control article. First, it reports a reduced-power proof-of-mechanism study of ontology-amplified distillation: a Qwen3.6-27B student is adapted to the Foundation AgenticOS ontology through supervised fine-tuning on frontier-teacher trajectories and ontology-grounded direct preference optimization (DPO), trained locally on a single Apple M5 Max from 47 synthetic, English-language, cross-domain preference pairs. On 40 held-out Vietnamese financial-domain tasks, the distilled student grounds 36 of 40 tasks (",
+    "sourceName": "arXiv cs.AI",
+    "sourceIcon": "◆",
+    "publishedAt": "2026-07-15T04:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "Ontology-Amplified",
+      "Distillation",
+      "Contextuality",
+      "Auditing",
+      "Sovereign"
+    ],
+    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
+    "isNew": true,
+    "url": "https://arxiv.org/abs/2607.11948",
+    "summaryJa": "arXiv:2607.11948v1 発表の種類: 新しい要約: データ常駐ルールに基づいて運営されている規制された金融機関は、機関の境界内で実行できるテナント所有の言語モデルを必要としています。この論文は、2 つの関連する FAOS 研究を 1 つのメカニズムと制御の記事にまとめたものです。まず、オントロジー増幅蒸留の低電力機構実証研究を報告します。Qwen3.6-27B の学生は、フロンティア教師軌道の教師付き微調整とオントロジーに基づいた直接優先最適化 (DPO) を通じて財団 AgenticOS オントロジーに適応し、47 合成の単一の Apple M5 Max でローカルにトレーニングされます。"
+  },
+  {
+    "id": "rss-ai_theory-a6f0cdba2f2e30",
+    "title": "GRID: Grammar-Railed Decoding for Enterprise SQL Generation",
+    "summary": "arXiv:2607.11951v1 Announce Type: new Abstract: Large language models can write SQL, but enterprise deployment demands more than plausible text: outputs must be syntactically valid, must respect per-role and per-schema policy, must carry provable (not best-effort) guarantees, must not slow down as generations grow, and must leave a compliance-grade record of every decision. We present GRID (Grammar-Railed Decoding), a grammar-constrained decoding engine that keys exact next-token masks on parser configurations (lexer scan state x LALR(1) stack) rather than on token sequences, and uses the incrementally advanced LALR(1) parser itself as a viable-prefix oracle. LLM tokens are bridged to grammar terminals by a byte-level trie walk with a context-independent/context-depende",
+    "sourceName": "arXiv cs.AI",
+    "sourceIcon": "◆",
+    "publishedAt": "2026-07-15T04:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "GRID",
+      "Grammar-Railed",
+      "Decoding",
+      "Enterprise",
+      "SQL"
+    ],
+    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
+    "isNew": true,
+    "url": "https://arxiv.org/abs/2607.11951",
+    "summaryJa": "arXiv:2607.11951v1 発表タイプ: 新しい 要約: 大規模な言語モデルでは SQL を記述できますが、エンタープライズ展開ではもっともらしいテキスト以上のものが必要です。出力は構文的に有効である必要があり、ロールごとおよびスキーマごとのポリシーを尊重し、証明可能な (ベストエフォートではない) 保証を保持する必要があり、世代が増えるにつれて速度が低下してはならず、すべての決定についてコンプライアンス グレードの記録を残さなければなりません。 GRID (Grammar-Railed Decoding) は、トークン シーケンスではなくパーサー構成 (レクサー スキャン状態 x LALR(1) スタック) で正確なネクスト トークン マスクをキー設定し、段階的に高度な LALR(1) パーサー自体を使用する、文法に制約されたデコード エンジンです。"
+  },
+  {
+    "id": "rss-ai_theory-1eee4f452d1126",
+    "title": "Calibration-First Reward-Component Auditing for Reinforcement Learning Control in Smart Greenhouses",
+    "summary": "arXiv:2607.11959v1 Announce Type: new Abstract: Greenhouse reinforcement learning can test climate-control ideas at a speed and scale that is difficult to achieve with crop experiments alone. For smart-greenhouse control, however, a single simulator return is not enough: a grower or control engineer also needs to know when the policy heats, enriches CO2, vents, manages humidity, deploys screens, or uses lamps.We propose a reproducible calibration-first reward audit framework that keeps named greenhouse-control reward components comparable across simulator training, facility-adapted rollouts, logged Autonomous Greenhouse Challenge records, and actuator-rule distillation. In GreenLight-Gym, the framework decomposes the scalar reward into conditional temperature, CO2, humi",
+    "sourceName": "arXiv cs.AI",
+    "sourceIcon": "◆",
+    "publishedAt": "2026-07-15T04:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "Calibration-First",
+      "Reward-Component",
+      "Auditing",
+      "Reinforcement",
+      "Learning"
+    ],
+    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
+    "isNew": true,
+    "url": "https://arxiv.org/abs/2607.11959",
+    "summaryJa": "arXiv:2607.11959v1 発表の種類: 新しい要約: 温室強化学習は、作物の実験だけでは達成するのが難しい速度と規模で気候制御のアイデアをテストできます。しかし、スマート温室制御の場合、単一のシミュレーターのリターンだけでは十分ではありません。栽培者や制御エンジニアは、ポリシーが加熱、CO2 濃縮、通気、湿度の管理、スクリーンの展開、またはランプの使用をいつ行うかを知る必要もあります。私たちは、シミュレーター トレーニング、施設に適応したロールアウト、記録された自律型温室チャレンジ レポート全体にわたって、名前付きの温室制御報酬コンポーネントを比較可能な状態に保つ、再現可能な校正優先報酬監査フレームワークを提案します。"
+  },
+  {
+    "id": "rss-ai-6189dc9cd2261e",
+    "title": "「早くリリースして」の代償 AI時代に広がる“危険な本番投入”の実態",
+    "summary": "Tricentisは、ITリーダー2501人以上を対象としたソフトウェア品質に関する調査結果を発表した。AI活用で開発速度が向上する一方、グローバル企業の60％が未テストコードを本番環境へ投入している実態が明らかになった。",
+    "sourceName": "ITmedia AI",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T04:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "「早くリリースして」の代償",
+      "AI時代に広がる“危険な本番投入”の実態"
+    ],
+    "bannerClass": "from-sky-900 to-slate-800",
+    "isNew": true,
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/15/news049.html"
+  },
+  {
+    "id": "rss-ai-0274b4909ae85e",
+    "title": "日立がメインフレームOS終了 次の注力「AIエージェントによる基幹システム刷新」の実態は？",
+    "summary": "日立製作所は、メインフレーム向けOS「VOS3」の販売および保守終了を発表した。AIエージェントを活用した基幹システムのモダナイゼーション事業に軸足を移すという。具体的な取り組みをまとめた。",
+    "sourceName": "ITmedia AI",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T04:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "日立がメインフレームOS",
+      "ームOS終了次の注力「A",
+      "注力「AIエージェントに",
+      "ェントによる基幹システム",
+      "システム刷新」の実態は？"
+    ],
+    "bannerClass": "from-sky-900 to-slate-800",
+    "isNew": true,
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/15/news051.html"
+  },
+  {
+    "id": "rss-ai-fff6d4520cce0d",
+    "title": "ITコンサルに「想像より上」は望めない？ 何を委託しようと素直には喜べない訳",
+    "summary": "ガートナージャパンによれば、ITにまつわる重要な意思決定において約4分の3の企業がコンサルティングサービスを利用しているが、その満足度に関しては手放しでは喜べない状況だ。",
+    "sourceName": "ITmedia AI",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-15T01:30:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "ITコンサルに「想像より上」は望めない",
+      "何を委託しようと素直には喜べない訳"
+    ],
+    "bannerClass": "from-sky-900 to-slate-800",
+    "isNew": true,
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/15/news050.html"
+  },
+  {
     "id": "rss-economy-3f74bbd6564f53",
     "title": "Heating oil customers to get compensation after price hikes",
-    "summary": "The cost of hearing oil spike following the US-Israel war with Iran which forced up crude prices.",
+    "summary": "The cost of heating oil spiked following the US-Israel war with Iran which forced up crude prices.",
     "sourceName": "BBC Business",
     "sourceIcon": "¥",
     "publishedAt": "2026-07-14T23:00:41.000Z",
@@ -753,66 +1410,7 @@
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
     "url": "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss",
-    "summaryJa": "米国・イスラエルとイランの戦争後の原油価格高騰を補うための費用が、原油価格を押し上げた。"
-  },
-  {
-    "id": "rss-ai_theory-3e0f2d8cbd9552",
-    "title": "古代ローマ時代に遊ばれていた可能性があるボードゲーム「Ludus Coriovalli」を実際に遊んでみた",
-    "summary": "古代ローマで遊ばれていた可能性があるものの、ルールが現代に伝わっていないボードゲームを、AIによる分析を基に再構成したのが「Ludus Coriovalli」です。ブラウザから無料でプレイできるようになっていたので、実際に遊んでみました。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-14T23:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "古代ローマ時代に遊ばれて",
-      "遊ばれていた可能性がある",
-      "性があるボードゲーム「L",
-      "ーム「LudusCori",
-      "Coriovalli」を"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260715-ludus-coriovalli/"
-  },
-  {
-    "id": "rss-ai-35994e21c94b28",
-    "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-    "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-07-14T22:22:24.000Z",
-    "category": "ai",
-    "keywords": [
-      "OpenAI",
-      "hardware",
-      "device",
-      "reportedly",
-      "screenless"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-    "summaryJa": "奇妙なことに、このデバイスは「自ら動くことができる機械要素」を含んでいると説明されており、ブルームバーグのレポートには、このデバイスが「コンパニオンのように感じられ、OpenAI の ChatGPT の物理的な表現になる」ように設計されているという詳細が含まれています。"
-  },
-  {
-    "id": "rss-ai-954e9233d858dd",
-    "title": "OpenAI pushes back on Apple trade secret lawsuit",
-    "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-07-14T22:07:42.000Z",
-    "category": "ai",
-    "keywords": [
-      "OpenAI",
-      "pushes",
-      "Apple",
-      "trade",
-      "secret"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-    "summaryJa": "OpenAIはこの訴訟に関して別の声明を発表し、今回は訴訟にメリットがないことを示唆した。"
+    "summaryJa": "米国・イスラエルとイランの戦争後、灯油のコストが高騰し、原油価格が高騰した。"
   },
   {
     "id": "rss-ai-98c57a152da3bb",
@@ -851,386 +1449,6 @@
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/15/news037.html"
   },
   {
-    "id": "rss-ai-f6c75e33dd02e9",
-    "title": "「AIも1人作業でサボり出す」 Claude Code、3つの失敗モード",
-    "summary": "Anthropicは、「Claude Code」の「動的ワークフロー」機能の仕組みと実践的な活用パターンを解説したブログ記事を公開した。",
-    "sourceName": "ITmedia AI",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-14T22:00:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "「AIも1人作業でサボり出す」",
-      "Claude",
-      "Code",
-      "3つの失敗モード"
-    ],
-    "bannerClass": "from-sky-900 to-slate-800",
-    "isNew": true,
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/15/news052.html"
-  },
-  {
-    "id": "rss-ai_theory-1db4befa344c5a",
-    "title": "Samsung Healthアプリが「AIの学習に健康データを使用するか健康データを削除するか」を迫る",
-    "summary": "Samsungの健康管理アプリ「Samsung Health」に、「AIトレーニングとモデリングのための健康データの使用への同意」という項目が追加されていることが分かりました。これに同意しないと健康データを永久に失う可能性があるという警告が表示されるそうです。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-14T22:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "SamsungHealt",
-      "ealthアプリが「AI",
-      "が「AIの学習に健康デー",
-      "健康データを使用するか健",
-      "するか健康データを削除す"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260715-samsung-health-ai-training/"
-  },
-  {
-    "id": "rss-ai-9f76f31d2847cf",
-    "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-    "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-07-14T21:50:11.000Z",
-    "category": "ai",
-    "keywords": [
-      "OpenAI",
-      "flagship",
-      "model",
-      "deletes",
-      "files"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-    "summaryJa": "多くのソーシャル メディア投稿では、GPT-5.6 Sol が警告なしにファイルとデータを削除したと主張しています。 OpenAIは基本的に6月にこの問題を明らかにしていた。"
-  },
-  {
-    "id": "rss-economy-6f94f0ef95b09d",
-    "title": "米がホルムズ海峡を再び封鎖 トランプ大統領 対価要求は撤回",
-    "summary": "中東地域を管轄するアメリカ中央軍は14日、ホルムズ海峡をめぐり、イランの港などを出入りする船舶を対象にした海上封鎖を日本時間の15日午前5時から再開したと発表し、双方による攻撃の応酬も続く中、戦闘の終…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-14T21:12:42.000Z",
-    "category": "economy",
-    "keywords": [
-      "米がホルムズ海峡を再び封鎖",
-      "トランプ大統領",
-      "対価要求は撤回"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015177001000"
-  },
-  {
-    "id": "rss-market-5b0e961db8e711",
-    "title": "Here’s the inflation breakdown for June 2026 — in one chart",
-    "summary": "The consumer price index rose 3.5% in June from a year earlier, a deceleration after several months of upward moves.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-07-14T21:02:45.000Z",
-    "category": "market",
-    "keywords": [
-      "inflation",
-      "breakdown",
-      "June",
-      "2026",
-      "chart"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/07/14/inflation-cpi-june-2026-in-one-chart.html"
-  },
-  {
-    "id": "rss-market-946c2ef8a8137c",
-    "title": "IBM stock craters 25%, the worst day on record, after company issues second-quarter earnings warning",
-    "summary": "The CEO blamed the shortfall on weakness in the software and infrastructure business because clients shifted money toward hardware purchases.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-07-14T21:01:06.000Z",
-    "category": "market",
-    "keywords": [
-      "IBM",
-      "stock",
-      "craters",
-      "worst",
-      "record"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html"
-  },
-  {
-    "id": "rss-ai_theory-2bb03001ef63fe",
-    "title": "ロシア政府の支援を受けたハッカーが設定不備のあるルーターを狙っていると13カ国19機関が警告",
-    "summary": "ロシア連邦保安庁(FSB)第16センターに関連する攻撃者が、世界各地でルーターに不正アクセスして通信やエネルギーなどの重要インフラを狙い続けているとして、アメリカ国家安全保障局(NSA)、サイバーセキュリティ・社会基盤安全保障庁(CISA)、連邦捜査局(FBI)など13カ国の19機関が共同勧告を発表しました。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-14T21:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "ロシア政府の支援を受けた",
-      "を受けたハッカーが設定不",
-      "が設定不備のあるルーター",
-      "ルーターを狙っていると1",
-      "いると13カ国19機関が"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260715-russian-state-hackers-target-routers/"
-  },
-  {
-    "id": "rss-ai-6636d80d9b5f07",
-    "title": "「生成AIは“答え”を出すために使うな」 IT運用で成果を出す「発散」の生かし方",
-    "summary": "生成AIはIT運用の切り札として期待を集める一方、使い方を誤れば“劇薬”にもなる。成果を引き出すために、IT運用担当者は生成AIをどう生かすべきか。専門家が実践的な活用法を解説する。",
-    "sourceName": "ITmedia AI",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-14T20:00:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "「生成AIは“答え”を出すために使うな」",
-      "IT運用で成果を出す「発散」の生かし方"
-    ],
-    "bannerClass": "from-sky-900 to-slate-800",
-    "isNew": true,
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/15/news004.html"
-  },
-  {
-    "id": "rss-ai-c15a951b4ab44b",
-    "title": "コードなしでもベイズ統計ができる無料の神ツール「JASP」 ～ マウス操作だけでここまでできる",
-    "summary": "プログラミングなしでベイズ統計はできる? 無料ツール「JASP」を使えば、マウス操作だけでベイズ推定やベイズ検定が行えます。これまでPythonで書いてきた二項検定やt検定を、JASPで手軽に試す方法を紹介。『社会人1年生から学ぶ、やさしいデータ分析』ベイズ統計編、番外編（第5回）です。",
-    "sourceName": "ITmedia AI",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-14T20:00:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "コードなしでもベイズ統計",
-      "イズ統計ができる無料の神",
-      "無料の神ツール「JASP",
-      "JASP」～マウス操作だ",
-      "ス操作だけでここまででき"
-    ],
-    "bannerClass": "from-sky-900 to-slate-800",
-    "isNew": true,
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/15/news002.html"
-  },
-  {
-    "id": "rss-market-33d28c44378276",
-    "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
-    "summary": "Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-07-14T19:50:48.000Z",
-    "category": "market",
-    "keywords": [
-      "boom",
-      "found",
-      "winners",
-      "Goldman",
-      "Sachs"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html"
-  },
-  {
-    "id": "rss-economy-2b7a06ffe1ebe6",
-    "title": "Billionaire Warren Buffett stops donations to Bill Gates charity",
-    "summary": "The investor's decision comes weeks after Gates' appearance before US Congress over his links to Jeffrey Epstein.",
-    "sourceName": "BBC Business",
-    "sourceIcon": "¥",
-    "publishedAt": "2026-07-14T18:05:11.000Z",
-    "category": "economy",
-    "keywords": [
-      "Billionaire",
-      "Warren",
-      "Buffett",
-      "stops",
-      "donations"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://www.bbc.co.uk/news/articles/c8x2x549vgdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "rss-economy-b7a61826d06981",
-    "title": "山口北部や島根西部の一部にレベル4高潮危険警報 厳重警戒を",
-    "summary": "朝鮮半島付近を進む台風9号の影響で、山口県北部や島根県西部の一部では15日の昼過ぎにかけて潮位が高くなる見通しで、気象台などはレベル4高潮危険警報を発表し、海岸や川の河口付近の浸水などに厳重に警戒する…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-14T17:19:32.000Z",
-    "category": "economy",
-    "keywords": [
-      "山口北部や島根西部の一部にレベル4高潮危険警報",
-      "厳重警戒を"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015177161000"
-  },
-  {
-    "id": "rss-insurance-e83dbbb1c0a3ee",
-    "title": "Indiana Woman Pleads Guilty to Defrauding Elderly Victim of More Than $500K",
-    "summary": "An Indiana woman has pleaded guilty to wire fraud for her role in a six‑year scheme that targeted and financially devastated an elderly victim Shayna Williams, 51, of Westfield, was involved in a car accident with an elderly woman. Following …",
-    "sourceName": "Insurance Journal",
-    "sourceIcon": "🛡️",
-    "publishedAt": "2026-07-14T16:54:35.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Indiana",
-      "Woman",
-      "Pleads",
-      "Guilty",
-      "Defrauding"
-    ],
-    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
-    "isNew": true,
-    "url": "https://www.insurancejournal.com/news/midwest/2026/07/14/877568.htm",
-    "summaryJa": "インディアナ州の女性が、高齢女性との交通事故に遭ったウェストフィールド在住のシェイナ・ウィリアムズさん（51）が高齢の被害者をターゲットにし、経済的に打撃を与えた6年間の計画に関与したとして、電信詐欺の罪を認めた。続く …"
-  },
-  {
-    "id": "rss-insurance-0aace7e03e7bec",
-    "title": "AM Best Assigns Credit Ratings to Arkansas’ WoodStar Reciprocal Exchange",
-    "summary": "AM Best has assigned a Financial Strength Rating of A- (Excellent) and a Long-Term Issuer Credit Rating of “a-” (Excellent) to WoodStar Reciprocal Exchange (WoodStar), based in Little Rock, Arkansas. In addition, AM Best has assigned a Long-Term Issue Credit …",
-    "sourceName": "Insurance Journal",
-    "sourceIcon": "🛡️",
-    "publishedAt": "2026-07-14T16:44:43.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Best",
-      "Assigns",
-      "Credit",
-      "Ratings",
-      "Arkansas"
-    ],
-    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
-    "isNew": true,
-    "url": "https://www.insurancejournal.com/news/southcentral/2026/07/14/877565.htm",
-    "summaryJa": "AM Best は、アーカンソー州リトルロックに本拠を置くウッドスター相互取引所 (WoodStar) に、財務力格付け A- (優良) と長期発行体信用格付け「a-」 (優良) を割り当てました。さらに、AM Best は長期発行クレジットを割り当てています…"
-  },
-  {
-    "id": "rss-insurance-e1a6ab48568d5f",
-    "title": "Antares’ CEO Michael van der Straaten Dies at 58",
-    "summary": "Antares, the specialist global re/insurance group, announced the death of its chief executive officer Michael van der Straaten. “It is with great sadness that we announce that Michael van der Straaten, CEO of Antares, passed away unexpectedly this weekend following …",
-    "sourceName": "Insurance Journal",
-    "sourceIcon": "🛡️",
-    "publishedAt": "2026-07-14T16:25:00.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Antares",
-      "CEO",
-      "Michael",
-      "van",
-      "der"
-    ],
-    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
-    "isNew": true,
-    "url": "https://www.insurancejournal.com/news/international/2026/07/14/877518.htm",
-    "summaryJa": "世界的な再保険・再保険の専門グループであるアンタレスは、最高経営責任者マイケル・ファン・デル・ストラーテン氏の死去を発表した。 「非常に悲しいことに、アンタレスのCEO、マイケル・ファン・デル・ストラーテン氏が今週末に突然亡くなったことを発表します…"
-  },
-  {
-    "id": "rss-insurance-5187f7627679d4",
-    "title": "Michigan Sues Water Services Company for Allegedly Submitting False Safe Reports",
-    "summary": "Michigan Attorney General Dana Nessel has filed a civil lawsuit against the president of water services provider Douglas Environmental for allegedly violating the Natural Resources and Environmental Protection Act (NREPA). Nessel contends that Brian Powell submitted false reports that did …",
-    "sourceName": "Insurance Journal",
-    "sourceIcon": "🛡️",
-    "publishedAt": "2026-07-14T16:15:41.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Michigan",
-      "Sues",
-      "Water",
-      "Services",
-      "Company"
-    ],
-    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
-    "isNew": true,
-    "url": "https://www.insurancejournal.com/news/midwest/2026/07/14/877550.htm",
-    "summaryJa": "ミシガン州のダナ・ネッセル司法長官は、天然資源・環境保護法（NREPA）に違反した疑いで、水道サービス会社ダグラス・エンバイロメンタルの社長を相手に民事訴訟を起こした。ネッセル氏は、ブライアン・パウエル氏が虚偽の報告書を提出し、その内容が…と主張している。"
-  },
-  {
-    "id": "rss-insurance-1d01e45aa8930d",
-    "title": "Texas Contractor Cited After Worker Dies in Elementary School Crawl Space",
-    "summary": "The U.S. Department of Labor has cited a building contractor and a staffing company for safety violations after a worker suffered fatal injuries while operating a mini-excavator beneath an elementary school in Converse, Texas. The department’s Occupational Safety and Health …",
-    "sourceName": "Insurance Journal",
-    "sourceIcon": "🛡️",
-    "publishedAt": "2026-07-14T16:06:22.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Texas",
-      "Contractor",
-      "Cited",
-      "Worker",
-      "Dies"
-    ],
-    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
-    "isNew": true,
-    "url": "https://www.insurancejournal.com/news/southcentral/2026/07/14/877544.htm",
-    "summaryJa": "テキサス州コンバースの小学校の下でミニ掘削機を操作中に作業員が死亡事故を起こし、米国労働省は安全違反で建築請負業者と人材派遣会社を名指しした。同部門の労働安全衛生…"
-  },
-  {
-    "id": "rss-insurance-1d875b507aec97",
-    "title": "Fitch improves Canopius Re outlook to positive while affirming ‘A’ rating",
-    "summary": "Credit rating agency Fitch Ratings has upgraded the outlook for Canopius Reinsurance Limited (Canopius Re), the Bermuda-based reinsurance company within the Canopius Group, from Stable to Positive while reaffirming its Insurer Financial Strength (IFS) Rating at ‘A’ (Strong). The agency said the improved outlook reflects its expectation that the Canopius Group will continue strengthening its […] The post Fitch improves Canopius Re outlook to positive while affirming ‘A’ rating appeared first on ReinsuranceNe.ws.",
-    "sourceName": "Reinsurance News",
-    "sourceIcon": "🔁",
-    "publishedAt": "2026-07-14T16:00:04.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Fitch",
-      "improves",
-      "Canopius",
-      "outlook",
-      "positive"
-    ],
-    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
-    "isNew": true,
-    "url": "https://www.reinsurancene.ws/fitch-improves-canopius-re-outlook-to-positive-while-affirming-a-rating/",
-    "summaryJa": "信用格付け会社フィッチ・レーティングスは、カノピウス・グループ内のバミューダに本拠を置く再保険会社であるカノピウス・リインシュアランス・リミテッド（カノピウス・リ）の見通しを「安定的」から「ポジティブ」に引き上げるとともに、保険会社財務体力（IFS）格付けを「A」（強い）に再確認した。同庁は、この見通しの改善は、カノピウス・グループが今後も経営を強化し続けるとの期待を反映していると述べた。 […] フィッチのポストは、「A」格付けを確認しながらカノピウス・リーの見通しをポジティブに改善、最初に ReinsuranceNews に掲載された。"
-  },
-  {
-    "id": "rss-insurance-65a7c924f0bf4f",
-    "title": "Guy Carpenter strengthens LatAm & Caribbean team with Almaraz and Genovese appointments",
-    "summary": "Guy Carpenter, a global reinsurance broker and Marsh business, has announced the appointment of James Almaraz and Robert Genovese as Managing Director and Vice President, respectively. Based in Miami, Almaraz and Genovese bring a strong portfolio and deep expertise in health re/insurance that will enhance Guy Carpenter’s health reinsurance capabilities across Latin America and the […] The post Guy Carpenter strengthens LatAm & Caribbean team with Almaraz and Genovese appointments appeared first on ReinsuranceNe.ws.",
-    "sourceName": "Reinsurance News",
-    "sourceIcon": "🔁",
-    "publishedAt": "2026-07-14T15:30:58.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Guy",
-      "Carpenter",
-      "strengthens",
-      "LatAm",
-      "Caribbean"
-    ],
-    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
-    "isNew": true,
-    "url": "https://www.reinsurancene.ws/guy-carpenter-strengthens-latam-caribbean-team-with-almaraz-and-genovese-appointments/",
-    "summaryJa": "世界的な再保険ブローカーでマーシュ事業を手掛けるガイ・カーペンターは、ジェームズ・アルマラズ氏とロバート・ジェノベーゼ氏をそれぞれマネージング・ディレクターと副社長に任命すると発表した。マイアミに本拠を置くアルマラズとジェノベーゼは、健康再保険/保険における強力なポートフォリオと深い専門知識をもたらし、これによりラテンアメリカ全域でガイ・カーペンターの健康再保険能力が強化され、[…]ガイ・カーペンターがアルマラズとジェノベーゼの任命で中南米・カリブ海チームを強化するという記事が最初にReinsuranceNewsに登場した。"
-  },
-  {
-    "id": "rss-insurance-42bb86f6b43999",
-    "title": "Active Re closes 2025 with 88.4% CoR and total equity of $108m",
-    "summary": "Active Re, a global reinsurer headquartered in Barbados, has released its 2025 Annual Report “Positioned for What’s Ahead”, reporting a combined ratio of 88.4% for 2025, as well as a return on equity of 16.1%, a technical result of USD 26.7 million, and total equity of USD 108 million. Despite a global reinsurance market defined […] The post Active Re closes 2025 with 88.4% CoR and total equity of $108m appeared first on ReinsuranceNe.ws.",
-    "sourceName": "Reinsurance News",
-    "sourceIcon": "🔁",
-    "publishedAt": "2026-07-14T15:00:53.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Active",
-      "closes",
-      "2025",
-      "CoR",
-      "total"
-    ],
-    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
-    "isNew": true,
-    "url": "https://www.reinsurancene.ws/active-re-closes-2025-with-88-4-cor-and-total-equity-of-108m/",
-    "summaryJa": "バルバドスに本社を置く世界的な再保険会社であるActive Reは、2025年の年次報告書「今後の展望」を発表し、2025年のコンバインド・レシオは88.4%、自己資本利益率は16.1%、技術的成果は2,670万米ドル、総資本は1億800万米ドルであると報告しています。世界的な再保険市場が定義されているにもかかわらず […] ポストアクティブ Re が 88.4% の CoR と総資本 1 億 800 万ドルで 2025 年を終えた記事は、ReinsuranceNews に最初に掲載されました。"
-  },
-  {
     "id": "rss-insurance-5e101be9cbe6d3",
     "title": "保険デイリーニュース(07/06)",
     "summary": "本日の主なニュース ・「キャプテン翼」とパートナー契約 海外で認知度向上へ -- ＳＯＭＰＯ ・損保の代理店契約解除、金融庁が実態調査 片山金融相「非常に遺憾」 ・生命保険協会長・住友生命社長の高田幸徳氏に聞く、一連の不祥事に「報酬体系を変えれば収まるのか」の...",
@@ -1246,45 +1464,6 @@
     "isNew": false,
     "url": "https://blog.livedoor.jp/yanaharu_yanaharu/archives/65990709.html",
     "sortBoost": 18
-  },
-  {
-    "id": "rss-ai_theory-906b6f57f1d7c4",
-    "title": "サイバー攻撃により6週間にわたり生産停止の影響を受けた繊維企業ZEGOが破産申請",
-    "summary": "ドイツ・バイエルン州の繊維企業・ZEGO Textilveredelungszentrumが破産手続きを申請しました。同社は2026年3月にサイバー攻撃を受けたあと約6週間にわたって生産を停止せざるを得ない事態が発生し、その損失を取りもどすことができなかったとのことです。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-14T14:40:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "サイバー攻撃により6週間",
-      "り6週間にわたり生産停止",
-      "生産停止の影響を受けた繊",
-      "受けた繊維企業ZEGOが",
-      "EGOが破産申請"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260714-zego-insolvency/"
-  },
-  {
-    "id": "rss-insurance-12d75e82a8aadc",
-    "title": "MSIG Asia names Ronak Shah as Regional CEO",
-    "summary": "MSIG Asia, a general insurer operating in Southeast Asia and part of MS&AD Insurance Group Holdings (MS&AD), has appointed Ronak Shah as its Regional Chief Executive Officer (CEO), effective October 1st, 2026. Shah succeeds Clemens Philippi, who will transition as Co-Chief Strategy Officer of MS&AD in April 2026 to lead the Group’s International Business Strategy. […] The post MSIG Asia names Ronak Shah as Regional CEO appeared first on ReinsuranceNe.ws.",
-    "sourceName": "Reinsurance News",
-    "sourceIcon": "🔁",
-    "publishedAt": "2026-07-14T14:30:55.000Z",
-    "category": "insurance",
-    "keywords": [
-      "MSIG",
-      "Asia",
-      "names",
-      "Ronak",
-      "Shah"
-    ],
-    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
-    "isNew": true,
-    "url": "https://www.reinsurancene.ws/msig-asia-names-ronak-shah-as-regional-ceo/",
-    "summaryJa": "MS&ADインシュアランス グループ ホールディングス（MS&AD）の一部で東南アジアで事業を展開する損害保険会社であるMSIGアジアは、2026年10月1日付でロナク・シャー氏を地域最高経営責任者（CEO）に任命した。シャー氏は、2026年4月にMS&ADの共同最高戦略責任者に就任し、グループの国際事業戦略を指揮するクレメンス・フィリピ氏の後任となる。 […] MSIG Asia が Ronak Shah を地域 CEO に任命する記事が ReinsuranceNews に最初に掲載されました。"
   },
   {
     "id": "rss-insurance-94120f4d3e9565",
@@ -1305,65 +1484,6 @@
     "isNew": true,
     "url": "https://www.artemis.bm/news/reinsurance-sidecars-remain-key-in-2026-as-third-party-capital-deployment-holds-stable-aon-securities/?utm_source=rss&utm_medium=rss&utm_campaign=reinsurance-sidecars-remain-key-in-2026-as-third-party-capital-deployment-holds-stable-aon-securities",
     "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示することはできません。そうでない場合は、侵害が発生します。ブローカーディーラー兼投資銀行部門であるエーオン証券によると、再保険サイドカーは2026年も引き続き主要テーマであり、リスクや構造の急速に進化する状況にもかかわらず、第三者資本の展開は概ね安定しているという。エーオン証券は、ブローカーの最新の再保険市場レポートの中で、投資家の意欲の高まりが助けになっていると述べています […] 第三者資本の展開が安定しているため、2026 年も再保険サイドカーが引き続き重要です: Aon Securities の発行元: www.Arte"
-  },
-  {
-    "id": "rss-insurance-63150ca4d1cf9f",
-    "title": "DUAL Group launches global Transactional Risk offering",
-    "summary": "DUAL Group, an international specialist underwriting agency, has announced the launch of its global Transactional Risk offering, with long-term global backing led by Liberty. The unified offering combines DUAL’s expertise across Warranty & Indemnity/Reps and Warranties, Tax, Contingent Risk, Title, and Climate Risk & Resilience lines into a single, global practice. The development aligns with […] The post DUAL Group launches global Transactional Risk offering appeared first on ReinsuranceNe.ws.",
-    "sourceName": "Reinsurance News",
-    "sourceIcon": "🔁",
-    "publishedAt": "2026-07-14T14:00:47.000Z",
-    "category": "insurance",
-    "keywords": [
-      "DUAL",
-      "Group",
-      "launches",
-      "global",
-      "Transactional"
-    ],
-    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
-    "isNew": true,
-    "url": "https://www.reinsurancene.ws/dual-group-launches-global-transactional-risk-offering/",
-    "summaryJa": "国際的な専門引受機関であるDUALグループは、リバティ主導による長期的な世界的支援を受けて、グローバルなトランザクション・リスク・サービスの開始を発表した。この統合サービスでは、保証と補償/代理店と保証、税金、偶発的リスク、権原、気候リスクとレジリエンスの各分野にわたる DUAL の専門知識が、単一のグローバルな業務に組み合わされています。この開発は、[…] DUAL グループがグローバルなトランザクション リスク サービスを開始した後の記事が最初に ReinsuranceNews に掲載されました。"
-  },
-  {
-    "id": "rss-ai_theory-3e69e4ae652228",
-    "title": "廃墟化した元IBMオフィスへの不法侵入で4カ月間に48人逮捕、火事になった事例も",
-    "summary": "ニューヨーク州ウェストチェスター郡ソマーズにある元IBMのオフィス複合施設で、直近の4カ月間に48人が不法侵入のため逮捕されていることがわかりました。逮捕者のうち30人はティーンエイジャーで、事例の1つでは侵入者によって火災が起きたそうです。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-14T14:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "廃墟化した元IBMオフィ",
-      "Mオフィスへの不法侵入で",
-      "法侵入で4カ月間に48人",
-      "に48人逮捕、火事になっ",
-      "事になった事例も"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260714-ibm-somers-office-sneak/"
-  },
-  {
-    "id": "rss-insurance-a82021de45a5d1",
-    "title": "Santangelo named President, Fine Art & Collectibles at Tokio Marine Highland",
-    "summary": "Tokio Marine Highland, a property and casualty insurance underwriting company, has announced the appointment of Casey Santangelo to President of Fine Art and Collectibles, effective immediately. Santangelo brings over 18 years of fine art insurance experience to her new position. Throughout her career, the executive has built a reputation for technical underwriting expertise, market leadership, […] The post Santangelo named President, Fine Art & Collectibles at Tokio Marine Highland appeared first on ReinsuranceNe.ws.",
-    "sourceName": "Reinsurance News",
-    "sourceIcon": "🔁",
-    "publishedAt": "2026-07-14T13:30:51.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Santangelo",
-      "named",
-      "President",
-      "Fine",
-      "Art"
-    ],
-    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
-    "isNew": true,
-    "url": "https://www.reinsurancene.ws/santangelo-named-president-fine-art-collectibles-at-tokio-marine-highland/",
-    "summaryJa": "損害保険引受会社である東京海上ハイランドは、ケイシー・サンタンジェロ氏をファイン・アート・アンド・コレクティブルズ部門の社長に任命し、即時発効することを発表した。サンタンジェロは、18 年以上にわたる美術品保険の経験を新しい役職に活かしています。彼女のキャリアを通じて、この幹部は引受業務の技術的専門知識、市場のリーダーシップで評判を築いてきました。 […] サンタンジェロ氏が東京海上ハイランドのファインアート＆コレクティブル部門の社長に任命されたポストは、ReinsuranceNews に最初に掲載されました。"
   },
   {
     "id": "rss-insurance-7cc3f09fbd5406",
@@ -1406,26 +1526,6 @@
     "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示することはできません。そうでない場合は、侵害が発生します。大惨事データ収集会社PERILSは、2026年1月7日から13日までの期間に発生したビクトリア州森林火災に関する第3次産業損失推定値を発表し、被保険産業の損失は現在8億6,000万オーストラリアドルとなっている。 PERILS は、イベントの 6 週間後、2 月下旬にこのイベントによる最初の業界損失予測を発表しました […] PERILS、ビクトリア州の山火事保険市場損失予測を AU$8 億 6,000 万ドルに引き上げ 発行元: www.Artemis.bm 災害債券取引ディレクトリ 当社の無料週刊電子メール ニュースレターはこちらです。"
   },
   {
-    "id": "rss-insurance-b65d8c07f3f43a",
-    "title": "Catastrophe bond market records that were set in Q2 2026",
-    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. The catastrophe bond market reached new heights in terms of issuance and activity levels in the second-quarter of 2026, with a number of important records being set as cat bond sponsors and investors continued to show growing commitment to the space. Having published our new report that analyses second-quarter and first-half 2026 catastrophe bond issuance […] Catastrophe bond market records that were set in Q2 2026 was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
-    "sourceName": "Artemis",
-    "sourceIcon": "🎯",
-    "publishedAt": "2026-07-14T08:00:07.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Catastrophe",
-      "bond",
-      "market",
-      "records",
-      "set"
-    ],
-    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.artemis.bm/news/catastrophe-bond-market-records-that-were-set-in-q2-2026/?utm_source=rss&utm_medium=rss&utm_campaign=catastrophe-bond-market-records-that-were-set-in-q2-2026",
-    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示することはできません。そうでない場合は、侵害が発生します。大惨事債券市場は、2026 年の第 2 四半期に発行額と活動レベルの点で新たな高みに達し、キャットボンドのスポンサーと投資家が引き続きこの分野へのコミットメントを示したため、多くの重要な記録が樹立されました。 2026 年第 2 四半期および上半期のカタストロフ債発行を分析する新しいレポートを公開しました […] 2026 年第 2 四半期に設定されたカタストロフ債市場の記録は、www.Artemis.bm によって発行されました。"
-  },
-  {
     "id": "rss-insurance-03b9c37d91984f",
     "title": "インド消費者物価（26年６月）～総合ＣＰＩは4.4％に上昇、食品高とモンスーン不順に警戒",
     "summary": "インド統計・計画実施省が７月13日に公表した2026年６月の消費者物価指数（以下、ＣＰＩ）によると、総合ＣＰＩ上昇率は前年同月比4.4％となり、前月の3.9％から上昇し、Bloombergの市場予想（4.2％）を上回った（図表１）。 地域別にみると、都市部では前年同月比3.9％（前月：3.5％）、農村部では同4.7％（同4.3％）となり、いずれも前月から上昇した。とりわけ農村部ではインフレ率が５％近くまで高まり、食品価格の上昇が家計の実質購買力を圧迫するリスクが強まっている。 ６月のＣＰＩは、総合インフレ率がインド準備銀行（ＲＢＩ）の４％目標を上回り、物価上昇圧力が一段と強まったことを示す内容となった。食品価格の上昇に加え、輸送費や外食価格の伸びも高まり、インフレ圧力が一部の品目から関連分野へ広がりつつある。もっとも、燃料・光熱費全体の伸びはなお低く、貴金属価格の上昇も総合指数を押し上げているため、基調的な需要インフレが全面的に強まったとまでは言い切れない。ただし、食品高や物流コストの上昇が長引けば、先行きのインフレ率はさらに上振れる可能性がある。食品・飲料の上昇率は前年同月比5.1％となり、前月から加速した（図表１）。このうち食品価格の上昇が目立ち、消費者食品価格指数（ＣＦＰＩ）は同5.3％となり、前月の同4.8％から上昇した。 食品の主要項目別にみると、油脂と肉類がそれぞれ前年同月比9.7％と高い伸びを示したほか、果物が同8.6％、魚介が同7.7％となった（図表２）。また、調理食品が同6.8％、野菜・豆類が同4.4％、乳製品・卵が同4.1％となった。一方、砂糖は同2.4％、穀物は同0.9％の低い伸びにとどまっている。 このように、食品インフレは前月から加速したものの、項目別の上昇幅にはばらつきがみられる。油脂、肉類、果物、魚介など",
@@ -1500,26 +1600,6 @@
     "bannerClass": "from-blue-950 to-indigo-950",
     "isNew": true,
     "url": "https://www.nli-research.co.jp/topics_detail1/id=86254?site=nli"
-  },
-  {
-    "id": "rss-insurance-9cea18fd630423",
-    "title": "Kilter and Blue Owl capitalise new Accelerant Risk Exchange reciprocal insurer WoodStar",
-    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. A new insurer has been launched supported by third-party capital from investors and asset managers KKR-backed Kilter Finance and Blue Owl Capital, with newly rated WoodStar Reciprocal Exchange set to provide dedicated underwriting capacity through the Accelerant Risk Exchange. WoodStar Reciprocal Exchange has received an ‘A-‘ financial strength rating from AM Best, while $220 million […] Kilter and Blue Owl capitalise new Accelerant Risk Exchange reciprocal insurer WoodStar was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
-    "sourceName": "Artemis",
-    "sourceIcon": "🎯",
-    "publishedAt": "2026-07-14T07:00:28.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Kilter",
-      "Blue",
-      "Owl",
-      "capitalise",
-      "Accelerant"
-    ],
-    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.artemis.bm/news/kilter-and-blue-owl-capitalise-new-accelerant-risk-exchange-reciprocal-insurer-woodstar/?utm_source=rss&utm_medium=rss&utm_campaign=kilter-and-blue-owl-capitalise-new-accelerant-risk-exchange-reciprocal-insurer-woodstar",
-    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示することはできません。そうでない場合は、侵害が発生します。 KKRが支援する投資家や資産運用会社のキルター・ファイナンスとブルー・オウル・キャピタルからの第三者資本の支援を受けて新たな保険会社が設立され、新たに格付けされたウッドスター・レシプロカル・エクスチェンジがアクセララント・リスク取引所を通じて専用の引受能力を提供する予定だ。 WoodStar Reciprocal Exchange は AM Best から財務力評価「A-」を取得しましたが、2 億 2,000 万ドルが […] Kilter と Blue Owl が新たな Accelerant Risk Exchange 相互保険会社に資本参加 WoodStar の発行元: www.Artemis.bm catastrophe bo"
   },
   {
     "id": "rss-insurance-a3b77225ba6e13",
@@ -1734,106 +1814,6 @@
     "url": "https://www.nli-research.co.jp/topics_detail1/id=86253?site=nli"
   },
   {
-    "id": "rss-ai_theory-112252077fbde2",
-    "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
-    "summary": "arXiv:2607.09664v1 Announce Type: new Abstract: To provide a structured and interpretable assessment, we decompose the image-based diagnosis into components following the Toulmin model of argumentation. This model consists of a claim, grounds, warrant, qualifier, rebuttal, and backing. Consider a claim generated by a machine learning (ML) model for retinal diagnosis. Rather than accepting this claim at face value, one could either apply explainable AI (XAI) methods or adopt an argumentation-based approach. In our framework, a model specialized in biomarker extraction from images provides the grounds. The warrant-linking the grounds to the claim - is analyzed by an agent equipped with medical knowledge; in our architecture, this role is fulfilled by a MedGemma agent. The",
-    "sourceName": "arXiv cs.AI",
-    "sourceIcon": "◆",
-    "publishedAt": "2026-07-14T04:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "Predictions",
-      "Informed",
-      "Diagnostic",
-      "Assistance",
-      "Toulmin"
-    ],
-    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
-    "isNew": true,
-    "url": "https://arxiv.org/abs/2607.09664",
-    "summaryJa": "arXiv:2607.09664v1 発表の種類: 新しい要約: 構造化された解釈可能な評価を提供するために、画像ベースの診断をトゥールミン議論モデルに従ってコンポーネントに分解します。このモデルは、主張、根拠、令状、修飾子、反論、裏付けで構成されます。網膜診断用の機械学習 (ML) モデルによって生成されたクレームを考えてみましょう。この主張を額面通りに受け入れるのではなく、Explainable AI (XAI) 手法を適用するか、議論ベースのアプローチを採用することもできます。私たちのフレームワークでは、画像からのバイオマーカー抽出に特化したモデルが根拠を提供します。根拠を結び付ける令状"
-  },
-  {
-    "id": "rss-ai_theory-6ccf05831a92db",
-    "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
-    "summary": "arXiv:2607.09665v1 Announce Type: new Abstract: Prompt wrappers often differ only in formatting, yet they can change model scores enough to flip leaderboard conclusions. We study this variance under a token-controlled protocol and introduce two complementary metrics: the Format Sensitivity Index (FSI), the accuracy range induced by wrapper choice, and the Parseability Sensitivity Index (PSI), the corresponding range in answer parseability. Across 140,000 OpenRouter generations spanning 7 QA tasks, 5 wrapper families, and 4 instruct models from 7B to 72B parameters, we find that mean FSI varies by over 30x across models and is largely explained by compliance failures. A fixed-effects regression shows that parseability remains a strong predictor of accuracy even after con",
-    "sourceName": "arXiv cs.AI",
-    "sourceIcon": "◆",
-    "publishedAt": "2026-07-14T04:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "Format",
-      "Sensitivity",
-      "Index",
-      "Token-Controlled",
-      "Prompt"
-    ],
-    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
-    "isNew": true,
-    "url": "https://arxiv.org/abs/2607.09665",
-    "summaryJa": "arXiv:2607.09665v1 アナウンス タイプ: 新しい要約: プロンプト ラッパーは多くの場合、形式のみが異なりますが、リーダーボードの結論をひっくり返すほどモデル スコアを変更する可能性があります。私たちはトークン制御プロトコルの下でこの差異を調査し、ラッパーの選択によって引き起こされる精度の範囲であるフォーマット感度指数 (FSI) と、応答の解析可能性の対応する範囲である解析可能性感度指数 (PSI) という 2 つの補完的なメトリクスを導入します。 7B から 72B パラメーターまでの 7 つの QA タスク、5 つのラッパー ファミリ、および 4 つの命令モデルにわたる 140,000 の OpenRouter 世代にわたって、平均 FSI がモデル間で 30 倍以上変化し、大きいことがわかりました。"
-  },
-  {
-    "id": "rss-ai_theory-b57490e579048d",
-    "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
-    "summary": "arXiv:2607.09678v1 Announce Type: new Abstract: When LLM agents hand off information to one another, does the message format matter? Two literatures disagree: format-optimization work reports that structured messages cut cost without hurting accuracy, while format-restriction work finds that imposing structure degrades generation -- and neither measures what happens when a message traverses multiple hops, where copy fidelity, not one-shot generation, dominates. We introduce a controlled relay testbed: briefs of twelve programmatically generated atomic facts are re-encoded hop-by-hop in five formats (free NL, precision-instructed NL, JSON, triples, key-value) over six hops, scored by a fixed strong grader against programmatic ground truth, across two relay-capability tie",
-    "sourceName": "arXiv cs.AI",
-    "sourceIcon": "◆",
-    "publishedAt": "2026-07-14T04:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "Faithful",
-      "Corrective",
-      "Message-Format",
-      "Effects",
-      "Multi-Hop"
-    ],
-    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
-    "isNew": true,
-    "url": "https://arxiv.org/abs/2607.09678",
-    "summaryJa": "arXiv:2607.09678v1 アナウンスの種類: 新しい要約: LLM エージェントが相互に情報を渡すとき、メッセージ形式は重要ですか? 2 つの文献は意見が一致していません。フォーマット最適化の研究では、構造化されたメッセージが精度を損なうことなくコストを削減すると報告していますが、フォーマット制限の研究では、構造を強制することで生成が低下することがわかり、どちらも、ワンショット生成ではなくコピー忠実度が支配的な場合、メッセージが複数のホップを通過するときに何が起こるかを測定していません。制御されたリレーのテストベッドを導入します。プログラムで生成された 12 のアトミック ファクトの概要が、5 つの形式 (フリー NL、精密指示 NL、"
-  },
-  {
-    "id": "rss-ai_theory-179fd05f225354",
-    "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
-    "summary": "arXiv:2607.09689v1 Announce Type: new Abstract: To leading order under local asymptotic normality (LAN), the confidence density a worker emits over a chunk of size $n$ is a Gibbs--Boltzmann measure $\\exp\\{-\\beta E(\\theta)\\}$ whose inverse temperature is the sample size, $\\beta=n$. Three consequences are exact in the Gaussian/linear case and first-order otherwise: disjoint chunks carry independent Boltzmann factors, so the MapReduce \\emph{reduce}, read literally, is a partition function $Z=\\int\\prod_k h_k\\,d\\theta$ whose mode is precision-weighted (inverse-variance) pooling; frequentist consistency is the zero-temperature limit $T=1/n\\to0$",
-    "sourceName": "arXiv cs.AI",
-    "sourceIcon": "◆",
-    "publishedAt": "2026-07-14T04:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "Boltzmann",
-      "MapReduce",
-      "Partition-Function",
-      "Reduce",
-      "Forkable"
-    ],
-    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
-    "isNew": true,
-    "url": "https://arxiv.org/abs/2607.09689",
-    "summaryJa": "arXiv:2607.09689v1 発表の種類: 新しい 要約: 局所漸近正規性 (LAN) の下での有力な順序では、ワーカーがサイズ $n$ のチャンクに対して発する信頼密度は、ギブス-ボルツマン測度 $\\exp\\{-\\beta E(\\theta)\\}$ であり、その逆温度はサンプル サイズ $\\beta=n$ です。ガウス/線形の場合は 3 つの結果が正確で、それ以外の場合は 1 次です。つまり、互いに素なチャンクは独立したボルツマン因子を持ちます。そのため、MapReduce \\emph{reduce} は、文字通り読むと、モードが精度重み付け (逆分散) プーリングである分割関数 $Z=\\int\\prod_k h_k\\,d\\theta$ になります。頻度主義的一貫性はゼロ温度限界 $T=1/"
-  },
-  {
-    "id": "rss-ai_theory-fa8646135c43c3",
-    "title": "Interpreting Latent CoT Reasoning as Dynamical Systems",
-    "summary": "arXiv:2607.09698v1 Announce Type: new Abstract: Recent latent reasoning methods, such as CODI and COCONUT, face a fundamental interpretability problem: they maintain multiple superimposed candidate traces in the hidden space at each step, unlike explicit- CoT, which follows a single transparent reasoning trace. Existing mechanistic methods show compression, shortcuts, and superposition without explaining how reasoning evolves across latent steps. To address this gap, we model latent token sequences as trajectories in representation space and apply dynamical systems analysis to characterize the evolution of reasoning. Using quantitative measures, such as step-to-step change, direction consistency, and Lyapunov sensitivity, alongside qualitative projections, such as UMAP ",
-    "sourceName": "arXiv cs.AI",
-    "sourceIcon": "◆",
-    "publishedAt": "2026-07-14T04:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "Interpreting",
-      "Latent",
-      "CoT",
-      "Reasoning",
-      "Dynamical"
-    ],
-    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
-    "isNew": true,
-    "url": "https://arxiv.org/abs/2607.09698",
-    "summaryJa": "arXiv:2607.09698v1 発表タイプ: 新しい要約: CODI や COCONUT などの最近の潜在推論手法は、基本的な解釈可能性の問題に直面しています。つまり、単一の透過的な推論トレースに従う明示的 CoT とは異なり、各ステップの隠れた空間に複数の重ね合わされた候補トレースが維持されます。既存の機械的手法では、圧縮、ショートカット、重ね合わせが示されていますが、潜在的なステップにわたって推論がどのように進化するかは説明されていません。このギャップに対処するために、私たちは潜在トークンシーケンスを表現空間内の軌跡としてモデル化し、動的システム分析を適用して推論の進化を特徴付けます。定量の使用"
-  },
-  {
     "id": "rss-insurance-f0831c799f5459",
     "title": "事業系食品ロス対策は、なぜ現場で難しいのか～余剰商品の別チャネル化が示す、ブランドと顧客体験の設計論",
     "summary": "■要旨 食品ロス削減は、多くの企業にとって重要な社会課題になっている。とはいえ、食品小売や飲食の現場では、欠品を避ける、品揃えを保つ、選ぶ楽しさを守る、通常価格で購入する顧客との関係を崩さないといった実務上の課題がある。環境に良い取り組みであっても、売場やブランド体験を損なう形では続きにくい。 前稿「『Too Good To Go』が創る新たな購買体験」では、デンマーク発のフードロス削減サービス「Too Good To Go」を手がかりに、社会課題を生活者のウェルビーイングへ接続するブランド設計の視点から検討した。 本稿では視点を変えて、食品・小売事業者の好事例を参考に、食品ロス削減を単なる値引きや処分販売ではなく、顧客が楽しみながら参加できるブランド体験へ転換する条件を考える。ケースとして取り上げたクリスピー・クリーム・ドーナツ・ジャパンが導入したサプライズボックスの取り組みを手がかりに、導入後1カ月で対象店舗のフードロスは約3割削減、購入者の約4割が新規顧客だったという成果を踏まえ、食品ロス対策が新たな顧客接点にもなりうる可能性について考える。 一方で、サプライズバッグ型の仕組みは、店舗廃棄を減らしやすい反面、消費者側の食べ残しや生産量増加まで含めて評価する必要もある。事業者・消費者双方の食品ロス削減を、顧客接点・顧客体験と組み合わせてどのように設計するのか、これからのサステナブル・マーケティングを考えるうえでの実践的な方向性を考察する。 ■目次 1――なぜ、食品ロス削減は、値引きに見えなかったのか 1｜クリスピー・クリーム・ドーナツの取り組みに見る、余剰をブランド体験へ変える設計 2｜なぜ事業系食品ロスは減らしにくいのか 2――食品ロス削減をブランド体験に読み替える 3――余剰を売れ残りではなく、別チャネルへ移す 4――なぜ値引",
@@ -1911,57 +1891,6 @@
       "通し（2026年）"
     ],
     "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86252?site=nli"
-  },
-  {
-    "id": "rss-insurance-1f302613daf3a9",
-    "title": "「名古屋オフィス市場」の現況と見通し（2026年）",
-    "summary": "■要旨 名古屋のオフィス市場は、大規模ビルの竣工に伴い高水準の新規供給が続くなか、立地改善や設備のグレードアップを図るオフィス需要は旺盛であり、空室率は低下し、成約賃料は上昇した。本稿では、名古屋のオフィス市況を概観した上で、2030年までの賃料予測を行った。 需要面では、愛知県の就業者数は情報通信業等を中心に増加している。また、東海地方の「企業の経営環境」は一進一退の動きが続いているものの、「雇用環境」では人手不足感が強く、企業の採用意欲も高まっている。以上のことを鑑みると、名古屋市のオフィスワーカー数が大幅に減少する懸念は小さいと考えられる。 名古屋市でもテレワークの普及に伴い、多様な働き方に対応したオフィス利用や拠点配置を検討する企業の増加が見込まれ、サードプレイスオフィス市場の拡大が期待される。さらに、行政支援の後押しもあり、スタートアップ企業が増加し、新たなオフィス需要の担い手となる可能性がある。加えて、新たな路面公共交通システムの導入などにより都市機能の強化が進むことで、オフィス需要へのプラスの効果も期待される。以上の状況を踏まえると、名古屋のオフィス需要は今後も底堅く推移する見通しである。 供給面では、2026年の新規供給量は11年ぶりに３万坪を上回る見通しである。ただし、同年に竣工予定の大規模ビルの多くは、既に入居テナントの確保が進んでいるとみられる。また、2027年以降は新規供給が一服する見込みである。 以上を踏まえると、名古屋市の需給バランスが大きく崩れる可能性は低く、オフィス成約賃料は安定した需給環境のもと底堅く推移すると見込まれる。2025年の賃料を100とした場合、2026年は100、2027年は102、2030年は106となる見通しである。 ■目次 1．はじめに 2．名古屋オフィス市場の現況 2-1．空室率",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-14T01:58:01.000Z",
-    "category": "insurance",
-    "keywords": [
-      "「名古屋オフィス市場」の",
-      "市場」の現況と見通し（2",
-      "通し（2026年）"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86252?site=nli"
-  },
-  {
-    "id": "rss-insurance-1f302613daf3a9",
-    "title": "「名古屋オフィス市場」の現況と見通し（2026年）",
-    "summary": "■要旨 名古屋のオフィス市場は、大規模ビルの竣工に伴い高水準の新規供給が続くなか、立地改善や設備のグレードアップを図るオフィス需要は旺盛であり、空室率は低下し、成約賃料は上昇した。本稿では、名古屋のオフィス市況を概観した上で、2030年までの賃料予測を行った。 需要面では、愛知県の就業者数は情報通信業等を中心に増加している。また、東海地方の「企業の経営環境」は一進一退の動きが続いているものの、「雇用環境」では人手不足感が強く、企業の採用意欲も高まっている。以上のことを鑑みると、名古屋市のオフィスワーカー数が大幅に減少する懸念は小さいと考えられる。 名古屋市でもテレワークの普及に伴い、多様な働き方に対応したオフィス利用や拠点配置を検討する企業の増加が見込まれ、サードプレイスオフィス市場の拡大が期待される。さらに、行政支援の後押しもあり、スタートアップ企業が増加し、新たなオフィス需要の担い手となる可能性がある。加えて、新たな路面公共交通システムの導入などにより都市機能の強化が進むことで、オフィス需要へのプラスの効果も期待される。以上の状況を踏まえると、名古屋のオフィス需要は今後も底堅く推移する見通しである。 供給面では、2026年の新規供給量は11年ぶりに３万坪を上回る見通しである。ただし、同年に竣工予定の大規模ビルの多くは、既に入居テナントの確保が進んでいるとみられる。また、2027年以降は新規供給が一服する見込みである。 以上を踏まえると、名古屋市の需給バランスが大きく崩れる可能性は低く、オフィス成約賃料は安定した需給環境のもと底堅く推移すると見込まれる。2025年の賃料を100とした場合、2026年は100、2027年は102、2030年は106となる見通しである。 ■目次 1．はじめに 2．名古屋オフィス市場の現況 2-1．空室率",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-14T01:58:01.000Z",
-    "category": "insurance",
-    "keywords": [
-      "「名古屋オフィス市場」の",
-      "市場」の現況と見通し（2",
-      "通し（2026年）"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86252?site=nli"
-  },
-  {
-    "id": "rss-insurance-1f302613daf3a9",
-    "title": "「名古屋オフィス市場」の現況と見通し（2026年）",
-    "summary": "■要旨 名古屋のオフィス市場は、大規模ビルの竣工に伴い高水準の新規供給が続くなか、立地改善や設備のグレードアップを図るオフィス需要は旺盛であり、空室率は低下し、成約賃料は上昇した。本稿では、名古屋のオフィス市況を概観した上で、2030年までの賃料予測を行った。 需要面では、愛知県の就業者数は情報通信業等を中心に増加している。また、東海地方の「企業の経営環境」は一進一退の動きが続いているものの、「雇用環境」では人手不足感が強く、企業の採用意欲も高まっている。以上のことを鑑みると、名古屋市のオフィスワーカー数が大幅に減少する懸念は小さいと考えられる。 名古屋市でもテレワークの普及に伴い、多様な働き方に対応したオフィス利用や拠点配置を検討する企業の増加が見込まれ、サードプレイスオフィス市場の拡大が期待される。さらに、行政支援の後押しもあり、スタートアップ企業が増加し、新たなオフィス需要の担い手となる可能性がある。加えて、新たな路面公共交通システムの導入などにより都市機能の強化が進むことで、オフィス需要へのプラスの効果も期待される。以上の状況を踏まえると、名古屋のオフィス需要は今後も底堅く推移する見通しである。 供給面では、2026年の新規供給量は11年ぶりに３万坪を上回る見通しである。ただし、同年に竣工予定の大規模ビルの多くは、既に入居テナントの確保が進んでいるとみられる。また、2027年以降は新規供給が一服する見込みである。 以上を踏まえると、名古屋市の需給バランスが大きく崩れる可能性は低く、オフィス成約賃料は安定した需給環境のもと底堅く推移すると見込まれる。2025年の賃料を100とした場合、2026年は100、2027年は102、2030年は106となる見通しである。 ■目次 1．はじめに 2．名古屋オフィス市場の現況 2-1．空室率",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-14T01:58:01.000Z",
-    "category": "insurance",
-    "keywords": [
-      "「名古屋オフィス市場」の",
-      "市場」の現況と見通し（2",
-      "通し（2026年）"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
     "isNew": true,
     "url": "https://www.nli-research.co.jp/topics_detail1/id=86252?site=nli"
   },
@@ -1981,42 +1910,6 @@
     "bannerClass": "from-teal-950 to-emerald-900",
     "isNew": true,
     "url": "https://www.nli-research.co.jp/topics_detail1/id=86250?site=nli"
-  },
-  {
-    "id": "rss-insurance-79e8ea22275af4",
-    "title": "Ledger Investing reports continued demand for casualty ILS amid softening property cat market",
-    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Against the softening property catastrophe market, casualty remains the most focal alternative within the insurance-linked securities (ILS) space, but also the hardest to successfully close, according to Ledger Investing, who reports that while capital is actively seeking diversification, casualty rate adequacy remains intact, and the market is working deliberately to standardise. The insurtech and casualty […] Ledger Investing reports continued demand for casualty ILS amid softening property cat market was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
-    "sourceName": "Artemis",
-    "sourceIcon": "🎯",
-    "publishedAt": "2026-07-13T13:00:59.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Ledger",
-      "Investing",
-      "continued",
-      "demand",
-      "casualty"
-    ],
-    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.artemis.bm/news/ledger-investing-reports-continued-demand-for-casualty-ils-amid-softening-property-cat-market/?utm_source=rss&utm_medium=rss&utm_campaign=ledger-investing-reports-continued-demand-for-casualty-ils-amid-softening-property-cat-market",
-    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示することはできません。そうでない場合は、侵害が発生します。レジャー・インベスティングによると、不動産大惨事市場の軟化に対し、損害保険は依然として保険リンク証券（ILS）分野で最も焦点となる選択肢であるが、クロージングを成功させるのが最も難しいものでもある、とレジャー・インベスティングは、資本が積極的に多様化を模索している一方で、損害賠償率の適正性はそのままであり、市場は意図的に標準化に取り組んでいると報告している。インシュアテックと損害保険 […] Ledger Investing は、不動産市場が軟化する中、損害保険 ILS に対する継続的な需要を報告しています。"
-  },
-  {
-    "id": "rss-insurance-340a2a5e9d7027",
-    "title": "今週のレポート・コラムまとめ【7/7-7/13発行分】",
-    "summary": "▼基礎研所報 ☆ニッセイ基礎研所報 2026（Vol.70） －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－ ▼研究員の眼 ☆AIケアプランで暮らしを支えられるのか？ －技術への隷従が招く思考停止と、対人業務の専門性喪失のリスクを考える ☆放出した備蓄米はどう買戻すべきか ～価格低下を望む消費者と、政府買入れを求める市場の間で考える備蓄米制度～ ☆あの日、火葬場でスマホを開いた －「正しく悲しむ」ということ ☆内外で半導体関連株に流入 ～2026年６月の投信動向～ ☆今年上期のJリート市場は▲10.3％下落。海外投資家を中心に売り圧力が強まる ～10年国債利回りはJリート市場にとって未曽有の高水準に ☆共働きと夏休みの壁 －広がる選択肢、残る課題 ☆カカクコム公開買付期間の延長> －ベイン・LINEヤフーからの対抗提案を受けて －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－ ▼Weeklyエコノミスト・レター ☆消費者物価指数2025年基準改定の影響試算 －ウェイト効果の押し上げをリセット効果の押し下げが相殺し、改定は小幅にとどまる見通し ☆安定局面にある米労働市場 －低採用・低解雇と「雇用なき成長」の可能性 ☆日本の外貨準備は盤石か？ ～円買い介入の原資を点検する －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－ ▼基礎研レポート ☆ワークエンゲージメントにおける中年期の「谷」 ☆EUのAIシステム透明性ガイドライン案の公表 －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－ ▼基礎研レター ☆バイオプラスチックの現状と課題 －石油依存からの脱却に向けて ☆最近の中国経済の注目点（3） －不安定な経済政策効果と不動産市場の動向 ☆AI時代のサイ",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-13T08:20:22.000Z",
-    "category": "insurance",
-    "keywords": [
-      "今週のレポート",
-      "コラムまとめ【7/7-7/13発行分】"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86246?site=nli"
   },
   {
     "id": "rss-insurance-6e3d54ae80e951",
