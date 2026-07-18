@@ -119,7 +119,7 @@
       "譲渡制限付株式報酬としての新株式を発行"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260716-9/",
     "sortBoost": 5
   },
@@ -138,7 +138,7 @@
       "サーベイ2026（アジア健康長寿調査）発表"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260716-8/",
     "sortBoost": 5
   },
@@ -155,7 +155,7 @@
       "ライフサイエンス"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260716-7/",
     "sortBoost": 5
   },
@@ -175,7 +175,7 @@
       "投資事業有限責任組合」に"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260716-6/",
     "sortBoost": 5
   },
@@ -222,7 +222,7 @@
     "summary": "その他,「経済価値ベースのソルベンシー規制」の概要資料を更新しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-07-18T01:26:29.029Z",
+    "publishedAt": "2026-07-18T12:48:57.746Z",
     "category": "insurance",
     "keywords": [
       "その他,「経済価値ベース",
@@ -241,7 +241,7 @@
     "summary": "令和８年３月期までにおいて、定時株主総会前に有価証券報告書を提出した上場会社について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-07-18T01:26:29.029Z",
+    "publishedAt": "2026-07-18T12:48:57.746Z",
     "category": "insurance",
     "keywords": [
       "令和８年３月期までにおい",
@@ -260,7 +260,7 @@
     "summary": "「公認会計士及び監査法人におけるマネー・ローンダリング、テロ資金供与及び拡散金融対策に関するガイドライン（案）」に対するパブリックコメントの結果等について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-07-18T01:26:29.029Z",
+    "publishedAt": "2026-07-18T12:48:57.746Z",
     "category": "insurance",
     "keywords": [
       "「公認会計士及び監査法人におけるマネー",
@@ -276,7 +276,7 @@
     "summary": "「中小企業の事業再生等に関するガイドライン」の活用実績について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-07-18T01:26:29.029Z",
+    "publishedAt": "2026-07-18T12:48:57.746Z",
     "category": "insurance",
     "keywords": [
       "「中小企業の事業再生等に",
@@ -295,7 +295,7 @@
     "summary": "その他,「ESG評価・データ提供機関に係る行動規範」の受入れを表明した評価機関等リスト（令和８年６月30日時点）について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-07-18T01:26:29.029Z",
+    "publishedAt": "2026-07-18T12:48:57.746Z",
     "category": "insurance",
     "keywords": [
       "その他,「ESG評価・デ",
@@ -314,7 +314,7 @@
     "summary": "「投資法人の計算に関する規則の一部を改正する内閣府令」の公布及びパブリックコメントの結果について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-07-18T01:26:29.029Z",
+    "publishedAt": "2026-07-18T12:48:57.746Z",
     "category": "insurance",
     "keywords": [
       "「投資法人の計算に関する",
@@ -333,7 +333,7 @@
     "summary": "「保険会社向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-07-18T01:26:29.029Z",
+    "publishedAt": "2026-07-18T12:48:57.746Z",
     "category": "insurance",
     "keywords": [
       "「保険会社向けの総合的な",
@@ -352,7 +352,7 @@
     "summary": "「風水害リスクに関する金融機関の取組の動向や課題」について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-07-18T01:26:29.029Z",
+    "publishedAt": "2026-07-18T12:48:57.746Z",
     "category": "insurance",
     "keywords": [
       "「風水害リスクに関する金",
@@ -367,282 +367,599 @@
   },
   {
     "id": "rss-economy-08c7a7ac34f8c1",
-    "title": "【大雨 被害情報】栃木 足利 崩れた土砂が住宅に 建物倒壊",
-    "summary": "大雨による被害などの情報をまとめました。",
+    "title": "栃木 群馬で記録的な大雨【各地の被害まとめ】",
+    "summary": "17日未明にかけて栃木県と群馬県で記録的な大雨となり浸水の被害が相次ぎました。このうち栃木県足利市で住宅に土砂が流れ込んで建物が倒壊し、この家に住む、60代の夫婦と連絡が取れていませんが、足利市は18…",
     "sourceName": "NHKニュース",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-18T01:19:47.000Z",
+    "publishedAt": "2026-07-18T12:31:41.000Z",
     "category": "economy",
     "keywords": [
-      "【大雨",
-      "被害情報】栃木",
-      "足利",
-      "崩れた土砂が住宅に",
-      "建物倒壊"
+      "栃木",
+      "群馬で記録的な大雨【各地の被害まとめ】"
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
     "url": "https://news.web.nhk/newsweb/na/na-k10015179921000"
   },
   {
-    "id": "rss-economy-5b01a088f3103e",
-    "title": "早くも\"今年NO.1映画\"に名乗り…全世界で大ヒット『トイ･ストーリー5』が大人にもウケる\"深い理由\" 制作陣に直撃！ | ライフ | 東洋経済オンライン",
-    "summary": "ディズニー＆ピクサーの最新作『トイ･ストーリー5』が､世界中で大ヒット。なぜこの物語は時代を超えて愛され続けるのか？制作の舞台裏に迫ります。",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-18T01:15:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "早くも\"今年NO.1映画\"に名乗り",
-      "制作陣に直撃",
-      "ライフ",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/951745?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-1e9369e057a36c",
-    "title": "ドイツ 仏軍の核演習に初参加へ",
-    "summary": "ドイツ 仏軍の核演習に初参加へ",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-18T01:03:17.000Z",
-    "category": "economy",
-    "keywords": [
-      "ドイツ",
-      "仏軍の核演習に初参加へ"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6588366?source=rss"
-  },
-  {
-    "id": "rss-economy-30a3fad01b8d83",
-    "title": "次の英首相バーナム氏 大阪市と縁",
-    "summary": "次の英首相バーナム氏 大阪市と縁",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-18T01:01:58.000Z",
-    "category": "economy",
-    "keywords": [
-      "次の英首相バーナム氏",
-      "大阪市と縁"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6588365?source=rss"
-  },
-  {
-    "id": "rss-ai_theory-8db88c02e476c0",
-    "title": "3アイテム同時にワイヤレス充電可能＆折りたたんでコンパクトに持ち運びもできるAnkerの「Prime Wireless Charging Station(3-in-1, MagGo,AirCool,Foldable)」レビュー",
-    "summary": "Ankerの「Prime Wireless Charging Station」は複数のワイヤレス充電ドックを備えたアイテムで、ごちゃつきがちな充電機器をすっきりまとめた上で、冷却機能によりスマホの温度上昇を防ぐことができます。そんな充電ドックを折り畳んでコンパクトに持ち運ぶことも可能になった「Anker Prime Wireless Charging Station(3-in-1, MagGo, AirCool, Foldable)」が2026年4月に登場しており、Ankerから提供してもらったので実際に使ってみました。 続きを読む...",
+    "id": "rss-ai_theory-f8d67c55af7ab4",
+    "title": "郷土料理「すこ」の味わいをサイダーにした越前大野の「すこサイダー」を飲んでみた",
+    "summary": "「天空の城」の1つ・越前大野城がある福井県大野市は名水でも知られており、郷土料理「すこ」と組み合わせた「越前おおの名水すこサイダー」が販売されています。「すこ」はネットスラングのほうしか知らなかったので、いったいどんなサイダーなのか買って飲んでみました。 続きを読む...",
     "sourceName": "GIGAZINE",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-18T01:00:00.000Z",
+    "publishedAt": "2026-07-18T12:30:00.000Z",
     "category": "ai_theory",
     "keywords": [
-      "Wireless",
-      "Charging",
-      "Station(3-in-1,"
+      "郷土料理「すこ」の味わい",
+      "の味わいをサイダーにした",
+      "ーにした越前大野の「すこ",
+      "の「すこサイダー」を飲ん",
+      "」を飲んでみた"
     ],
     "bannerClass": "from-fuchsia-950 to-violet-900",
     "isNew": true,
-    "url": "https://gigazine.net/news/20260718-anker-b25n1n12/"
+    "url": "https://gigazine.net/news/20260718-suko-cider/"
   },
   {
-    "id": "rss-economy-39586cdc56b4f9",
-    "title": "心身を入眠モードへ導く3つの\"快眠ツボ\"——｢体がクタクタなのに眠れない！｣は自律神経が乱れているサイン？ | ライフ | 東洋経済オンライン",
-    "summary": "｢寝つけない｣｢夜中に目が覚める｣など､現代人の多くが悩む睡眠トラブル。その背後には自律神経の乱れや心身の緊張が潜んでいます。16万人以上の身体改善に携わった専門家が教える｢快眠ツボ｣の効果とセルフ…",
-    "sourceName": "東洋経済オンライン",
+    "id": "rss-economy-b27cce7862c8bb",
+    "title": "南アルプス北岳で遭難か 男性死亡",
+    "summary": "南アルプス北岳で遭難か 男性死亡",
+    "sourceName": "Yahoo!ニュース",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-18T01:00:00.000Z",
+    "publishedAt": "2026-07-18T12:26:22.000Z",
     "category": "economy",
     "keywords": [
-      "｣は自律神経が乱れているサイン",
+      "南アルプス北岳で遭難か",
+      "男性死亡"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6588435?source=rss"
+  },
+  {
+    "id": "rss-ai_theory-9d60c37a13adb3",
+    "title": "データセンターは本当に一般市民の電気料金値上げの原因なのか？",
+    "summary": "AIブームに伴うデータセンターの増加を受け、アメリカでは大手テクノロジー企業が発電や送電にかかる追加費用を公平に負担すると約束する一方、一般利用者の電気料金に費用が転嫁されるのではないかとの懸念が広がっています。フロリダ大学でエネルギー研究ディレクターを務めるセオドア・J・キュリー氏が、データセンター向けの電力設備費がどのように電気料金へ割り振られるのかを解説しています。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-18T12:10:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "データセンターは本当に一",
+      "本当に一般市民の電気料金",
+      "電気料金値上げの原因なの",
+      "原因なのか？"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260718-data-centers-electricity-bills/"
+  },
+  {
+    "id": "rss-market-76cae1e07e533c",
+    "title": "World Cup audience stayed bipartisan despite Trump's prominent role, CNBC survey finds",
+    "summary": "Nearly half of registered voters watched the 2026 World Cup, with income and education shaping viewership more than party affiliation, the survey found.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-07-18T12:00:02.000Z",
+    "category": "market",
+    "keywords": [
+      "World",
+      "Cup",
+      "audience",
+      "stayed",
+      "bipartisan"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/07/18/world-cup-viewership-trump-democrats-republicans-poll.html"
+  },
+  {
+    "id": "rss-economy-a6435624d6b617",
+    "title": "刃物持つ女 警察官が空に威嚇射撃",
+    "summary": "刃物持つ女 警察官が空に威嚇射撃",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-18T11:49:53.000Z",
+    "category": "economy",
+    "keywords": [
+      "刃物持つ女",
+      "警察官が空に威嚇射撃"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6588431?source=rss"
+  },
+  {
+    "id": "rss-market-fc14e7e150de0e",
+    "title": "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
+    "summary": "Morgan Stanley forecasts that K-beauty sales in the U.S. can reach approximately $4 billion in 2026.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-07-18T11:45:35.000Z",
+    "category": "market",
+    "keywords": [
+      "Korean",
+      "beauty",
+      "products",
+      "becoming",
+      "mainstream"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/07/18/korean-beauty-products-are-becoming-mainstream-in-the-us.html"
+  },
+  {
+    "id": "rss-market-84bc0d97ea2dcc",
+    "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+    "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-07-18T11:31:03.000Z",
+    "category": "market",
+    "keywords": [
+      "WarshGPT",
+      "Wall",
+      "Street",
+      "adapting",
+      "Fed"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html"
+  },
+  {
+    "id": "rss-insurance-f70ec3bff17eaf",
+    "title": "Iran Renews Attacks on Gulf States After Another Night of US strikes",
+    "summary": "Iran launched more attacks on Washington’s Gulf allies on Saturday after a seventh straight night of U.S. strikes targeting Iranian military sites including logistics facilities, escalating the war one week after a ceasefire fell apart. Kuwait came under sustained attack, …",
+    "sourceName": "Insurance Journal",
+    "sourceIcon": "🛡️",
+    "publishedAt": "2026-07-18T11:25:30.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Iran",
+      "Renews",
+      "Attacks",
+      "Gulf",
+      "States"
+    ],
+    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
+    "isNew": true,
+    "url": "https://www.insurancejournal.com/news/international/2026/07/18/878126.htm",
+    "summaryJa": "停戦が崩れてから1週間後、米国が物流施設を含むイランの軍事拠点を標的とした7夜連続の攻撃を受けて、イランは土曜日、米国の湾岸同盟国に対してさらなる攻撃を開始し、戦争が激化した。クウェートは持続的な攻撃にさらされ、…"
+  },
+  {
+    "id": "rss-market-2b5dad2dfb5e00",
+    "title": "How are prediction markets taxed? The IRS hasn’t provided guidance yet",
+    "summary": "Experts say the lack of federal guidance makes it's unclear on how prediction markets winnings should be reported and levied.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-07-18T11:24:54.000Z",
+    "category": "market",
+    "keywords": [
+      "prediction",
+      "markets",
+      "taxed",
+      "IRS",
+      "hasn"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/07/18/how-are-prediction-markets-taxed-the-irs-hasnt-provided-guidance-yet.html"
+  },
+  {
+    "id": "rss-economy-4e2cf44debe860",
+    "title": "食品消費税1% 効果に不透明感も",
+    "summary": "食品消費税1% 効果に不透明感も",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-18T11:13:17.000Z",
+    "category": "economy",
+    "keywords": [
+      "食品消費税1%",
+      "効果に不透明感も"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6588426?source=rss"
+  },
+  {
+    "id": "rss-economy-21a573cca74d76",
+    "title": "栃木住宅倒壊 心肺停止の女性発見",
+    "summary": "栃木住宅倒壊 心肺停止の女性発見",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-18T10:56:38.000Z",
+    "category": "economy",
+    "keywords": [
+      "栃木住宅倒壊",
+      "心肺停止の女性発見"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6588427?source=rss"
+  },
+  {
+    "id": "rss-economy-fe2c57aa4d6760",
+    "title": "千葉 点滴殺人 患者は過去に担当変更希望か",
+    "summary": "千葉県柏市の病院で患者の点滴に排せつ物を混入させて殺害したとして元職員が逮捕された事件で、死亡した患者が過去に病院に対して「元職員を自分の担当から替えてほしい」などと求めたことがあったことが捜査関係者…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-18T10:25:03.000Z",
+    "category": "economy",
+    "keywords": [
+      "千葉",
+      "点滴殺人",
+      "患者は過去に担当変更希望か"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015180381000"
+  },
+  {
+    "id": "rss-economy-c2f26826d7ce86",
+    "title": "3歳女の子が乗用車にはねられ重体 運転手を逮捕 新潟 燕市",
+    "summary": "18日午後、新潟県燕市にある商業施設の駐車場の出入り口近くで、3歳の女の子が乗用車にはねられ意識不明の重体になっています。警察は乗用車を運転していた47歳の会社員を逮捕し、詳しい状況を調べています。",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-18T10:00:09.000Z",
+    "category": "economy",
+    "keywords": [
+      "3歳女の子が乗用車にはねられ重体",
+      "運転手を逮捕",
+      "新潟",
+      "燕市"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015180391000"
+  },
+  {
+    "id": "rss-economy-1c6e26b187a271",
+    "title": "広範囲で大気の状態不安定 北海道 東北20日にかけ大雨のおそれ",
+    "summary": "湿った空気の影響で、北日本から西日本の広い範囲で大気の状態が不安定になっていて、特に北海道と東北ではこれから20日にかけて大雨になるおそれがあります。気象庁は土砂災害や低い土地の浸水などに十分注意する…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-18T09:48:56.000Z",
+    "category": "economy",
+    "keywords": [
+      "広範囲で大気の状態不安定",
+      "北海道",
+      "東北20日にかけ大雨のおそれ"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015179941000"
+  },
+  {
+    "id": "rss-market-d19d580913132a",
+    "title": "U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping",
+    "summary": "U.S. Central Command says it continues to enforce a naval blockade against Iran, while Kuwait and Bahrain say they have intercepted more Iranian projectiles.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-07-18T09:38:37.000Z",
+    "category": "market",
+    "keywords": [
+      "military",
+      "completed",
+      "latest",
+      "round",
+      "strikes"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html"
+  },
+  {
+    "id": "rss-economy-e4527f873f3b64",
+    "title": "京アニ事件7年 犠牲者の兄の後悔",
+    "summary": "京アニ事件7年 犠牲者の兄の後悔",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-18T09:14:26.000Z",
+    "category": "economy",
+    "keywords": [
+      "京アニ事件7年",
+      "犠牲者の兄の後悔"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6588414?source=rss"
+  },
+  {
+    "id": "rss-ai_theory-bc02c6b370cff1",
+    "title": "無料でWindows・macOS・Linux用のデスクトップ同期アプリとセルフホスト可能なサーバーアプリでファイルの双方向と一方向同期・自動バックグラウンド同期などが複数ユーザーで可能な「Sync-in」",
+    "summary": "会社や組織など複数人でファイルを共有する際にセキュリティの規約などでクラウドサービスが利用できないケースがあります。そういう時に使えるのが「Sync-in」、セルフホスト可能なファイルサーバーとなっており、Windows・macOS・Linux用クライアントからファイルの双方向と一方向同期・自動バックグラウンド同期などが複数ユーザーで利用できます。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-18T09:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "無料でWindows",
+      "macOS"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260718-sync-in/"
+  },
+  {
+    "id": "rss-ai_theory-62b54b4ceaa437",
+    "title": "AWSで数兆円規模の使用量が表示される問題が発生中",
+    "summary": "Amazon Web Service(AWS)の料金請求システムで問題が発生し、多くのユーザーの料金画面に数兆円規模の請求額が表示される事態が発生しています。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-18T08:14:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "AWSで数兆円規模の使用",
+      "模の使用量が表示される問",
+      "される問題が発生中"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260718-aws-billing/"
+  },
+  {
+    "id": "rss-ai_theory-d5c963289b2dd8",
+    "title": "AppleとGoogleがアプリストアから「ヌード化アプリ」の削除を命じられる",
+    "summary": "アメリカ・カリフォルニア州サンフランシスコが、AppleとGoogleに対して写真に写っている人物の服を脱がせることができるいわゆる「ヌード化アプリ」をアプリストアから削除するよう命じました。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-18T06:01:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "AppleとGoogle",
+      "ogleがアプリストアか",
+      "ストアから「ヌード化アプ",
+      "ド化アプリ」の削除を命じ",
+      "除を命じられる"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260718-apple-google-ordered-purge-nudify-apps/"
+  },
+  {
+    "id": "rss-economy-dc3395b985e33e",
+    "title": "サッカーW杯 3位決定戦 勝敗とともに得点王争いにも注目",
+    "summary": "サッカーワールドカップ北中米大会は18日（日本時間19日）に3位決定戦が行われ、世界ランキング3位のフランスと世界4位のイングランドが対戦します。",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-18T05:02:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "サッカーW杯",
+      "3位決定戦",
+      "勝敗とともに得点王争いにも注目"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/na-k10015180191000"
+  },
+  {
+    "id": "rss-ai-676c823b6899d3",
+    "title": "Neil Rimer thinks the AI money is coming back out",
+    "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-07-18T04:47:25.000Z",
+    "category": "ai",
+    "keywords": [
+      "Neil",
+      "Rimer",
+      "thinks",
+      "money",
+      "coming"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+    "summaryJa": "Index Ventures の共同設立者であるベンチャーキャピタリストのニール・ライマー氏は、AI がシリコンバレーで生み出してきた歴史的な富は、自発的または非自発的に再分配される必要があると予測しています。"
+  },
+  {
+    "id": "rss-ai_theory-f243ed5118fb62",
+    "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
+    "summary": "arXiv:2607.14093v1 Announce Type: new Abstract: This paper presents a novel three level hierarchical learning architecture for autonomous UAV swarms performing search and rescue operations. Unlike conventional approaches that apply a single learning paradigm across all hierarchy levels, the proposed architecture integrates three qualitatively different learning mechanisms corresponding to the biological hierarchy of reflexes, skills, and reasoning such as Hebbian neuroplasticity for individual agent adaptation, multi agent reinforcement learning with graph neural networks and behavior trees for tactical coordination, and model agnostic meta learning with BDI reasoning and a digital twin for strategic decision making. The architecture is formalized through twenty two arc",
+    "sourceName": "arXiv cs.AI",
+    "sourceIcon": "◆",
+    "publishedAt": "2026-07-18T04:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "Intelligent",
+      "Three",
+      "Level",
+      "Learning",
+      "Architecture"
+    ],
+    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
+    "isNew": true,
+    "url": "https://arxiv.org/abs/2607.14093",
+    "summaryJa": "arXiv:2607.14093v1 発表タイプ: 新しい要約: この論文は、捜索救助活動を実行する自律型 UAV 群のための新しい 3 レベルの階層学習アーキテクチャを紹介します。すべての階層レベルにわたって単一の学習パラダイムを適用する従来のアプローチとは異なり、提案されたアーキテクチャは、個々のエージェント適応のためのヘビアン神経可塑性、戦術調整のためのグラフニューラルネットワークとビヘイビアツリーによるマルチエージェント強化学習、モデル不可知など、反射、スキル、および推論の生物学的階層に対応する3つの質的に異なる学習メカニズムを統合します。"
+  },
+  {
+    "id": "rss-ai_theory-fd55b43218dd4f",
+    "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
+    "summary": "arXiv:2607.14095v1 Announce Type: new Abstract: Retrieval Augmented Generation (RAG) has proven to be a widely successful process at improving the quality of outputs from a Large Language Model (LLM) for wider context. However, RAG systems typically retrieve context from flat document stores, which struggles when queries require hierarchical or relational reasoning across structured knowledge. I present HG-RAG (Hierarchy-Guided RAG), a framework that performs graph-traversal over a hierarchical knowledge graph to deliver structured context to a language model. My retrieval pipeline resolves a named entity anchor from the query, then expands context upward through parent nodes, laterally through relational neighbors, and downward through child nodes when needed. I evalua",
+    "sourceName": "arXiv cs.AI",
+    "sourceIcon": "◆",
+    "publishedAt": "2026-07-18T04:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "HG-RAG",
+      "Hierarchy-Guided",
+      "Retrieval-Augmented",
+      "Generation",
+      "Structured"
+    ],
+    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
+    "isNew": true,
+    "url": "https://arxiv.org/abs/2607.14095",
+    "summaryJa": "arXiv:2607.14095v1 発表タイプ: 新しい要約: 検索拡張生成 (RAG) は、より広範なコンテキストに対応する大規模言語モデル (LLM) からの出力の品質を向上させる上で広く成功しているプロセスであることが証明されています。ただし、RAG システムは通常、フラットなドキュメント ストアからコンテキストを取得するため、クエリで構造化された知識全体にわたる階層的推論やリレーショナル推論が必要な場合に困難を伴います。私は HG-RAG (Hierarchy-Guided RAG) を紹介します。これは、階層ナレッジ グラフ上でグラフ トラバーサルを実行し、構造化されたコンテキストを言語モデルに提供するフレームワークです。私の取得パイプラインはクエリから名前付きエンティティ アンカーを解決し、"
+  },
+  {
+    "id": "rss-ai_theory-ad20b17a178439",
+    "title": "IMEX Interaction-Based Model Explanation",
+    "summary": "arXiv:2607.14096v1 Announce Type: new Abstract: In predictive modeling, the ability to explain why a model produces a given target prediction has become increasingly important [5, 10]. Black-box models do not provide a transparent description of the internal mechanisms that generate the prediction, making even accurate predictions difficult to interpret and validate. In critical contexts, predictive accuracy alone is not a sufficient validation metric if the reasons underlying model decisions remain unexplained. The IMEX (Interaction-Based Model Explanation) approach represents a methodological direction within explainable predictive modeling. IMEX is designed to identify which variables contribute most to the target prediction and which interactions among variables are",
+    "sourceName": "arXiv cs.AI",
+    "sourceIcon": "◆",
+    "publishedAt": "2026-07-18T04:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "IMEX",
+      "Interaction-Based",
+      "Model",
+      "Explanation"
+    ],
+    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
+    "isNew": true,
+    "url": "https://arxiv.org/abs/2607.14096",
+    "summaryJa": "arXiv:2607.14096v1 発表タイプ: 新しい要約: 予測モデリングでは、モデルが特定のターゲット予測を生成する理由を説明する能力がますます重要になっています [5、10]。ブラックボックス モデルでは、予測を生成する内部メカニズムの透明な説明が提供されないため、正確な予測であっても解釈と検証が困難になります。重要な状況において、モデル決定の根底にある理由が説明されていない場合、予測精度だけでは十分な検証指標とはなりません。 IMEX (インタラクションベースのモデル説明) アプローチは、説明可能な予測における方法論の方向性を表します。"
+  },
+  {
+    "id": "rss-ai_theory-8e27b3b86b1fd5",
+    "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
+    "summary": "arXiv:2607.14097v1 Announce Type: new Abstract: We introduce RegNetAgents, an AI-oriented multi-agent framework for structured, query-driven regulatory candidate identification across heterogeneous gene regulatory networks. The system enables unified analysis of bulk tumor and single-cell-derived ARACNe networks by integrating TCGA-derived cancer networks with large-scale single-cell regulatory networks from the GREmLN project. For a given focal gene, the framework performs dual-network classification, cancer gene filtering using OncoKB annotations, and mode-of-action (MoA) assignment for tumor-derived regulatory relationships. Candidates are ranked by evidence consistency across networks (Both, TCGA-only, GREmLN-only). The system is implemented as a multi-agent LangGra",
+    "sourceName": "arXiv cs.AI",
+    "sourceIcon": "◆",
+    "publishedAt": "2026-07-18T04:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "RegNetAgents",
+      "Multi-Agent",
+      "Framework",
+      "Cross-Network",
+      "Regulatory"
+    ],
+    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
+    "isNew": true,
+    "url": "https://arxiv.org/abs/2607.14097",
+    "summaryJa": "arXiv:2607.14097v1 発表の種類: 新しい要約: 異種遺伝子制御ネットワーク全体で構造化されたクエリ駆動の制御候補を同定するための AI 指向のマルチエージェント フレームワークである RegNetAgents を紹介します。このシステムは、TCGA 由来のがんネットワークと GREmLN プロジェクトの大規模な単細胞制御ネットワークを統合することにより、バルク腫瘍および単細胞由来 ARACNe ネットワークの統合分析を可能にします。特定の焦点遺伝子について、フレームワークはデュアルネットワーク分類、OncoKB アノテーションを使用したがん遺伝子フィルタリング、および腫瘍由来の制御関係の作用機序 (MoA) 割り当てを実行します。カンド"
+  },
+  {
+    "id": "rss-ai_theory-b2a0194e91adab",
+    "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
+    "summary": "arXiv:2607.14115v1 Announce Type: new Abstract: Inspired by how humans communicate spatial information, language-guided geo-localization has gained significant traction for its intuitive and practical value. Despite this progress, most methods still rely on a static, one-shot retrieval paradigm, which fails to handle the ambiguity and incompleteness inherent in real-world natural language descriptions. We propose a paradigm shift to reasoning retrieval and introduce Dialogue Place Recognition (DlgPR), which casts localization as an interactive, dialogue-driven reasoning process. To support this new task, we present DlgQuest-Cities, the first large-scale dialogue-based benchmark for place recognition, and a unified reasoning framework that couples a cross-modal multi-lev",
+    "sourceName": "arXiv cs.AI",
+    "sourceIcon": "◆",
+    "publishedAt": "2026-07-18T04:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "DialogueVPR",
+      "Towards",
+      "Conversational",
+      "Visual",
+      "Place"
+    ],
+    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
+    "isNew": true,
+    "url": "https://arxiv.org/abs/2607.14115",
+    "summaryJa": "arXiv:2607.14115v1 発表の種類: 新しい要約: 人間が空間情報を伝達する方法からインスピレーションを得た、言語ガイドによる地理ローカリゼーションは、その直観的かつ実用的な価値により大きな注目を集めています。このような進歩にもかかわらず、ほとんどの手法は依然として静的なワンショット検索パラダイムに依存しており、現実世界の自然言語記述に固有のあいまいさと不完全さを処理できません。我々は、推論検索へのパラダイムシフトを提案し、対話型の対話主導型推論プロセスとしてローカリゼーションをキャストする対話場所認識 (DlgPR) を導入します。この新しいタスクをサポートするために、DlgQuest-Cities を紹介します。"
+  },
+  {
+    "id": "rss-economy-32b58f329d140d",
+    "title": "国土拡張の野心はトランプだけではなかった 1803年｢史上最大のバーゲン｣と言われた\"ルイジアナ買収\"の舞台裏 | ライフ | 東洋経済オンライン",
+    "summary": "独立宣言の起草者ジェファソンは､｢史上最大のバーゲン｣とも称されるルイジアナ買収を遂げ､アメリカの国土を2倍に拡大しました。なぜフランスはこの広大な土地を手放したのか､そして彼の決断の舞台裏には何が…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-07-18T04:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "国土拡張の野心はトランプだけではなかった",
       "ライフ",
       "東洋経済オンライン"
     ],
     "bannerClass": "from-green-950 to-emerald-900",
     "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/951007?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    "url": "https://toyokeizai.net/articles/-/950620?utm_source=rss&utm_medium=http&utm_campaign=link_back"
   },
   {
-    "id": "rss-economy-fac1b290d9a75c",
-    "title": "日本でiPhone値上げ 円安反映か",
-    "summary": "日本でiPhone値上げ 円安反映か",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-18T00:56:30.000Z",
-    "category": "economy",
-    "keywords": [
-      "日本でiPhone値上げ",
-      "円安反映か"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6588364?source=rss"
-  },
-  {
-    "id": "rss-economy-ed626833529ab4",
-    "title": "｢さよなら世界ッ!!｣ \"脆い屋根ガラス\"を突き破り落下か…死を覚悟した元教師の運命 漫画｢高みの鷹見さん｣（第3話） | ライフ | 東洋経済オンライン",
-    "summary": "ガラス清掃員でも実は怖い!? 特殊な高所窓拭き。漫画『高みの鷹見さん』（集英社）よりお届けします。",
+    "id": "rss-economy-edecc5925da3a8",
+    "title": "｢子4人＋犬猫と暮らす家｣ついに\"魔窟部屋\"を片付けると決意した日…漫画『私だけが頑張る片付けはもうごめんだ』第1話 | ライフ | 東洋経済オンライン",
+    "summary": "目指すは（映えなくてもいいから） 家族全員ができる片付けーー。子ども4人＋犬猫で毎日カオス！片付けても5分で床がジャングル化……原因は、“子供に無理なやり方”でした。子どもの動きに合わせて片付けの仕…",
     "sourceName": "東洋経済オンライン",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-18T00:30:00.000Z",
+    "publishedAt": "2026-07-18T03:00:00.000Z",
     "category": "economy",
     "keywords": [
-      "｢さよなら世界ッ",
-      "\"脆い屋根ガラス\"を突き破り落下か",
-      "死を覚悟した元教師の運命",
-      "漫画｢高みの鷹見さん｣（第3話）",
-      "ライフ"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/949683?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-3f7afa2273dfc7",
-    "title": "アメリカとイラン 覚書署名から1か月 合意形がい化で被害拡大",
-    "summary": "アメリカとイランが戦闘終結に向けた覚書に署名して1か月となりますが、この1週間は連日、攻撃の応酬が続いています。湾岸諸国でもインフラ施設が被害を受け、覚書が形がい化しつつあるなか、さらなる事態の悪化が…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-18T00:16:57.000Z",
-    "category": "economy",
-    "keywords": [
-      "アメリカとイラン",
-      "覚書署名から1か月",
-      "合意形がい化で被害拡大"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015179971000"
-  },
-  {
-    "id": "rss-economy-2855bfb34d9d5c",
-    "title": "自転車の子乗せ 範囲拡大への警鐘",
-    "summary": "自転車の子乗せ 範囲拡大への警鐘",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-18T00:04:32.000Z",
-    "category": "economy",
-    "keywords": [
-      "自転車の子乗せ",
-      "範囲拡大への警鐘"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6588361?source=rss"
-  },
-  {
-    "id": "rss-economy-cb43fba3bbf0a4",
-    "title": "編集部厳選､注目の経済ニュース！【7月18日】 今週のトピックス＆来週のスケジュール | ビジネス | 東洋経済オンライン",
-    "summary": "東洋経済オンライン有料会員の皆様に､注目のスケジュールやトピックスをお届けします。",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-18T00:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "編集部厳選､注目の経済ニュース",
-      "【7月18日】",
-      "今週のトピックス＆来週のスケジュール",
-      "ビジネス",
+      "漫画『私だけが頑張る片付けはもうごめんだ』第1話",
+      "ライフ",
       "東洋経済オンライン"
     ],
     "bannerClass": "from-green-950 to-emerald-900",
     "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/951932?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    "url": "https://toyokeizai.net/articles/-/950678?utm_source=rss&utm_medium=http&utm_campaign=link_back"
   },
   {
-    "id": "rss-economy-e08038f14675a4",
-    "title": "自衛官に降伏より死を迫る高市首相に盲従する防衛省･自衛隊､経歴疑惑も調べず｢戦艦｣答弁も訂正しない組織は大丈夫か | 政治・経済・投資 | 東洋経済オンライン",
-    "summary": "高市早苗首相の｢米連邦議会立法調査員｣という経歴をめぐる疑惑は､国会での追及や国民の不信感に発展しています。もし経歴詐称が事実なら､文民統制や自衛隊の士気にも重大な影響が及ぶでしょう。それにもかかわ…",
+    "id": "rss-economy-28afbc3908e3f0",
+    "title": "森にいるだけで免疫が強化される…？ ｢森林浴｣がもたらす驚異的な効果 ｢抗がんタンパク質｣が48％増加した例も | ライフ | 東洋経済オンライン",
+    "summary": "都市生活によるストレスは､知らぬ間に私たちの免疫に影響を与えています。しかし､森で数日過ごすだけで抗がん作用のある免疫細胞やタンパク質が大幅に増加する事実をご存知ですか？",
     "sourceName": "東洋経済オンライン",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-18T00:00:00.000Z",
+    "publishedAt": "2026-07-18T02:30:00.000Z",
     "category": "economy",
     "keywords": [
-      "政治",
-      "経済",
-      "投資",
+      "森にいるだけで免疫が強化される",
+      "｢森林浴｣がもたらす驚異的な効果",
+      "｢抗がんタンパク質｣が48％増加した例も",
+      "ライフ",
       "東洋経済オンライン"
     ],
     "bannerClass": "from-green-950 to-emerald-900",
     "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/951455?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    "url": "https://toyokeizai.net/articles/-/951608?utm_source=rss&utm_medium=http&utm_campaign=link_back"
   },
   {
-    "id": "rss-economy-d82295dbdec589",
-    "title": "奈良女性2人遺体 男「1人で遺棄」",
-    "summary": "奈良女性2人遺体 男「1人で遺棄」",
-    "sourceName": "Yahoo!ニュース",
+    "id": "rss-economy-82486748af6fb4",
+    "title": "｢信長死んじゃったけどどうする…？｣織田の家臣がひよるなかで秀吉が下した\"大きな決断\" | キャリア・教育 | 東洋経済オンライン",
+    "summary": "本能寺の変による織田信長の突然の死は､家臣や諸大名に衝撃を与えました。大混乱が起きるなかで､秀吉はどのような判断を下したのでしょうか。",
+    "sourceName": "東洋経済オンライン",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-17T23:51:49.000Z",
+    "publishedAt": "2026-07-18T02:00:00.000Z",
     "category": "economy",
     "keywords": [
-      "奈良女性2人遺体",
-      "男「1人で遺棄」"
+      "｢信長死んじゃったけどどうする",
+      "キャリア",
+      "教育",
+      "東洋経済オンライン"
     ],
-    "bannerClass": "from-amber-900 to-orange-950",
+    "bannerClass": "from-green-950 to-emerald-900",
     "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6588359?source=rss"
+    "url": "https://toyokeizai.net/articles/-/951155?utm_source=rss&utm_medium=http&utm_campaign=link_back"
   },
   {
-    "id": "rss-economy-699b5508ba4b7a",
-    "title": "ナスダック株価指数 一時2％超の下落 中国AIへの警戒感で売り",
-    "summary": "17日のニューヨーク株式市場では、中国の新興企業が新たなAIモデルを発表したことでアメリカ企業によるAIへの巨額投資などに対する懸念から売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は一…",
-    "sourceName": "NHKニュース",
+    "id": "rss-economy-3554ebbd081fb0",
+    "title": "｢京大に首席合格した著者｣｢科学的エビデンス｣東大生が読んでいる\"本質的な勉強法がわかる本\"3冊 | キャリア・教育 | 東洋経済オンライン",
+    "summary": "書店やネットには｢勉強法｣の情報があふれ､何が正しいのか迷った経験はありませんか？ 東大生への取材を通じて見えてきた､根拠ある学び方の重要性。そのヒントとなる､科学的で実践的な3冊の本を詳しく解説し…",
+    "sourceName": "東洋経済オンライン",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-17T23:15:16.000Z",
+    "publishedAt": "2026-07-18T01:30:00.000Z",
     "category": "economy",
     "keywords": [
-      "ナスダック株価指数",
-      "一時2％超の下落",
-      "中国AIへの警戒感で売り"
+      "キャリア",
+      "教育",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/950360?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-4b2f82098a5956",
+    "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
+    "summary": "It's a small but growing problem in the property market - here's how to protect yourself.",
+    "sourceName": "BBC Business",
+    "sourceIcon": "¥",
+    "publishedAt": "2026-07-18T01:14:53.000Z",
+    "category": "economy",
+    "keywords": [
+      "buyers",
+      "dropped",
+      "offer",
+      "000",
+      "exchange"
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015180051000"
-  },
-  {
-    "id": "rss-market-3cbba401c1cc29",
-    "title": "The White House is dictating access to frontier AI models, shifting power from tech giants, sources say",
-    "summary": "The Trump administration is taking steps to control who gets access to the latest frontier models, people familiar with the matter told CNBC.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-07-17T23:10:07.000Z",
-    "category": "market",
-    "keywords": [
-      "White",
-      "House",
-      "dictating",
-      "access",
-      "frontier"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html"
-  },
-  {
-    "id": "rss-market-b38cf666a20623",
-    "title": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs",
-    "summary": "The smoke coming from active wildfires in Canada has led to unhealthy air quality in swaths of the U.S., which could affect the World Cup final in New Jersey.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-07-17T23:08:24.000Z",
-    "category": "market",
-    "keywords": [
-      "Trump",
-      "rips",
-      "Canada",
-      "wildfire",
-      "smoke"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/07/17/trump-canada-wildfire-tariffs.html"
+    "url": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
+    "summaryJa": "不動産市場では小さいながらも深刻化している問題です。身を守る方法をご紹介します。"
   },
   {
     "id": "rss-ai-403d5f6113d2f1",
@@ -701,24 +1018,6 @@
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/18/news005.html"
   },
   {
-    "id": "rss-ai_theory-0aa16273e340a7",
-    "title": "夏の気温上昇が若者の自殺率上昇と関連しているという研究結果",
-    "summary": "うだるような夏の暑さは人間の活力を低下させます。新たな研究で、夏の暑さが24歳以下の若者の自殺率上昇と関連していることが明らかになりました。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-17T23:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "夏の気温上昇が若者の自殺",
-      "者の自殺率上昇と関連して",
-      "関連しているという研究結",
-      "う研究結果"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260718-summer-heat-kinked-suicide-rates/"
-  },
-  {
     "id": "rss-ai-a3e7db222bbb2b",
     "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
     "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
@@ -737,25 +1036,6 @@
     "isNew": true,
     "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
     "summaryJa": "AI ワークフローからバッテリー寿命やセキュリティまで、Vertu の高級折りたたみ式デバイスを毎日使用するのが実際にどのようなものかをご紹介します。"
-  },
-  {
-    "id": "rss-market-3dec338350a3d5",
-    "title": "Taco Bell says it has removed lettuce linked to cyclosporiasis outbreak from its restaurants",
-    "summary": "Taco Bell, which the CDC linked to the cyclosporiasis outbreak, will likely recover soon from the health safety scare, according to analysts.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-07-17T22:16:23.000Z",
-    "category": "market",
-    "keywords": [
-      "Taco",
-      "Bell",
-      "removed",
-      "lettuce",
-      "linked"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/07/17/cyclosporiasis-outbreak-linked-to-taco-bell-may-not-have-major-impact.html"
   },
   {
     "id": "rss-ai-96ae61dffd1c9a",
@@ -778,25 +1058,6 @@
     "summaryJa": "Databricks は自社のイメージを AI 企業に作り変え、コーディング用のオープンウェイト AI モデルのコスト削減に関する研究を発表しました。"
   },
   {
-    "id": "rss-ai_theory-5f0af4c04aa1b1",
-    "title": "メジャーリーグで「ベンチ内でiPadを使って生成AIにアクセスする行為」が禁止に",
-    "summary": "2016年からMLB全チームのベンチに配備されているiPadについて、複数チームが試合中の戦略立案支援に利用しているとして、生成AIへのアクセスを禁止する措置が執られたことがわかりました。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-17T21:30:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "メジャーリーグで「ベンチ",
-      "「ベンチ内でiPadを使",
-      "adを使って生成AIにア",
-      "AIにアクセスする行為」",
-      "る行為」が禁止に"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260718-mlb-dugout-ipad-ai/"
-  },
-  {
     "id": "rss-ai-d9c610ddfa2170",
     "title": "The Zoom hack that says, ‘Don’t record me’",
     "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
@@ -814,80 +1075,6 @@
     "isNew": true,
     "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
     "summaryJa": "すべての会議、給湯器での会話、日付が文字に起こされて要約されるとしたら、実際にそれを読むのは誰でしょうか?"
-  },
-  {
-    "id": "rss-economy-1c6e26b187a271",
-    "title": "栃木 群馬で記録的大雨 きょうも北～西日本で雷雨か 十分注意",
-    "summary": "湿った空気の影響で、栃木県と群馬県では17日夕方から雨雲がかかり続けて記録的な大雨になり、土砂災害や浸水被害が相次ぎました。18日も北日本から西日本で雷雨のおそれがあり、特に北海道と青森県では月曜日に…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-17T21:13:58.000Z",
-    "category": "economy",
-    "keywords": [
-      "栃木",
-      "群馬で記録的大雨",
-      "きょうも北～西日本で雷雨か",
-      "十分注意"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015179941000"
-  },
-  {
-    "id": "rss-ai-46afdafa077d08",
-    "title": "Agility Robotics plants its flag in Tesla’s backyard",
-    "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-07-17T20:19:49.000Z",
-    "category": "ai",
-    "keywords": [
-      "Agility",
-      "Robotics",
-      "plants",
-      "flag",
-      "Tesla"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-    "summaryJa": "Agility は、カリフォルニア州フリーモントに Digit ロボットの新しいトレーニング センターを開設します。"
-  },
-  {
-    "id": "rss-economy-1ef76070a528df",
-    "title": "京アニ放火殺人事件から7年 死刑囚めぐり 遺族「早く結論を」",
-    "summary": "「京都アニメーション」のスタジオが放火され、社員36人が亡くなった事件から18日で7年です。青葉真司死刑囚をめぐっては、本人が行った控訴の取り下げが有効かどうか結論が出ておらず、遺族の1人は「7年たっ…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-17T20:04:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "京アニ放火殺人事件から7年",
-      "死刑囚めぐり",
-      "遺族「早く結論を」"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/na-k10015179541000"
-  },
-  {
-    "id": "rss-market-73f828cc4ad35e",
-    "title": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds",
-    "summary": "The public is as depressed about the economy as it has been since the years just after the pandemic, according to the All-America Economic Survey.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-07-17T19:49:17.000Z",
-    "category": "market",
-    "keywords": [
-      "Economic",
-      "outlook",
-      "worsening",
-      "Trump",
-      "getting"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/07/17/economic-outlook-is-worsening-and-trump-is-getting-blamed-cnbc-survey-finds.html"
   },
   {
     "id": "rss-economy-4072c61fa99731",
@@ -926,26 +1113,7 @@
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
     "url": "https://www.insurancejournal.com/news/southcentral/2026/07/17/878101.htm",
-    "summaryJa": "ソイラ・レイナさんは木曜日、カーヴィルにある自宅教会の洪水避難所での何時間もの人員配置から束の間の休息をとり、カルバリー・テンプル教会の外に立った。 「ほとんどが信じられないほどでした」と彼女は言いました。"
-  },
-  {
-    "id": "rss-economy-5ddc6689aab5c0",
-    "title": "China hits out at British Steel nationalisation",
-    "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-    "sourceName": "BBC Business",
-    "sourceIcon": "¥",
-    "publishedAt": "2026-07-17T16:44:22.000Z",
-    "category": "economy",
-    "keywords": [
-      "China",
-      "hits",
-      "British",
-      "Steel",
-      "nationalisation"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss"
+    "summaryJa": "ソイラ・レイナさんは木曜日、カーヴィルにある自宅教会の洪水避難所での何時間もの人員配置から一時休息をとり、カルバリー・テンプル教会の外に立った。 「ほとんどが信じられないほどでした」と彼女は言いました。"
   },
   {
     "id": "rss-economy-e1e28ed9a4b06a",
@@ -964,8 +1132,7 @@
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
-    "url": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno?at_medium=RSS&at_campaign=rss",
-    "summaryJa": "ジェームズ・ワット氏が元株主に連絡したと伝えられたことを受け、英国のデータ監視機関は苦情を受けている。"
+    "url": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "rss-insurance-a7c2bf761f292d",
@@ -1045,7 +1212,7 @@
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
     "url": "https://www.insurancejournal.com/news/national/2026/07/17/878079.htm",
-    "summaryJa": "トラベラーズの 2026 年第 2 四半期の純利益は、異常災害による損失の減少と前年の準備金の順調な推移により、46% 増加して約 22 億ドルとなりました。当四半期の大惨事による損失は、主に激しい嵐によるもので、5 億 1,800 万ドルだったのに対し、9 億 2,700 万ドルでした。"
+    "summaryJa": "トラベラーズの 2026 年第 2 四半期の純利益は、異常災害による損失の減少と前年の準備金の順調な開発により、46% 増加して約 22 億ドルとなりました。当四半期の大惨事による損失は、主に激しい嵐によるもので、5 億 1,800 万ドルだったのに対し、9 億 2,700 万ドルでした。"
   },
   {
     "id": "rss-insurance-c79f2759520ce1",
@@ -1065,7 +1232,7 @@
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
     "url": "https://www.insurancejournal.com/news/southeast/2026/07/17/878091.htm",
-    "summaryJa": "今週、フロリダ州キシミー市当局が今後数年間のエアタクシー/空飛ぶ自動車サービスをサポートするための新しいインフラストラクチャを発表したことで、待望の未来が少しだけ現在に近づきました。 「オーランドエリアからタンパまで2時間以内に行きます。」"
+    "summaryJa": "今週、フロリダ州キシミー市当局が今後数年間のエアタクシー/空飛ぶ自動車サービスをサポートするための新しいインフラを発表したことで、待望の未来が少しだけ現在に近づきました。 「オーランドエリアからタンパまで2時間以内に行きます。」"
   },
   {
     "id": "rss-insurance-9e11f62d5bd2fc",
@@ -1086,26 +1253,6 @@
     "isNew": true,
     "url": "https://www.reinsurancene.ws/munich-re-names-sabine-starbatty-as-cuo-agriculture-for-the-americas-europe/",
     "summaryJa": "世界的な再保険会社であり、一次保険およびリスクソリューションを提供するミュンヘン再保険は、2026年5月1日付けで、南北アメリカおよび欧州向け農業部門の最高引受責任者（CUO）にサビーネ・スターバティ氏を任命した。再保険会社は、北米については、現在退職するランバート・ミューア氏が担っている責任をスターバティが引き継ぐことを確認した[…] ミュンヘン再保険は、サビーネ・スターバティ氏を農業部門の最高引受責任者（CUO）に任命する。アメリカとヨーロッパは ReinsuranceNews に最初に登場しました。"
-  },
-  {
-    "id": "rss-insurance-bd0a6e80b47b49",
-    "title": "Texas Floods Kill Two, More Storms Forecast for Overnight",
-    "summary": "Mandatory evacuations across the Texas Hill Country are underway as life-threatening flash floods wreck bridges and roads with more heavy rain expected overnight. A wide swath of Texas is forecast to receive as much as eight inches (20 centimeters) of …",
-    "sourceName": "Insurance Journal",
-    "sourceIcon": "🛡️",
-    "publishedAt": "2026-07-17T15:28:30.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Texas",
-      "Floods",
-      "Kill",
-      "Storms",
-      "Forecast"
-    ],
-    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
-    "isNew": true,
-    "url": "https://www.insurancejournal.com/news/southcentral/2026/07/17/878086.htm",
-    "summaryJa": "生命を脅かす鉄砲水が橋や道路を破壊し、夜にかけてさらなる大雨が予想されるため、テキサス・ヒル・カントリー全域で強制避難が行われている。テキサス州の広い範囲で最大8インチ（20センチメートル）の雨が降ると予想されています。"
   },
   {
     "id": "rss-insurance-a35ad5fea8bc79",
@@ -1145,25 +1292,6 @@
     "sortBoost": 18
   },
   {
-    "id": "rss-ai_theory-d469d5aaef767c",
-    "title": "X/旧Twitterの自動投稿のスタイル変更でどれぐらい増えたかレポート＆2026年度6月分のGIGAZINEのアクセス解析結果はコレ！",
-    "summary": "お知らせその1。GIGAZINEのX(旧Twitter)公式アカウントではその日に更新された記事だけではなく、同月同日に掲載された過去記事を紹介するべく自動投稿しています。これまでこの自動投稿は「記事のタイトルと掲載年、記事のURLをポストする」というスタイルだったのですが、2026年4月から「まず記事のタイトルとトップ画像のみを投稿し、リプライする形で記事へのリンクをツリーにぶら下げる」というスタイルに変更しました。この変更でインプレッションやエンゲージがどう変わったのか、Xのアナリティクスデータの一部を公開します。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-17T15:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "X/旧Twitterの自",
-      "erの自動投稿のスタイル",
-      "スタイル変更でどれぐらい",
-      "れぐらい増えたかレポート",
-      "レポート＆2026年度6"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260718-access/"
-  },
-  {
     "id": "rss-insurance-d0637541bc2c31",
     "title": "Gallagher Securities highlights strong investor demand for Leadenhall’s Tranquil Re cat bond",
     "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Following the recent closure of the $75 million Arthur Re Ltd. – Tranquil Re 2026-1 catastrophe bond from ILS manager Leadenhall Capital Partners LLP for rated reinsurance platform Nectaris Re, executives from Gallagher Securities, who acted as Sole Structuring Agent and Bookrunner for the transaction, highlighted how the issuance received strong investor demand across the […] Gallagher Securities highlights strong investor demand for Leadenhall’s Tranquil Re cat bond was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
@@ -1201,7 +1329,7 @@
     "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
     "isNew": true,
     "url": "https://www.reinsurancene.ws/santam-re-appoints-izabela-stofberg-as-cuo/",
-    "summaryJa": "南アフリカの保険会社サンタム社の再保険部門であるサンタム・リ社は、最高引受責任者（CUO）にイザベラ・ストフバーグ氏を任命したと発表した。ストフバーグは、引受業務の専門知識と再保険能力への継続的な注力の一環として、新たな役割を担うことになる。彼女は、再保険および保険部門にわたって豊富な経験をもたらします。彼女は […] Santam Re が Izabela Stofberg を CUO に任命するという投稿が ReinsuranceNews に最初に掲載されました。"
+    "summaryJa": "南アフリカの保険会社サンタム社の再保険部門であるサンタム・リ社は、最高引受責任者（CUO）にイザベラ・ストフバーグ氏を任命したと発表した。ストフバーグは引受業務の専門知識と再保険能力への継続的な注力の一環として、新たな役割を担うことになる。彼女は、再保険および保険部門にわたって豊富な経験をもたらします。彼女は […] Santam Re が Izabela Stofberg を CUO に任命するという投稿が ReinsuranceNews に最初に掲載されました。"
   },
   {
     "id": "rss-insurance-3615f5ec24c7ba",
@@ -1244,25 +1372,6 @@
     "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。債券およびオルタナティブ・ソリューションのマネージャーであるセージ・アドバイザリー・サービシズのバイスプレジデント兼シニア・リサーチ・アナリストのアンドリュー・ポレダ氏は、新しいレポートの中で、カタストロフィ債が多くのリスク指標において優れた金融商品であることを強調し、アナリストは特に、最も必要なときに投資家にどのように分散を提供するかについて注目している。セージ・アドバイザリーは依然として […] カタストロフ債券は投資家が最も必要とするときに分散を提供します: ポレダ、セージ・アドバイザリーの発行者: www.Artemis.bm catastroph"
   },
   {
-    "id": "rss-market-276b9bacfb852a",
-    "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
-    "summary": "Chinese organized crime groups are making as much as $1 billion annually in tap-to-pay fraud schemes targeting retailers and banks.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-07-17T13:12:11.000Z",
-    "category": "market",
-    "keywords": [
-      "Inside",
-      "Chinese",
-      "fraud",
-      "rings",
-      "stealing"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html"
-  },
-  {
     "id": "rss-insurance-663852b9371ec7",
     "title": "Travelers renews Northeast property cat XoL on unchanged terms, drops Personal Insurance treaty at July 1",
     "summary": "US primary insurer Travelers’ Northeast Property Catastrophe Excess-of-Loss Reinsurance Treaty renewal at July 1st 2026 is unchanged from the prior year in terms of coverage and retention, while the carrier decided not to renew its Personal Insurance Catastrophe Excess-of-Loss Reinsurance Treaty, and secured more reinsurance from the capital markets. For 2026-2027, the Northeast Property Catastrophe […] The post Travelers renews Northeast property cat XoL on unchanged terms, drops Personal Insurance treaty at July 1 appeared first on ReinsuranceNe.ws.",
@@ -1281,25 +1390,6 @@
     "isNew": true,
     "url": "https://www.reinsurancene.ws/travelers-renews-northeast-property-cat-xol-on-unchanged-terms-drops-personal-insurance-treaty-at-july-1/",
     "summaryJa": "米国の元次保険会社トラベラーズの北東不動産大災害超過損失再保険条約の2026年7月1日更新は、補償範囲と保有期間の点で前年と変わらないが、同航空会社は個人保険大惨事超過損失再保険条約を更新しないことを決定し、資本市場からより多くの再保険を確保した。 2026年から2027年にかけて、北東部の不動産大惨事 […] The post トラベラーズ、北東部の不動産猫 XoL を変更なしの条件で更新、7 月 1 日に個人保険協定を廃止 最初に ReinsuranceNe.ws に登場しました。"
-  },
-  {
-    "id": "rss-ai_theory-c906d7f533642e",
-    "title": "AI音楽生成サービス「Suno」がYouTubeやDeezerから数百万曲をスクレイピングしていたことが流出したソースコードから判明",
-    "summary": "AI音楽生成サービス「Suno」から流出したとされるソースコードにより、SunoがYouTube MusicやDeezer、Geniusなどから数百万件の楽曲や歌詞を収集し、AIモデルの学習データを構築していた具体的な手法が明らかになりました。コードには、対象となるサービス名や収集済みデータの規模に加え、YouTubeから音声を取得するために外部のプロキシサービスを利用していた形跡も残されていました。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-17T13:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "AI音楽生成サービス「S",
-      "ビス「Suno」がYou",
-      "がYouTubeやDee",
-      "やDeezerから数百万",
-      "ら数百万曲をスクレイピン"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260717-suno-scraping-from-youtube-deezer/"
   },
   {
     "id": "rss-insurance-955c3fb337c0ba",
@@ -1399,105 +1489,6 @@
     "isNew": true,
     "url": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
     "summaryJa": "経済誌編集者のファイサル・イスラム氏は、北西部の都市が国全体の雛形となり得るかどうかを検討している。"
-  },
-  {
-    "id": "rss-ai_theory-f243ed5118fb62",
-    "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
-    "summary": "arXiv:2607.14093v1 Announce Type: new Abstract: This paper presents a novel three level hierarchical learning architecture for autonomous UAV swarms performing search and rescue operations. Unlike conventional approaches that apply a single learning paradigm across all hierarchy levels, the proposed architecture integrates three qualitatively different learning mechanisms corresponding to the biological hierarchy of reflexes, skills, and reasoning such as Hebbian neuroplasticity for individual agent adaptation, multi agent reinforcement learning with graph neural networks and behavior trees for tactical coordination, and model agnostic meta learning with BDI reasoning and a digital twin for strategic decision making. The architecture is formalized through twenty two arc",
-    "sourceName": "arXiv cs.AI",
-    "sourceIcon": "◆",
-    "publishedAt": "2026-07-17T04:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "Intelligent",
-      "Three",
-      "Level",
-      "Learning",
-      "Architecture"
-    ],
-    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
-    "isNew": true,
-    "url": "https://arxiv.org/abs/2607.14093",
-    "summaryJa": "arXiv:2607.14093v1 発表タイプ: 新しい要約: この論文は、捜索救助活動を実行する自律型 UAV 群のための新しい 3 レベルの階層学習アーキテクチャを紹介します。すべての階層レベルにわたって単一の学習パラダイムを適用する従来のアプローチとは異なり、提案されたアーキテクチャは、個々のエージェント適応のためのヘビアン神経可塑性、戦術調整のためのグラフニューラルネットワークとビヘイビアツリーを使用したマルチエージェント強化学習、モデル不可知など、反射、スキル、および推論の生物学的階層に対応する3つの質的に異なる学習メカニズムを統合します。"
-  },
-  {
-    "id": "rss-ai_theory-fd55b43218dd4f",
-    "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
-    "summary": "arXiv:2607.14095v1 Announce Type: new Abstract: Retrieval Augmented Generation (RAG) has proven to be a widely successful process at improving the quality of outputs from a Large Language Model (LLM) for wider context. However, RAG systems typically retrieve context from flat document stores, which struggles when queries require hierarchical or relational reasoning across structured knowledge. I present HG-RAG (Hierarchy-Guided RAG), a framework that performs graph-traversal over a hierarchical knowledge graph to deliver structured context to a language model. My retrieval pipeline resolves a named entity anchor from the query, then expands context upward through parent nodes, laterally through relational neighbors, and downward through child nodes when needed. I evalua",
-    "sourceName": "arXiv cs.AI",
-    "sourceIcon": "◆",
-    "publishedAt": "2026-07-17T04:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "HG-RAG",
-      "Hierarchy-Guided",
-      "Retrieval-Augmented",
-      "Generation",
-      "Structured"
-    ],
-    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
-    "isNew": true,
-    "url": "https://arxiv.org/abs/2607.14095",
-    "summaryJa": "arXiv:2607.14095v1 発表タイプ: 新しい要約: 検索拡張生成 (RAG) は、より広範なコンテキスト向けに大規模言語モデル (LLM) からの出力の品質を向上させる上で広く成功しているプロセスであることが証明されています。ただし、RAG システムは通常、フラットなドキュメント ストアからコンテキストを取得するため、クエリで構造化された知識全体にわたる階層的推論やリレーショナル推論が必要な場合に困難を伴います。私は HG-RAG (Hierarchy-Guided RAG) を紹介します。これは、階層ナレッジ グラフ上でグラフ トラバーサルを実行し、構造化されたコンテキストを言語モデルに提供するフレームワークです。私の取得パイプラインはクエリから名前付きエンティティ アンカーを解決し、"
-  },
-  {
-    "id": "rss-ai_theory-ad20b17a178439",
-    "title": "IMEX Interaction-Based Model Explanation",
-    "summary": "arXiv:2607.14096v1 Announce Type: new Abstract: In predictive modeling, the ability to explain why a model produces a given target prediction has become increasingly important [5, 10]. Black-box models do not provide a transparent description of the internal mechanisms that generate the prediction, making even accurate predictions difficult to interpret and validate. In critical contexts, predictive accuracy alone is not a sufficient validation metric if the reasons underlying model decisions remain unexplained. The IMEX (Interaction-Based Model Explanation) approach represents a methodological direction within explainable predictive modeling. IMEX is designed to identify which variables contribute most to the target prediction and which interactions among variables are",
-    "sourceName": "arXiv cs.AI",
-    "sourceIcon": "◆",
-    "publishedAt": "2026-07-17T04:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "IMEX",
-      "Interaction-Based",
-      "Model",
-      "Explanation"
-    ],
-    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
-    "isNew": true,
-    "url": "https://arxiv.org/abs/2607.14096",
-    "summaryJa": "arXiv:2607.14096v1 発表タイプ: 新しい要約: 予測モデリングでは、モデルが特定のターゲット予測を生成する理由を説明する能力がますます重要になっています [5、10]。ブラックボックス モデルでは、予測を生成する内部メカニズムの透明な説明が提供されないため、正確な予測であっても解釈と検証が困難になります。重要な状況において、モデル決定の根底にある理由が説明されていない場合、予測精度だけでは十分な検証指標とはなりません。 IMEX (インタラクションベースのモデル説明) アプローチは、説明可能な予測における方法論の方向性を表します。"
-  },
-  {
-    "id": "rss-ai_theory-8e27b3b86b1fd5",
-    "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
-    "summary": "arXiv:2607.14097v1 Announce Type: new Abstract: We introduce RegNetAgents, an AI-oriented multi-agent framework for structured, query-driven regulatory candidate identification across heterogeneous gene regulatory networks. The system enables unified analysis of bulk tumor and single-cell-derived ARACNe networks by integrating TCGA-derived cancer networks with large-scale single-cell regulatory networks from the GREmLN project. For a given focal gene, the framework performs dual-network classification, cancer gene filtering using OncoKB annotations, and mode-of-action (MoA) assignment for tumor-derived regulatory relationships. Candidates are ranked by evidence consistency across networks (Both, TCGA-only, GREmLN-only). The system is implemented as a multi-agent LangGra",
-    "sourceName": "arXiv cs.AI",
-    "sourceIcon": "◆",
-    "publishedAt": "2026-07-17T04:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "RegNetAgents",
-      "Multi-Agent",
-      "Framework",
-      "Cross-Network",
-      "Regulatory"
-    ],
-    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
-    "isNew": true,
-    "url": "https://arxiv.org/abs/2607.14097",
-    "summaryJa": "arXiv:2607.14097v1 発表の種類: 新しい要約: 異種遺伝子制御ネットワーク全体で構造化されたクエリ駆動の制御候補を同定するための AI 指向のマルチエージェント フレームワークである RegNetAgents を紹介します。このシステムは、TCGA 由来のがんネットワークと GREmLN プロジェクトの大規模な単細胞制御ネットワークを統合することにより、バルク腫瘍および単細胞由来 ARACNe ネットワークの統合分析を可能にします。特定の焦点遺伝子について、フレームワークはデュアルネットワーク分類、OncoKB アノテーションを使用したがん遺伝子フィルタリング、および腫瘍由来の制御関係の作用機序 (MoA) 割り当てを実行します。カンド"
-  },
-  {
-    "id": "rss-ai_theory-b2a0194e91adab",
-    "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
-    "summary": "arXiv:2607.14115v1 Announce Type: new Abstract: Inspired by how humans communicate spatial information, language-guided geo-localization has gained significant traction for its intuitive and practical value. Despite this progress, most methods still rely on a static, one-shot retrieval paradigm, which fails to handle the ambiguity and incompleteness inherent in real-world natural language descriptions. We propose a paradigm shift to reasoning retrieval and introduce Dialogue Place Recognition (DlgPR), which casts localization as an interactive, dialogue-driven reasoning process. To support this new task, we present DlgQuest-Cities, the first large-scale dialogue-based benchmark for place recognition, and a unified reasoning framework that couples a cross-modal multi-lev",
-    "sourceName": "arXiv cs.AI",
-    "sourceIcon": "◆",
-    "publishedAt": "2026-07-17T04:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "DialogueVPR",
-      "Towards",
-      "Conversational",
-      "Visual",
-      "Place"
-    ],
-    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
-    "isNew": true,
-    "url": "https://arxiv.org/abs/2607.14115",
-    "summaryJa": "arXiv:2607.14115v1 発表の種類: 新しい要約: 人間が空間情報を伝達する方法からインスピレーションを得た、言語ガイドによる地理ローカリゼーションは、その直観的かつ実用的な価値により大きな注目を集めています。このような進歩にもかかわらず、ほとんどの手法は依然として静的なワンショット検索パラダイムに依存しており、現実世界の自然言語記述に固有のあいまいさと不完全さを処理できません。我々は、推論検索へのパラダイムシフトを提案し、対話型の対話主導型推論プロセスとしてローカリゼーションをキャストする対話場所認識 (DlgPR) を導入します。この新しいタスクをサポートするために、DlgQuest-Cities を紹介します。"
   },
   {
     "id": "rss-ai-8f7820225be873",
