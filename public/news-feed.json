@@ -188,7 +188,7 @@
       "熊本地震災害義援金」を追"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260814-5/",
     "sortBoost": 5
   },
@@ -206,7 +206,7 @@
       "利用者に共済契約上の特別措置等を実施"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260814-4/",
     "sortBoost": 5
   },
@@ -226,7 +226,7 @@
       "グランツーリスモ７部門」"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260814-3/",
     "sortBoost": 5
   },
@@ -236,7 +236,7 @@
     "summary": "令和８年８月13日からの大雨に伴う災害等に対する金融上の措置について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-08-15T12:15:47.114Z",
+    "publishedAt": "2026-08-16T00:39:31.230Z",
     "category": "insurance",
     "keywords": [
       "令和８年８月13日からの",
@@ -255,7 +255,7 @@
     "summary": "つみたて投資枠対象商品に関する、様々な資料を掲載しています。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-08-15T12:15:47.114Z",
+    "publishedAt": "2026-08-16T00:39:31.230Z",
     "category": "insurance",
     "keywords": [
       "その他,つみたて投資枠対",
@@ -274,7 +274,7 @@
     "summary": "「インターネット取引サービスへの不正アクセス・不正取引にご注意ください」のページを更新しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-08-15T12:15:47.114Z",
+    "publishedAt": "2026-08-16T00:39:31.230Z",
     "category": "insurance",
     "keywords": [
       "「インターネット取引サービスへの不正アクセス",
@@ -290,7 +290,7 @@
     "summary": "人事異動（令和８年８月７日付）について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-08-15T12:15:47.114Z",
+    "publishedAt": "2026-08-16T00:39:31.230Z",
     "category": "insurance",
     "keywords": [
       "人事異動（令和８年８月７",
@@ -308,7 +308,7 @@
     "summary": "ＳＮＳ等におけるなりすまし詐欺広告に関する対策の強化について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-08-15T12:15:47.114Z",
+    "publishedAt": "2026-08-16T00:39:31.230Z",
     "category": "insurance",
     "keywords": [
       "ＳＮＳ等におけるなりすま",
@@ -327,7 +327,7 @@
     "summary": "「主要行等向けの総合的な監督指針」等の一部改正（案）について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-08-15T12:15:47.114Z",
+    "publishedAt": "2026-08-16T00:39:31.230Z",
     "category": "insurance",
     "keywords": [
       "「主要行等向けの総合的な",
@@ -346,7 +346,7 @@
     "summary": "採用,職員を募集しています。（金融モニタリング業務に従事する職員【弁護士または行政書士】）",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-08-15T12:15:47.114Z",
+    "publishedAt": "2026-08-16T00:39:31.230Z",
     "category": "insurance",
     "keywords": [
       "採用,職員を募集していま",
@@ -365,7 +365,7 @@
     "summary": "その他,令和８年熊本地震関連情報に関する特設ページを更新しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-08-15T12:15:47.114Z",
+    "publishedAt": "2026-08-16T00:39:31.230Z",
     "category": "insurance",
     "keywords": [
       "その他,令和８年熊本地震",
@@ -378,52 +378,282 @@
     "url": "https://www.fsa.go.jp/ordinary/earthquake202607/press.html"
   },
   {
-    "id": "rss-economy-ed7cc2adf0c4b2",
-    "title": "千葉豪雨の死者は9人に 県が発表",
-    "summary": "千葉豪雨の死者は9人に 県が発表",
-    "sourceName": "Yahoo!ニュース",
+    "id": "rss-economy-e6c424dc3ea56d",
+    "title": "秀吉も信長の葬儀に全力を注いだ…｢権力者の死｣で《弔いの主導権》が争われる\"納得の背景\" | キャリア・教育 | 東洋経済オンライン",
+    "summary": "｢秀吉を天下人にした男､豊臣秀長の実像｣の連載第35回は､秀吉が信長の葬儀に全力を注いだ理由について､真山知幸氏が解説します。",
+    "sourceName": "東洋経済オンライン",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-15T11:42:04.000Z",
+    "publishedAt": "2026-08-16T00:30:00.000Z",
     "category": "economy",
     "keywords": [
-      "千葉豪雨の死者は9人に",
-      "県が発表"
+      "秀吉も信長の葬儀に全力を注いだ",
+      "キャリア",
+      "教育",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/954400?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-8d51da14cd3da1",
+    "title": "粗悪なモバイル電池 会社の闇追跡",
+    "summary": "粗悪なモバイル電池 会社の闇追跡",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-16T00:02:54.000Z",
+    "category": "economy",
+    "keywords": [
+      "粗悪なモバイル電池",
+      "会社の闇追跡"
     ],
     "bannerClass": "from-amber-900 to-orange-950",
     "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6591863?source=rss"
+    "url": "https://news.yahoo.co.jp/pickup/6591902?source=rss"
   },
   {
-    "id": "rss-economy-4d37b4dd3025db",
-    "title": "戦後81年の終戦の日 政府主催の全国戦没者追悼式",
-    "summary": "15日で終戦から81年です。都内ではおよそ310万人の戦没者を慰霊する政府主催の全国戦没者追悼式が行われました。",
-    "sourceName": "NHKニュース",
+    "id": "rss-economy-c9c907165ced40",
+    "title": "｢東大卒でも社会で使えない奴はどうして生まれるのか？｣『御上先生』教育監修者が教育学的に解説してみた | ライフ | 東洋経済オンライン",
+    "summary": "学歴や成果では測れない｢使える頭のよさ｣とは何か――東大卒でも社会で活躍できない人がいる理由を､教育学者･中山芳一氏が｢学習転移｣の視点から解き明かします。知識や努力が次の場面で生かされる人の特長を…",
+    "sourceName": "東洋経済オンライン",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-15T11:17:27.000Z",
+    "publishedAt": "2026-08-16T00:00:00.000Z",
     "category": "economy",
     "keywords": [
-      "戦後81年の終戦の日",
-      "政府主催の全国戦没者追悼式"
+      "｣『御上先生』教育監修者が教育学的に解説してみた",
+      "ライフ",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/954303?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-9be8a6d02abd4b",
+    "title": "｢2週間前に土に埋めたネコを解剖してほしい｣…電話口から聞こえてきた女性の切実な訴え 言葉に滲んでいた彼女の真意 | ライフ | 東洋経済オンライン",
+    "summary": "｢2週間前に埋めたネコを､解剖してもらえませんか｣。電話口から聞こえてきた女性の切実な訴え。息を引き取った愛猫の遺体を､掘り起こしてまで解剖してほしいという､その言葉の裏に隠された真意とは――。",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-15T23:30:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "｢2週間前に土に埋めたネコを解剖してほしい｣",
+      "電話口から聞こえてきた女性の切実な訴え",
+      "言葉に滲んでいた彼女の真意",
+      "ライフ",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/954511?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-c04e0cac8a0239",
+    "title": "お盆休み後は熱中症リスク高 警戒",
+    "summary": "お盆休み後は熱中症リスク高 警戒",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-15T23:10:16.000Z",
+    "category": "economy",
+    "keywords": [
+      "お盆休み後は熱中症リスク高",
+      "警戒"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6591898?source=rss"
+  },
+  {
+    "id": "rss-ai-3925bacb0a8f0b",
+    "title": "ゼロトラストの壁は「製品」ではなかった トヨタが4年以上かけて見直したもの",
+    "summary": "サイバー攻撃への備えを「侵入を防ぐこと」だけで考えていないだろうか。ニチレイの事例が浮き彫りにしたのは、1社のシステム障害が取引先や顧客まで巻き込み、復旧の判断さえIT部門だけでは完結しない現実だ。では、企業は何を基準に「復旧」を考えるべきなのか。",
+    "sourceName": "ITmedia AI",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-15T23:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "ゼロトラストの壁は「製品」ではなかった",
+      "トヨタが4年以上かけて見直したもの"
+    ],
+    "bannerClass": "from-sky-900 to-slate-800",
+    "isNew": true,
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/16/news007.html"
+  },
+  {
+    "id": "rss-ai_theory-e435adf1438caf",
+    "title": "テクノロジー企業がデータセンターのエネルギーコストを負担しなければならないとする法案が進行中",
+    "summary": "アメリカではデータセンターの建設が相次いでおり、データセンターが過剰に電力を消費することで一般市民の電気代も上がるのではないか、という懸念が出ています。新たに、アメリカの下院エネルギー・商業委員会が、データセンターのエネルギーコストをテクノロジー企業に転嫁させる法案を全会一致で可決させたことが分かりました。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-15T23:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "テクノロジー企業がデータ",
+      "がデータセンターのエネル",
+      "のエネルギーコストを負担",
+      "トを負担しなければならな",
+      "ばならないとする法案が進"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260816-tech-company-pay-data-center-cost/"
+  },
+  {
+    "id": "rss-economy-e7c3d2ff8e6ad1",
+    "title": "\"路線バス廃止時代\"の救世主になるか？ 大阪市で全区展開｢AIオンデマンドバス｣が地域の交通インフラを変える日 | 政治・経済・投資 | 東洋経済オンライン",
+    "summary": "運転手不足などから､地域路線バスの減便や廃止が各地で相次いでいます。これへの有効な対策の1つとして考えられているのがオンデマンドバスです。大阪市の一部では社会実験の段階を終え､本格運行へ移行しました…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-15T23:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "\"路線バス廃止時代\"の救世主になるか",
+      "政治",
+      "経済",
+      "投資",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/954171?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-cc3ddd09f53e46",
+    "title": "中国船 尖閣周辺EEZで海洋調査か",
+    "summary": "中国船 尖閣周辺EEZで海洋調査か",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-15T22:54:50.000Z",
+    "category": "economy",
+    "keywords": [
+      "中国船",
+      "尖閣周辺EEZで海洋調査か"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6591895?source=rss"
+  },
+  {
+    "id": "rss-economy-c5cf8087986496",
+    "title": "SAトイレに急病人 対応に反響",
+    "summary": "SAトイレに急病人 対応に反響",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-15T22:52:38.000Z",
+    "category": "economy",
+    "keywords": [
+      "SAトイレに急病人",
+      "対応に反響"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6591896?source=rss"
+  },
+  {
+    "id": "rss-economy-cd5d5d4cd0efbd",
+    "title": "【千葉豪雨】死者9人 行方不明1人 浸水被害1000棟超 雨に注意",
+    "summary": "線状降水帯が相次いで発生し、記録的な豪雨となった千葉県では、これまでに9人の死亡が確認されました。住宅も大きな被害が出ていて、浸水の被害は床上と床下を含めると1000棟を超えます。 気象庁によります…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-15T22:31:41.000Z",
+    "category": "economy",
+    "keywords": [
+      "【千葉豪雨】死者9人",
+      "行方不明1人",
+      "浸水被害1000棟超",
+      "雨に注意"
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20260814de44171"
+    "url": "https://news.web.nhk/newsweb/na/nd-20260815de44322"
   },
   {
-    "id": "rss-economy-bd23b08e3d37e3",
-    "title": "【千葉豪雨】この雨で死亡した人9人に 住宅被害も相次ぐ",
-    "summary": "13日の夕方以降、線状降水帯が相次いで発生し、記録的な豪雨となった千葉県では、15日、県が新たに1人の死亡を明らかにし、この雨で死亡した人は9人となりました。また、1人が行方不明となっています。住宅の…",
-    "sourceName": "NHKニュース",
+    "id": "rss-economy-31985c7fa51843",
+    "title": "山田涼介｢史上初ソロドーム公演｣快挙の背景…\"グループ主義\"だった旧ジャニーズで《ソロアーティストが急増》するワケ | ライフ | 東洋経済オンライン",
+    "summary": "STARTO ENTERTAINMENTは､グループ活動を軸としつつも､近年はソロアーティストとして活躍するタレントが急増。山田涼介さんのドームツアー成功や中島健人さんの全国ツアーなど､ジャニーズ事…",
+    "sourceName": "東洋経済オンライン",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-15T11:04:55.000Z",
+    "publishedAt": "2026-08-15T22:30:00.000Z",
     "category": "economy",
     "keywords": [
-      "【千葉豪雨】この雨で死亡した人9人に",
-      "住宅被害も相次ぐ"
+      "山田涼介｢史上初ソロドーム公演｣快挙の背景",
+      "ライフ",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/954766?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-f39e40e6fa6fa5",
+    "title": "行方不明の英国籍12歳少女 保護",
+    "summary": "行方不明の英国籍12歳少女 保護",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-15T22:14:20.000Z",
+    "category": "economy",
+    "keywords": [
+      "行方不明の英国籍12歳少女",
+      "保護"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6591888?source=rss"
+  },
+  {
+    "id": "rss-economy-411d025d58c7ac",
+    "title": "山形 鶴岡 花火大会で3人軽傷 花火が地上で破裂したか",
+    "summary": "15日夜、山形県鶴岡市で行われた花火大会で、観覧席にいた客3人が飛んできたものに当たって軽いけがをしました。当時、地上で破裂した花火があったという情報があり、警察が詳しい状況を調べています。",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-15T22:05:16.000Z",
+    "category": "economy",
+    "keywords": [
+      "山形",
+      "鶴岡",
+      "花火大会で3人軽傷",
+      "花火が地上で破裂したか"
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20260815de44198"
+    "url": "https://news.web.nhk/newsweb/na/nd-20260816de44344"
+  },
+  {
+    "id": "rss-ai-f42a82753d8e7a",
+    "title": "「3日」で戻る企業、「73日」かかる企業 ランサム被害の明暗を分ける“ある要素”",
+    "summary": "ニチレイへのサイバー攻撃は、冷凍食品の出荷や倉庫業務だけでなく、外食チェーンの店舗運営にも影響を及ぼしました。なぜ1社のシステム停止がここまで広がるのでしょうか。",
+    "sourceName": "ITmedia AI",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-15T22:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "「3日」で戻る企業",
+      "「73日」かかる企業",
+      "ランサム被害の明暗を分ける“ある要素”"
+    ],
+    "bannerClass": "from-sky-900 to-slate-800",
+    "isNew": true,
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/16/news003.html"
+  },
+  {
+    "id": "rss-ai-47c8acd498f0c0",
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-08-15T21:29:19.000Z",
+    "category": "ai",
+    "keywords": [
+      "Woman",
+      "claims",
+      "stepfather",
+      "Grok",
+      "transform"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "summaryJa": "この女性は、AIツールが「日常生活を奪い、児童への性的虐待に変えている」と主張した。"
   },
   {
     "id": "rss-market-ca4284a537c222",
@@ -431,7 +661,7 @@
     "summary": "Iran's deputy foreign minister says Hormuz \"will remain Iranian\" after Trump's claim that the waterway would soon become U.S. territory.",
     "sourceName": "CNBC",
     "sourceIcon": "📈",
-    "publishedAt": "2026-08-15T11:00:36.000Z",
+    "publishedAt": "2026-08-15T20:38:29.000Z",
     "category": "market",
     "keywords": [
       "Iran",
@@ -445,102 +675,194 @@
     "url": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html"
   },
   {
-    "id": "rss-economy-7cf16be350ee79",
-    "title": "米大統領 ガソリン高「謝らない」",
-    "summary": "米大統領 ガソリン高「謝らない」",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-15T10:46:58.000Z",
-    "category": "economy",
-    "keywords": [
-      "米大統領",
-      "ガソリン高「謝らない」"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6591860?source=rss"
-  },
-  {
-    "id": "rss-economy-a3a47e25a4c306",
-    "title": "熊本地震 災害関連死の疑い含め39人死亡 避難所に3205人が避難",
-    "summary": "熊本県内では今回の地震で、15日午後2時の時点で、災害関連死の疑いがある人などを含めて39人が死亡し、避難所には3205人が避難しています。",
+    "id": "rss-economy-62adc03b1af8ca",
+    "title": "熊本地震 活発な活動続く 最大震度5弱程度以上の地震に注意",
+    "summary": "先月、最大震度7の地震で大きな被害があった熊本県では活発な地震活動が続いていて、気象庁は1か月ほどは最大震度5弱程度以上の地震に注意するよう呼びかけています。熊本県では16日、湿った空気の影響で大気の…",
     "sourceName": "NHKニュース",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-15T10:24:53.000Z",
+    "publishedAt": "2026-08-15T20:38:09.000Z",
     "category": "economy",
     "keywords": [
       "熊本地震",
-      "災害関連死の疑い含め39人死亡",
-      "避難所に3205人が避難"
+      "活発な活動続く",
+      "最大震度5弱程度以上の地震に注意"
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20260815de44248"
+    "url": "https://news.web.nhk/newsweb/na/nd-20260815de44323"
   },
   {
-    "id": "rss-economy-3ee89aec45ddf4",
-    "title": "被爆で顔に傷 思春期耐えられず",
-    "summary": "被爆で顔に傷 思春期耐えられず",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-15T10:05:15.000Z",
-    "category": "economy",
+    "id": "rss-ai-569c4523c8fcf1",
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-08-15T18:58:39.000Z",
+    "category": "ai",
     "keywords": [
-      "被爆で顔に傷",
-      "思春期耐えられず"
+      "Anthropic",
+      "shares",
+      "details",
+      "Claude",
+      "watermarks"
     ],
-    "bannerClass": "from-amber-900 to-orange-950",
+    "bannerClass": "from-slate-800 to-slate-600",
     "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6591857?source=rss"
+    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "summaryJa": "透かしは実際にどのように機能するのでしょうか?編集で非表示にできるのでしょうか？そして、これはコードにどのような影響を与えるのでしょうか?"
   },
   {
-    "id": "rss-economy-4a8c9395b36fa8",
-    "title": "小泉防衛相ら4閣僚が靖国神社参拝 高市首相は見送り",
-    "summary": "「終戦の日」の15日、小泉防衛大臣ら高市内閣の4人の閣僚が靖国神社に参拝しました。 高市総理大臣は参拝を見送り、自民党の鈴木幹事長を通じて党総裁として私費で玉串料を納めました。",
+    "id": "rss-ai-15aaf2b747ae33",
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-08-15T16:30:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "SpaceX",
+      "officially",
+      "closes",
+      "Cursor",
+      "acquisition"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "summaryJa": "AI コーディングのスタートアップ Cursor は、正式に SpaceX の一員となりました。"
+  },
+  {
+    "id": "rss-economy-5f89b0fc5c9ba5",
+    "title": "自民 岸田元首相 萩生田幹事長代行ら 山梨県鳴沢村で会合",
+    "summary": "自民党の岸田元総理大臣や萩生田幹事長代行、加藤前財務大臣らが15日夜、山梨県鳴沢村で会合を開き、高市政権を取り巻く政治情勢などをめぐって意見を交わしたということです。",
     "sourceName": "NHKニュース",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-15T09:56:03.000Z",
+    "publishedAt": "2026-08-15T16:21:47.000Z",
     "category": "economy",
     "keywords": [
-      "小泉防衛相ら4閣僚が靖国神社参拝",
-      "高市首相は見送り"
+      "自民",
+      "岸田元首相",
+      "萩生田幹事長代行ら",
+      "山梨県鳴沢村で会合"
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20260815de44238"
+    "url": "https://news.web.nhk/newsweb/na/nd-20260815de44321"
   },
   {
-    "id": "rss-economy-8225aa9c21d5af",
-    "title": "車で撮り鉄殺そうとした疑い 逮捕",
-    "summary": "車で撮り鉄殺そうとした疑い 逮捕",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-15T09:38:18.000Z",
-    "category": "economy",
+    "id": "rss-ai-23cd5e9aacbd90",
+    "title": "How to tell if your AI platforms’ accounts have been hacked",
+    "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-08-15T16:10:00.000Z",
+    "category": "ai",
     "keywords": [
-      "車で撮り鉄殺そうとした疑い",
-      "逮捕"
+      "tell",
+      "platforms",
+      "accounts",
+      "been",
+      "hacked"
     ],
-    "bannerClass": "from-amber-900 to-orange-950",
+    "bannerClass": "from-slate-800 to-slate-600",
     "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6591852?source=rss"
+    "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+    "summaryJa": "最も人気のある AI プラットフォームでハッカーがアカウントに侵入したかどうかを確認する方法に関するガイド。"
   },
   {
-    "id": "rss-economy-e21458d4d146e3",
-    "title": "地表断層出現の瞬間か 熊本 八代の防犯カメラに地表のずれ写る",
-    "summary": "今回の熊本地震で震度6強の揺れが観測された熊本県八代市で、地表に断層が現れたとみられる瞬間の映像が防犯カメラに写っていました。専門家は断層がずれ動く様子が記録された貴重な映像だとした上で、構造物への影…",
+    "id": "rss-economy-5c014e876746a7",
+    "title": "岐阜 長良川で水難事故相次ぐ 23歳の男性 計2人が溺れて死亡",
+    "summary": "15日午後、岐阜県を流れる長良川で水難事故が相次ぎ、いずれも23歳の男性合わせて2人が溺れて死亡しました。警察などが当時の状況を詳しく調べています。",
     "sourceName": "NHKニュース",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-15T09:06:00.000Z",
+    "publishedAt": "2026-08-15T14:48:12.000Z",
     "category": "economy",
     "keywords": [
-      "地表断層出現の瞬間か",
-      "熊本",
-      "八代の防犯カメラに地表のずれ写る"
+      "岐阜",
+      "長良川で水難事故相次ぐ",
+      "23歳の男性",
+      "計2人が溺れて死亡"
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20260815de44255"
+    "url": "https://news.web.nhk/newsweb/na/nd-20260815de44296"
+  },
+  {
+    "id": "rss-market-23c7a9d1a1f922",
+    "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
+    "summary": "Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-08-15T14:46:43.000Z",
+    "category": "market",
+    "keywords": [
+      "Prediction",
+      "markets",
+      "sports",
+      "betting",
+      "exchange"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html"
+  },
+  {
+    "id": "rss-market-f96752e30a06b2",
+    "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
+    "summary": "The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-08-15T14:45:31.000Z",
+    "category": "market",
+    "keywords": [
+      "Anthropic",
+      "revenue",
+      "reportedly",
+      "jumps",
+      "billion"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html"
+  },
+  {
+    "id": "rss-market-9e8843ca4a6b69",
+    "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
+    "summary": "The rapid drawdown of the U.S. Strategic Petroleum Reserve could damage the caverns that store the oil, experts warn.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-08-15T14:19:35.000Z",
+    "category": "market",
+    "keywords": [
+      "Depleted",
+      "strategic",
+      "oil",
+      "reserve",
+      "nears"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html"
+  },
+  {
+    "id": "rss-ai-3eaa419697a261",
+    "title": "Every fusion startup that has raised over $100M",
+    "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-08-15T13:15:20.000Z",
+    "category": "ai",
+    "keywords": [
+      "Every",
+      "fusion",
+      "startup",
+      "raised",
+      "100M"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+    "summaryJa": "Fusionスタートアップはこれまでに71億ドルを調達しており、その大部分は数社に寄付されている。"
   },
   {
     "id": "rss-ai_theory-d5da8de27c2544",
@@ -560,60 +882,6 @@
     "bannerClass": "from-fuchsia-950 to-violet-900",
     "isNew": true,
     "url": "https://gigazine.net/news/20260815-dbgate/"
-  },
-  {
-    "id": "rss-economy-8decd949680804",
-    "title": "日銀｢3カ月ぶり利上げ｣判断へ､マイナス金利解除後では初…物価高進を警戒して今後の利上げペース前倒しも | 政治・経済・投資 | 東洋経済オンライン",
-    "summary": "日銀が9月の利上げを視野に入れる背景には､物価上昇圧力や世界的な金利水準の変動といった複合的な要因が影響しています。",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-15T09:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "物価高進を警戒して今後の利上げペース前倒しも",
-      "政治",
-      "経済",
-      "投資",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/954936?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-664197f049efeb",
-    "title": "ソフトバンクグループ､台湾TSMC株の保有を198万5000株から56万5000株へ72%削減…SEC資料で明らかに | 政治・経済・投資 | 東洋経済オンライン",
-    "summary": "ソフトバンクグループが､半導体大手TSMCの保有株を突如72%も大幅削減したことが明らかになりました。",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-15T08:41:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "SEC資料で明らかに",
-      "政治",
-      "経済",
-      "投資",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/954934?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-14aac292ab6096",
-    "title": "学歴からかう動画 批判した教授",
-    "summary": "学歴からかう動画 批判した教授",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-15T08:39:36.000Z",
-    "category": "economy",
-    "keywords": [
-      "学歴からかう動画",
-      "批判した教授"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6591847?source=rss"
   },
   {
     "id": "rss-ai_theory-9c5fd68b3584e6",
@@ -673,25 +941,6 @@
     "url": "https://gigazine.net/news/20260815-thermodynamic-computing/"
   },
   {
-    "id": "rss-market-37c552faa58db5",
-    "title": "Beijing is said to move to clarify tax rules stoking confusion among China's ultra-wealthy",
-    "summary": "Beijing is said to be moving to clarify ambiguities in new tax rules on offshore trusts after the policy sowed confusion among wealthy Chinese and advisors.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-08-15T06:11:11.000Z",
-    "category": "market",
-    "keywords": [
-      "Beijing",
-      "move",
-      "clarify",
-      "tax",
-      "rules"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/08/15/china-rich-tycoons-tax-overseas-investment-trust-insurance-capital-flows.html"
-  },
-  {
     "id": "rss-ai_theory-8983795c473af5",
     "title": "アメリカにおけるがん手術の待ち時間はますます長くなっている",
     "summary": "アメリカにおけるがん患者の手術までの待機時間が、2012年から2023年にかけて段階的に長くなってきていることが明らかになりました。 続きを読む...",
@@ -708,23 +957,6 @@
     "bannerClass": "from-fuchsia-950 to-violet-900",
     "isNew": true,
     "url": "https://gigazine.net/news/20260815-us-wait-times-cancer-surgeries-longer/"
-  },
-  {
-    "id": "rss-economy-e8df737ec529d6",
-    "title": "｢遠いところだから君は家で待っていなさい｣の言葉を残して逝った夫へ…25年後に後を追った妻の\"泣けるいじわる\" | ライフ | 東洋経済オンライン",
-    "summary": "がんや重い病を抱えながら､自分らしく生き抜いた人々。延命や治療だけが人生の最後の選択肢ではなく､｢希望｣や｢やりがい｣が命の力を引き出すこともある――。",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-15T05:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "25年後に後を追った妻の\"泣けるいじわる\"",
-      "ライフ",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/952901?utm_source=rss&utm_medium=http&utm_campaign=link_back"
   },
   {
     "id": "rss-ai_theory-b7939c0a393e90",
@@ -804,7 +1036,7 @@
     "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
     "isNew": true,
     "url": "https://arxiv.org/abs/2608.12368",
-    "summaryJa": "arXiv:2608.12368v1 発表の種類: 新しい要約: 人間の判断との一致は、大規模言語モデル (LLM) の整合性を評価するための一般的な手段です。しかし、最終的なラベルの一致は、ヒューマン・アノテーターとモデルが同じ道徳的根拠に依存していることを示しているわけではありません。 2 人のエージェントが、異なる原則、文脈上の仮定、または状況の解釈に訴えながら、同じ判断に達する可能性があります。私たちは、道徳的判断の 5 つの領域にわたる精選された 500 項目の ETHICS 由来のベンチマークを使用して、この区別をテストします。最終的なラベルと裏付けとなる論理的根拠の両方について、新しいヒューマン アノテーターと LLM アノテーションが付けられます。国境と作戦を越えて"
+    "summaryJa": "arXiv:2608.12368v1 発表の種類: 新しい要約: 人間の判断との一致は、大規模言語モデル (LLM) の整合性を評価するための一般的な手段です。しかし、最終的なラベルの一致は、ヒューマン・アノテーターとモデルが同じ道徳的根拠に依存していることを示しているわけではありません。 2 人のエージェントが、異なる原則、文脈上の仮定、または状況の解釈に訴えながら、同じ判断に達する可能性があります。私たちは、道徳的判断の 5 つの領域にわたる精選された 500 項目の ETHICS 由来のベンチマークを使用して、この区別をテストします。最終的なラベルと裏付けとなる論理的根拠の両方について、新しいヒューマン アノテーターと LLM アノテーションが付けられます。国境を越えて"
   },
   {
     "id": "rss-ai_theory-c8faa25c30539b",
@@ -843,24 +1075,6 @@
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/15/news013.html"
   },
   {
-    "id": "rss-economy-683c7d622853a2",
-    "title": "台湾で食用油など食品不祥事が繰り返される根深い事情､2026年11月の地方選を前に『食の安全』が政争の火種に | 政治・経済・投資 | 東洋経済オンライン",
-    "summary": "台湾大手の中聯油脂が製造した大豆サラダ油から発がん性物質が基準値を大幅に超えて検出され､即席麺や冷凍食品など幅広い分野へ影響が拡大しています。過去にも相次いだ食品安全事件と同様､今回も社会の不信や政…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-15T04:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "政治",
-      "経済",
-      "投資",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/954719?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
     "id": "rss-economy-f75f2a71c79d75",
     "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
     "summary": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
@@ -881,61 +1095,6 @@
     "summaryJa": "現在の干ばつと熱波の状況では、使い捨てグリルは「公衆に重大なリスク」をもたらすと政府は警告している。"
   },
   {
-    "id": "rss-ai_theory-7090820974f81e",
-    "title": "E-Inkディスプレイ・3マイクアレイ・32bitフロート録音に対応した「Insta360 Mic Pro」外観レビュー",
-    "summary": "アクションカメラなどで知られるInsta360から、送信機の前面にカスタマイズ可能なE-Inkディスプレイを搭載したワイヤレスマイク「Insta360 Mic Pro」が2026年5月19日に登場しました。Mic Proは3基のマイクを内蔵して指向性を切り替えられるほか、AIノイズキャンセリングやオートゲインなども搭載しています。そんなMic Proを実際に使う機会を得たので、まずは特徴的なE-Inkディスプレイを含む本体の外観や付属品を詳しくチェックしてみました。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-15T03:30:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "E-Inkディスプレイ",
-      "3マイクアレイ",
-      "Mic",
-      "Pro」外観レビュー"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260815-insta360-mic-pro-appearance/"
-  },
-  {
-    "id": "rss-economy-d11e2fcc6474f7",
-    "title": "｢書いて覚える｣でも｢人に説明してみる｣でもない…東大生1000人を調査した筆者が解説する｢東大式インプット｣のコツ | キャリア・教育 | 東洋経済オンライン",
-    "summary": "東大生が実践する\"正しいインプット法\"。複数の情報源から知識を照合することで､真の理解と考える力が身につくといいます。",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-15T03:30:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "｢書いて覚える｣でも｢人に説明してみる｣でもない",
-      "キャリア",
-      "教育",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/954384?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-market-1d996588266641",
-    "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
-    "summary": "The OCC conditionally approved World Liberty Trust Co.’s national trust bank charter. That would allow the Trump family-backed firm to issue stablecoins.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-08-14T23:41:50.000Z",
-    "category": "market",
-    "keywords": [
-      "Trump",
-      "family-backed",
-      "crypto",
-      "firm",
-      "World"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html"
-  },
-  {
     "id": "rss-ai-1c859113ab6e89",
     "title": "「無線LANがつながりにくい」どう解決？ 「年代物のCOBOL」なぜ読みにくい？ IT実務の疑問に答える",
     "summary": "＠ITで公開された記事の中から、特に注目を集めた10本をランキング形式で紹介します。何が読者の関心を引いたのでしょうか。",
@@ -951,62 +1110,6 @@
     "bannerClass": "from-sky-900 to-slate-800",
     "isNew": true,
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/15/news007.html"
-  },
-  {
-    "id": "rss-ai-f7d1bdeb102be9",
-    "title": "アイドル宮本佳林氏が「生配信システムをAIで開発」 プログラミング未経験からどうたどり着いた？",
-    "summary": "アイドルグループJuice=Juiceの元メンバー宮本佳林氏が、AIを使った開発に取り組み始めた。プログラミング未経験から、自身の生配信企画を支えるシステムを自作するまでに至った。その過程で何を学んだのか。",
-    "sourceName": "ITmedia AI",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-14T23:00:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "アイドル宮本佳林氏が「生",
-      "氏が「生配信システムをA",
-      "テムをAIで開発」プログ",
-      "」プログラミング未経験か",
-      "未経験からどうたどり着い"
-    ],
-    "bannerClass": "from-sky-900 to-slate-800",
-    "isNew": true,
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/15/news009.html"
-  },
-  {
-    "id": "rss-ai-d838647162535a",
-    "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-    "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-08-14T22:43:24.000Z",
-    "category": "ai",
-    "keywords": [
-      "Talks",
-      "sell",
-      "PayPal",
-      "Stripe",
-      "Advent"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
-    "summaryJa": "PayPalは、フィンテック企業の新CEOが会社の立て直しを図る中、ストライプとプライベートエクイティ会社アドベントへの売却の可能性について依然として交渉中であると報じられている。"
-  },
-  {
-    "id": "rss-ai-e69a694cdadfb0",
-    "title": "ニチレイ、ランサム被害で従業員情報漏えいか 問われる「復旧後」の対応",
-    "summary": "ニチレイは2026年7月に公表したランサムウェア被害の影響を受け、従業員情報が漏えいした可能性があると発表した。氏名や生年月日、会社メールアドレス、従業員番号、人事・労務管理に関する情報が含まれるという。",
-    "sourceName": "ITmedia AI",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-14T22:00:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "ニチレイ",
-      "ランサム被害で従業員情報漏えいか",
-      "問われる「復旧後」の対応"
-    ],
-    "bannerClass": "from-sky-900 to-slate-800",
-    "isNew": true,
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/15/news011.html"
   },
   {
     "id": "rss-market-42dcb152c7cb43",
@@ -1026,105 +1129,6 @@
     "bannerClass": "from-indigo-950 to-blue-800",
     "isNew": true,
     "url": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html"
-  },
-  {
-    "id": "rss-market-5883f4fcec6c22",
-    "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
-    "summary": "Berkshire owned about 106 million shares in the parent of Google, worth $37.9 billion at the end of June, according to a regulatory filing released Friday.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-08-14T21:06:48.000Z",
-    "category": "market",
-    "keywords": [
-      "Berkshire",
-      "Hathaway",
-      "boosts",
-      "Alphabet",
-      "top"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html"
-  },
-  {
-    "id": "rss-ai-6df7121aa8b4d4",
-    "title": "Self-driving trucks are officially testing on California highways",
-    "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-08-14T20:37:49.000Z",
-    "category": "ai",
-    "keywords": [
-      "Self-driving",
-      "trucks",
-      "officially",
-      "testing",
-      "California"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-    "summaryJa": "自動運転トラックを開発する2社であるAurora InnovationとKodiak AIは、カリフォルニア州陸運局から許可を取得した。"
-  },
-  {
-    "id": "rss-ai-8a1931ce594c56",
-    "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-    "summary": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-08-14T19:33:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "Thrive",
-      "Joshua",
-      "Kushner",
-      "chides",
-      "Silicon"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
-    "summaryJa": "AIのチャンスは非常に大きいが、「興奮によって投資規律が弱まるのは重大な間違いでもある」とクシュナー氏は初めての投資書簡で警告している。"
-  },
-  {
-    "id": "rss-ai-e4e7e1f26e4665",
-    "title": "What we know about the alleged Iranian hacks on US water utilities",
-    "summary": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-08-14T19:04:32.000Z",
-    "category": "ai",
-    "keywords": [
-      "know",
-      "alleged",
-      "Iranian",
-      "hacks",
-      "water"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
-    "summaryJa": "過去数週間にわたり、ハッカーは米国のいくつかの給水所のシステムを標的にして侵入しました。イラン政府が実行したとされるこの一連の攻撃について、私たちが知っていることと知らないことは次のとおりです。"
-  },
-  {
-    "id": "rss-ai-7cba829ad7bf47",
-    "title": "Read-it-later app Pocket shut down — here are the best alternatives",
-    "summary": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-08-14T18:58:15.000Z",
-    "category": "ai",
-    "keywords": [
-      "Read-it-later",
-      "app",
-      "Pocket",
-      "shut",
-      "down"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
-    "summaryJa": "Pocket ユーザーは、2025 年 10 月 8 日までに、保存した記事と、リスト、アーカイブ、お気に入り、メモ、ハイライトなどのその他のアイテムをエクスポートする必要があります。"
   },
   {
     "id": "rss-insurance-9c391750cdda94",
@@ -1224,7 +1228,7 @@
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
     "url": "https://www.insurancejournal.com/news/southcentral/2026/08/14/881621.htm",
-    "summaryJa": "ニューオーリンズ近郊の液化天然ガスターミナルは、開通から2年も経たないうちに、環境審査を短縮し、周囲の湿地や水路の保護を弱める可能性があるトランプ政権の新たな「緊急」許可手続きに基づき、数十億ドル規模の拡張を模索している。 …"
+    "summaryJa": "ニューオーリンズ近くの液化天然ガスターミナルは、開通から2年も経たないうちに、環境審査を短縮し、周囲の湿地や水路の保護を弱める可能性があるトランプ政権の新たな「緊急」許可手続きに基づき、数十億ドル規模の拡張を模索している。 …"
   },
   {
     "id": "rss-insurance-33a1bc40dbd8ea",
@@ -1244,7 +1248,7 @@
     "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
     "isNew": true,
     "url": "https://www.reinsurancene.ws/milliman-appoints-jim-fulton-as-next-ceo/",
-    "summaryJa": "世界的な保険数理およびコンサルティング会社であるミリマン社は、ジム・フルトン氏が次期最高経営責任者（CEO）に就任すると発表した。フルトン氏は2015年からミリマン社の最高財務責任者を務めており、同社の有機的成長と合併・買収戦略において役割を果たしてきました。 「私たちの才能と取り組みが、[…] ミリマンがジム・フルトンを次期 CEO に任命するという記事が ReinsuranceNews に最初に掲載されました。"
+    "summaryJa": "世界的な保険数理およびコンサルティング会社であるミリマン社は、ジム・フルトン氏が次期最高経営責任者（CEO）に就任すると発表した。フルトン氏は2015年からミリマン社の最高財務責任者を務めており、同社の内部成長や合併・買収戦略で役割を果たしてきた。 「私たちの才能と取り組みが、[…] ミリマンがジム・フルトンを次期 CEO に任命するという記事が最初に ReinsuranceNews に掲載されました。"
   },
   {
     "id": "rss-insurance-2444bc46bbee82",
@@ -1284,7 +1288,7 @@
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
     "url": "https://www.insurancejournal.com/news/southeast/2026/08/14/881604.htm",
-    "summaryJa": "州と地元の法執行チームが関与した数年にわたる捜査の末、フロリダ州当局は、労働者に現金を支払い、保険会社から保険料をだまし取った1億ドルの労災補償制度で7人を起訴した。 「この犯罪組織は組織的に悪用しました…"
+    "summaryJa": "州と地元の法執行チームが関与した数年にわたる捜査の末、フロリダ州当局は、労働者に現金を支払い、保険会社から保険料をだまし取った1億ドルの労働者災害補償給与制度で7人を起訴した。 「この犯罪組織は組織的に悪用しました…"
   },
   {
     "id": "rss-insurance-9eea3cdd68afed",
@@ -1324,7 +1328,7 @@
     "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
     "isNew": true,
     "url": "https://www.reinsurancene.ws/hiscox-announces-current-return-estimates-for-syndicates-33-and-6104/",
-    "summaryJa": "バミューダに本社を置く国際専門保険会社ヒスコックスは、シンジケート 33 とシンジケート 6104 の 2024 年と 2025 年の会計に関する最新の見積もりを発表しました。ヒスコックスは、2024 年の会計年度について、シンジケート 33 の見積もりを引き上げました。現在、その能力 16 億 9,600 万ポンドに対して 6.1% から 16.1% の収益が見込まれています。 Hiscox がシンジケート 33 と 6104 の現在の利益予想を発表という記事は、ReinsuranceNews に最初に掲載されました。"
+    "summaryJa": "バミューダに本社を置く国際専門保険会社ヒスコックスは、シンジケート33とシンジケート6104の2024年と2025年の会計に関する最新の見積りを発表した。ヒスコックスは、2024年の会計年度について、シンジケート33の見積りを引き上げ、現在、その能力16億9,600万ポンドに対して6.1％から16.1％のリターンを生み出すと予想されている。 Hiscox がシンジケート 33 と 6104 の現在の利益予想を発表という記事は、ReinsuranceNews に最初に掲載されました。"
   },
   {
     "id": "rss-insurance-35c9cf3292ec21",
@@ -1764,7 +1768,7 @@
       "greater"
     ],
     "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.artemis.bm/news/rise-of-alternative-capital-will-create-greater-space-for-financial-investors-guy-carpenters-rousseau/?utm_source=rss&utm_medium=rss&utm_campaign=rise-of-alternative-capital-will-create-greater-space-for-financial-investors-guy-carpenters-rousseau",
     "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。保険リンク証券（ILS）や関連する担保構造を通じて展開される代替再保険資本が拡大を続け、再保険市場全体で勢いを増しているため、このペースは今後も続くと予想され、仲介業者ガイ・カーペンターのローラン・ルソー氏によると、これにより金融投資家にとって余地が広がるだろうという。 CEO を務めるルソー […] 代替資本の台頭により、金融投資家にとってより大きな余地が生まれる: ガイ・カーペンターのルソーは、www.Artemis.bm c によって出版されました。"
   },
