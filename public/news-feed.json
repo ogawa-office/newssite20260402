@@ -64,7 +64,7 @@
       "「円貨建"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260827-22/",
     "sortBoost": 5
   },
@@ -81,7 +81,7 @@
       "2026年度第1四半期業績を発表"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260827-21/",
     "sortBoost": 5
   },
@@ -98,7 +98,7 @@
       "2026年度第1四半期業績を発表"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260827-20/",
     "sortBoost": 5
   },
@@ -118,7 +118,7 @@
       "り開始"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260827-19/",
     "sortBoost": 5
   },
@@ -138,7 +138,7 @@
       "係る災害救助法を適用"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260827-18/",
     "sortBoost": 5
   },
@@ -155,7 +155,7 @@
       "2026年度第1四半期業績概要を発表"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260827-17/",
     "sortBoost": 5
   },
@@ -175,7 +175,7 @@
       "非常取扱いを実施"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260827-16/",
     "sortBoost": 5
   },
@@ -194,7 +194,7 @@
       "LuckyKilimanjaroが出演"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260827-15/",
     "sortBoost": 5
   },
@@ -211,9 +211,204 @@
       "「“じもと”シナモロール総選挙」結果発表"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260827-14/",
     "sortBoost": 5
+  },
+  {
+    "id": "rss-insurance-08d2eb11dbbf84",
+    "title": "第57回金融審議会総会・第45回金融分科会合同会合 議事次第について公表しました。",
+    "summary": "第57回金融審議会総会・第45回金融分科会合同会合 議事次第について公表しました。",
+    "sourceName": "金融庁（新着情報）",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-08-29T15:54:50.741Z",
+    "category": "insurance",
+    "keywords": [
+      "第57回金融審議会総会",
+      "第45回金融分科会合同会合",
+      "議事次第について公表しました"
+    ],
+    "bannerClass": "from-slate-900 to-slate-700",
+    "isNew": true,
+    "url": "https://www.fsa.go.jp/singi/singi_kinyu/soukai/siryou/20260831.html"
+  },
+  {
+    "id": "rss-insurance-93b0c0144e8b56",
+    "title": "金融審議会「ディスクロージャーワーキング・グループ」（第６回）の開催について公表しました。",
+    "summary": "金融審議会「ディスクロージャーワーキング・グループ」（第６回）の開催について公表しました。",
+    "sourceName": "金融庁（新着情報）",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-08-29T15:54:50.741Z",
+    "category": "insurance",
+    "keywords": [
+      "金融審議会「ディスクロージャーワーキング",
+      "グループ」（第６回）の開催について公表しました"
+    ],
+    "bannerClass": "from-slate-900 to-slate-700",
+    "isNew": true,
+    "url": "https://www.fsa.go.jp/news/r8/singi/20260904.html"
+  },
+  {
+    "id": "rss-insurance-8be37a407156dd",
+    "title": "令和７年保険業法改正に係る内閣府令及び「保険会社向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等について公表しました。",
+    "summary": "令和７年保険業法改正に係る内閣府令及び「保険会社向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等について公表しました。",
+    "sourceName": "金融庁（新着情報）",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-08-29T15:54:50.741Z",
+    "category": "insurance",
+    "keywords": [
+      "令和７年保険業法改正に係",
+      "改正に係る内閣府令及び「",
+      "令及び「保険会社向けの総",
+      "向けの総合的な監督指針」",
+      "督指針」等の一部改正（案"
+    ],
+    "bannerClass": "from-slate-900 to-slate-700",
+    "isNew": true,
+    "url": "https://www.fsa.go.jp/news/r8/hoken/20260828/20260828.html"
+  },
+  {
+    "id": "rss-insurance-a5ccc755957a04",
+    "title": "「多重債務者相談強化キャンペーン2026」における相談会の開催状況及び予定等について公表しました。",
+    "summary": "「多重債務者相談強化キャンペーン2026」における相談会の開催状況及び予定等について公表しました。",
+    "sourceName": "金融庁（新着情報）",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-08-29T15:54:50.741Z",
+    "category": "insurance",
+    "keywords": [
+      "「多重債務者相談強化キャ",
+      "強化キャンペーン2026",
+      "2026」における相談会",
+      "る相談会の開催状況及び予",
+      "況及び予定等について公表"
+    ],
+    "bannerClass": "from-slate-900 to-slate-700",
+    "isNew": true,
+    "url": "https://www.fsa.go.jp/policy/kashikin/soudankai2026.html"
+  },
+  {
+    "id": "rss-insurance-7dbac6e1256c08",
+    "title": "「第70回金融トラブル連絡調整協議会」議事録について公表しました。",
+    "summary": "「第70回金融トラブル連絡調整協議会」議事録について公表しました。",
+    "sourceName": "金融庁（新着情報）",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-08-29T15:54:50.741Z",
+    "category": "insurance",
+    "keywords": [
+      "「第70回金融トラブル連",
+      "ラブル連絡調整協議会」議",
+      "議会」議事録について公表",
+      "いて公表しました。"
+    ],
+    "bannerClass": "from-slate-900 to-slate-700",
+    "isNew": true,
+    "url": "https://www.fsa.go.jp/singi/singi_trouble/gijiroku/20260619.html"
+  },
+  {
+    "id": "rss-insurance-50e7f02e3aa92d",
+    "title": "金融審議会委員の任命について公表しました。",
+    "summary": "金融審議会委員の任命について公表しました。",
+    "sourceName": "金融庁（新着情報）",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-08-29T15:54:50.741Z",
+    "category": "insurance",
+    "keywords": [
+      "金融審議会委員の任命につ",
+      "任命について公表しました",
+      "しました。"
+    ],
+    "bannerClass": "from-slate-900 to-slate-700",
+    "isNew": true,
+    "url": "https://www.fsa.go.jp/news/r8/singi/20260828.html"
+  },
+  {
+    "id": "rss-insurance-89f4087a9719f7",
+    "title": "令和８年８月27日からの大雨に伴う災害等に対する金融上の措置について公表しました。",
+    "summary": "令和８年８月27日からの大雨に伴う災害等に対する金融上の措置について公表しました。",
+    "sourceName": "金融庁（新着情報）",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-08-29T15:54:50.741Z",
+    "category": "insurance",
+    "keywords": [
+      "令和８年８月27日からの",
+      "日からの大雨に伴う災害等",
+      "う災害等に対する金融上の",
+      "金融上の措置について公表",
+      "いて公表しました。"
+    ],
+    "bannerClass": "from-slate-900 to-slate-700",
+    "isNew": true,
+    "url": "https://www.fsa.go.jp/news/r8/ginkou/20260827.html"
+  },
+  {
+    "id": "rss-insurance-173ed385bbcfc3",
+    "title": "「金融商品取引業等に関するQ&A」の改訂について公表しました。",
+    "summary": "「金融商品取引業等に関するQ&A」の改訂について公表しました。",
+    "sourceName": "金融庁（新着情報）",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-08-29T15:54:50.741Z",
+    "category": "insurance",
+    "keywords": [
+      "「金融商品取引業等に関す",
+      "等に関するQ&A」の改訂",
+      "」の改訂について公表しま",
+      "公表しました。"
+    ],
+    "bannerClass": "from-slate-900 to-slate-700",
+    "isNew": true,
+    "url": "https://www.fsa.go.jp/news/r8/shouken/20260827/20260827.html"
+  },
+  {
+    "id": "rss-economy-11131b03d41109",
+    "title": "【地震速報】茨城県で震度4 津波の心配なし",
+    "summary": "30日午前0時17分ごろ、茨城県で震度4の揺れを観測する地震がありました。 この地震による津波の心配はありません。",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-29T15:49:01.000Z",
+    "category": "economy",
+    "keywords": [
+      "【地震速報】茨城県で震度4",
+      "津波の心配なし"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20260828de46854"
+  },
+  {
+    "id": "rss-economy-f5887c0ea6a04a",
+    "title": "茨城県で最大震度4 津波心配なし",
+    "summary": "地震が発生しました。今後の情報にご注意ください。各地域の震度はこちら。※遷移先は最新の地震情報です。新たに発生した地震に更新される可能性があります。",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-29T15:23:44.000Z",
+    "category": "economy",
+    "keywords": [
+      "茨城県で最大震度4",
+      "津波心配なし"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6593574?source=rss"
+  },
+  {
+    "id": "rss-economy-b7867d1cc526d3",
+    "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+    "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+    "sourceName": "BBC Business",
+    "sourceIcon": "¥",
+    "publishedAt": "2026-08-29T15:13:42.000Z",
+    "category": "economy",
+    "keywords": [
+      "Trump",
+      "hails",
+      "historic",
+      "deal",
+      "control"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+    "summaryJa": "ベネズエラの暫定大統領は、この異例の合意が同国の経済の活性化に役立つと述べた。"
   },
   {
     "id": "rss-insurance-ca260c67c900fc",
@@ -233,164 +428,394 @@
     "sortBoost": 18
   },
   {
-    "id": "rss-insurance-08d2eb11dbbf84",
-    "title": "第57回金融審議会総会・第45回金融分科会合同会合 議事次第について公表しました。",
-    "summary": "第57回金融審議会総会・第45回金融分科会合同会合 議事次第について公表しました。",
-    "sourceName": "金融庁（新着情報）",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-08-29T04:45:11.907Z",
-    "category": "insurance",
-    "keywords": [
-      "第57回金融審議会総会",
-      "第45回金融分科会合同会合",
-      "議事次第について公表しました"
-    ],
-    "bannerClass": "from-slate-900 to-slate-700",
-    "isNew": true,
-    "url": "https://www.fsa.go.jp/singi/singi_kinyu/soukai/siryou/20260831.html"
-  },
-  {
-    "id": "rss-insurance-93b0c0144e8b56",
-    "title": "金融審議会「ディスクロージャーワーキング・グループ」（第６回）の開催について公表しました。",
-    "summary": "金融審議会「ディスクロージャーワーキング・グループ」（第６回）の開催について公表しました。",
-    "sourceName": "金融庁（新着情報）",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-08-29T04:45:11.907Z",
-    "category": "insurance",
-    "keywords": [
-      "金融審議会「ディスクロージャーワーキング",
-      "グループ」（第６回）の開催について公表しました"
-    ],
-    "bannerClass": "from-slate-900 to-slate-700",
-    "isNew": true,
-    "url": "https://www.fsa.go.jp/news/r8/singi/20260904.html"
-  },
-  {
-    "id": "rss-insurance-8be37a407156dd",
-    "title": "令和７年保険業法改正に係る内閣府令及び「保険会社向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等について公表しました。",
-    "summary": "令和７年保険業法改正に係る内閣府令及び「保険会社向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等について公表しました。",
-    "sourceName": "金融庁（新着情報）",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-08-29T04:45:11.907Z",
-    "category": "insurance",
-    "keywords": [
-      "令和７年保険業法改正に係",
-      "改正に係る内閣府令及び「",
-      "令及び「保険会社向けの総",
-      "向けの総合的な監督指針」",
-      "督指針」等の一部改正（案"
-    ],
-    "bannerClass": "from-slate-900 to-slate-700",
-    "isNew": true,
-    "url": "https://www.fsa.go.jp/news/r8/hoken/20260828/20260828.html"
-  },
-  {
-    "id": "rss-insurance-a5ccc755957a04",
-    "title": "「多重債務者相談強化キャンペーン2026」における相談会の開催状況及び予定等について公表しました。",
-    "summary": "「多重債務者相談強化キャンペーン2026」における相談会の開催状況及び予定等について公表しました。",
-    "sourceName": "金融庁（新着情報）",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-08-29T04:45:11.907Z",
-    "category": "insurance",
-    "keywords": [
-      "「多重債務者相談強化キャ",
-      "強化キャンペーン2026",
-      "2026」における相談会",
-      "る相談会の開催状況及び予",
-      "況及び予定等について公表"
-    ],
-    "bannerClass": "from-slate-900 to-slate-700",
-    "isNew": true,
-    "url": "https://www.fsa.go.jp/policy/kashikin/soudankai2026.html"
-  },
-  {
-    "id": "rss-insurance-7dbac6e1256c08",
-    "title": "「第70回金融トラブル連絡調整協議会」議事録について公表しました。",
-    "summary": "「第70回金融トラブル連絡調整協議会」議事録について公表しました。",
-    "sourceName": "金融庁（新着情報）",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-08-29T04:45:11.907Z",
-    "category": "insurance",
-    "keywords": [
-      "「第70回金融トラブル連",
-      "ラブル連絡調整協議会」議",
-      "議会」議事録について公表",
-      "いて公表しました。"
-    ],
-    "bannerClass": "from-slate-900 to-slate-700",
-    "isNew": true,
-    "url": "https://www.fsa.go.jp/singi/singi_trouble/gijiroku/20260619.html"
-  },
-  {
-    "id": "rss-insurance-50e7f02e3aa92d",
-    "title": "金融審議会委員の任命について公表しました。",
-    "summary": "金融審議会委員の任命について公表しました。",
-    "sourceName": "金融庁（新着情報）",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-08-29T04:45:11.907Z",
-    "category": "insurance",
-    "keywords": [
-      "金融審議会委員の任命につ",
-      "任命について公表しました",
-      "しました。"
-    ],
-    "bannerClass": "from-slate-900 to-slate-700",
-    "isNew": true,
-    "url": "https://www.fsa.go.jp/news/r8/singi/20260828.html"
-  },
-  {
-    "id": "rss-insurance-89f4087a9719f7",
-    "title": "令和８年８月27日からの大雨に伴う災害等に対する金融上の措置について公表しました。",
-    "summary": "令和８年８月27日からの大雨に伴う災害等に対する金融上の措置について公表しました。",
-    "sourceName": "金融庁（新着情報）",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-08-29T04:45:11.907Z",
-    "category": "insurance",
-    "keywords": [
-      "令和８年８月27日からの",
-      "日からの大雨に伴う災害等",
-      "う災害等に対する金融上の",
-      "金融上の措置について公表",
-      "いて公表しました。"
-    ],
-    "bannerClass": "from-slate-900 to-slate-700",
-    "isNew": true,
-    "url": "https://www.fsa.go.jp/news/r8/ginkou/20260827.html"
-  },
-  {
-    "id": "rss-insurance-173ed385bbcfc3",
-    "title": "「金融商品取引業等に関するQ&A」の改訂について公表しました。",
-    "summary": "「金融商品取引業等に関するQ&A」の改訂について公表しました。",
-    "sourceName": "金融庁（新着情報）",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-08-29T04:45:11.907Z",
-    "category": "insurance",
-    "keywords": [
-      "「金融商品取引業等に関す",
-      "等に関するQ&A」の改訂",
-      "」の改訂について公表しま",
-      "公表しました。"
-    ],
-    "bannerClass": "from-slate-900 to-slate-700",
-    "isNew": true,
-    "url": "https://www.fsa.go.jp/news/r8/shouken/20260827/20260827.html"
-  },
-  {
-    "id": "rss-economy-07e7c22ac81729",
-    "title": "鹿児島 いちき串木野市沖合で2人発見 いずれも死亡確認",
-    "summary": "鹿児島県の串木野海上保安部によりますと、29日午前、いちき串木野市の照島海岸の付近の沖合で、2人が発見されました。 いずれも死亡が確認されたということです。 現場付近では、28日午後、海に飛び込む…",
-    "sourceName": "NHKニュース",
+    "id": "rss-economy-18cacd65b7d6db",
+    "title": "娘が不登校になった精神科医 訴え",
+    "summary": "娘が不登校になった精神科医 訴え",
+    "sourceName": "Yahoo!ニュース",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-29T04:09:39.000Z",
+    "publishedAt": "2026-08-29T14:14:16.000Z",
     "category": "economy",
     "keywords": [
-      "鹿児島",
-      "いちき串木野市沖合で2人発見",
-      "いずれも死亡確認"
+      "娘が不登校になった精神科医",
+      "訴え"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6593568?source=rss"
+  },
+  {
+    "id": "rss-ai-9c9f92960fda58",
+    "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+    "summary": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assumed […]",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-08-29T14:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "Theragun",
+      "Sense",
+      "makes",
+      "everyday",
+      "recovery"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+    "summaryJa": "私の20代も今年後半に終わりを迎え、間違った姿勢で寝たり、少し伸ばしすぎたりすると痛みを引き起こす年齢に正式に達しました。私はマッサージガンに対して常にやや懐疑的でした。その主な理由は、いくつかの社外品を試してみて、単にそう思ったからです […]"
+  },
+  {
+    "id": "rss-ai_theory-3b1de9f08a9717",
+    "title": "無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴",
+    "summary": "Discordなどのチャットサービスでは手軽にサーバーを作成してグループ内で会話できますが、メッセージや個人情報を含むチャットデータはサービス提供者のインフラ上で管理されるため、社内の機密情報などを扱う場合はデータの保存先や管理方法が課題になります。そこで、セルフホスト可能で数十MB程度のRAMから軽快に動作するほか、メッセージ本文などを暗号化して保存できる「Chatto」が公開されています。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-29T14:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "無料でDiscordのよ",
+      "rdのようなチャットサー",
+      "ットサーバーをセルフホス",
+      "ルフホストできる「Cha",
+      "「Chatto」、消費リ"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260829-chatto/"
+  },
+  {
+    "id": "rss-economy-8df69005fa63f3",
+    "title": "前線で大気の状態不安定 石川県と福井県にレベル4危険警報",
+    "summary": "前線や湿った空気の影響で、大気の状態が不安定になっていて東日本と西日本では30日にかけて非常に激しい雨や激しい雨が降る見込みです。27日、記録的な大雨となった北陸でも再び雨が強まっていて、石川県と福井…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-29T13:34:23.000Z",
+    "category": "economy",
+    "keywords": [
+      "前線で大気の状態不安定",
+      "石川県と福井県にレベル4危険警報"
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20260829de47141"
+    "url": "https://news.web.nhk/newsweb/na/nd-20260828de47108"
+  },
+  {
+    "id": "rss-ai-a85aa69b831be6",
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-08-29T13:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "Nvidia",
+      "advantage",
+      "moving",
+      "beyond",
+      "GPU"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
+  },
+  {
+    "id": "rss-ai_theory-30766330f65256",
+    "title": "セックスフレンドのメリットとデメリットとは？",
+    "summary": "友人関係に性行為が加わるものの恋人としての約束や排他性は持たない「セックスフレンド」の関係は、恋人関係や一夜限りの性行為とは異なる特徴を持ちます。テネシー大学などの研究チームが過去の38件の研究をまとめて分析し、セックスフレンドの関係で見られるメリットとデメリットを報告しました。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-29T13:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "セックスフレンドのメリッ",
+      "のメリットとデメリットと",
+      "リットとは？"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260829-friends-with-benefits-tradeoffs/"
+  },
+  {
+    "id": "rss-economy-7ed918e1b0f85a",
+    "title": "熊本地震 被災者それぞれの1カ月",
+    "summary": "熊本地震 被災者それぞれの1カ月",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-29T12:44:42.000Z",
+    "category": "economy",
+    "keywords": [
+      "熊本地震",
+      "被災者それぞれの1カ月"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6593558?source=rss"
+  },
+  {
+    "id": "rss-market-0f4ee9777081b5",
+    "title": "K, C or E? Why economists can’t agree on the shape of today’s economy",
+    "summary": "Economists have long viewed the post-pandemic economy as \"K\"-shaped. That consensus has now evaporated.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-08-29T12:22:50.000Z",
+    "category": "market",
+    "keywords": [
+      "economists",
+      "agree",
+      "shape",
+      "today",
+      "economy"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html"
+  },
+  {
+    "id": "rss-economy-a040a93c9b73c0",
+    "title": "牛が線路に迷い込む 列車80分停止",
+    "summary": "牛が線路に迷い込む 列車80分停止",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-29T12:19:55.000Z",
+    "category": "economy",
+    "keywords": [
+      "牛が線路に迷い込む",
+      "列車80分停止"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6593556?source=rss"
+  },
+  {
+    "id": "rss-market-f6b024b5f3d769",
+    "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+    "summary": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-08-29T12:16:03.000Z",
+    "category": "market",
+    "keywords": [
+      "Tech",
+      "backlash",
+      "reaches",
+      "fever",
+      "pitch"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html"
+  },
+  {
+    "id": "rss-economy-00906cc4d92da1",
+    "title": "海で3人死亡 14歳は救助図ったか",
+    "summary": "海で3人死亡 14歳は救助図ったか",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-29T12:11:53.000Z",
+    "category": "economy",
+    "keywords": [
+      "海で3人死亡",
+      "14歳は救助図ったか"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6593554?source=rss"
+  },
+  {
+    "id": "rss-market-4700f7fe22298e",
+    "title": "Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar",
+    "summary": "Iran's president says sanctions are hitting imports and exports, as its supreme leader urges less reliance on the U.S. dollar.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-08-29T12:08:08.000Z",
+    "category": "market",
+    "keywords": [
+      "Iran",
+      "trade",
+      "falls",
+      "Supreme",
+      "Leader"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/08/29/iran-trade-sanctions-dollar-oil-exports.html"
+  },
+  {
+    "id": "rss-market-c24d9a91018aaa",
+    "title": "Buffett remains active at 96, but Berkshire's shares aren't doing much",
+    "summary": "Warren Buffett will be celebrating his 96th birthday on Sunday, but Berkshire Hathaway investors aren't celebrating the stock's anemic performance.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-08-29T11:53:36.000Z",
+    "category": "market",
+    "keywords": [
+      "Buffett",
+      "remains",
+      "active",
+      "Berkshire",
+      "shares"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/08/29/buffett-remains-active-at-96-but-berkshires-shares-arent-doing-much.html"
+  },
+  {
+    "id": "rss-economy-a7df0f567ea8f9",
+    "title": "ネパール土石流 633人が死亡 二次災害のリスクを警戒",
+    "summary": "ネパールと中国の国境地帯で発生した大規模な土石流では、これまでに両国であわせて633人が死亡し、ネパール側では2400人以上が行方不明となっています。 現地では30日にかけても雨が降り続く見通しで、…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-29T10:57:08.000Z",
+    "category": "economy",
+    "keywords": [
+      "ネパール土石流",
+      "633人が死亡",
+      "二次災害のリスクを警戒"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20260829de47121"
+  },
+  {
+    "id": "rss-economy-ad64c75ae2f3d5",
+    "title": "東京 中野 高級時計窃盗事件 わずか6秒間のうちに盗んだか",
+    "summary": "今月、東京 中野区の時計店で海外製の高級腕時計4本、あわせておよそ2億円相当を盗んだとしてチリ国籍の容疑者2人が逮捕された事件で、警視庁が防犯カメラの映像をさらに詳しく調べた結果、2人とみられる人物が…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-29T10:52:26.000Z",
+    "category": "economy",
+    "keywords": [
+      "東京",
+      "中野",
+      "高級時計窃盗事件",
+      "わずか6秒間のうちに盗んだか"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20260829de47164"
+  },
+  {
+    "id": "rss-ai_theory-dde04f99541499",
+    "title": "「赤いリンゴを心の中で思い浮かべて」と言われても何も視覚化できない「アファンタジア」入門ガイド",
+    "summary": "目を閉じて想像を膨らませても思い描くことができない特性は「アファンタジア」と呼ばれます。アファンタジアとは実際にどのようなものなのか、「頭の中の風景」という他人が観測できないものをどうやって他人と比較するのかなど、「アファンタジアについて知るための入門ガイド」を世界最大のアファンタジア・コミュニティであるAPHANTASIA NETWORKが公開しています。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-29T10:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "「赤いリンゴを心の中で思",
+      "の中で思い浮かべて」と言",
+      "て」と言われても何も視覚",
+      "何も視覚化できない「アフ",
+      "い「アファンタジア」入門"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260829-aphantasia-guide/"
+  },
+  {
+    "id": "rss-economy-97a27c285e0daa",
+    "title": "【国債のリアル】個人向け国債の賢い買い方と時期は？／インフレによる資産の目減りに注意／金利上昇でも円安のカラクリ／市場は財政悪化を懸念／日銀の利上げと国債購入の矛盾 | ビジネス | 東洋経済オンライン",
+    "summary": "長期金利の上昇や個人向け国債をNISAや税制優遇の対象とすることが議論されており、今「国債」の動向に注目が集まっている。では、個人向け国債はいつ買うのがよいのか。インフレから資産を守るには、国債をど…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-29T10:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "【国債のリアル】個人向け国債の賢い買い方と時期は",
+      "ビジネス",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/956277?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-ai_theory-133c5eb613341d",
+    "title": "Chromeで小さなJPEG画像が違うように見える理由",
+    "summary": "ウェブブラウザのChromeで、小さなJPEG画像がなぜか他のブラウザと異なって表示される現象に気づいたことがあるかもしれません。これは単なるバグではなく、Chromeが高度なJPEGデコード最適化処理を採用していることが原因です。アイコンのような小さくシャープな画像で、顕著に表示の違いが見られる場合があります。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-29T09:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "Chromeで小さなJP",
+      "さなJPEG画像が違うよ",
+      "が違うように見える理由",
+      "る理由"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260829-jpg-scaling-chrome/"
+  },
+  {
+    "id": "rss-economy-0c742fdecc9f40",
+    "title": "感動ポルノの声も…｢24時間テレビ｣マラソンランナーの\"走る理由\"が激変の背景 視聴率6.6％の危機から始まった企画の現在地 | ライフ | 東洋経済オンライン",
+    "summary": "毎年大きな話題を集める『24時間テレビ』のチャリティーマラソン。しかし近年､ランナーの\"走る理由\"が変わり始めている。",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-29T09:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "感動ポルノの声も",
+      "視聴率6.6％の危機から始まった企画の現在地",
+      "ライフ",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/955789?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-d4e14ccb2218a5",
+    "title": "熊本地震 400人余を病院間搬送 緊急事態で生かされたことは…",
+    "summary": "「熊本南病院です。病院間搬送を要請します」 熊本地震で、震度7の揺れを観測した宇城市を管轄する消防本部の119番の通報記録です。先月の地震では宇城市などの病院が被災して必要な治療が継続できないため、…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-29T08:29:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "熊本地震",
+      "400人余を病院間搬送",
+      "緊急事態で生かされたことは"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20260829de47139"
+  },
+  {
+    "id": "rss-ai-674bcf8dd59c7b",
+    "title": "「トークン単価50％減でもAI請求額が跳ね上がる」なぜ？ Uberは4月で年間予算が枯渇",
+    "summary": "IDCが生成AIやAIエージェントの利用拡大に伴うコスト管理の課題とガバナンスの重要性を解説した。トークン単価が下落しても予算超過が頻発する実態を指摘し、ワークロードごとの責任明確化を提言している。",
+    "sourceName": "ITmedia AI",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-29T08:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "「トークン単価50％減で",
+      "0％減でもAI請求額が跳",
+      "求額が跳ね上がる」なぜ？",
+      "」なぜ？Uberは4月で",
+      "は4月で年間予算が枯渇"
+    ],
+    "bannerClass": "from-sky-900 to-slate-800",
+    "isNew": true,
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/29/news009.html"
+  },
+  {
+    "id": "rss-ai_theory-bc8d17c4981bc2",
+    "title": "OpenAIがCursorとの提携・モデル提供の終了を通達、「SpaceXがOpenAIの利用規約に従って技術を使うという確信が持てないため」",
+    "summary": "OpenAIがAIコーディングツール・Cursorとの提携関係を終了し、モデル提供を2026年11月12日で終えることを明らかにしました。理由はCursorがSpaceXに買収されたことです。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-29T06:45:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "OpenAIがCursorとの提携",
+      "モデル提供の終了を通達"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260829-openai-decided-to-end-partnership-with-cursor/"
   },
   {
     "id": "rss-ai_theory-d1fcd3c22300c1",
@@ -409,7 +834,8 @@
     ],
     "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
     "isNew": true,
-    "url": "https://arxiv.org/abs/2608.26107"
+    "url": "https://arxiv.org/abs/2608.26107",
+    "summaryJa": "arXiv:2608.26107v1 発表の種類: 新しい要約: オンライン教育における生徒の学業リスクを予測することは、定着率と学習成果を向上させるタイムリーな介入を可能にするために非常に重要です。しかし、既存のモデルは、早期検出能力が限られており、解釈可能性が不十分であることが多く、現実世界の教育現場での採用を妨げる「ブラックボックス」の信頼危機につながります。これらの課題に対処するために、時間的 Transformer ベースの予測子と F-Logic の記号推論を統合する神経記号フレームワークである EduRiskX を提案します。神経コンポーネントは生徒の長期的な活動シーケンスをモデル化します"
   },
   {
     "id": "rss-ai_theory-8146504a8eb67b",
@@ -447,7 +873,8 @@
     ],
     "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
     "isNew": true,
-    "url": "https://arxiv.org/abs/2608.26111"
+    "url": "https://arxiv.org/abs/2608.26111",
+    "summaryJa": "arXiv:2608.26111v1 発表の種類: 新規 要約: バッテリー予後および健全性管理 (BPHM) は、電気自動車、グリッド ストレージ、家庭用電化製品全体でバッテリーの安全性、信頼性、コスト効率の高い運用を確保するために重要です。物理ベースのモデルやタスク中心の深層学習手法などの従来の BPHM アプローチは、計算効率とパラメータ化、クロスドメインの一般化、ラベル付きの広範な実行から失敗までのデータへの依存、およびモデルの解釈可能性において課題に直面しています。最近の大規模モデル (LM) は、Transformer アーキテクチャと自己監視型事前トレーニングに基づいて構築されており、変換を提供します。"
   },
   {
     "id": "rss-ai_theory-ea89e7d3a8342e",
@@ -485,7 +912,8 @@
     ],
     "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
     "isNew": true,
-    "url": "https://arxiv.org/abs/2608.26114"
+    "url": "https://arxiv.org/abs/2608.26114",
+    "summaryJa": "arXiv:2608.26114v1 発表の種類: 新規 要約: 計算を多用する財務上の質問に答えるには、構造化されたレート、一時的な条件、数式、およびルールベースの制約に対する正確な推論が必要です。大規模言語モデル (LLM) は自然言語タスクでは優れたパフォーマンスを発揮しますが、複数ステップの財務計算を解決する場合、数値的には不正確でも妥当な答えが得られることがよくあります。この制限に対処するために、財務質問応答用の決定論的ツールベースのマルチエージェント LLM フレームワークである CIFQA (計算集中型財務クエリ応答) を導入します。 CIFQA は言語理解を分離します。"
   },
   {
     "id": "rss-ai-0c7f1c989765f8",
@@ -518,106 +946,6 @@
     "bannerClass": "from-green-950 to-emerald-900",
     "isNew": true,
     "url": "https://toyokeizai.net/articles/-/954662?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-9760fd46bb27da",
-    "title": "円が下落 介入効果4週間で陰り",
-    "summary": "円が下落 介入効果4週間で陰り",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-29T03:59:26.000Z",
-    "category": "economy",
-    "keywords": [
-      "円が下落",
-      "介入効果4週間で陰り"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6593500?source=rss"
-  },
-  {
-    "id": "rss-economy-9d1cfeb6a0a468",
-    "title": "海で不明の中高生か 2人心肺停止",
-    "summary": "海で不明の中高生か 2人心肺停止",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-29T03:31:36.000Z",
-    "category": "economy",
-    "keywords": [
-      "海で不明の中高生か",
-      "2人心肺停止"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6593499?source=rss"
-  },
-  {
-    "id": "rss-economy-a7df0f567ea8f9",
-    "title": "ネパール土石流 586人が死亡 国連は支援を拡大する方針",
-    "summary": "ネパールと中国の国境地帯で発生した大規模な土石流では、これまでに両国で合わせて586人の死亡が確認され、ネパール側では1900人以上が行方不明となり、日本人5人とも連絡が取れなくなっています。 大量…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-29T03:20:26.000Z",
-    "category": "economy",
-    "keywords": [
-      "ネパール土石流",
-      "586人が死亡",
-      "国連は支援を拡大する方針"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20260829de47121"
-  },
-  {
-    "id": "rss-economy-300e75d7c76ac9",
-    "title": "北陸など警報級大雨恐れ 災害警戒",
-    "summary": "北陸など警報級大雨恐れ 災害警戒",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-29T03:11:05.000Z",
-    "category": "economy",
-    "keywords": [
-      "北陸など警報級大雨恐れ",
-      "災害警戒"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6593495?source=rss"
-  },
-  {
-    "id": "rss-economy-715bd2c12ab97c",
-    "title": "長女が重体 傷害の疑いで両親逮捕",
-    "summary": "長女が重体 傷害の疑いで両親逮捕",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-29T03:05:41.000Z",
-    "category": "economy",
-    "keywords": [
-      "長女が重体",
-      "傷害の疑いで両親逮捕"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6593493?source=rss"
-  },
-  {
-    "id": "rss-ai_theory-072218f38119a2",
-    "title": "自宅に庭があったり近所に公園があったりする人は糖尿病リスクが低いという研究結果",
-    "summary": "2型糖尿病は血中グルコース(ブドウ糖)の取り込みを促進するインスリンの働きが弱まり、血糖値が高くなる病気であり、さまざまな合併症による死亡リスクも高くなります。そんな2型糖尿病のリスクが、自宅の庭や近所の公園といった要因に左右されている可能性があるとの研究結果が報告されました。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-29T03:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "自宅に庭があったり近所に",
-      "り近所に公園があったりす",
-      "ったりする人は糖尿病リス",
-      "尿病リスクが低いという研",
-      "という研究結果"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260829-garden-park-access-relation-diabetes/"
   },
   {
     "id": "rss-economy-9104303d02e2e0",
@@ -655,111 +983,6 @@
     "url": "https://toyokeizai.net/articles/-/956115?utm_source=rss&utm_medium=http&utm_campaign=link_back"
   },
   {
-    "id": "rss-economy-b7867d1cc526d3",
-    "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-    "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-    "sourceName": "BBC Business",
-    "sourceIcon": "¥",
-    "publishedAt": "2026-08-29T02:42:27.000Z",
-    "category": "economy",
-    "keywords": [
-      "Trump",
-      "hails",
-      "historic",
-      "deal",
-      "control"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "rss-economy-894d3fa1ac2f68",
-    "title": "6.4億円相当のダイヤのネックレスが白昼堂々盗まれる…ウィーンのオーストリア応用美術博物館で | 政治・経済・投資 | 東洋経済オンライン",
-    "summary": "ウィーンのオーストリア応用美術博物館で､エジプト王室の結婚式のために製作された約6億円相当のダイヤモンドネックレスが白昼堂々と盗まれました。",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-29T02:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "ウィーンのオーストリア応用美術博物館で",
-      "政治",
-      "経済",
-      "投資",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/956255?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-4851b60ff6fd7d",
-    "title": "三菱｢トライトン｣の劇的変化を実現したヤマハ｢パフォーマンスダンパー｣とは一体なにか？ | ビジネス | 東洋経済オンライン",
-    "summary": "三菱｢トライトン｣の走りが､ヤマハ製パフォーマンスダンパーの採用で劇的に進化した。静粛性や一体感のあるハンドリングが実現し､上質なドライブフィールになったのだ。そこでパフォーマンスダンパー開発の経緯…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-29T02:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "ビジネス",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/956092?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-f62ca96e691d00",
-    "title": "17年で社長が7人 百貨店消滅の街",
-    "summary": "17年で社長が7人 百貨店消滅の街",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-29T01:47:37.000Z",
-    "category": "economy",
-    "keywords": [
-      "17年で社長が7人",
-      "百貨店消滅の街"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6593483?source=rss"
-  },
-  {
-    "id": "rss-ai_theory-3326d7d4b16e8f",
-    "title": "間もなくの発表が予想されるApple Watch Ultra 4のウワサまとめ",
-    "summary": "Appleが2026年に発表すると目されている「Apple Watch Ultra 4」がどんなモデルになるのか、リーク情報やウワサをまとめてみました。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-29T01:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "間もなくの発表が予想されるApple",
-      "Watch",
-      "Ultra",
-      "4のウワサまとめ"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260829-apple-watch-ultra-4-rumor/"
-  },
-  {
-    "id": "rss-ai_theory-246e66c1587eae",
-    "title": "「写ルンです」で白黒のモノクロ写真を誰でも簡単に撮れる「写ルンです Black and White」で撮影＆現像してみたよレビュー",
-    "summary": "2026年で発売40周年を迎える富士フイルムのレンズ付きフィルム「写ルンです」シリーズから20年ぶりの新製品として、黒白フィルムによるモノクロ写真を誰でも簡単に撮影できる「写ルンです Black and White」が2026年9月に登場します。実物を一足早く触れる機会を得られたので、実際に「写ルンです Black and White」で色んなものを撮影して現像してみました。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-29T00:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "Black",
-      "and",
-      "White」で撮影＆現像してみたよレビュー"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260829-fujifilm-utsurundesu-black-and-white/"
-  },
-  {
     "id": "rss-market-9bc3766973fd28",
     "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
     "summary": "The U.S. struck a deal with Venezuela to get majority control of more than 65 billion barrels of oil reserves, Trump said in a social media post.",
@@ -795,7 +1018,8 @@
     ],
     "bannerClass": "from-slate-800 to-slate-600",
     "isNew": true,
-    "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/"
+    "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+    "summaryJa": "技術の進歩により、人型ロボットからの利益を期待して新たな企業が飛びつくようになりました。そして、それらはすべて中国の自動車メーカーです。"
   },
   {
     "id": "rss-ai-02ce4db49519ae",
@@ -812,25 +1036,6 @@
     "bannerClass": "from-sky-900 to-slate-800",
     "isNew": true,
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/29/news011.html"
-  },
-  {
-    "id": "rss-ai_theory-3f22ddc0bcbe1b",
-    "title": "150万年前からセックスをしていない昆虫に有性生殖の仕組みが残っていることが判明",
-    "summary": "無性生殖を行うよう進化したナナフシを調べた研究で、このナナフシに有性生殖で使われる仕組みが残っていることが分かりました。最大150万年間使われなかった仕組みがなぜ残っているのか、疑問が生まれています。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-28T23:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "150万年前からセックス",
-      "セックスをしていない昆虫",
-      "ない昆虫に有性生殖の仕組",
-      "殖の仕組みが残っているこ",
-      "ていることが判明"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260829-million-years-without-sexual-reproduction-stick-insects/"
   },
   {
     "id": "rss-ai-9d933e87ed78ac",
@@ -852,25 +1057,6 @@
     "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/"
   },
   {
-    "id": "rss-market-c00401d3bc37df",
-    "title": "Bessent attacks Warren over yen intervention query, offers ‘Foreign Exchange for Dummies’ lesson",
-    "summary": "Treasury has not disclosed how much yen it bought, the execution rate or the current value of the position, despite Warren’s requests for details.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-08-28T20:31:58.000Z",
-    "category": "market",
-    "keywords": [
-      "Bessent",
-      "attacks",
-      "Warren",
-      "yen",
-      "intervention"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/08/28/bessent-warren-yen-intervention-treasury-japan.html"
-  },
-  {
     "id": "rss-ai-7f0374631f4fcd",
     "title": "Neocloud Lambda secures $1B in debt to buy more chips",
     "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
@@ -887,99 +1073,8 @@
     ],
     "bannerClass": "from-slate-800 to-slate-600",
     "isNew": true,
-    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
-  },
-  {
-    "id": "rss-economy-27d1914effc644",
-    "title": "消せるボールペン 特許侵害で韓国メーカーの販売差し止め",
-    "summary": "消せるボールペンを販売する大手筆記具メーカー「パイロットコーポレーション」が、韓国のメーカーの製品について特許権の侵害だと訴えた裁判で、東京地方裁判所は訴えを認め、輸入や販売の差し止めを命じました。",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-28T20:08:27.000Z",
-    "category": "economy",
-    "keywords": [
-      "消せるボールペン",
-      "特許侵害で韓国メーカーの販売差し止め"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20260828de47105"
-  },
-  {
-    "id": "rss-market-40f97cca605c78",
-    "title": "Corn and wheat prices jump to highest prices in more than three years",
-    "summary": "Corn and wheat futures have surged to their highest levels in more than three years. But the reasons for these recent rallies are notably different.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-08-28T20:00:56.000Z",
-    "category": "market",
-    "keywords": [
-      "Corn",
-      "wheat",
-      "prices",
-      "jump",
-      "highest"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html"
-  },
-  {
-    "id": "rss-market-feef0bbf13d2dc",
-    "title": "Stock traders warm up to Warsh as volatility index touches year-to-date low",
-    "summary": "The Cboe Volatility Index (VIX), which measures the price of 30-day options on the S&P 500 Index, fell to as low as 14.1.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-08-28T19:35:09.000Z",
-    "category": "market",
-    "keywords": [
-      "Stock",
-      "traders",
-      "warm",
-      "Warsh",
-      "volatility"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/08/28/stock-traders-warm-up-to-warsh-as-volatility-index-touches-year-to-date-low.html"
-  },
-  {
-    "id": "rss-ai-8152c5575eb2f6",
-    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-08-28T19:30:38.000Z",
-    "category": "ai",
-    "keywords": [
-      "Anthropic",
-      "researcher",
-      "gave",
-      "peek",
-      "self-improving"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
-  },
-  {
-    "id": "rss-ai-f74112f152d146",
-    "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
-    "summary": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-08-28T18:50:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "Brave",
-      "browser",
-      "one-ups",
-      "Chrome",
-      "support"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/"
+    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "summaryJa": "Neocloud Lambda は、Nvidia AI チップを購入し、Microsoft にリースするために、10 億ドルを個人負債で調達しました。これは一連の融資の最新のもので、AIブームのコストの高さを浮き彫りにしている。"
   },
   {
     "id": "rss-economy-70aa123fa8875a",
@@ -1001,25 +1096,6 @@
     "url": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "rss-market-34050541c045a2",
-    "title": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
-    "summary": "After confusing markets at his July news conference, Fed Chairman Kevin Warsh used Jackson Hole to give a clearer view of the case for higher interest rates.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-08-28T17:44:02.000Z",
-    "category": "market",
-    "keywords": [
-      "Analysis",
-      "Kevin",
-      "Warsh",
-      "sharpens",
-      "inflation"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html"
-  },
-  {
     "id": "rss-insurance-749540eec8fffc",
     "title": "New Illinois Law Requires Insurance for High-Speed E-Bikes",
     "summary": "Some Illinois e-bike riders will need to carry insurance starting in 2027 under a law signed this week by Governor JB Prtizker. The new law requires riders of e-bikes and e-motors capable of traveling over 28 mph to have a …",
@@ -1036,7 +1112,8 @@
     ],
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
-    "url": "https://www.insurancejournal.com/news/midwest/2026/08/28/883281.htm"
+    "url": "https://www.insurancejournal.com/news/midwest/2026/08/28/883281.htm",
+    "summaryJa": "JB・プルティカー知事が今週署名した法律に基づき、イリノイ州の一部の電動自転車利用者は2027年から保険への加入が義務付けられる。新しい法律では、時速 38 マイル以上で走行できる電動自転車と電動モーターのライダーに、以下の装備を義務付けています。"
   },
   {
     "id": "rss-insurance-6035473ff0f787",
@@ -1055,7 +1132,8 @@
     ],
     "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
     "isNew": true,
-    "url": "https://www.reinsurancene.ws/china-re-pc-h126-net-income-falls-slightly-chaucer-and-overseas-pc-premium-income-up-3/"
+    "url": "https://www.reinsurancene.ws/china-re-pc-h126-net-income-falls-slightly-chaucer-and-overseas-pc-premium-income-up-3/",
+    "summaryJa": "中国再保険（グループ）総公司（チャイナ・リー）は2026年上半期の未監査決算を発表し、損害保険子会社からの純利益は23億1,300万人民元となり、前年同期の23億3,800万人民元からわずか1.1％減少したと報告した。 China Property and Casualty Reinsurance Company Ltd. (China Re P&C) […] China Re P&C 2026 年 1 月期純利益がわずかに減少、チョーサーと海外損保の保険料収入が 3% 増加した後の記事が ReinsuranceNe.ws に最初に掲載されました。"
   },
   {
     "id": "rss-insurance-b7de14de0a77b3",
@@ -1093,7 +1171,8 @@
     ],
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
-    "url": "https://www.insurancejournal.com/news/southcentral/2026/08/28/883272.htm"
+    "url": "https://www.insurancejournal.com/news/southcentral/2026/08/28/883272.htm",
+    "summaryJa": "農業協同組合CHS社と肥料生産会社OCPノースアメリカは、世界的な紛争により海外作物栄養素の流れがますます妨げられる中、国内供給を強化するため、ルイジアナ州に4億5千万ドルをかけてリン酸肥料工場を建設することを提案している。ワガマンに提案されているプラ​​ント…"
   },
   {
     "id": "rss-insurance-0f4fd21dbdbdd8",
@@ -1150,25 +1229,8 @@
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
-    "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "rss-ai_theory-6ef8a0471e9ec3",
-    "title": "中国製AIモデル「GLM-5.3」が約束通りオープンモデルとして無償公開される、Claude Fable 5やGPT-5.6 Solに匹敵する高性能モデル",
-    "summary": "中国のAI企業であるZ.aiがAIモデル「GLM-5.3」を日本時間の2026年8月29日0時にオープンモデルとして公開しました。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-28T15:10:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "Claude",
-      "Fable",
-      "5やGPT-5.6",
-      "Solに匹敵する高性能モデル"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260829-glm-5-3-open/"
+    "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
+    "summaryJa": "ケビン・ウォーシュの発言は、政策当局者がインフレが高すぎると判断した場合、金利が引き上げられる可能性があることを示唆している。"
   },
   {
     "id": "rss-insurance-5e484980e05fe1",
@@ -1187,7 +1249,8 @@
     ],
     "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
     "isNew": true,
-    "url": "https://www.reinsurancene.ws/aon-says-ils-has-become-a-source-of-foundational-reinsurance-capital-as-growth-continues/"
+    "url": "https://www.reinsurancene.ws/aon-says-ils-has-become-a-source-of-foundational-reinsurance-capital-as-growth-continues/",
+    "summaryJa": "保険リンク証券（ILS）市場は2026年6月末時点で1,445億ドルに成長しており、再保険仲介グループのエーオンによれば、過去5年間の年間成長率は8.4％に相当し、ILSが「基礎的な再保険資本」の源泉となっていることが確認されている。エーオン証券の20回目となる最新のILS市場レポートはセクターの活動を分析 […] 成長が続く中、ILSは「基礎的な再保険資本」の源となっているとエーオンが述べた記事は、ReinsuranceNewsに最初に掲載された。"
   },
   {
     "id": "rss-insurance-d0fba0bc932b60",
@@ -1206,24 +1269,8 @@
     ],
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
-    "url": "https://www.insurancejournal.com/news/southeast/2026/08/28/883262.htm"
-  },
-  {
-    "id": "rss-economy-4cf82d371dfbcb",
-    "title": "サンドウィッチマン 伊達みきおさん 脳梗塞で休養",
-    "summary": "人気お笑いコンビ「サンドウィッチマン」の伊達みきおさんが脳梗塞と診断され、当面、休養すると所属事務所が発表しました。",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-28T14:35:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "サンドウィッチマン",
-      "伊達みきおさん",
-      "脳梗塞で休養"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20260828de47115"
+    "url": "https://www.insurancejournal.com/news/southeast/2026/08/28/883262.htm",
+    "summaryJa": "フロリダ州のシェフ、イライジャ・バトンさんは6月、玉ねぎを切っていたところ、ナイフが滑って中指を骨まで切りつけてしまった。それは彼にとってこれまでで最悪のキッチン事故だった。しかし、医療費負担適正化法の健康保険プランを放棄したため…"
   },
   {
     "id": "rss-insurance-91d3c53c7557d8",
@@ -1242,7 +1289,8 @@
     ],
     "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
     "isNew": true,
-    "url": "https://www.artemis.bm/news/ils-capital-is-foundational-in-reinsurance-grows-to-144-5bn-with-5-year-cagr-8-3-aon/?utm_source=rss&utm_medium=rss&utm_campaign=ils-capital-is-foundational-in-reinsurance-grows-to-144-5bn-with-5-year-cagr-8-3-aon"
+    "url": "https://www.artemis.bm/news/ils-capital-is-foundational-in-reinsurance-grows-to-144-5bn-with-5-year-cagr-8-3-aon/?utm_source=rss&utm_medium=rss&utm_campaign=ils-capital-is-foundational-in-reinsurance-grows-to-144-5bn-with-5-year-cagr-8-3-aon",
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。エーオンによれば、保険関連証券（ILS）の資本は現在、世界の再保険市場の「基盤」となっており、代替資金源が現在セクターファンドのうち1,445億ドルを占めており、その数字は2026年の第2四半期だけで35億ドル増加している。投資銀行業務、ストラクチャーリングおよび[…] ILS資本は再保険の「基盤」となっているエーオン証券の最新の保険関連証券市場レポートでは、次のように成長している。 1,445 億ドル、5 年間の CAGR 8.3%: Aon の発行元: www.Artemis.bm ca"
   },
   {
     "id": "rss-insurance-9f240bf90e4b65",
@@ -1264,22 +1312,6 @@
     "url": "https://www.reinsurancene.ws/active-re-joins-the-barbados-insurance-trade-organisation/"
   },
   {
-    "id": "rss-economy-7564774d6f80ba",
-    "title": "マレーシアの空港 東京発の航空機の車輪格納部から遺体",
-    "summary": "マレーシアの空港で、航空機の車輪を格納する部分から男性の遺体が見つかりました。航空機は東京発の便だったということで、地元の警察が死因などを調べています。",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-28T13:41:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "マレーシアの空港",
-      "東京発の航空機の車輪格納部から遺体"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20260828de47107"
-  },
-  {
     "id": "rss-insurance-5aaeab129b9c0e",
     "title": "Hippo expands homeowners coverage to 22 states",
     "summary": "Hippo, a technology-native insurance group, has expanded its homeowners insurance programme to a further 14 states through national distribution partners, meaning the programme will service 22 states starting in the fourth quarter, a steep hike from the previous eight. The Hippo Homeowners Insurance Program will expand to homeowners beyond the newly built home channel in […] The post Hippo expands homeowners coverage to 22 states appeared first on ReinsuranceNe.ws.",
@@ -1296,7 +1328,8 @@
     ],
     "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
     "isNew": true,
-    "url": "https://www.reinsurancene.ws/hippo-expands-homeowners-coverage-to-22-states/"
+    "url": "https://www.reinsurancene.ws/hippo-expands-homeowners-coverage-to-22-states/",
+    "summaryJa": "テクノロジーネイティブの保険グループである Hippo は、全国販売パートナーを通じて住宅所有者保険プログラムをさらに 14 州に拡大しました。つまり、このプログラムは第 4 四半期から 22 州にサービスを提供することになり、これまでの 8 州から大幅に増加しました。 Hippo 住宅所有者保険プログラムは、新築住宅チャネルを超えて住宅所有者にも拡大される予定です。"
   },
   {
     "id": "rss-insurance-52256066993309",
@@ -1353,7 +1386,8 @@
     ],
     "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
     "isNew": true,
-    "url": "https://www.artemis.bm/news/prediction-market-kalshi-partners-with-the-weather-company-for-weather-hedge-settlements/?utm_source=rss&utm_medium=rss&utm_campaign=prediction-market-kalshi-partners-with-the-weather-company-for-weather-hedge-settlements"
+    "url": "https://www.artemis.bm/news/prediction-market-kalshi-partners-with-the-weather-company-for-weather-hedge-settlements/?utm_source=rss&utm_medium=rss&utm_campaign=prediction-market-kalshi-partners-with-the-weather-company-for-weather-hedge-settlements",
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。予測市場プラットフォームである Kalshi は、大手気象プロバイダーである The Weather Company と戦略的パートナーシップを締結し、決済データの提供を通じてプラットフォーム上で成長する気象ヘッジ活動を拡大およびサポートしています。発表によると、カルシはウェザー・カンパニーのエンタープライズグレードの気象データ・フィードを信頼できるソースとして使用する予定です […] 予測市場 カルシは天気ヘッジ決済のためにウェザー・カンパニーと提携 発行元: www.Artemis.bm 災害債券取引"
   },
   {
     "id": "rss-insurance-69e0aeef0e4897",
@@ -1426,7 +1460,8 @@
     ],
     "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
     "isNew": true,
-    "url": "https://www.artemis.bm/news/verisk-promotes-white-to-head-of-property-claims-services-group-pcs/?utm_source=rss&utm_medium=rss&utm_campaign=verisk-promotes-white-to-head-of-property-claims-services-group-pcs"
+    "url": "https://www.artemis.bm/news/verisk-promotes-white-to-head-of-property-claims-services-group-pcs/?utm_source=rss&utm_medium=rss&utm_campaign=verisk-promotes-white-to-head-of-property-claims-services-group-pcs",
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。世界的な保険、再保険、保険関連証券（ILS）業界にデータ分析とテクノロジーを提供するベリスクは、ハリー・ホワイト氏を不動産請求サービス（PCS）部門の責任者に昇進させると発表した。ホワイト氏は 2025 年に PCS の商業戦略責任者に就任し、ILS と緊密に連携していたベリスクの大惨事リスクモデリング部門から異動しました […] ベリスク、ホワイト氏を財産請求サービスグル​​ープ (PCS) の責任者に昇進"
   },
   {
     "id": "rss-insurance-553c5abf4974f1",
@@ -1505,21 +1540,80 @@
     "url": "https://www.nli-research.co.jp/topics_detail1/id=86670?site=nli"
   },
   {
-    "id": "rss-ai-a14e86c394ea9f",
-    "title": "日本のIT人材が就職・転職先選びで「2番目に重視」するのは？ 世界との違いは",
-    "summary": "ITプロフェッショナルにとって、仕事を選ぶ際に給与以外で譲れない条件とは何なのか。日本と世界の調査結果を比較すると、日本のITプロフェッショナルならではの意識が浮かび上がってきた。",
-    "sourceName": "ITmedia AI",
+    "id": "rss-insurance-51bbcad115231b",
+    "title": "社会保障国民会議「中間とりまとめ」を読み解く（第2回）－「所得に連動したきめ細かな給付」の実像に迫る――給付額は一体どれぐらい？ 税･社会保険料負担との相対感は？",
+    "summary": "■要旨 本連載は、政府方針の土台となった社会保障国民会議の「中間とりまとめ」を全4回1で読み解く。第2回では、2029年度に本格導入される「所得に連動したきめ細かな給付」について、現時点で未確定の給付額や所得基準を仮置きし、税・社会保険料負担との関係を9つのモデルケース（単身者3ケース、子育て世帯6ケース）で試算した。 本体給付は、所得ゼロ超から年5万円で始まり、所得の増加に伴って年15万円まで増えた後、所得202万円で消失する台形型を仮定した。さらに、第3号被保険者が就労拡大によって第1号または第2号被保険者となった場合には「年収の壁」への配慮として給付額を年15万円に引き上げる加算を、18歳以下のこどもには1人当たり年2.4万円（世帯単位）の加算を仮定した。 9つのモデルケースからは、現状の税・社会保険料負担の実態として、同じくらいの収入（所得）でも、就業形態によって社会保険の加入区分が変わり、それに応じて負担も給付も異なることが確認できる。とりわけ次の２点が浮き彫りとなった。 －子育て世帯においては、配偶者の収入（所得）が「年収の壁」を下回る場合は、配偶者が第3号被保険者であるケースのほうが第1号被保険者であるケースに比べて世帯負担額が小さい。逆に、配偶者の収入（所得）が「年収の壁」を上回る場合は、世帯主が第1号被保険者であるケースのほうが第2号被保険者であるケースに比べて世帯負担額が小さく、配偶者が第2号被保険者であるケースのほうが第1号被保険者であるケースに比べて世帯負担額が小さい。 －収入（所得）の増加によって社会保険料負担が急増するという視点から「配慮すべき壁」に直面するケースとしては、第3号被保険者であった者が就労拡大によって第2号被保険者または第1号被保険者になったケースに限られる。第1号被保険者から第2号被保険者へ",
+    "sourceName": "ニッセイ基礎研（保険）",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-28T04:00:00.000Z",
-    "category": "ai",
+    "publishedAt": "2026-08-28T04:58:44.000Z",
+    "category": "insurance",
     "keywords": [
-      "日本のIT人材が就職",
-      "転職先選びで「2番目に重視」するのは",
-      "世界との違いは"
+      "社会保障国民会議「中間と",
+      "「中間とりまとめ」を読み",
+      "」を読み解く（第2回）－",
+      "2回）－「所得に連動した",
+      "連動したきめ細かな給付」"
     ],
-    "bannerClass": "from-sky-900 to-slate-800",
+    "bannerClass": "from-teal-950 to-emerald-900",
     "isNew": true,
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news038.html"
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86668?site=nli"
+  },
+  {
+    "id": "rss-insurance-51bbcad115231b",
+    "title": "社会保障国民会議「中間とりまとめ」を読み解く（第2回）－「所得に連動したきめ細かな給付」の実像に迫る――給付額は一体どれぐらい？ 税･社会保険料負担との相対感は？",
+    "summary": "■要旨 本連載は、政府方針の土台となった社会保障国民会議の「中間とりまとめ」を全4回1で読み解く。第2回では、2029年度に本格導入される「所得に連動したきめ細かな給付」について、現時点で未確定の給付額や所得基準を仮置きし、税・社会保険料負担との関係を9つのモデルケース（単身者3ケース、子育て世帯6ケース）で試算した。 本体給付は、所得ゼロ超から年5万円で始まり、所得の増加に伴って年15万円まで増えた後、所得202万円で消失する台形型を仮定した。さらに、第3号被保険者が就労拡大によって第1号または第2号被保険者となった場合には「年収の壁」への配慮として給付額を年15万円に引き上げる加算を、18歳以下のこどもには1人当たり年2.4万円（世帯単位）の加算を仮定した。 9つのモデルケースからは、現状の税・社会保険料負担の実態として、同じくらいの収入（所得）でも、就業形態によって社会保険の加入区分が変わり、それに応じて負担も給付も異なることが確認できる。とりわけ次の２点が浮き彫りとなった。 －子育て世帯においては、配偶者の収入（所得）が「年収の壁」を下回る場合は、配偶者が第3号被保険者であるケースのほうが第1号被保険者であるケースに比べて世帯負担額が小さい。逆に、配偶者の収入（所得）が「年収の壁」を上回る場合は、世帯主が第1号被保険者であるケースのほうが第2号被保険者であるケースに比べて世帯負担額が小さく、配偶者が第2号被保険者であるケースのほうが第1号被保険者であるケースに比べて世帯負担額が小さい。 －収入（所得）の増加によって社会保険料負担が急増するという視点から「配慮すべき壁」に直面するケースとしては、第3号被保険者であった者が就労拡大によって第2号被保険者または第1号被保険者になったケースに限られる。第1号被保険者から第2号被保険者へ",
+    "sourceName": "ニッセイ基礎研（年金）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-28T04:58:44.000Z",
+    "category": "insurance",
+    "keywords": [
+      "社会保障国民会議「中間と",
+      "「中間とりまとめ」を読み",
+      "」を読み解く（第2回）－",
+      "2回）－「所得に連動した",
+      "連動したきめ細かな給付」"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86668?site=nli"
+  },
+  {
+    "id": "rss-insurance-51bbcad115231b",
+    "title": "社会保障国民会議「中間とりまとめ」を読み解く（第2回）－「所得に連動したきめ細かな給付」の実像に迫る――給付額は一体どれぐらい？ 税･社会保険料負担との相対感は？",
+    "summary": "■要旨 本連載は、政府方針の土台となった社会保障国民会議の「中間とりまとめ」を全4回1で読み解く。第2回では、2029年度に本格導入される「所得に連動したきめ細かな給付」について、現時点で未確定の給付額や所得基準を仮置きし、税・社会保険料負担との関係を9つのモデルケース（単身者3ケース、子育て世帯6ケース）で試算した。 本体給付は、所得ゼロ超から年5万円で始まり、所得の増加に伴って年15万円まで増えた後、所得202万円で消失する台形型を仮定した。さらに、第3号被保険者が就労拡大によって第1号または第2号被保険者となった場合には「年収の壁」への配慮として給付額を年15万円に引き上げる加算を、18歳以下のこどもには1人当たり年2.4万円（世帯単位）の加算を仮定した。 9つのモデルケースからは、現状の税・社会保険料負担の実態として、同じくらいの収入（所得）でも、就業形態によって社会保険の加入区分が変わり、それに応じて負担も給付も異なることが確認できる。とりわけ次の２点が浮き彫りとなった。 －子育て世帯においては、配偶者の収入（所得）が「年収の壁」を下回る場合は、配偶者が第3号被保険者であるケースのほうが第1号被保険者であるケースに比べて世帯負担額が小さい。逆に、配偶者の収入（所得）が「年収の壁」を上回る場合は、世帯主が第1号被保険者であるケースのほうが第2号被保険者であるケースに比べて世帯負担額が小さく、配偶者が第2号被保険者であるケースのほうが第1号被保険者であるケースに比べて世帯負担額が小さい。 －収入（所得）の増加によって社会保険料負担が急増するという視点から「配慮すべき壁」に直面するケースとしては、第3号被保険者であった者が就労拡大によって第2号被保険者または第1号被保険者になったケースに限られる。第1号被保険者から第2号被保険者へ",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-28T04:58:44.000Z",
+    "category": "insurance",
+    "keywords": [
+      "社会保障国民会議「中間と",
+      "「中間とりまとめ」を読み",
+      "」を読み解く（第2回）－",
+      "2回）－「所得に連動した",
+      "連動したきめ細かな給付」"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86668?site=nli"
+  },
+  {
+    "id": "rss-insurance-51bbcad115231b",
+    "title": "社会保障国民会議「中間とりまとめ」を読み解く（第2回）－「所得に連動したきめ細かな給付」の実像に迫る――給付額は一体どれぐらい？ 税･社会保険料負担との相対感は？",
+    "summary": "■要旨 本連載は、政府方針の土台となった社会保障国民会議の「中間とりまとめ」を全4回1で読み解く。第2回では、2029年度に本格導入される「所得に連動したきめ細かな給付」について、現時点で未確定の給付額や所得基準を仮置きし、税・社会保険料負担との関係を9つのモデルケース（単身者3ケース、子育て世帯6ケース）で試算した。 本体給付は、所得ゼロ超から年5万円で始まり、所得の増加に伴って年15万円まで増えた後、所得202万円で消失する台形型を仮定した。さらに、第3号被保険者が就労拡大によって第1号または第2号被保険者となった場合には「年収の壁」への配慮として給付額を年15万円に引き上げる加算を、18歳以下のこどもには1人当たり年2.4万円（世帯単位）の加算を仮定した。 9つのモデルケースからは、現状の税・社会保険料負担の実態として、同じくらいの収入（所得）でも、就業形態によって社会保険の加入区分が変わり、それに応じて負担も給付も異なることが確認できる。とりわけ次の２点が浮き彫りとなった。 －子育て世帯においては、配偶者の収入（所得）が「年収の壁」を下回る場合は、配偶者が第3号被保険者であるケースのほうが第1号被保険者であるケースに比べて世帯負担額が小さい。逆に、配偶者の収入（所得）が「年収の壁」を上回る場合は、世帯主が第1号被保険者であるケースのほうが第2号被保険者であるケースに比べて世帯負担額が小さく、配偶者が第2号被保険者であるケースのほうが第1号被保険者であるケースに比べて世帯負担額が小さい。 －収入（所得）の増加によって社会保険料負担が急増するという視点から「配慮すべき壁」に直面するケースとしては、第3号被保険者であった者が就労拡大によって第2号被保険者または第1号被保険者になったケースに限られる。第1号被保険者から第2号被保険者へ",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-28T04:58:44.000Z",
+    "category": "insurance",
+    "keywords": [
+      "社会保障国民会議「中間と",
+      "「中間とりまとめ」を読み",
+      "」を読み解く（第2回）－",
+      "2回）－「所得に連動した",
+      "連動したきめ細かな給付」"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86668?site=nli"
   },
   {
     "id": "rss-economy-c1da0c6b5825e0",
@@ -1541,6 +1635,146 @@
     "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "id": "rss-insurance-cf5244c60f0ae0",
+    "title": "インドの電子機器産業は競争力を高めたのか～携帯電話の輸出拠点化と部品輸入依存の行方～",
+    "summary": "■要旨 インドの財貿易は経済成長に伴って拡大してきたが、輸出構造にはなお偏りが残る。近年は化学品や機械などに加えて電子機器の伸びが目立ち、なかでも携帯電話が輸出拡大をけん引している。 一方、輸入では原油・石油製品に加え、電子機器が主要品目となっている。国内で電子機器の生産が拡大する一方、半導体や電子部品などの輸入も増えており、完成品生産の拡大が必ずしも輸入依存の低下につながっていない。 政府は段階的製造プログラム（PMP）や生産連動型優遇策（PLI）などを通じ、まず完成品の組立を呼び込むことで生産規模と輸出競争力の拡大を優先してきた。一方、部品や材料の多くを輸入に依存しており、国内付加価値の向上は引き続き課題である。 ただし、これまでの成長は完成品の組立が中心であり、国内付加価値の向上は道半ばである。電子機器輸出に占める国内付加価値の割合は中国などに比べて低く、部品・材料の国内生産を広げることが今後の課題となる。 政府は近年、ECMSによる電子部品・サブアセンブリーの育成や半導体産業への支援を強化している。今後は、完成品輸出の拡大を維持しつつ、部品や半導体など上流工程の国内化を進め、電子産業を「組立拠点」から高付加価値な製造拠点へ発展させられるかが焦点となる。 ■目次 1――はじめに 2――電子機器製造の拡大 3――電子機器輸出の拡大と輸入依存 （１）輸出拡大と輸入増が併存 （２）電子機器貿易にみられる改善の偏り （３）携帯電話完成品の輸出拠点化と関連部品の輸入依存 4――電子機器産業の次の成長段階――国内付加価値と部品集積 （１）携帯電話製造の国内化はどこまで進んだか （２）部品・材料の国内生産は広がるか （３）半導体の国内製造も始動 5――おわりに――輸出競争力は高まったが、産業の裾野拡大はこれからインドの財輸出は中長期的に拡大し",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-28T02:29:32.000Z",
+    "category": "insurance",
+    "keywords": [
+      "インドの電子機器産業は競",
+      "産業は競争力を高めたのか",
+      "めたのか～携帯電話の輸出",
+      "話の輸出拠点化と部品輸入",
+      "部品輸入依存の行方～"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86664?site=nli"
+  },
+  {
+    "id": "rss-insurance-cf5244c60f0ae0",
+    "title": "インドの電子機器産業は競争力を高めたのか～携帯電話の輸出拠点化と部品輸入依存の行方～",
+    "summary": "■要旨 インドの財貿易は経済成長に伴って拡大してきたが、輸出構造にはなお偏りが残る。近年は化学品や機械などに加えて電子機器の伸びが目立ち、なかでも携帯電話が輸出拡大をけん引している。 一方、輸入では原油・石油製品に加え、電子機器が主要品目となっている。国内で電子機器の生産が拡大する一方、半導体や電子部品などの輸入も増えており、完成品生産の拡大が必ずしも輸入依存の低下につながっていない。 政府は段階的製造プログラム（PMP）や生産連動型優遇策（PLI）などを通じ、まず完成品の組立を呼び込むことで生産規模と輸出競争力の拡大を優先してきた。一方、部品や材料の多くを輸入に依存しており、国内付加価値の向上は引き続き課題である。 ただし、これまでの成長は完成品の組立が中心であり、国内付加価値の向上は道半ばである。電子機器輸出に占める国内付加価値の割合は中国などに比べて低く、部品・材料の国内生産を広げることが今後の課題となる。 政府は近年、ECMSによる電子部品・サブアセンブリーの育成や半導体産業への支援を強化している。今後は、完成品輸出の拡大を維持しつつ、部品や半導体など上流工程の国内化を進め、電子産業を「組立拠点」から高付加価値な製造拠点へ発展させられるかが焦点となる。 ■目次 1――はじめに 2――電子機器製造の拡大 3――電子機器輸出の拡大と輸入依存 （１）輸出拡大と輸入増が併存 （２）電子機器貿易にみられる改善の偏り （３）携帯電話完成品の輸出拠点化と関連部品の輸入依存 4――電子機器産業の次の成長段階――国内付加価値と部品集積 （１）携帯電話製造の国内化はどこまで進んだか （２）部品・材料の国内生産は広がるか （３）半導体の国内製造も始動 5――おわりに――輸出競争力は高まったが、産業の裾野拡大はこれからインドの財輸出は中長期的に拡大し",
+    "sourceName": "ニッセイ基礎研（年金）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-28T02:29:32.000Z",
+    "category": "insurance",
+    "keywords": [
+      "インドの電子機器産業は競",
+      "産業は競争力を高めたのか",
+      "めたのか～携帯電話の輸出",
+      "話の輸出拠点化と部品輸入",
+      "部品輸入依存の行方～"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86664?site=nli"
+  },
+  {
+    "id": "rss-insurance-cf5244c60f0ae0",
+    "title": "インドの電子機器産業は競争力を高めたのか～携帯電話の輸出拠点化と部品輸入依存の行方～",
+    "summary": "■要旨 インドの財貿易は経済成長に伴って拡大してきたが、輸出構造にはなお偏りが残る。近年は化学品や機械などに加えて電子機器の伸びが目立ち、なかでも携帯電話が輸出拡大をけん引している。 一方、輸入では原油・石油製品に加え、電子機器が主要品目となっている。国内で電子機器の生産が拡大する一方、半導体や電子部品などの輸入も増えており、完成品生産の拡大が必ずしも輸入依存の低下につながっていない。 政府は段階的製造プログラム（PMP）や生産連動型優遇策（PLI）などを通じ、まず完成品の組立を呼び込むことで生産規模と輸出競争力の拡大を優先してきた。一方、部品や材料の多くを輸入に依存しており、国内付加価値の向上は引き続き課題である。 ただし、これまでの成長は完成品の組立が中心であり、国内付加価値の向上は道半ばである。電子機器輸出に占める国内付加価値の割合は中国などに比べて低く、部品・材料の国内生産を広げることが今後の課題となる。 政府は近年、ECMSによる電子部品・サブアセンブリーの育成や半導体産業への支援を強化している。今後は、完成品輸出の拡大を維持しつつ、部品や半導体など上流工程の国内化を進め、電子産業を「組立拠点」から高付加価値な製造拠点へ発展させられるかが焦点となる。 ■目次 1――はじめに 2――電子機器製造の拡大 3――電子機器輸出の拡大と輸入依存 （１）輸出拡大と輸入増が併存 （２）電子機器貿易にみられる改善の偏り （３）携帯電話完成品の輸出拠点化と関連部品の輸入依存 4――電子機器産業の次の成長段階――国内付加価値と部品集積 （１）携帯電話製造の国内化はどこまで進んだか （２）部品・材料の国内生産は広がるか （３）半導体の国内製造も始動 5――おわりに――輸出競争力は高まったが、産業の裾野拡大はこれからインドの財輸出は中長期的に拡大し",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-28T02:29:32.000Z",
+    "category": "insurance",
+    "keywords": [
+      "インドの電子機器産業は競",
+      "産業は競争力を高めたのか",
+      "めたのか～携帯電話の輸出",
+      "話の輸出拠点化と部品輸入",
+      "部品輸入依存の行方～"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86664?site=nli"
+  },
+  {
+    "id": "rss-insurance-cf5244c60f0ae0",
+    "title": "インドの電子機器産業は競争力を高めたのか～携帯電話の輸出拠点化と部品輸入依存の行方～",
+    "summary": "■要旨 インドの財貿易は経済成長に伴って拡大してきたが、輸出構造にはなお偏りが残る。近年は化学品や機械などに加えて電子機器の伸びが目立ち、なかでも携帯電話が輸出拡大をけん引している。 一方、輸入では原油・石油製品に加え、電子機器が主要品目となっている。国内で電子機器の生産が拡大する一方、半導体や電子部品などの輸入も増えており、完成品生産の拡大が必ずしも輸入依存の低下につながっていない。 政府は段階的製造プログラム（PMP）や生産連動型優遇策（PLI）などを通じ、まず完成品の組立を呼び込むことで生産規模と輸出競争力の拡大を優先してきた。一方、部品や材料の多くを輸入に依存しており、国内付加価値の向上は引き続き課題である。 ただし、これまでの成長は完成品の組立が中心であり、国内付加価値の向上は道半ばである。電子機器輸出に占める国内付加価値の割合は中国などに比べて低く、部品・材料の国内生産を広げることが今後の課題となる。 政府は近年、ECMSによる電子部品・サブアセンブリーの育成や半導体産業への支援を強化している。今後は、完成品輸出の拡大を維持しつつ、部品や半導体など上流工程の国内化を進め、電子産業を「組立拠点」から高付加価値な製造拠点へ発展させられるかが焦点となる。 ■目次 1――はじめに 2――電子機器製造の拡大 3――電子機器輸出の拡大と輸入依存 （１）輸出拡大と輸入増が併存 （２）電子機器貿易にみられる改善の偏り （３）携帯電話完成品の輸出拠点化と関連部品の輸入依存 4――電子機器産業の次の成長段階――国内付加価値と部品集積 （１）携帯電話製造の国内化はどこまで進んだか （２）部品・材料の国内生産は広がるか （３）半導体の国内製造も始動 5――おわりに――輸出競争力は高まったが、産業の裾野拡大はこれからインドの財輸出は中長期的に拡大し",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-28T02:29:32.000Z",
+    "category": "insurance",
+    "keywords": [
+      "インドの電子機器産業は競",
+      "産業は競争力を高めたのか",
+      "めたのか～携帯電話の輸出",
+      "話の輸出拠点化と部品輸入",
+      "部品輸入依存の行方～"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86664?site=nli"
+  },
+  {
+    "id": "rss-insurance-2f09509cbae150",
+    "title": "雇用関連統計2026年７月－就業者数は減少したが、振れが大きい",
+    "summary": "■要旨 完全失業率は前月から▲0.1ポイント低下の2.4％。就業者数は前月から▲15万人の減少。就業者数と労働力人口は年明け以降、大幅な減少と増加を繰り返しており、振れの大きな動き。失業率は12ヶ月ぶりの低い水準となったが、労働力人口の減少を伴っており、必ずしも良い内容ではない。 有効求人倍率は前月から横ばいの1.18倍。有効求人数は４ヶ月ぶりに小幅ながら減少。新規求人倍率は前月から▲0.06ポイント低下の2.10倍。 ■目次 １．就業者数は減少したが、振れが大きい。失業率は低下したが、必ずしも良い内容ではない ２．有効求人倍率は横ばい。有効求人数は４ヶ月ぶりに小幅ながら減少総務省は８月28日に2026年７月分の「労働力調査」を公表した。季節調整値で前月からの変化を見ると、７月の完全失業率は、前月から低下（▲0.1％ポイント）し、2.4％となった。QUICK集計の事前予想2.5％を下回った。労働力人口が前月差▲24万人となる中、就業者数が同▲15万人と労働力人口の減少幅を下回り、失業者数も同▲８万人と減少したことで、完全失業率が低下した。労働力人口と就業者数はともに年明け以降、大幅な減少と増加を繰り返しており、振れの大きな動きとなっている。基調を判断するには８月以降の結果を見る必要がある。完全失業率は12ヶ月ぶりの低い水準となったが、労働力人口の減少を伴っており、必ずしも良い内容ではない。 前年同月との比較で見ると、就業者数は前年差±０万人（前月＋17万人）と、６ヶ月ぶりに増加が止まった。男女別には男性が▲15万人（前月＋１万人）、女性が＋16万人（前月＋16万人）となっている。産業別に見ると、就業者数の前年差は次のようになっている。 ○ 前年差がプラスの産業：生活関連・娯楽が＋13万人（前月±０万人）、運輸・郵便が＋８万人（前月＋２",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-28T01:28:54.000Z",
+    "category": "insurance",
+    "keywords": [
+      "雇用関連統計2026年７月－就業者数は減少したが",
+      "振れが大きい"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86667?site=nli"
+  },
+  {
+    "id": "rss-insurance-2f09509cbae150",
+    "title": "雇用関連統計2026年７月－就業者数は減少したが、振れが大きい",
+    "summary": "■要旨 完全失業率は前月から▲0.1ポイント低下の2.4％。就業者数は前月から▲15万人の減少。就業者数と労働力人口は年明け以降、大幅な減少と増加を繰り返しており、振れの大きな動き。失業率は12ヶ月ぶりの低い水準となったが、労働力人口の減少を伴っており、必ずしも良い内容ではない。 有効求人倍率は前月から横ばいの1.18倍。有効求人数は４ヶ月ぶりに小幅ながら減少。新規求人倍率は前月から▲0.06ポイント低下の2.10倍。 ■目次 １．就業者数は減少したが、振れが大きい。失業率は低下したが、必ずしも良い内容ではない ２．有効求人倍率は横ばい。有効求人数は４ヶ月ぶりに小幅ながら減少総務省は８月28日に2026年７月分の「労働力調査」を公表した。季節調整値で前月からの変化を見ると、７月の完全失業率は、前月から低下（▲0.1％ポイント）し、2.4％となった。QUICK集計の事前予想2.5％を下回った。労働力人口が前月差▲24万人となる中、就業者数が同▲15万人と労働力人口の減少幅を下回り、失業者数も同▲８万人と減少したことで、完全失業率が低下した。労働力人口と就業者数はともに年明け以降、大幅な減少と増加を繰り返しており、振れの大きな動きとなっている。基調を判断するには８月以降の結果を見る必要がある。完全失業率は12ヶ月ぶりの低い水準となったが、労働力人口の減少を伴っており、必ずしも良い内容ではない。 前年同月との比較で見ると、就業者数は前年差±０万人（前月＋17万人）と、６ヶ月ぶりに増加が止まった。男女別には男性が▲15万人（前月＋１万人）、女性が＋16万人（前月＋16万人）となっている。産業別に見ると、就業者数の前年差は次のようになっている。 ○ 前年差がプラスの産業：生活関連・娯楽が＋13万人（前月±０万人）、運輸・郵便が＋８万人（前月＋２",
+    "sourceName": "ニッセイ基礎研（年金）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-28T01:28:54.000Z",
+    "category": "insurance",
+    "keywords": [
+      "雇用関連統計2026年７月－就業者数は減少したが",
+      "振れが大きい"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86667?site=nli"
+  },
+  {
+    "id": "rss-insurance-2f09509cbae150",
+    "title": "雇用関連統計2026年７月－就業者数は減少したが、振れが大きい",
+    "summary": "■要旨 完全失業率は前月から▲0.1ポイント低下の2.4％。就業者数は前月から▲15万人の減少。就業者数と労働力人口は年明け以降、大幅な減少と増加を繰り返しており、振れの大きな動き。失業率は12ヶ月ぶりの低い水準となったが、労働力人口の減少を伴っており、必ずしも良い内容ではない。 有効求人倍率は前月から横ばいの1.18倍。有効求人数は４ヶ月ぶりに小幅ながら減少。新規求人倍率は前月から▲0.06ポイント低下の2.10倍。 ■目次 １．就業者数は減少したが、振れが大きい。失業率は低下したが、必ずしも良い内容ではない ２．有効求人倍率は横ばい。有効求人数は４ヶ月ぶりに小幅ながら減少総務省は８月28日に2026年７月分の「労働力調査」を公表した。季節調整値で前月からの変化を見ると、７月の完全失業率は、前月から低下（▲0.1％ポイント）し、2.4％となった。QUICK集計の事前予想2.5％を下回った。労働力人口が前月差▲24万人となる中、就業者数が同▲15万人と労働力人口の減少幅を下回り、失業者数も同▲８万人と減少したことで、完全失業率が低下した。労働力人口と就業者数はともに年明け以降、大幅な減少と増加を繰り返しており、振れの大きな動きとなっている。基調を判断するには８月以降の結果を見る必要がある。完全失業率は12ヶ月ぶりの低い水準となったが、労働力人口の減少を伴っており、必ずしも良い内容ではない。 前年同月との比較で見ると、就業者数は前年差±０万人（前月＋17万人）と、６ヶ月ぶりに増加が止まった。男女別には男性が▲15万人（前月＋１万人）、女性が＋16万人（前月＋16万人）となっている。産業別に見ると、就業者数の前年差は次のようになっている。 ○ 前年差がプラスの産業：生活関連・娯楽が＋13万人（前月±０万人）、運輸・郵便が＋８万人（前月＋２",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-28T01:28:54.000Z",
+    "category": "insurance",
+    "keywords": [
+      "雇用関連統計2026年７月－就業者数は減少したが",
+      "振れが大きい"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86667?site=nli"
+  },
+  {
+    "id": "rss-insurance-2f09509cbae150",
+    "title": "雇用関連統計2026年７月－就業者数は減少したが、振れが大きい",
+    "summary": "■要旨 完全失業率は前月から▲0.1ポイント低下の2.4％。就業者数は前月から▲15万人の減少。就業者数と労働力人口は年明け以降、大幅な減少と増加を繰り返しており、振れの大きな動き。失業率は12ヶ月ぶりの低い水準となったが、労働力人口の減少を伴っており、必ずしも良い内容ではない。 有効求人倍率は前月から横ばいの1.18倍。有効求人数は４ヶ月ぶりに小幅ながら減少。新規求人倍率は前月から▲0.06ポイント低下の2.10倍。 ■目次 １．就業者数は減少したが、振れが大きい。失業率は低下したが、必ずしも良い内容ではない ２．有効求人倍率は横ばい。有効求人数は４ヶ月ぶりに小幅ながら減少総務省は８月28日に2026年７月分の「労働力調査」を公表した。季節調整値で前月からの変化を見ると、７月の完全失業率は、前月から低下（▲0.1％ポイント）し、2.4％となった。QUICK集計の事前予想2.5％を下回った。労働力人口が前月差▲24万人となる中、就業者数が同▲15万人と労働力人口の減少幅を下回り、失業者数も同▲８万人と減少したことで、完全失業率が低下した。労働力人口と就業者数はともに年明け以降、大幅な減少と増加を繰り返しており、振れの大きな動きとなっている。基調を判断するには８月以降の結果を見る必要がある。完全失業率は12ヶ月ぶりの低い水準となったが、労働力人口の減少を伴っており、必ずしも良い内容ではない。 前年同月との比較で見ると、就業者数は前年差±０万人（前月＋17万人）と、６ヶ月ぶりに増加が止まった。男女別には男性が▲15万人（前月＋１万人）、女性が＋16万人（前月＋16万人）となっている。産業別に見ると、就業者数の前年差は次のようになっている。 ○ 前年差がプラスの産業：生活関連・娯楽が＋13万人（前月±０万人）、運輸・郵便が＋８万人（前月＋２",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-28T01:28:54.000Z",
+    "category": "insurance",
+    "keywords": [
+      "雇用関連統計2026年７月－就業者数は減少したが",
+      "振れが大きい"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86667?site=nli"
+  },
+  {
     "id": "rss-insurance-6ff54230d81122",
     "title": "じゃんけんは何人まで「できる」のか－「できる」と「使える」の間にある、指数関数の壁",
     "summary": "■要旨 じゃんけんは、参加人数にかかわらず、理論上はいつか決着する。 しかし、人数が増えると1回で決着する確率は急速に低下し、決着までの期待回数は指数関数的に増加する。 期待回数10回を実用上の限界と仮定すると、8人と9人の間が一つの境目となる。 30人では約6万4千回、40人では約368万回を要し、現実には判定の手間も加わる。 数学的に「できる」ことと、意思決定の手段として「使える」ことは同じではないのである。 ■目次 はじめに 1――じゃんけんが決着する条件 2――「いつか決まる」は、実用的なのか 3――6人増えただけで、11倍になる 4――数式よりも、現実の方が厳しい 5――なぜ2人と3人は同じなのか 6――おわりに「じゃんけんって、何人までできるの？」ある日、4歳の息子とじゃんけんをしていたとき、そう尋ねられた。反射的に「何人でもできるよ」とシンプルに答えた。ルールの上では、2人でも3人でも、幼稚園のみんなでもじゃんけんはできるからだ。答えは簡単なはずだった。息子は「じゃあ、幼稚園のみんなでもできる？」と続けた。ここで、私はハッとした。30人が一斉に手を出せば、おそらくグーもチョキもパーも出る。そうなれば、あいこである。もう一度やっても、おそらくまたあいこになる。父として、軽はずみな言葉を息子にかけるわけにはいかない。そこで今回は、じゃんけんは何人まで「できる」のかを、少し真面目に考えてみることにした。 1――じゃんけんが決着する条件 全員参加型のじゃんけんでは、勝つ人と負ける人が生じたときに「決着した」と考える。反対に、あいこには二つの場合がある。全員が同じ手を出す場合と、グー・チョキ・パーの三種類すべてが出る場合である。 裏返せば、決着するのは三種類のうち二種類だけが出た場合に限られる。たとえばグーとチョキだけならグーの勝",
@@ -1615,6 +1849,82 @@
     "bannerClass": "from-blue-950 to-indigo-950",
     "isNew": true,
     "url": "https://www.nli-research.co.jp/topics_detail1/id=86666?site=nli"
+  },
+  {
+    "id": "rss-insurance-cace8c04b2c8ff",
+    "title": "上下流の交流を一度きりにしない住民参加の仕組み－交流を継続的な活動につなげるには－",
+    "summary": "■要旨 流域全体の連携を持続させるには、上流・下流の交流を一度きりの催しで終わらせず、継続的な活動へつなげる仕組みが必要である。本稿は、河川協力団体制度などの制度面と、参加者の納得感や動機といった心理面から、その条件を整理する。具体的には、交流で生まれた関係を役割・行政窓口・人手や資金の支援につなげること、負担や意思決定の公平性を確保し、感謝・評価・費用分担などを通じて互恵性を具体化すること、流域への愛着や一員としての意識、参加者の自発性や達成感を支えることが重要である。交流を制度と日常的な運営へ接続し、人が納得して関わり続けられる環境を整えることが、持続的な上下流連携の鍵となる。 川の上流側と下流側の交流や住民参加が一度うまくいっても、それだけで流域の連携が完成するわけではない。ここでいう流域とは、降った雨が同じ川へ流れ込む地域全体のことである。むしろ難しいのは、そこで生まれた関係を「続ける」ことである。交流会などで互いへの理解が深まっても、翌年には参加者が減り、活動が止まり、最後には行政だけが残ることもある。流域の連携が掛け声だけで終わりやすい最大の壁は、この「続けにくさ」にある。そこで本稿では、交流と参加を継続的な活動につなげるために必要な条件を、制度と人の気持ちの両面から整理する。 まず仕組みの面で重要なのは、住民の参加を「善意の協力」で終わらせず、「役割のある継続的な活動」に変えることである。河川分野には、そのための代表的な仕組みとして河川協力団体制度がある。国土交通省の資料によれば、この制度は、河川の維持管理や自然環境の保全などに自発的に取り組む民間団体等を、国や都道府県などの河川管理者と連携して活動する団体として正式に位置づけ、支援するものである1。この制度の大切な点は、住民団体が活動していることを認めるだけでなく、行政",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-28T01:02:17.000Z",
+    "category": "insurance",
+    "keywords": [
+      "上下流の交流を一度きりに",
+      "度きりにしない住民参加の",
+      "民参加の仕組み－交流を継",
+      "交流を継続的な活動につな",
+      "動につなげるには－"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86665?site=nli"
+  },
+  {
+    "id": "rss-insurance-cace8c04b2c8ff",
+    "title": "上下流の交流を一度きりにしない住民参加の仕組み－交流を継続的な活動につなげるには－",
+    "summary": "■要旨 流域全体の連携を持続させるには、上流・下流の交流を一度きりの催しで終わらせず、継続的な活動へつなげる仕組みが必要である。本稿は、河川協力団体制度などの制度面と、参加者の納得感や動機といった心理面から、その条件を整理する。具体的には、交流で生まれた関係を役割・行政窓口・人手や資金の支援につなげること、負担や意思決定の公平性を確保し、感謝・評価・費用分担などを通じて互恵性を具体化すること、流域への愛着や一員としての意識、参加者の自発性や達成感を支えることが重要である。交流を制度と日常的な運営へ接続し、人が納得して関わり続けられる環境を整えることが、持続的な上下流連携の鍵となる。 川の上流側と下流側の交流や住民参加が一度うまくいっても、それだけで流域の連携が完成するわけではない。ここでいう流域とは、降った雨が同じ川へ流れ込む地域全体のことである。むしろ難しいのは、そこで生まれた関係を「続ける」ことである。交流会などで互いへの理解が深まっても、翌年には参加者が減り、活動が止まり、最後には行政だけが残ることもある。流域の連携が掛け声だけで終わりやすい最大の壁は、この「続けにくさ」にある。そこで本稿では、交流と参加を継続的な活動につなげるために必要な条件を、制度と人の気持ちの両面から整理する。 まず仕組みの面で重要なのは、住民の参加を「善意の協力」で終わらせず、「役割のある継続的な活動」に変えることである。河川分野には、そのための代表的な仕組みとして河川協力団体制度がある。国土交通省の資料によれば、この制度は、河川の維持管理や自然環境の保全などに自発的に取り組む民間団体等を、国や都道府県などの河川管理者と連携して活動する団体として正式に位置づけ、支援するものである1。この制度の大切な点は、住民団体が活動していることを認めるだけでなく、行政",
+    "sourceName": "ニッセイ基礎研（年金）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-28T01:02:17.000Z",
+    "category": "insurance",
+    "keywords": [
+      "上下流の交流を一度きりに",
+      "度きりにしない住民参加の",
+      "民参加の仕組み－交流を継",
+      "交流を継続的な活動につな",
+      "動につなげるには－"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86665?site=nli"
+  },
+  {
+    "id": "rss-insurance-cace8c04b2c8ff",
+    "title": "上下流の交流を一度きりにしない住民参加の仕組み－交流を継続的な活動につなげるには－",
+    "summary": "■要旨 流域全体の連携を持続させるには、上流・下流の交流を一度きりの催しで終わらせず、継続的な活動へつなげる仕組みが必要である。本稿は、河川協力団体制度などの制度面と、参加者の納得感や動機といった心理面から、その条件を整理する。具体的には、交流で生まれた関係を役割・行政窓口・人手や資金の支援につなげること、負担や意思決定の公平性を確保し、感謝・評価・費用分担などを通じて互恵性を具体化すること、流域への愛着や一員としての意識、参加者の自発性や達成感を支えることが重要である。交流を制度と日常的な運営へ接続し、人が納得して関わり続けられる環境を整えることが、持続的な上下流連携の鍵となる。 川の上流側と下流側の交流や住民参加が一度うまくいっても、それだけで流域の連携が完成するわけではない。ここでいう流域とは、降った雨が同じ川へ流れ込む地域全体のことである。むしろ難しいのは、そこで生まれた関係を「続ける」ことである。交流会などで互いへの理解が深まっても、翌年には参加者が減り、活動が止まり、最後には行政だけが残ることもある。流域の連携が掛け声だけで終わりやすい最大の壁は、この「続けにくさ」にある。そこで本稿では、交流と参加を継続的な活動につなげるために必要な条件を、制度と人の気持ちの両面から整理する。 まず仕組みの面で重要なのは、住民の参加を「善意の協力」で終わらせず、「役割のある継続的な活動」に変えることである。河川分野には、そのための代表的な仕組みとして河川協力団体制度がある。国土交通省の資料によれば、この制度は、河川の維持管理や自然環境の保全などに自発的に取り組む民間団体等を、国や都道府県などの河川管理者と連携して活動する団体として正式に位置づけ、支援するものである1。この制度の大切な点は、住民団体が活動していることを認めるだけでなく、行政",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-28T01:02:17.000Z",
+    "category": "insurance",
+    "keywords": [
+      "上下流の交流を一度きりに",
+      "度きりにしない住民参加の",
+      "民参加の仕組み－交流を継",
+      "交流を継続的な活動につな",
+      "動につなげるには－"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86665?site=nli"
+  },
+  {
+    "id": "rss-insurance-cace8c04b2c8ff",
+    "title": "上下流の交流を一度きりにしない住民参加の仕組み－交流を継続的な活動につなげるには－",
+    "summary": "■要旨 流域全体の連携を持続させるには、上流・下流の交流を一度きりの催しで終わらせず、継続的な活動へつなげる仕組みが必要である。本稿は、河川協力団体制度などの制度面と、参加者の納得感や動機といった心理面から、その条件を整理する。具体的には、交流で生まれた関係を役割・行政窓口・人手や資金の支援につなげること、負担や意思決定の公平性を確保し、感謝・評価・費用分担などを通じて互恵性を具体化すること、流域への愛着や一員としての意識、参加者の自発性や達成感を支えることが重要である。交流を制度と日常的な運営へ接続し、人が納得して関わり続けられる環境を整えることが、持続的な上下流連携の鍵となる。 川の上流側と下流側の交流や住民参加が一度うまくいっても、それだけで流域の連携が完成するわけではない。ここでいう流域とは、降った雨が同じ川へ流れ込む地域全体のことである。むしろ難しいのは、そこで生まれた関係を「続ける」ことである。交流会などで互いへの理解が深まっても、翌年には参加者が減り、活動が止まり、最後には行政だけが残ることもある。流域の連携が掛け声だけで終わりやすい最大の壁は、この「続けにくさ」にある。そこで本稿では、交流と参加を継続的な活動につなげるために必要な条件を、制度と人の気持ちの両面から整理する。 まず仕組みの面で重要なのは、住民の参加を「善意の協力」で終わらせず、「役割のある継続的な活動」に変えることである。河川分野には、そのための代表的な仕組みとして河川協力団体制度がある。国土交通省の資料によれば、この制度は、河川の維持管理や自然環境の保全などに自発的に取り組む民間団体等を、国や都道府県などの河川管理者と連携して活動する団体として正式に位置づけ、支援するものである1。この制度の大切な点は、住民団体が活動していることを認めるだけでなく、行政",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-28T01:02:17.000Z",
+    "category": "insurance",
+    "keywords": [
+      "上下流の交流を一度きりに",
+      "度きりにしない住民参加の",
+      "民参加の仕組み－交流を継",
+      "交流を継続的な活動につな",
+      "動につなげるには－"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86665?site=nli"
   },
   {
     "id": "rss-economy-59d8cf222adc22",
@@ -1668,8 +1978,45 @@
       "parametric"
     ],
     "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.artemis.bm/news/reask-study-shows-how-pre-landfall-parametric-triggers-fund-pre-storm-protective-actions/?utm_source=rss&utm_medium=rss&utm_campaign=reask-study-shows-how-pre-landfall-parametric-triggers-fund-pre-storm-protective-actions"
+  },
+  {
+    "id": "rss-insurance-5d25760250e463",
+    "title": "社会保障国民会議「中間とりまとめ」を読み解く（第1回）－政府方針の土台となった「中間とりまとめ」の全体像――なぜ今この制度なのか、そして「つなぎ」と「本丸」",
+    "summary": "■要旨 政府は2026（令和8）年8月5日、『「給付付き税額控除」の制度導入の基本方針』を閣議決定した。「給付付き税額控除」が2029年度に始まる――。政府方針をそう受け止めた人も多いかもしれない。しかし、2029年度に導入されるのは、その第一歩となる「所得に連動したきめ細かな給付」である。あわせて、それまでの物価高に対応する「つなぎ」として、2027年4月から2年間、飲食料品の消費税率を8％から1％へ引下げる等の措置が講じられる。 「所得に連動したきめ細かな給付」は、中低所得の勤労者の手取りを下支えするとともに、「年収の壁」による働き控えを和らげることを目的とする。給付額は所得に応じて逓増・定額・逓減する仕組みで、個人事業者やフリーランス、一定の高齢者も対象に含める。さらに、「年収の壁」に配慮した時限加算や、18歳以下のこどもの人数に応じた加算も設けられる。ただし、給付額や所得基準、財源など制度の核心部分は未定である。 「つなぎ」措置は、2027年4月から2年間、飲食料品の消費税率を1％に引下げ、残る1％分に相当する年約6,000億円を財源に中低所得者への給付を行い、給付と合わせて飲食料品の消費税負担の「実質ゼロ」化を図るものである。自民党が衆院選の公約で検討の加速を掲げた飲食料品の消費税率ゼロは、早期実現の障害となるシステム改修等に要する期間を短縮するため、税率1％への引下げに変更された。 本連載では、この政府方針の土台となった社会保障国民会議の「中間とりまとめ」を全４回で読み解く。第1回は、制度創設の背景、制度全体の見取り図、そして、制度の中心となる「所得に連動したきめ細かな給付」の仕組みを解説し、今後の論点を読み解く。 ■目次 1――はじめに 2――政府方針の土台となった社会保障国民会議「中間とりまとめ」 3――なぜ今、この制",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-27T05:06:26.000Z",
+    "category": "insurance",
+    "keywords": [
+      "社会保障国民会議「中間と",
+      "「中間とりまとめ」を読み",
+      "」を読み解く（第1回）－",
+      "1回）－政府方針の土台と",
+      "の土台となった「中間とり"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86650?site=nli"
+  },
+  {
+    "id": "rss-insurance-1cf7dacd013648",
+    "title": "米個人所得・消費支出（26年7月）－PCE価格は総合・コア指数ともに前月から前月比で上昇も、前年同月比は横這い",
+    "summary": "■要旨 7月の個人所得は前月比+0.4％と伸びが加速する一方、個人消費は+0.2％、実質個人消費は横這いとなり、足元で消費の伸びが鈍化。 個人所得では賃金・給与の伸びが小幅に加速したほか、移転所得や自営業者所得が増加。実質可処分所得は+0.4％、貯蓄率も3.0％へ上昇。 ＰＣＥ価格指数は総合が前月比+0.2％、コアが+0.2％と前月から伸びが高まった一方、前年同月比はそれぞれ+3.7％、+3.3％と横這い。インフレ率は依然としてＦＲＢの物価目標を大幅に上回る。 ■目次 1．結果の概要：個人所得、個人消費ともに市場予想を上回る 2．結果の評価：PCE価格は総合・コア指数ともに前月から前月比で上昇も前年同月比は横這い 3．所得動向：自営業者所得、移転所得の伸びが加速 4．消費動向：耐久財・非耐久財消費ともに減少 5．価格指数：エネルギー価格（前月比）は2ヵ月連続のマイナス8月26日、米商務省の経済分析局（ＢＥＡ）は7月の個人所得・消費支出統計を公表した。個人所得（名目値）は前月比+0.4％（前月:+0.2％）と前月および市場予想（Bloomberg集計の中央値、以下同様）の+0.2％を上回った（図表1）。個人消費支出は前月比+0.2％（前月：+0.3％）とこちらは前月を下回ったものの、市場予想（+0.1％）は上回った。価格変動の影響を除いた実質個人消費支出（前月比）は横這い（前月：+0.4％）と前月から低下したものの、市場予想（横這い）に一致した（図表5）。貯蓄率1は3.0％（前月：2.6％）と前月から+0.4％ポイント上昇した。 価格指数は、総合指数が前月比+0.2％（前月：▲0.1％）と前月からプラスに転じたほか、市場予想（+0.1％）も上回った（図表6）。変動の大きい食料品・エネルギーを除いたコア指数は前月比+0.2％（前月：+0.",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-08-27T01:25:03.000Z",
+    "category": "insurance",
+    "keywords": [
+      "米個人所得",
+      "消費支出（26年7月）－PCE価格は総合",
+      "コア指数ともに前月から前月比で上昇も",
+      "前年同月比は横這い"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=86655?site=nli"
   },
   {
     "id": "rss-insurance-2c968015c076f7",
@@ -1689,74 +2036,6 @@
     "sortBoost": 18
   },
   {
-    "id": "rss-insurance-a31d37b6b6529a",
-    "title": "保険会社役員の適格性－保険業法による規律",
-    "summary": "■要旨 保険業法において、保険会社の役員（取締役、監査役、執行役）は、十分な社会的信用を持ち、かつそれぞれの職務の執行または監査を的確、公正かつ効率的に遂行できる知識・経験を有する者であることが求められている。 このうち、常務に従事する取締役、執行役、監査役については、その選任・解任にあたって金融庁長官に事前に届出をしなければならない。 また、常務に従事する取締役、執行役は金融庁長官の認可がない限り、他の会社の常務に従事することが認められない。 なお、重大な法令違反行為などがあった場合には、金融庁長官は保険会社の役員の解任命令を発することができる。 ■目次 1――はじめに 2――保険会社の形態および役員の種類 3――適格性の原則 1｜役員の適格性 2｜選任・退任の届出 3｜兼務の認可 4――役員の解任命令 5――おわりに生命保険会社の経営には専門的な知識・経験を要することが多い。保険引受業務においては、医的や数理的な知識・経験が必要である。資産運用業務では投資関連の知識・経験が求められる。他の事業会社に求められる経営やシステム関係の知識・経験はもちろんである。 そのような保険会社の役員の選任にあたっては、どのような資格が求められるのか1。また、どのような責任を負うのか。直近ではガバナンスコードの改訂2があり、上場会社役員の在り方について議論されている状況にある。したがって、このタイミングで保険会社の役員の資格等について整理しておくことに意義があると考えられる。そこで、本稿では保険業法における役員（本稿では取締役、執行役、監査役をいう）の資格等にかかわる規定について解説する3。 1 会社法によると、会社法や金融商品取引法、破産法等の罪を犯し、刑（罰金刑含む）に処せられた者は、執行猶予中及び刑の執行が終わりまたは刑の時効が完成したのち2年",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-25T00:58:58.000Z",
-    "category": "insurance",
-    "keywords": [
-      "保険会社役員の適格性－保",
-      "格性－保険業法による規律",
-      "よる規律"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86612?site=nli"
-  },
-  {
-    "id": "rss-insurance-a31d37b6b6529a",
-    "title": "保険会社役員の適格性－保険業法による規律",
-    "summary": "■要旨 保険業法において、保険会社の役員（取締役、監査役、執行役）は、十分な社会的信用を持ち、かつそれぞれの職務の執行または監査を的確、公正かつ効率的に遂行できる知識・経験を有する者であることが求められている。 このうち、常務に従事する取締役、執行役、監査役については、その選任・解任にあたって金融庁長官に事前に届出をしなければならない。 また、常務に従事する取締役、執行役は金融庁長官の認可がない限り、他の会社の常務に従事することが認められない。 なお、重大な法令違反行為などがあった場合には、金融庁長官は保険会社の役員の解任命令を発することができる。 ■目次 1――はじめに 2――保険会社の形態および役員の種類 3――適格性の原則 1｜役員の適格性 2｜選任・退任の届出 3｜兼務の認可 4――役員の解任命令 5――おわりに生命保険会社の経営には専門的な知識・経験を要することが多い。保険引受業務においては、医的や数理的な知識・経験が必要である。資産運用業務では投資関連の知識・経験が求められる。他の事業会社に求められる経営やシステム関係の知識・経験はもちろんである。 そのような保険会社の役員の選任にあたっては、どのような資格が求められるのか1。また、どのような責任を負うのか。直近ではガバナンスコードの改訂2があり、上場会社役員の在り方について議論されている状況にある。したがって、このタイミングで保険会社の役員の資格等について整理しておくことに意義があると考えられる。そこで、本稿では保険業法における役員（本稿では取締役、執行役、監査役をいう）の資格等にかかわる規定について解説する3。 1 会社法によると、会社法や金融商品取引法、破産法等の罪を犯し、刑（罰金刑含む）に処せられた者は、執行猶予中及び刑の執行が終わりまたは刑の時効が完成したのち2年",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-25T00:58:58.000Z",
-    "category": "insurance",
-    "keywords": [
-      "保険会社役員の適格性－保",
-      "格性－保険業法による規律",
-      "よる規律"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86612?site=nli"
-  },
-  {
-    "id": "rss-insurance-a31d37b6b6529a",
-    "title": "保険会社役員の適格性－保険業法による規律",
-    "summary": "■要旨 保険業法において、保険会社の役員（取締役、監査役、執行役）は、十分な社会的信用を持ち、かつそれぞれの職務の執行または監査を的確、公正かつ効率的に遂行できる知識・経験を有する者であることが求められている。 このうち、常務に従事する取締役、執行役、監査役については、その選任・解任にあたって金融庁長官に事前に届出をしなければならない。 また、常務に従事する取締役、執行役は金融庁長官の認可がない限り、他の会社の常務に従事することが認められない。 なお、重大な法令違反行為などがあった場合には、金融庁長官は保険会社の役員の解任命令を発することができる。 ■目次 1――はじめに 2――保険会社の形態および役員の種類 3――適格性の原則 1｜役員の適格性 2｜選任・退任の届出 3｜兼務の認可 4――役員の解任命令 5――おわりに生命保険会社の経営には専門的な知識・経験を要することが多い。保険引受業務においては、医的や数理的な知識・経験が必要である。資産運用業務では投資関連の知識・経験が求められる。他の事業会社に求められる経営やシステム関係の知識・経験はもちろんである。 そのような保険会社の役員の選任にあたっては、どのような資格が求められるのか1。また、どのような責任を負うのか。直近ではガバナンスコードの改訂2があり、上場会社役員の在り方について議論されている状況にある。したがって、このタイミングで保険会社の役員の資格等について整理しておくことに意義があると考えられる。そこで、本稿では保険業法における役員（本稿では取締役、執行役、監査役をいう）の資格等にかかわる規定について解説する3。 1 会社法によると、会社法や金融商品取引法、破産法等の罪を犯し、刑（罰金刑含む）に処せられた者は、執行猶予中及び刑の執行が終わりまたは刑の時効が完成したのち2年",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-25T00:58:58.000Z",
-    "category": "insurance",
-    "keywords": [
-      "保険会社役員の適格性－保",
-      "格性－保険業法による規律",
-      "よる規律"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86612?site=nli"
-  },
-  {
-    "id": "rss-insurance-a31d37b6b6529a",
-    "title": "保険会社役員の適格性－保険業法による規律",
-    "summary": "■要旨 保険業法において、保険会社の役員（取締役、監査役、執行役）は、十分な社会的信用を持ち、かつそれぞれの職務の執行または監査を的確、公正かつ効率的に遂行できる知識・経験を有する者であることが求められている。 このうち、常務に従事する取締役、執行役、監査役については、その選任・解任にあたって金融庁長官に事前に届出をしなければならない。 また、常務に従事する取締役、執行役は金融庁長官の認可がない限り、他の会社の常務に従事することが認められない。 なお、重大な法令違反行為などがあった場合には、金融庁長官は保険会社の役員の解任命令を発することができる。 ■目次 1――はじめに 2――保険会社の形態および役員の種類 3――適格性の原則 1｜役員の適格性 2｜選任・退任の届出 3｜兼務の認可 4――役員の解任命令 5――おわりに生命保険会社の経営には専門的な知識・経験を要することが多い。保険引受業務においては、医的や数理的な知識・経験が必要である。資産運用業務では投資関連の知識・経験が求められる。他の事業会社に求められる経営やシステム関係の知識・経験はもちろんである。 そのような保険会社の役員の選任にあたっては、どのような資格が求められるのか1。また、どのような責任を負うのか。直近ではガバナンスコードの改訂2があり、上場会社役員の在り方について議論されている状況にある。したがって、このタイミングで保険会社の役員の資格等について整理しておくことに意義があると考えられる。そこで、本稿では保険業法における役員（本稿では取締役、執行役、監査役をいう）の資格等にかかわる規定について解説する3。 1 会社法によると、会社法や金融商品取引法、破産法等の罪を犯し、刑（罰金刑含む）に処せられた者は、執行猶予中及び刑の執行が終わりまたは刑の時効が完成したのち2年",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-25T00:58:58.000Z",
-    "category": "insurance",
-    "keywords": [
-      "保険会社役員の適格性－保",
-      "格性－保険業法による規律",
-      "よる規律"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86612?site=nli"
-  },
-  {
     "id": "rss-insurance-7549b06de9b3eb",
     "title": "保険デイリーニュース(08/13)",
     "summary": "本日の主なニュース ・生活再建に向け地震保険支払いへの対応本格化 東京海上日動社長「速やかな支払いが最大のテーマ」 ・金融庁、銀行・生保の「防衛マネー」実態調査 戦略投融資の下地に ・第一生命、保険金の預かり金利0.85%に上げ 27年ぶり高水準 ＜損保関連＞ ■【...",
@@ -1772,82 +2051,6 @@
     "isNew": false,
     "url": "https://blog.livedoor.jp/yanaharu_yanaharu/archives/65991226.html",
     "sortBoost": 18
-  },
-  {
-    "id": "rss-insurance-4cb7a3ccf5697d",
-    "title": "保険と年金基金における各種リスクと今後の状況（欧州 2026.7）－EIOPAが公表している報告書（2026年7月）の紹介",
-    "summary": "■要旨 EIOPA（欧州保険・企業年金監督機構）は、四半期ごとにリスクダッシュボードを公表している。2026年7月30日には年金基金分野および保険分野のリスクダッシュボードが公表された。両セクターとも財務状況そのものは比較的安定しており、直ちに懸念される動きは見当たらない。しかし地政学的な緊張と、それに伴う不確実性の先行きは依然として不透明である。こうした地政学的な不確実性とも関連し、サイバーリスクに対しては継続的な監視体制の強化が必要である。 ■目次 1――はじめに 2――各リスクの状況 1｜保険分野 2｜年金基金分野 3――おわりにEIOPA（欧州保険・企業年金監督機構）は、四半期ごとにリスクダッシュボードを公表している。2026年7月30日には年金基金分野および保険分野のリスクダッシュボードが公表された1。本ダッシュボードはEU内の年金基金および保険セクターにおける主なリスク2と脆弱性の現状と、今後の見通しを要約したものである。評価は、2026年第1四半期時点のソルベンシーⅡ関連データおよび市場データに基づいている。各指標の最新データは原則として2026年第1四半期時点のものであり、年次データのみ利用可能な項目は2025年の値を用いている。なお、市場データについては2026年6月末時点のデータを利用している場合もある。 1 (年金分野) Institutions for occupational retirement provision(IORPs) risk dashboard （2026.7.30 EIOPA） https://nexteuropa-multisites.s3.eu-west-1.amazonaws.com/www.eiopa.europa.eu/assets/iorps-risk-dashboard/EIO",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-21T06:58:43.000Z",
-    "category": "insurance",
-    "keywords": [
-      "保険と年金基金における各",
-      "おける各種リスクと今後の",
-      "と今後の状況（欧州202",
-      "州2026.7）－EIO",
-      "－EIOPAが公表してい"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86591?site=nli"
-  },
-  {
-    "id": "rss-insurance-4cb7a3ccf5697d",
-    "title": "保険と年金基金における各種リスクと今後の状況（欧州 2026.7）－EIOPAが公表している報告書（2026年7月）の紹介",
-    "summary": "■要旨 EIOPA（欧州保険・企業年金監督機構）は、四半期ごとにリスクダッシュボードを公表している。2026年7月30日には年金基金分野および保険分野のリスクダッシュボードが公表された。両セクターとも財務状況そのものは比較的安定しており、直ちに懸念される動きは見当たらない。しかし地政学的な緊張と、それに伴う不確実性の先行きは依然として不透明である。こうした地政学的な不確実性とも関連し、サイバーリスクに対しては継続的な監視体制の強化が必要である。 ■目次 1――はじめに 2――各リスクの状況 1｜保険分野 2｜年金基金分野 3――おわりにEIOPA（欧州保険・企業年金監督機構）は、四半期ごとにリスクダッシュボードを公表している。2026年7月30日には年金基金分野および保険分野のリスクダッシュボードが公表された1。本ダッシュボードはEU内の年金基金および保険セクターにおける主なリスク2と脆弱性の現状と、今後の見通しを要約したものである。評価は、2026年第1四半期時点のソルベンシーⅡ関連データおよび市場データに基づいている。各指標の最新データは原則として2026年第1四半期時点のものであり、年次データのみ利用可能な項目は2025年の値を用いている。なお、市場データについては2026年6月末時点のデータを利用している場合もある。 1 (年金分野) Institutions for occupational retirement provision(IORPs) risk dashboard （2026.7.30 EIOPA） https://nexteuropa-multisites.s3.eu-west-1.amazonaws.com/www.eiopa.europa.eu/assets/iorps-risk-dashboard/EIO",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-21T06:58:43.000Z",
-    "category": "insurance",
-    "keywords": [
-      "保険と年金基金における各",
-      "おける各種リスクと今後の",
-      "と今後の状況（欧州202",
-      "州2026.7）－EIO",
-      "－EIOPAが公表してい"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86591?site=nli"
-  },
-  {
-    "id": "rss-insurance-4cb7a3ccf5697d",
-    "title": "保険と年金基金における各種リスクと今後の状況（欧州 2026.7）－EIOPAが公表している報告書（2026年7月）の紹介",
-    "summary": "■要旨 EIOPA（欧州保険・企業年金監督機構）は、四半期ごとにリスクダッシュボードを公表している。2026年7月30日には年金基金分野および保険分野のリスクダッシュボードが公表された。両セクターとも財務状況そのものは比較的安定しており、直ちに懸念される動きは見当たらない。しかし地政学的な緊張と、それに伴う不確実性の先行きは依然として不透明である。こうした地政学的な不確実性とも関連し、サイバーリスクに対しては継続的な監視体制の強化が必要である。 ■目次 1――はじめに 2――各リスクの状況 1｜保険分野 2｜年金基金分野 3――おわりにEIOPA（欧州保険・企業年金監督機構）は、四半期ごとにリスクダッシュボードを公表している。2026年7月30日には年金基金分野および保険分野のリスクダッシュボードが公表された1。本ダッシュボードはEU内の年金基金および保険セクターにおける主なリスク2と脆弱性の現状と、今後の見通しを要約したものである。評価は、2026年第1四半期時点のソルベンシーⅡ関連データおよび市場データに基づいている。各指標の最新データは原則として2026年第1四半期時点のものであり、年次データのみ利用可能な項目は2025年の値を用いている。なお、市場データについては2026年6月末時点のデータを利用している場合もある。 1 (年金分野) Institutions for occupational retirement provision(IORPs) risk dashboard （2026.7.30 EIOPA） https://nexteuropa-multisites.s3.eu-west-1.amazonaws.com/www.eiopa.europa.eu/assets/iorps-risk-dashboard/EIO",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-21T06:58:43.000Z",
-    "category": "insurance",
-    "keywords": [
-      "保険と年金基金における各",
-      "おける各種リスクと今後の",
-      "と今後の状況（欧州202",
-      "州2026.7）－EIO",
-      "－EIOPAが公表してい"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86591?site=nli"
-  },
-  {
-    "id": "rss-insurance-4cb7a3ccf5697d",
-    "title": "保険と年金基金における各種リスクと今後の状況（欧州 2026.7）－EIOPAが公表している報告書（2026年7月）の紹介",
-    "summary": "■要旨 EIOPA（欧州保険・企業年金監督機構）は、四半期ごとにリスクダッシュボードを公表している。2026年7月30日には年金基金分野および保険分野のリスクダッシュボードが公表された。両セクターとも財務状況そのものは比較的安定しており、直ちに懸念される動きは見当たらない。しかし地政学的な緊張と、それに伴う不確実性の先行きは依然として不透明である。こうした地政学的な不確実性とも関連し、サイバーリスクに対しては継続的な監視体制の強化が必要である。 ■目次 1――はじめに 2――各リスクの状況 1｜保険分野 2｜年金基金分野 3――おわりにEIOPA（欧州保険・企業年金監督機構）は、四半期ごとにリスクダッシュボードを公表している。2026年7月30日には年金基金分野および保険分野のリスクダッシュボードが公表された1。本ダッシュボードはEU内の年金基金および保険セクターにおける主なリスク2と脆弱性の現状と、今後の見通しを要約したものである。評価は、2026年第1四半期時点のソルベンシーⅡ関連データおよび市場データに基づいている。各指標の最新データは原則として2026年第1四半期時点のものであり、年次データのみ利用可能な項目は2025年の値を用いている。なお、市場データについては2026年6月末時点のデータを利用している場合もある。 1 (年金分野) Institutions for occupational retirement provision(IORPs) risk dashboard （2026.7.30 EIOPA） https://nexteuropa-multisites.s3.eu-west-1.amazonaws.com/www.eiopa.europa.eu/assets/iorps-risk-dashboard/EIO",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-21T06:58:43.000Z",
-    "category": "insurance",
-    "keywords": [
-      "保険と年金基金における各",
-      "おける各種リスクと今後の",
-      "と今後の状況（欧州202",
-      "州2026.7）－EIO",
-      "－EIOPAが公表してい"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86591?site=nli"
   },
   {
     "id": "rss-insurance-815459fdbd40cd",
@@ -1935,82 +2138,6 @@
     "sortBoost": 18
   },
   {
-    "id": "rss-insurance-927e3d9504937e",
-    "title": "20代の生命保険選びの「比較」と「迷い」－無関心や安さだけでは捉えきれない、「必要最小限」を選ぶ背景",
-    "summary": "■要旨 20代の生命保険選びは、一般に「生命保険への関心があまり高くない」「価格を重視する傾向」等と受け止められがちです。 ただ、実際の20代の加入判断は、それほど単純なのでしょうか。ニッセイ基礎研究所「生命保険マーケット調査（2025年）」における20代1,637人の回答を分析すると、商品や情報を比べて納得しようとする姿勢がみられる一方、比較検討と迷いの結びつきが30～60代よりやや強く、迷いと「必要最小限」に絞る傾向との関連も強く表れていました。つまり、しっかり比べたいが、比べるほど判断の難しさも意識され、迷いを抱えたまま「必要最小限」に絞ってしまう。今回の分析からは、そんな20代の姿がうかがえます。 したがって「生命保険は最低限でよい」という20代の意向でも、それが自分なりの基準に沿った選択なのか、分からなさや後悔への不安が重なった選択なのかによって、確認すべき点は異なりそうです。 本稿では、生命保険加入をめぐる「比較」「迷い」「必要最小限」といった心理的な関係を手がかりに、20代の生命保険選びを読み解きます。そのうえで、20代にとっての「無理のない生命保険の加入」や加入後の納得感、後悔しにくい選択につなげるための示唆を探ります。 ■目次 1――はじめに～20代は生命保険に関心がないのか 2――加入に関連する要因は、20代だけ特別ではない 3――比較したい気持ちと、情報過多による迷いが重なる20代 4――20代の「必要最小限」で良い、という態度の裏側をどう読むか 5――顧客自身の「ものさし」を言葉にする～無理なく、後悔しにくい加入へ20代の生命保険選びは、「まだ保険への関心が低い」「収入に余裕がないため、安い商品を選んでいる」「家族の支えがあるので、自分の保障を後回しにしている」と説明されることがあります。保障の必要性を具体的に",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-07T04:07:56.000Z",
-    "category": "insurance",
-    "keywords": [
-      "20代の生命保険選びの「",
-      "選びの「比較」と「迷い」",
-      "「迷い」－無関心や安さだ",
-      "や安さだけでは捉えきれな",
-      "えきれない、「必要最小限"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86492?site=nli"
-  },
-  {
-    "id": "rss-insurance-927e3d9504937e",
-    "title": "20代の生命保険選びの「比較」と「迷い」－無関心や安さだけでは捉えきれない、「必要最小限」を選ぶ背景",
-    "summary": "■要旨 20代の生命保険選びは、一般に「生命保険への関心があまり高くない」「価格を重視する傾向」等と受け止められがちです。 ただ、実際の20代の加入判断は、それほど単純なのでしょうか。ニッセイ基礎研究所「生命保険マーケット調査（2025年）」における20代1,637人の回答を分析すると、商品や情報を比べて納得しようとする姿勢がみられる一方、比較検討と迷いの結びつきが30～60代よりやや強く、迷いと「必要最小限」に絞る傾向との関連も強く表れていました。つまり、しっかり比べたいが、比べるほど判断の難しさも意識され、迷いを抱えたまま「必要最小限」に絞ってしまう。今回の分析からは、そんな20代の姿がうかがえます。 したがって「生命保険は最低限でよい」という20代の意向でも、それが自分なりの基準に沿った選択なのか、分からなさや後悔への不安が重なった選択なのかによって、確認すべき点は異なりそうです。 本稿では、生命保険加入をめぐる「比較」「迷い」「必要最小限」といった心理的な関係を手がかりに、20代の生命保険選びを読み解きます。そのうえで、20代にとっての「無理のない生命保険の加入」や加入後の納得感、後悔しにくい選択につなげるための示唆を探ります。 ■目次 1――はじめに～20代は生命保険に関心がないのか 2――加入に関連する要因は、20代だけ特別ではない 3――比較したい気持ちと、情報過多による迷いが重なる20代 4――20代の「必要最小限」で良い、という態度の裏側をどう読むか 5――顧客自身の「ものさし」を言葉にする～無理なく、後悔しにくい加入へ20代の生命保険選びは、「まだ保険への関心が低い」「収入に余裕がないため、安い商品を選んでいる」「家族の支えがあるので、自分の保障を後回しにしている」と説明されることがあります。保障の必要性を具体的に",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-07T04:07:56.000Z",
-    "category": "insurance",
-    "keywords": [
-      "20代の生命保険選びの「",
-      "選びの「比較」と「迷い」",
-      "「迷い」－無関心や安さだ",
-      "や安さだけでは捉えきれな",
-      "えきれない、「必要最小限"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86492?site=nli"
-  },
-  {
-    "id": "rss-insurance-927e3d9504937e",
-    "title": "20代の生命保険選びの「比較」と「迷い」－無関心や安さだけでは捉えきれない、「必要最小限」を選ぶ背景",
-    "summary": "■要旨 20代の生命保険選びは、一般に「生命保険への関心があまり高くない」「価格を重視する傾向」等と受け止められがちです。 ただ、実際の20代の加入判断は、それほど単純なのでしょうか。ニッセイ基礎研究所「生命保険マーケット調査（2025年）」における20代1,637人の回答を分析すると、商品や情報を比べて納得しようとする姿勢がみられる一方、比較検討と迷いの結びつきが30～60代よりやや強く、迷いと「必要最小限」に絞る傾向との関連も強く表れていました。つまり、しっかり比べたいが、比べるほど判断の難しさも意識され、迷いを抱えたまま「必要最小限」に絞ってしまう。今回の分析からは、そんな20代の姿がうかがえます。 したがって「生命保険は最低限でよい」という20代の意向でも、それが自分なりの基準に沿った選択なのか、分からなさや後悔への不安が重なった選択なのかによって、確認すべき点は異なりそうです。 本稿では、生命保険加入をめぐる「比較」「迷い」「必要最小限」といった心理的な関係を手がかりに、20代の生命保険選びを読み解きます。そのうえで、20代にとっての「無理のない生命保険の加入」や加入後の納得感、後悔しにくい選択につなげるための示唆を探ります。 ■目次 1――はじめに～20代は生命保険に関心がないのか 2――加入に関連する要因は、20代だけ特別ではない 3――比較したい気持ちと、情報過多による迷いが重なる20代 4――20代の「必要最小限」で良い、という態度の裏側をどう読むか 5――顧客自身の「ものさし」を言葉にする～無理なく、後悔しにくい加入へ20代の生命保険選びは、「まだ保険への関心が低い」「収入に余裕がないため、安い商品を選んでいる」「家族の支えがあるので、自分の保障を後回しにしている」と説明されることがあります。保障の必要性を具体的に",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-07T04:07:56.000Z",
-    "category": "insurance",
-    "keywords": [
-      "20代の生命保険選びの「",
-      "選びの「比較」と「迷い」",
-      "「迷い」－無関心や安さだ",
-      "や安さだけでは捉えきれな",
-      "えきれない、「必要最小限"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86492?site=nli"
-  },
-  {
-    "id": "rss-insurance-927e3d9504937e",
-    "title": "20代の生命保険選びの「比較」と「迷い」－無関心や安さだけでは捉えきれない、「必要最小限」を選ぶ背景",
-    "summary": "■要旨 20代の生命保険選びは、一般に「生命保険への関心があまり高くない」「価格を重視する傾向」等と受け止められがちです。 ただ、実際の20代の加入判断は、それほど単純なのでしょうか。ニッセイ基礎研究所「生命保険マーケット調査（2025年）」における20代1,637人の回答を分析すると、商品や情報を比べて納得しようとする姿勢がみられる一方、比較検討と迷いの結びつきが30～60代よりやや強く、迷いと「必要最小限」に絞る傾向との関連も強く表れていました。つまり、しっかり比べたいが、比べるほど判断の難しさも意識され、迷いを抱えたまま「必要最小限」に絞ってしまう。今回の分析からは、そんな20代の姿がうかがえます。 したがって「生命保険は最低限でよい」という20代の意向でも、それが自分なりの基準に沿った選択なのか、分からなさや後悔への不安が重なった選択なのかによって、確認すべき点は異なりそうです。 本稿では、生命保険加入をめぐる「比較」「迷い」「必要最小限」といった心理的な関係を手がかりに、20代の生命保険選びを読み解きます。そのうえで、20代にとっての「無理のない生命保険の加入」や加入後の納得感、後悔しにくい選択につなげるための示唆を探ります。 ■目次 1――はじめに～20代は生命保険に関心がないのか 2――加入に関連する要因は、20代だけ特別ではない 3――比較したい気持ちと、情報過多による迷いが重なる20代 4――20代の「必要最小限」で良い、という態度の裏側をどう読むか 5――顧客自身の「ものさし」を言葉にする～無理なく、後悔しにくい加入へ20代の生命保険選びは、「まだ保険への関心が低い」「収入に余裕がないため、安い商品を選んでいる」「家族の支えがあるので、自分の保障を後回しにしている」と説明されることがあります。保障の必要性を具体的に",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-07T04:07:56.000Z",
-    "category": "insurance",
-    "keywords": [
-      "20代の生命保険選びの「",
-      "選びの「比較」と「迷い」",
-      "「迷い」－無関心や安さだ",
-      "や安さだけでは捉えきれな",
-      "えきれない、「必要最小限"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86492?site=nli"
-  },
-  {
     "id": "rss-insurance-d1fefa69fef38b",
     "title": "保険デイリーニュース(07/27)",
     "summary": "本日の主なニュース ・損保協会「保険金支払ガイドライン」改定の深層…各社任せの運用基準とユーザーに求められる選択眼 ・プルデンシャル生命社員らの金銭詐取問題、新たに７・９億円の被害判明…総額３９億円に ・住友生命、海外投資家の源泉徴収巡り14.9億円追徴 書類提...",
@@ -2026,120 +2153,6 @@
     "isNew": false,
     "url": "https://blog.livedoor.jp/yanaharu_yanaharu/archives/65991007.html",
     "sortBoost": 18
-  },
-  {
-    "id": "rss-insurance-840cb717f03a64",
-    "title": "加入者が減少する米国の医療保険取引所－商品を提供するのは民間医療保険会社－",
-    "summary": "■要旨 オバマケアによる直接的な無保険者削減策は(1)既存の低所得者向け公的医療保険メディケイドの加入資格拡張と(2)メディケイドの加入資格を得るほど貧しくはないが他の制度には入れない層を対象に医療保険取引所を新設したことの２点と言える。 (2)の医療保険取引所に関しては、民主党バイデン政権下で補助金が拡充されたことを受けて、2020年の約1,140万人から2025年には約2,432万人と５年間で加入者が急増した。 しかし第二次トランプ政権が延長措置を取らなかったため、拡充された補助金は2025年末を以て失効した。加入者は約1,920万人まで減少しており、経済的負担の増加に耐えられず、今後も減少が続くと予想されている。 また、健康な加入者が去り医療ニーズの高い加入者が残ることで保険集団のリスク増大が懸念されている。オバマケアによる施策であっても医療保険取引所はあくまで民間医療保険加入の場である。採算に問題ありと判断されれば保険会社が商品提供を中止する可能性があることを忘れてはならない。 ■目次 1――はじめに 2――医療保険取引所での加入状況 １）拡充補助金失効前 ２）拡充補助金失効後（2026年～） 3――今後の懸念 4――おわりに医療費ならびに医療保険料の上昇を受け保険に加入できない無保険者が増大し社会不安化する中、その減少に向けて 2010年３月、民主党のオバマ政権はＡＣＡと呼ばれる法案 (正式名称は Patient Protection and Affordable Care Act)を成立させた。これを基に諸施策が順次実施され、その合憲性を巡る訴訟、４年間の共和党トランプ政権やコロナ禍を乗り越えて現在の第二次トランプ政権下に至っている。オバマケアあるいはＡＣＡによる諸施策は複雑多岐にわたるものの、直接的な無保険者削減策は図表",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-04T01:52:33.000Z",
-    "category": "insurance",
-    "keywords": [
-      "加入者が減少する米国の医",
-      "米国の医療保険取引所－商",
-      "引所－商品を提供するのは",
-      "するのは民間医療保険会社",
-      "保険会社－"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86464?site=nli"
-  },
-  {
-    "id": "rss-insurance-840cb717f03a64",
-    "title": "加入者が減少する米国の医療保険取引所－商品を提供するのは民間医療保険会社－",
-    "summary": "■要旨 オバマケアによる直接的な無保険者削減策は(1)既存の低所得者向け公的医療保険メディケイドの加入資格拡張と(2)メディケイドの加入資格を得るほど貧しくはないが他の制度には入れない層を対象に医療保険取引所を新設したことの２点と言える。 (2)の医療保険取引所に関しては、民主党バイデン政権下で補助金が拡充されたことを受けて、2020年の約1,140万人から2025年には約2,432万人と５年間で加入者が急増した。 しかし第二次トランプ政権が延長措置を取らなかったため、拡充された補助金は2025年末を以て失効した。加入者は約1,920万人まで減少しており、経済的負担の増加に耐えられず、今後も減少が続くと予想されている。 また、健康な加入者が去り医療ニーズの高い加入者が残ることで保険集団のリスク増大が懸念されている。オバマケアによる施策であっても医療保険取引所はあくまで民間医療保険加入の場である。採算に問題ありと判断されれば保険会社が商品提供を中止する可能性があることを忘れてはならない。 ■目次 1――はじめに 2――医療保険取引所での加入状況 １）拡充補助金失効前 ２）拡充補助金失効後（2026年～） 3――今後の懸念 4――おわりに医療費ならびに医療保険料の上昇を受け保険に加入できない無保険者が増大し社会不安化する中、その減少に向けて 2010年３月、民主党のオバマ政権はＡＣＡと呼ばれる法案 (正式名称は Patient Protection and Affordable Care Act)を成立させた。これを基に諸施策が順次実施され、その合憲性を巡る訴訟、４年間の共和党トランプ政権やコロナ禍を乗り越えて現在の第二次トランプ政権下に至っている。オバマケアあるいはＡＣＡによる諸施策は複雑多岐にわたるものの、直接的な無保険者削減策は図表",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-04T01:52:33.000Z",
-    "category": "insurance",
-    "keywords": [
-      "加入者が減少する米国の医",
-      "米国の医療保険取引所－商",
-      "引所－商品を提供するのは",
-      "するのは民間医療保険会社",
-      "保険会社－"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86464?site=nli"
-  },
-  {
-    "id": "rss-insurance-840cb717f03a64",
-    "title": "加入者が減少する米国の医療保険取引所－商品を提供するのは民間医療保険会社－",
-    "summary": "■要旨 オバマケアによる直接的な無保険者削減策は(1)既存の低所得者向け公的医療保険メディケイドの加入資格拡張と(2)メディケイドの加入資格を得るほど貧しくはないが他の制度には入れない層を対象に医療保険取引所を新設したことの２点と言える。 (2)の医療保険取引所に関しては、民主党バイデン政権下で補助金が拡充されたことを受けて、2020年の約1,140万人から2025年には約2,432万人と５年間で加入者が急増した。 しかし第二次トランプ政権が延長措置を取らなかったため、拡充された補助金は2025年末を以て失効した。加入者は約1,920万人まで減少しており、経済的負担の増加に耐えられず、今後も減少が続くと予想されている。 また、健康な加入者が去り医療ニーズの高い加入者が残ることで保険集団のリスク増大が懸念されている。オバマケアによる施策であっても医療保険取引所はあくまで民間医療保険加入の場である。採算に問題ありと判断されれば保険会社が商品提供を中止する可能性があることを忘れてはならない。 ■目次 1――はじめに 2――医療保険取引所での加入状況 １）拡充補助金失効前 ２）拡充補助金失効後（2026年～） 3――今後の懸念 4――おわりに医療費ならびに医療保険料の上昇を受け保険に加入できない無保険者が増大し社会不安化する中、その減少に向けて 2010年３月、民主党のオバマ政権はＡＣＡと呼ばれる法案 (正式名称は Patient Protection and Affordable Care Act)を成立させた。これを基に諸施策が順次実施され、その合憲性を巡る訴訟、４年間の共和党トランプ政権やコロナ禍を乗り越えて現在の第二次トランプ政権下に至っている。オバマケアあるいはＡＣＡによる諸施策は複雑多岐にわたるものの、直接的な無保険者削減策は図表",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-04T01:52:33.000Z",
-    "category": "insurance",
-    "keywords": [
-      "加入者が減少する米国の医",
-      "米国の医療保険取引所－商",
-      "引所－商品を提供するのは",
-      "するのは民間医療保険会社",
-      "保険会社－"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86464?site=nli"
-  },
-  {
-    "id": "rss-insurance-840cb717f03a64",
-    "title": "加入者が減少する米国の医療保険取引所－商品を提供するのは民間医療保険会社－",
-    "summary": "■要旨 オバマケアによる直接的な無保険者削減策は(1)既存の低所得者向け公的医療保険メディケイドの加入資格拡張と(2)メディケイドの加入資格を得るほど貧しくはないが他の制度には入れない層を対象に医療保険取引所を新設したことの２点と言える。 (2)の医療保険取引所に関しては、民主党バイデン政権下で補助金が拡充されたことを受けて、2020年の約1,140万人から2025年には約2,432万人と５年間で加入者が急増した。 しかし第二次トランプ政権が延長措置を取らなかったため、拡充された補助金は2025年末を以て失効した。加入者は約1,920万人まで減少しており、経済的負担の増加に耐えられず、今後も減少が続くと予想されている。 また、健康な加入者が去り医療ニーズの高い加入者が残ることで保険集団のリスク増大が懸念されている。オバマケアによる施策であっても医療保険取引所はあくまで民間医療保険加入の場である。採算に問題ありと判断されれば保険会社が商品提供を中止する可能性があることを忘れてはならない。 ■目次 1――はじめに 2――医療保険取引所での加入状況 １）拡充補助金失効前 ２）拡充補助金失効後（2026年～） 3――今後の懸念 4――おわりに医療費ならびに医療保険料の上昇を受け保険に加入できない無保険者が増大し社会不安化する中、その減少に向けて 2010年３月、民主党のオバマ政権はＡＣＡと呼ばれる法案 (正式名称は Patient Protection and Affordable Care Act)を成立させた。これを基に諸施策が順次実施され、その合憲性を巡る訴訟、４年間の共和党トランプ政権やコロナ禍を乗り越えて現在の第二次トランプ政権下に至っている。オバマケアあるいはＡＣＡによる諸施策は複雑多岐にわたるものの、直接的な無保険者削減策は図表",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-04T01:52:33.000Z",
-    "category": "insurance",
-    "keywords": [
-      "加入者が減少する米国の医",
-      "米国の医療保険取引所－商",
-      "引所－商品を提供するのは",
-      "するのは民間医療保険会社",
-      "保険会社－"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86464?site=nli"
-  },
-  {
-    "id": "rss-insurance-b00726de3c6923",
-    "title": "2025年度生命保険決算の概要－利差益増により基礎利益は増加。ESRの開示が始まる。",
-    "summary": "■要旨 2025年度の生命保険会社全41社の業績を概観した。利息配当金の増加により、利差益、ひいては基礎利益は全体として増加した。一方、国内金利の上昇により、国内債券はほぼ全社で含み損となっている。しかし、責任準備金など負債側の積立負担も軽減していることを考慮すればほぼ問題はない。これらは2024年度に続く状況であるが、今回の決算からは、経済価値ベースのソルベンシー比率（ESR）の開示が始まり、各社の健全性が定量的に把握できるようになった。 ■目次 1――保険業績（全社） 2――大手中堅9社の収支状況 1｜資産運用環境と有価証券含み益 2｜基礎利益は大きく増加 3｜うち利差益も増加 4｜当期利益は増加～契約者配当への配分が増加 5｜経済価値ベースのソルベンシー（旧ソルベンシー・マージン比率） ～一部の会社のESR概算の開示もあり、大きな変動なし 3――かんぽ生命の状況 4――トピックス 金利のある世界における各社の対応方針（資産運用、配当など）やESRの活用生命保険協会加盟会社は、2026年4月1日現在41社あり、これらを伝統的生保（18社）、外資系生保（12社）、損保系生保（4社）、異業種系生保等（6社）、かんぽ生命に分類し、2025年度の業績を概観する（図表-１）。41社合計では、年換算保険料ベースで新契約は7.5％増加しており、総じて販売業績は堅調であった。保有契約年換算保険料は2.3％増加となった。 「伝統的生保」の新契約年換算保険料は、15.9％増加（前年度 ▲3.8％減少）となった。保有契約年換算保険料は3.2％増加（前年度0.8％増加）。以下、各区分について、同様に年換算保険料ベースでの増減率を示す。 「外資系生保」は、新契約が8.6％増加（前年度9.0％増加）し、保有契約は3.2％増加（前年度 ▲0.7％減少）した。 ",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-08-03T00:57:50.000Z",
-    "category": "insurance",
-    "keywords": [
-      "2025年度生命保険決算",
-      "保険決算の概要－利差益増",
-      "利差益増により基礎利益は",
-      "礎利益は増加。ESRの開",
-      "SRの開示が始まる。"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86421?site=nli"
-  },
-  {
-    "id": "rss-insurance-a5be2194441637",
-    "title": "AI相談は、保険に詳しくない消費者を守れるか－消費者が求めなくても必要な安全設計を考える",
-    "summary": "■要旨 生命保険のAI相談は、複雑な保障内容を整理し、保険選びの負担を軽くしてくれる存在です。しかし、便利な機能がそろっていても、利用者が「何を確認すべきか」「どこにリスクがあるか」を知らなければ、安全を十分に求められない可能性があります。その点について、ある研究によれば、AI相談に代表されるようなアルゴリズムによる助言の消費者の受け止め方が、消費者自身の理解や専門性によって変わることが示されています。 そこで本稿では、ニッセイ基礎研究所による調査をもとに、金融商品の理解や判断への自信と、AI相談に求める条件との関係を分析しました。その結果、自信が高い層では、相談情報を保険料の割増や加入拒否に使わないことや、AIが最適な一案を示すことへの評価が比較的高くなりました。 一方、自信が低い層では、人への切替え、利用中止、情報削除、複数の選択肢の提示が重視されています。この結果は、保険に詳しくない人が安全機能に無関心なのではなく、止める、相談する、選び直すといった分かりやすい機能を求めている様子がうかがえます。 注目したいのは、相談情報の行き先や推薦基準、候補から外れた商品など、一般的な利用者から「見えにくい」部分についてのリスクです。特に金融商品の理解や判断への「自信が低い」層の場合、その知識がなければ、リスクを知らないまま要望として言葉にすることも難しくなります。 金融庁やEUでも、分かりやすい説明、根拠の提示、有人対応、AI利用の明示といった方向が示されています。生命保険をはじめ消費者との接点にAIが浸透していく社会において、利用者が求めた安全だけでなく、知らないために求められなかった安全にも備えることが、これからのますます欠かせないと言えるでしょう。 ■目次 1――「何を確認すべきか」「どこにリスクがあるか」を知らなければ、安全を求め",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-07-30T01:55:54.000Z",
-    "category": "insurance",
-    "keywords": [
-      "AI相談は、保険に詳しく",
-      "に詳しくない消費者を守れ",
-      "者を守れるか－消費者が求",
-      "費者が求めなくても必要な",
-      "も必要な安全設計を考える"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": false,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=86404?site=nli"
   },
   {
     "id": "rss-insurance-b8036c9c21a84f",
