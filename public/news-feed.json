@@ -49,7 +49,7 @@
       "ーとして協賛"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260911-5/",
     "sortBoost": 5
   },
@@ -69,7 +69,7 @@
       "題解決に向けた取り組みを"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260911-4/",
     "sortBoost": 5
   },
@@ -86,7 +86,7 @@
       "米ドル建劣後特約付社債を発行"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260911-3/",
     "sortBoost": 5
   },
@@ -104,7 +104,7 @@
       "被災者へ追加支援"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260911-2/",
     "sortBoost": 5
   },
@@ -123,27 +123,9 @@
       "験型イベントを開催"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20260911/",
     "sortBoost": 5
-  },
-  {
-    "id": "rss-insurance-8a118f462664fe",
-    "title": "その他,令和８年熊本地震関連情報に関する特設ページを更新しました。",
-    "summary": "その他,令和８年熊本地震関連情報に関する特設ページを更新しました。",
-    "sourceName": "金融庁（新着情報）",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-09-12T14:35:51.583Z",
-    "category": "insurance",
-    "keywords": [
-      "その他,令和８年熊本地震",
-      "熊本地震関連情報に関する",
-      "に関する特設ページを更新",
-      "ジを更新しました。"
-    ],
-    "bannerClass": "from-slate-900 to-slate-700",
-    "isNew": true,
-    "url": "https://www.fsa.go.jp/ordinary/earthquake202607/press.html"
   },
   {
     "id": "rss-insurance-a1c34e3fc8bb20",
@@ -151,7 +133,7 @@
     "summary": "無登録で貸金業を行っている者等（Bit Hills Inc.）に対する警告書の発出について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-09-12T14:35:51.583Z",
+    "publishedAt": "2026-09-13T02:00:54.189Z",
     "category": "insurance",
     "keywords": [
       "無登録で貸金業を行っている者等（Bit",
@@ -167,7 +149,7 @@
     "summary": "「保険会社向けの総合的な監督指針」の一部改正（案）について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-09-12T14:35:51.583Z",
+    "publishedAt": "2026-09-13T02:00:54.189Z",
     "category": "insurance",
     "keywords": [
       "「保険会社向けの総合的な",
@@ -181,12 +163,30 @@
     "url": "https://www.fsa.go.jp/news/r8/hoken/20260911/20260911.html"
   },
   {
+    "id": "rss-insurance-8a118f462664fe",
+    "title": "その他,令和８年熊本地震関連情報に関する特設ページを更新しました。",
+    "summary": "その他,令和８年熊本地震関連情報に関する特設ページを更新しました。",
+    "sourceName": "金融庁（新着情報）",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-09-13T02:00:54.189Z",
+    "category": "insurance",
+    "keywords": [
+      "その他,令和８年熊本地震",
+      "熊本地震関連情報に関する",
+      "に関する特設ページを更新",
+      "ジを更新しました。"
+    ],
+    "bannerClass": "from-slate-900 to-slate-700",
+    "isNew": true,
+    "url": "https://www.fsa.go.jp/ordinary/earthquake202607/press.html"
+  },
+  {
     "id": "rss-insurance-5b4a1786609050",
     "title": "令和８年熊本地震による金融機関等の報告の提出期限等に係る措置について掲載しました。",
     "summary": "令和８年熊本地震による金融機関等の報告の提出期限等に係る措置について掲載しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-09-12T14:35:51.583Z",
+    "publishedAt": "2026-09-13T02:00:54.189Z",
     "category": "insurance",
     "keywords": [
       "令和８年熊本地震による金",
@@ -205,7 +205,7 @@
     "summary": "「金融サービス利用者相談室」における相談等の受付状況等（期間：令和８年４月１日～同年６月30日）について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-09-12T14:35:51.583Z",
+    "publishedAt": "2026-09-13T02:00:54.189Z",
     "category": "insurance",
     "keywords": [
       "「金融サービス利用者相談",
@@ -224,7 +224,7 @@
     "summary": "国際関係,BIS決済・市場インフラ委員会及び証券監督者国際機構による市中協議文書「サイバーレジリエンス実用ツール集：FMIのための実務的考慮事項」及び「『金融市場インフラ（FMI）のサードパーティ業者への依存：課題およびリスク』に関するディスカッション・ペーパー」について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-09-12T14:35:51.583Z",
+    "publishedAt": "2026-09-13T02:00:54.189Z",
     "category": "insurance",
     "keywords": [
       "国際関係,BIS決済",
@@ -240,7 +240,7 @@
     "summary": "その他,2027年版EDINETタクソノミ（案）について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-09-12T14:35:51.583Z",
+    "publishedAt": "2026-09-13T02:00:54.189Z",
     "category": "insurance",
     "keywords": [
       "その他,2027年版ED",
@@ -259,7 +259,7 @@
     "summary": "企業会計審議会第２回サステナビリティ情報保証部会議事録について掲載しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-09-12T14:35:51.583Z",
+    "publishedAt": "2026-09-13T02:00:54.189Z",
     "category": "insurance",
     "keywords": [
       "企業会計審議会第２回サス",
@@ -273,36 +273,477 @@
     "url": "https://www.fsa.go.jp/singi/singi_kigyou/gijiroku/hoshou/20260703.html"
   },
   {
-    "id": "rss-economy-b214577766ba24",
-    "title": "陸上の大会で28人搬送 弁当原因か",
-    "summary": "陸上の大会で28人搬送 弁当原因か",
+    "id": "rss-economy-7f552499869444",
+    "title": "トランプ氏 フーシ派が不介入要請",
+    "summary": "トランプ氏 フーシ派が不介入要請",
     "sourceName": "Yahoo!ニュース",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-09-12T14:33:23.000Z",
+    "publishedAt": "2026-09-13T01:40:51.000Z",
     "category": "economy",
     "keywords": [
-      "陸上の大会で28人搬送",
-      "弁当原因か"
+      "トランプ氏",
+      "フーシ派が不介入要請"
     ],
     "bannerClass": "from-amber-900 to-orange-950",
     "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6595102?source=rss"
+    "url": "https://news.yahoo.co.jp/pickup/6595131?source=rss"
   },
   {
-    "id": "rss-economy-e73bc0efd707ab",
-    "title": "習氏が訪印 中印関係の改善探る",
-    "summary": "習氏が訪印 中印関係の改善探る",
-    "sourceName": "Yahoo!ニュース",
+    "id": "rss-economy-4c46d164ed18f4",
+    "title": "サムスン電子とSKハイニックスが行う巨額株主還元の衝撃…｢コリア･ディスカウント｣是正の試金石に | 政治・経済・投資 | 東洋経済オンライン",
+    "summary": "韓国の半導体大手､サムスン電子とSKハイニックスが過去最大級の株主還元策を発表し注目を集めています。しかし､\"コリア･ディスカウント\"と言われる韓国株の割安状態の解消には依然課題が残り､制度改革や他…",
+    "sourceName": "東洋経済オンライン",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-09-12T14:12:43.000Z",
+    "publishedAt": "2026-09-13T01:37:00.000Z",
     "category": "economy",
     "keywords": [
-      "習氏が訪印",
-      "中印関係の改善探る"
+      "｢コリア･ディスカウント｣是正の試金石に",
+      "政治",
+      "経済",
+      "投資",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/957902?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-4f7281df28fcd6",
+    "title": "〈AIリスク〉アンソロピックの｢Claude｣がロシアやイエメンで軍事兵器の開発支援に悪用されていた実態が明らかに | 政治・経済・投資 | 東洋経済オンライン",
+    "summary": "米AI企業アンソロピック製｢Claude｣が軍事兵器の開発支援に悪用されていた実態が明らかに。世界各地でドローンやミサイル､さらに生物兵器にまで及ぶ利用例が報告され､AIの進化とリスクが浮き彫りにな…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-09-13T01:15:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "政治",
+      "経済",
+      "投資",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/957866?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-667da77d26d689",
+    "title": "｢われわれはAIモデルの能力向上ペースを減速させなければならない｣アンソロピックのアモデイCEOが警鐘 | 政治・経済・投資 | 東洋経済オンライン",
+    "summary": "AI開発の急速な進歩がもたらすリスクに､業界のリーダーが警鐘を鳴らしています。",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-09-13T01:10:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "政治",
+      "経済",
+      "投資",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/957889?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-1f5437cb84d41f",
+    "title": "｢勝ったはずの家康｣がまさかの展開に…秀吉が《小牧･長久手の戦い》で仕掛けた\"驚きの戦略\" | キャリア・教育 | 東洋経済オンライン",
+    "summary": "連載｢秀吉を天下人にした男､豊臣秀長の実像｣の第39回は｢小牧･長久手の戦い｣における秀吉の戦略と､秀長が果たした役割について真山知幸氏が解説します。",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-09-13T01:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "｢勝ったはずの家康｣がまさかの展開に",
+      "キャリア",
+      "教育",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/957265?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-da2e4b15784f07",
+    "title": "支持広げる「横長バッグ」魅力は",
+    "summary": "支持広げる「横長バッグ」魅力は",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-09-13T00:52:44.000Z",
+    "category": "economy",
+    "keywords": [
+      "支持広げる「横長バッグ」",
+      "バッグ」魅力は"
     ],
     "bannerClass": "from-amber-900 to-orange-950",
     "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6595101?source=rss"
+    "url": "https://news.yahoo.co.jp/pickup/6595126?source=rss"
+  },
+  {
+    "id": "rss-economy-3ce5829c68126c",
+    "title": "元恋人の結婚式にも参列…社内恋愛を繰り返した｢41歳テレビマン｣が､｢10歳年下AD｣と結婚してわかった《2つの誤算》 | ライフ | 東洋経済オンライン",
+    "summary": "仕事に明け暮れるテレビ業界の中小企業で､｢社内恋愛→元恋人の結婚式参加→次の同僚と結婚｣という極めて珍しい経験をした41歳男性･松尾さん。テレビ業界の濃すぎる人間関係から､運命的な出会いの裏側まで､…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-09-13T00:30:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "元恋人の結婚式にも参列",
+      "ライフ",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/957273?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-3ba41954384d4b",
+    "title": "警察を振り切ったバイク転倒 死亡",
+    "summary": "警察を振り切ったバイク転倒 死亡",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-09-13T00:20:04.000Z",
+    "category": "economy",
+    "keywords": [
+      "警察を振り切ったバイク転倒",
+      "死亡"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6595121?source=rss"
+  },
+  {
+    "id": "rss-economy-81d927fdd12233",
+    "title": "13日 九州-北陸で急な強い雨恐れ",
+    "summary": "13日 九州-北陸で急な強い雨恐れ",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-09-13T00:09:53.000Z",
+    "category": "economy",
+    "keywords": [
+      "13日",
+      "九州-北陸で急な強い雨恐れ"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6595117?source=rss"
+  },
+  {
+    "id": "rss-ai_theory-61fc0b1aa00796",
+    "title": "「AppleはiPhone Duoのディスプレイ1枚につきSamsungに3万8000円支払う」と著名リーカー",
+    "summary": "メモリ需要のひっ迫により、iPhone 18 Proのメモリは部品の中で最も高価なもののひとつになると予想されています。しかし、Apple初の折りたたみスマートフォンである「iPhone Duo」の場合、最もコストの高い部品はインナーディスプレイとなる可能性が高いようです。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-09-13T00:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "「AppleはiPhon",
+      "PhoneDuoのディス",
+      "のディスプレイ1枚につき",
+      "枚につきSamsungに",
+      "ungに3万8000円支"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260913-apple-pay-250-per-iphone-duo-display-samsung/"
+  },
+  {
+    "id": "rss-economy-296521f345edfa",
+    "title": "陸上女子やり投げ 北口榛花 68メートル92の日本新記録",
+    "summary": "世界のトップ選手を集めた陸上の国際大会がハンガリーで行われ、女子やり投げの北口榛花選手が日本新記録をマークして優勝しました。",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-09-12T23:54:33.000Z",
+    "category": "economy",
+    "keywords": [
+      "陸上女子やり投げ",
+      "北口榛花",
+      "68メートル92の日本新記録"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20260913de49941"
+  },
+  {
+    "id": "rss-economy-06494e73ffb519",
+    "title": "総務省 開示請求後に文書削除か",
+    "summary": "総務省 開示請求後に文書削除か",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-09-12T23:39:52.000Z",
+    "category": "economy",
+    "keywords": [
+      "総務省",
+      "開示請求後に文書削除か"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6595115?source=rss"
+  },
+  {
+    "id": "rss-ai-40287582688625",
+    "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+    "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-09-12T23:25:38.000Z",
+    "category": "ai",
+    "keywords": [
+      "Automattic",
+      "confirms",
+      "Mullenweg",
+      "returned",
+      "CEO"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+    "summaryJa": "Automatticは、マレンウェグ氏が「取締役会の全面的な支援を受けてAutomatticの会長兼CEO」として復帰したと述べている。"
+  },
+  {
+    "id": "rss-market-140d1aa81b703f",
+    "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
+    "summary": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-09-12T23:20:43.000Z",
+    "category": "market",
+    "keywords": [
+      "OpenAI",
+      "rules",
+      "IPO",
+      "Altman",
+      "Musk"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html"
+  },
+  {
+    "id": "rss-economy-e7dd4a31bcdb75",
+    "title": "米アンソロピックCEO“AI開発ペース減速させる必要”",
+    "summary": "アメリカのAI新興企業アンソロピックのCEOは、AIが急速に進歩し、人間が制御する能力を上回る可能性があるとして、開発を減速させる必要があるとの考えを示しました。",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-09-12T23:10:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "米アンソロピックCEO“",
+      "CEO“AI開発ペース減",
+      "ペース減速させる必要”",
+      "必要”"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20260913de49934"
+  },
+  {
+    "id": "rss-ai-a3e4788d11d9bd",
+    "title": "「AIコーディングより人を雇う方が安い」時代が来る？ 生成AIの予算超過を防ぐトークン浪費対策の全て",
+    "summary": "生成AIやAIエージェントの活用が広がる一方、トークン課金による想定外のコスト増が企業を悩ませています。なぜ浪費が起こるのか、その原因と、現場で取り組める対策を5本の記事から探ります。",
+    "sourceName": "ITmedia AI",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-09-12T23:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "「AIコーディングより人",
+      "グより人を雇う方が安い」",
+      "が安い」時代が来る？生成",
+      "る？生成AIの予算超過を",
+      "算超過を防ぐトークン浪費"
+    ],
+    "bannerClass": "from-sky-900 to-slate-800",
+    "isNew": true,
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/13/news005.html"
+  },
+  {
+    "id": "rss-ai_theory-fcab610ab8b7ad",
+    "title": "ロボット掃除機の撮影機能で不倫の証拠を掴んだ男性が逆にプライバシー侵害で訴えられてしまう",
+    "summary": "妻の不倫現場をロボット掃除機を通じて偶然見てしまった男性が、その映像を証拠として裁判を起こし、勝訴しました。ところが今度は妻からプライバシー侵害で反訴され、罰金と懲役刑を食らってしまうという事件が台湾で発生しました。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-09-12T23:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "ロボット掃除機の撮影機能",
+      "撮影機能で不倫の証拠を掴",
+      "証拠を掴んだ男性が逆にプ",
+      "が逆にプライバシー侵害で",
+      "ー侵害で訴えられてしまう"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20260913-man-jailed-record-wife-adultery/"
+  },
+  {
+    "id": "rss-economy-39a840a4702777",
+    "title": "千葉豪雨 商店などの被害 529社で26億円余 再開できない企業も",
+    "summary": "8月に千葉県を襲った記録的な豪雨では520余りの商店や事業所などが被災し、被害額はあわせて26億円余りにのぼることが県の調査で新たに分かりました。復旧に時間がかかり、1か月たっても事業を再開できない企…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-09-12T21:04:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "千葉豪雨",
+      "商店などの被害",
+      "529社で26億円余",
+      "再開できない企業も"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20260912de49919"
+  },
+  {
+    "id": "rss-economy-91b32e1e53002d",
+    "title": "トランプ大統領「統一されたアイルランド見たい」英国で非難も",
+    "summary": "アメリカのトランプ大統領は訪問先のアイルランドで、長年、帰属をめぐり議論されてきた北アイルランドについて「統一されたアイルランドを見たい」と発言しました。この発言に対して、イギリスでは非難の声も上がっ…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-09-12T20:55:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "トランプ大統領「統一され",
+      "統一されたアイルランド見",
+      "ランド見たい」英国で非難",
+      "国で非難も"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20260913de49937"
+  },
+  {
+    "id": "rss-economy-04f36866c94242",
+    "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+    "summary": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
+    "sourceName": "BBC Business",
+    "sourceIcon": "¥",
+    "publishedAt": "2026-09-12T20:37:29.000Z",
+    "category": "economy",
+    "keywords": [
+      "Skimpflation",
+      "warning",
+      "tinned",
+      "mackerel",
+      "alternative"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
+    "summaryJa": "消費者団体 どっち？は、安価で栄養価の低い魚種であるアジの販売を「スキムフレーション」の一例だとしている。"
+  },
+  {
+    "id": "rss-ai-adaebe0c9002de",
+    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-09-12T20:19:16.000Z",
+    "category": "ai",
+    "keywords": [
+      "OpenAI",
+      "Sam",
+      "Altman",
+      "ill-advised",
+      "public"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "summaryJa": "OpenAIは極秘にIPOを申請しているが、CEOのサム・アルトマン氏によると、同社は今年は上場しない予定だという。"
+  },
+  {
+    "id": "rss-economy-9215fd30efbcf3",
+    "title": "京都 陸上競技場で28人搬送 “同じ種類の弁当を食べていた”",
+    "summary": "12日、陸上の全日本実業団選手権が開かれていた京都市の陸上競技場で、運営に関わる複数のスタッフが下痢やおう吐などの症状を訴え、28人が病院に搬送されました。主催者によりますと、ほとんどが同じ種類の弁当…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-09-12T20:12:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "京都",
+      "陸上競技場で28人搬送",
+      "“同じ種類の弁当を食べていた”"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20260912de49921"
+  },
+  {
+    "id": "rss-ai-b7b4c6f0444c06",
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-09-12T19:34:44.000Z",
+    "category": "ai",
+    "keywords": [
+      "Anthropic",
+      "CEO",
+      "outlines",
+      "plan",
+      "slow"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "summaryJa": "Anthropic 社の Dario Amodei 氏と OpenAI 社の Sam Altman 氏は、「フロンティアのペースを整える」時期が来たことに同意しているようだ。それは実際にはどのように見えるのでしょうか？"
+  },
+  {
+    "id": "rss-ai-90cb89faa89508",
+    "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+    "summary": "Tesla’s halo sports car was first announced in November 2017.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-09-12T19:21:19.000Z",
+    "category": "ai",
+    "keywords": [
+      "Tesla",
+      "finally",
+      "unveil",
+      "second",
+      "generation"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+    "summaryJa": "テスラのハロー スポーツカーは、2017 年 11 月に初めて発表されました。"
+  },
+  {
+    "id": "rss-market-750d8bac777cc1",
+    "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
+    "summary": "Oracle founder Larry Ellison has canceled his plan to sell up to $7.5 billion worth of stock in the software company.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-09-12T17:14:56.000Z",
+    "category": "market",
+    "keywords": [
+      "Larry",
+      "Ellison",
+      "nixes",
+      "plan",
+      "offload"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html"
+  },
+  {
+    "id": "rss-ai-97fc7175118690",
+    "title": "Revolut confirms customer data breach through fake government requests",
+    "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-09-12T14:40:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "Revolut",
+      "confirms",
+      "customer",
+      "data",
+      "breach"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+    "summaryJa": "Revolutは影響を受けた顧客に通知し、関連政府機関、法執行機関、金融規制当局に警告したと述べた。"
   },
   {
     "id": "rss-ai_theory-59396d12f7ec4a",
@@ -342,39 +783,23 @@
     "url": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html"
   },
   {
-    "id": "rss-economy-3b7e816fcb0357",
-    "title": "対米投資第3弾 次世代原発が有力",
-    "summary": "対米投資第3弾 次世代原発が有力",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-09-12T13:06:04.000Z",
-    "category": "economy",
-    "keywords": [
-      "対米投資第3弾",
-      "次世代原発が有力"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6595098?source=rss"
-  },
-  {
-    "id": "rss-market-b3bf9aca2045aa",
-    "title": "Trump sees Iran war ending soon after mid-term elections, predicts oil prices will then fall sharply",
-    "summary": "Oil prices retreated on Friday on hopes of a resumptions in negotiations, but notched sharp weekly gains after soaring above $100 a barrel.",
+    "id": "rss-market-528098cb8e2f07",
+    "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+    "summary": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
     "sourceName": "CNBC",
     "sourceIcon": "📈",
-    "publishedAt": "2026-09-12T13:02:15.000Z",
+    "publishedAt": "2026-09-12T12:49:15.000Z",
     "category": "market",
     "keywords": [
-      "Trump",
-      "sees",
-      "Iran",
-      "war",
-      "ending"
+      "Inflation",
+      "outpacing",
+      "wage",
+      "growth",
+      "again"
     ],
     "bannerClass": "from-indigo-950 to-blue-800",
     "isNew": true,
-    "url": "https://www.cnbc.com/2026/09/12/trump-sees-iran-war-ending-very-soon-oil-prices-then-falling.html"
+    "url": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html"
   },
   {
     "id": "rss-market-b695e0205de273",
@@ -394,55 +819,6 @@
     "bannerClass": "from-indigo-950 to-blue-800",
     "isNew": true,
     "url": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html"
-  },
-  {
-    "id": "rss-economy-cd195e3b3f4385",
-    "title": "京都 全日本実業団選手権の会場で集団食中毒か 20人以上搬送",
-    "summary": "12日夕方、実業団のトップ選手が出場する陸上の全日本実業団選手権が開かれていた京都市の陸上競技場で、複数の人が下痢やおう吐などの体調不良を訴え、20人以上が病院に搬送されました。消防によりますと、いず…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-09-12T12:30:32.000Z",
-    "category": "economy",
-    "keywords": [
-      "京都",
-      "全日本実業団選手権の会場で集団食中毒か",
-      "20人以上搬送"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20260912de49900"
-  },
-  {
-    "id": "rss-economy-570ef0f6f15036",
-    "title": "「時給100円」ブラックインターン",
-    "summary": "「時給100円」ブラックインターン",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-09-12T12:00:50.000Z",
-    "category": "economy",
-    "keywords": [
-      "「時給100円」ブラック",
-      "ブラックインターン"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6595093?source=rss"
-  },
-  {
-    "id": "rss-economy-44e928554a9232",
-    "title": "MUFG 富裕層囲い込み戦略の裏側",
-    "summary": "MUFG 富裕層囲い込み戦略の裏側",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-09-12T10:32:23.000Z",
-    "category": "economy",
-    "keywords": [
-      "MUFG",
-      "富裕層囲い込み戦略の裏側"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6595083?source=rss"
   },
   {
     "id": "rss-ai_theory-ac740418e641f7",
@@ -483,112 +859,6 @@
     "url": "https://gigazine.net/news/20260912-viking-nun/"
   },
   {
-    "id": "rss-economy-64da25b14d4ac4",
-    "title": "【原宿の売り場“争奪戦”】国内外のブランドが熱視線／人気区画は 「賃料2倍」のケースも／商業用不動産の空室率は0.1％／中韓勢の存在感／巨大店舗がオープン間近、超高収益・HUMAN MADEの異彩 | ビジネス | 東洋経済オンライン",
-    "summary": "気鋭のブランドや流行のファッションアイテムを求め、多くの若者や訪日客が集まる東京・原宿。ここで今、国内外のブランドによる「出店先争奪戦」が過熱している。商業用不動産の平均賃料は過去最高の水準だ。なぜ…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-09-12T10:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "超高収益",
-      "HUMAN",
-      "MADEの異彩",
-      "ビジネス",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/957887?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-38a847ed52b9c1",
-    "title": "ホルムズ海峡の代替ルートで情勢不安定化 市場への影響懸念",
-    "summary": "ホルムズ海峡を避けて原油を輸送するルートとなっているサウジアラビアのパイプラインが攻撃を受け、操業を一時停止しました。 さらにイランの支援を受ける中東イエメンの反政府勢力は、紅海にある要衝の島を制圧…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-09-12T09:46:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "ホルムズ海峡の代替ルートで情勢不安定化",
-      "市場への影響懸念"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20260912de49899"
-  },
-  {
-    "id": "rss-economy-74dbffccf42759",
-    "title": "中道 小川代表“衆議院で統一会派結成 政権と対じ”",
-    "summary": "中道改革連合の小川代表は、党の分裂によって立憲民主党出身者と公明党出身者に分かれるものの、衆議院で統一会派を組み、連携を維持しながら政権と対じしていく考えを重ねて強調しました。",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-09-12T09:08:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "中道",
-      "小川代表“衆議院で統一会派結成",
-      "政権と対じ”"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20260912de49892"
-  },
-  {
-    "id": "rss-economy-7ae39db018f120",
-    "title": "北海道 十勝岳 噴火警戒レベル3に引き上げ 入山規制",
-    "summary": "北海道の大雪山系の十勝岳では先月以降、振幅の大きな火山性地震が複数回発生していて、気象台は12日午前、噴火警戒レベルを「2」から入山規制を示す「3」に引き上げました。火口からおおむね3キロの範囲では大…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-09-12T09:04:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "北海道",
-      "十勝岳",
-      "噴火警戒レベル3に引き上げ",
-      "入山規制"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20260912de49856"
-  },
-  {
-    "id": "rss-ai_theory-dafcc79402dca9",
-    "title": "無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応",
-    "summary": "AIエージェントを使い始めると、用途や料金に応じてOpenAI・Claude・Google Gemini・ローカルLLMなどを使い分けたいケースがあります。そこで複数のAIプロバイダーを自由に切り替えながら、デスクトップアプリ・CLI・APIなどからMCPによるツール連携や自動化まで1つの環境で利用できるオープンソースのAIエージェント「goose」が公開されています。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-09-12T09:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "デスクトップアプリ",
-      "CLI",
-      "APIなどコード",
-      "ワークフロー",
-      "その他あらゆる用途に対応"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260912-goose/"
-  },
-  {
-    "id": "rss-economy-7c1e8fff1d2548",
-    "title": "維新 藤田共同代表“閣僚に加え副大臣・政務官の打診応じる”",
-    "summary": "日本維新の会の藤田共同代表は、高市政権の発足当初から閣僚に加え、副大臣や政務官の起用についても打診があったとした上で、今回の内閣改造ではこれに応じる考えを示しました。",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-09-12T08:45:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "維新",
-      "藤田共同代表“閣僚に加え副大臣",
-      "政務官の打診応じる”"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20260912de49891"
-  },
-  {
     "id": "rss-ai-b0eb3017e14f9d",
     "title": "CERNが巨大加速器の制御基盤OSを「CentOS 7」から「Debian 13」に全面移行 コミュニティー主導OSを選ぶ理由",
     "summary": "CentOSのEOLに伴い、CERNは制御基盤OSをCentOS 7からDebian 13へ移行すると公表。商用ディストリビューションではなくコミュニティー主導のOSを選択した背景には何があったのか。",
@@ -604,58 +874,6 @@
     "bannerClass": "from-sky-900 to-slate-800",
     "isNew": true,
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/12/news005.html"
-  },
-  {
-    "id": "rss-ai_theory-19b9f0cfe62f79",
-    "title": "SpotifyのエンジニアがClaude Codeのトークン消費を約90％削減した方法とは?",
-    "summary": "音楽ストリーミングサービスのSpotifyが、Claude Codeで大量のトークンを消費する単純作業を別のAIモデルに任せることでトークン消費を大幅に削減する手法を公開しました。Spotifyのディミトリ・マズマノフ氏は、この手法を検証した結果、大量のファイル読み込みを委譲するテストでClaude側のトークン消費を平均約90％削減できたと報告しています。 Portal by Spotify cut my Claude Code token usage by 90% | Spotify Engineeringhttps://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90Spotify Claude Agent SDK case study | Claude by Anthropichttps://claude.com/customers/spotifyAIコーディングエージェントは、あるメソッドについて答えるために5つのファイルを読み込んだり、既存の20個のテストと同じ形式で新しいテストを書いたりする処理などで多くのトークンを消費します。マズマノフ氏は、こうした作業の多くは高度な推論ではなく単なる入出力(I/O)であり、すべてを性能の高いモデルに任せる必要はないと考えました。 そこでマズマノフ氏が利用したのが、Spotifyの開発者向けプラットフォーム「Portal by Spotify」に搭載されている「AiKA Modes」です。AiKA Modesでは、AIに与える指示や使用するモデル、temperatureなどのパラメーター、利用可能なMCPツールなどを宣言的に設定でき、設定した内容を1つのエージェン",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-09-12T08:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "SpotifyのエンジニアがClaude",
-      "Codeのトークン消費を約90％削減した方法とは"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20260912-spotify-cut-claude-code-token-usage/"
-  },
-  {
-    "id": "rss-economy-a004036d168692",
-    "title": "全自動ナニー､ライフログツール…著名SF作家が描く子育てと技術の関係 テッド･チャン『息吹』を読む（上） | ライフ | 東洋経済オンライン",
-    "summary": "ビジネスに効く名著のエッセンスを識者がコンパクトに解説。今回は､『息吹』（テッド･チャン 著）を大澤博隆氏が読み解きます（上編）。",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-09-12T07:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "全自動ナニー､ライフログツール",
-      "著名SF作家が描く子育てと技術の関係",
-      "テッド･チャン『息吹』を読む（上）",
-      "ライフ",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/957572?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-a3dbc23911ab87",
-    "title": "日本にCIA型の秘密情報機関は不要､国家情報局に求められるのは将来予測ができる｢頭脳集団｣だ | キャリア・教育 | 東洋経済オンライン",
-    "summary": "国際情勢が激動する中､日本にはCIAのような対外情報機関が必要との声が絶えません。しかし､模倣による組織新設だけで本当に安全保障は強化されるのでしょうか。今､日本に本当に必要な｢インテリジェンス｣の…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-09-12T07:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "キャリア",
-      "教育",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/957569?utm_source=rss&utm_medium=http&utm_campaign=link_back"
   },
   {
     "id": "rss-ai_theory-fb2e6433cbb617",
@@ -674,7 +892,8 @@
     ],
     "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
     "isNew": true,
-    "url": "https://arxiv.org/abs/2609.10584"
+    "url": "https://arxiv.org/abs/2609.10584",
+    "summaryJa": "arXiv:2609.10584v1 発表タイプ: 新しい要約: 有界準最適検索は、検索労力を削減しながら、最適値の係数 $w$ 以内の解を求めます。 Focal Search (FS) は、しきい値 $w f_{\\min}$ の下で適格なフロンティア ノードである FOCAL 内のヒューリスティック ガイダンスを使用しますが、その決定論的ポリシーにより、多くの拡張では $f_{\\min}$ が変更されない可能性があります。確率的焦点探索 (PFS) を導入します。これは、確率 $p$ で FS ガイド付き選択に従い、確率 $1-p$ で最小 $f$ OPEN ノードを展開します。後者のブランチは、下限の前進を奨励し、FOCAL を拡大し、実現可能な解決策につながる可能性のあるノードを許可します。"
   },
   {
     "id": "rss-ai_theory-8eb333a09e8f69",
@@ -694,7 +913,7 @@
     "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
     "isNew": true,
     "url": "https://arxiv.org/abs/2609.10629",
-    "summaryJa": "arXiv:2609.10629v1 発表の種類: 新しい要約: 二次無制約バイナリ最適化 (QUBO) は組み合わせ最適化の中心的な定式化であり、量子、ハイブリッド量子古典ソルバー、および量子にインスピレーションを得たソルバーとの互換性により注目が高まっています。ただし、自然言語の問題の記述を正しい QUBO 定式化に変換することは依然として困難であり、バイナリ変数、制約、目的関数、ペナルティ項、および適切なペナルティ重みを特定する必要があります。このプロセスには時間がかかり、多くの場合、かなりの専門知識が必要になります。この課題に対処するために、私たちは次のように提案します。"
+    "summaryJa": "arXiv:2609.10629v1 発表の種類: 新しい要約: 二次無制約バイナリ最適化 (QUBO) は組み合わせ最適化の中心的な定式化であり、量子、ハイブリッド量子古典ソルバー、および量子にインスピレーションを受けたソルバーとの互換性により注目が高まっています。ただし、自然言語の問題の記述を正しい QUBO 定式化に変換することは依然として困難であり、バイナリ変数、制約、目的関数、ペナルティ項、および適切なペナルティ重みを特定する必要があります。このプロセスには時間がかかり、多くの場合、相当な分野の専門知識が必要になります。この課題に対処するために、私たちは次のように提案します。"
   },
   {
     "id": "rss-ai_theory-a8055d1b7556a5",
@@ -713,7 +932,8 @@
     ],
     "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
     "isNew": true,
-    "url": "https://arxiv.org/abs/2609.10654"
+    "url": "https://arxiv.org/abs/2609.10654",
+    "summaryJa": "arXiv:2609.10654v1 発表タイプ: 新しい要約: 抽象化および推論コーパス (ARC) は、認知的一般化、つまり限られた例から抽象的なルールを推論して適用する能力のベンチマークです。この論文では、記号レベル、構造レベル、概念的レベルにわたって構成推論を実行する、多段階のルール連鎖フレームワークを紹介します。このフレームワークには、次の 3 つの相補的なソルバーが統合されています。(1) 幾何学的、色、およびオブジェクトベースの分析を通じて原子変換を引き起こす決定論的ルール発見モジュール。 (2) ブロックのマージ、繰り返し、空間ヒューリスティックを介して出力を再構築するパターン合成エンジン"
   },
   {
     "id": "rss-ai_theory-d120630bddda8f",
@@ -752,7 +972,8 @@
     ],
     "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
     "isNew": true,
-    "url": "https://arxiv.org/abs/2609.10657"
+    "url": "https://arxiv.org/abs/2609.10657",
+    "summaryJa": "arXiv:2609.10657v1 発表の種類: 新しい要約: 過去に暗記してトレーニングされたニューラル ネットワークは、一般化への移行が遅れることがよくあり、これはグロッキングとして知られる現象です。この遷移が \\emph{なぜ起こるか} に関する理論的な進歩にもかかわらず、ハイパーパラメータ空間で \\emph{いつ起こるか} の量的構造はまだ解明されていません。モジュラー算術上の 2 隠れ層 MLP の 384 構成にわたって記憶から一般化への境界をマッピングし、汎化開始時間のべき乗則スケーリング関係を当てはめます: $T_{\\mathrm{grok}} \\propto H^{-0.27}\\, D^{-2.04}\\, \\eta^{-0.50}\\, \\lambda^{-0.64}$ ($R^2 = 0.732$;"
   },
   {
     "id": "rss-ai-1a5e07e23aa06e",
@@ -774,43 +995,6 @@
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/12/news008.html"
   },
   {
-    "id": "rss-economy-1ddfa01363a30b",
-    "title": "｢パキってないと､嫌なこと考えちゃう｣ 17歳が語るオーバードーズの現場 SNS上の隠語で広がる薬の不正流通 | ライフ | 東洋経済オンライン",
-    "summary": "｢嫌なことを考えたくない｣――高校を中退し､生きづらさを抱える17歳の少女が､薬の過剰摂取｢オーバードーズ（OD）｣に手を伸ばす理由とは。SNSやネットで容易に薬が手に入る現状と､拡大する若者の薬物…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-09-12T04:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "｢パキってないと､嫌なこと考えちゃう｣",
-      "17歳が語るオーバードーズの現場",
-      "SNS上の隠語で広がる薬の不正流通",
-      "ライフ",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/957355?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-54d2a0380eb422",
-    "title": "【一橋大学､新設学部の狙いは?】受験のプロが作った｢厳選予想入試問題｣から見えたAI時代の｢頭のよさ｣と｢観る力｣の正体 | キャリア・教育 | 東洋経済オンライン",
-    "summary": "大学でデータサイエンス系の学部新設が相次ぐ中､一橋大学は｢ソーシャル･データサイエンス学部｣という独自の道を選びました。 受験のプロが作成した｢厳選予想入試問題｣から､AI時代に必要な｢本当の頭の…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-09-12T03:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "【一橋大学､新設学部の狙いは",
-      "キャリア",
-      "教育",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/954525?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
     "id": "rss-ai-053452c2af8e31",
     "title": "「人間の敗北」を告げるCTFの終焉と『徳丸本』第3版――激変するセキュリティと基盤運用のリアル",
     "summary": "＠ITで公開された記事の中から、特に注目を集めた10本をランキング形式で紹介します。何が読者の関心を引いたのでしょうか。",
@@ -828,64 +1012,6 @@
     "bannerClass": "from-sky-900 to-slate-800",
     "isNew": true,
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/12/news004.html"
-  },
-  {
-    "id": "rss-ai-7f452d3805d7ed",
-    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-09-11T22:58:17.000Z",
-    "category": "ai",
-    "keywords": [
-      "Mecka",
-      "nears",
-      "500M",
-      "valuation",
-      "Sequoia-led"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
-  },
-  {
-    "id": "rss-market-85fa441a3db052",
-    "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
-    "summary": "Iran-allied Houthi militants in Yemen have escalated strikes on Saudi Arabia this week.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-09-11T21:35:14.000Z",
-    "category": "market",
-    "keywords": [
-      "Saudi",
-      "Arabia",
-      "shut",
-      "down",
-      "East-West"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html"
-  },
-  {
-    "id": "rss-ai-c0bb2ed6d55690",
-    "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-    "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-09-11T21:19:05.000Z",
-    "category": "ai",
-    "keywords": [
-      "Khosla",
-      "Ventures",
-      "opening",
-      "York",
-      "office"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-    "summaryJa": "「実際、現在建設中だと言われている」とラボワ氏は明らかに、建設スケジュールの1、2度の遅れに対処していると語った。"
   },
   {
     "id": "rss-insurance-fd3e16efd71350",
@@ -927,82 +1053,6 @@
     "sortBoost": 5
   },
   {
-    "id": "rss-ai-a061c44f7783dd",
-    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-    "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-09-11T20:59:47.000Z",
-    "category": "ai",
-    "keywords": [
-      "Combinator",
-      "Garry",
-      "Tan",
-      "wants",
-      "open-weight"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
-  },
-  {
-    "id": "rss-ai-2084a3d93fa9f2",
-    "title": "OpenAI’s feud with mathematicians is only escalating",
-    "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-09-11T20:57:36.000Z",
-    "category": "ai",
-    "keywords": [
-      "OpenAI",
-      "feud",
-      "mathematicians",
-      "escalating"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-    "summaryJa": "25人の主要な数学者が、AI研究所が彼らの知的研究を脅かしていると主張する公開書簡に署名した。"
-  },
-  {
-    "id": "rss-ai-1e600384ae13de",
-    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-    "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-09-11T20:33:18.000Z",
-    "category": "ai",
-    "keywords": [
-      "left",
-      "book",
-      "exhibit",
-      "table",
-      "TechCrunch"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/"
-  },
-  {
-    "id": "rss-market-84c99ece43811f",
-    "title": "Here’s the inflation breakdown for August 2026 — in one chart",
-    "summary": "Inflation remained stubbornly high in August, largely on the back of higher energy prices amid the Iran war, economists said.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-09-11T17:14:27.000Z",
-    "category": "market",
-    "keywords": [
-      "inflation",
-      "breakdown",
-      "August",
-      "2026",
-      "chart"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html"
-  },
-  {
     "id": "rss-insurance-909361a728801b",
     "title": "Six Convicted in Louisiana Scheme to Obtain Commercial Driver’s Licenses",
     "summary": "Six people have been convicted in a bribery scheme that enabled more than 100 people to fraudulently obtain commercial driver’s licenses, the U.S Attorney’s Office, Eastern District of Louisiana announced. Mahmoud Alhattab, a restaurant owner, led a scheme in which …",
@@ -1019,7 +1069,8 @@
     ],
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
-    "url": "https://www.insurancejournal.com/news/southcentral/2026/09/11/884843.htm"
+    "url": "https://www.insurancejournal.com/news/southcentral/2026/09/11/884843.htm",
+    "summaryJa": "ルイジアナ州東部地区連邦検察局は、100人以上が商用運転免許証を不正に取得できるようにした贈収賄計画で6人に有罪判決を下したと発表した。レストランのオーナーであるマフムード・アルハッタブ氏は、次のような計画を主導しました。"
   },
   {
     "id": "rss-insurance-b10e33e7c20511",
@@ -1039,7 +1090,7 @@
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
     "url": "https://www.insurancejournal.com/news/midwest/2026/09/11/884840.htm",
-    "summaryJa": "この夏、ゴードン・ハウイーさんとコニー・ハウイーさんは毎朝、ペニントン郡中央部にある牧場で目覚め、水が出てくるかどうか不安ながらキッチンの蛇口をひねった。 「洗濯も食器もできないし、シャワーも浴びられない…」"
+    "summaryJa": "この夏、ゴードン・ハウイーさんとコニー・ハウイーさんは毎朝、ペニントン郡中央部にある牧場で目覚め、水が出てくるかどうか確信が持てずに台所の蛇口をひねった。 「洗濯も食器もできないし、シャワーも浴びられない…」"
   },
   {
     "id": "rss-insurance-3d7c0558f7246b",
@@ -1058,7 +1109,8 @@
     ],
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
-    "url": "https://www.insurancejournal.com/news/midwest/2026/09/11/884837.htm"
+    "url": "https://www.insurancejournal.com/news/midwest/2026/09/11/884837.htm",
+    "summaryJa": "AMベストは見通しをネガティブから安定的へと修正し、農業局損害保険会社と西部農業保険の財務体力格付け「A（優良）」と長期発行体信用格付け「a」（優良）を確認した。"
   },
   {
     "id": "rss-insurance-0d4ae398006cf8",
@@ -1078,7 +1130,7 @@
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
     "url": "https://www.insurancejournal.com/news/national/2026/09/11/884827.htm",
-    "summaryJa": "Insurance Journal の Risky Future シリーズは、「FNOL およびデジタル請求向け AI ツール」デモデーを主催しています。これは、最高請求責任者、イノベーションと変革のリーダー、顧客エクスペリエンスなど、保険請求のリーダー専用に設計された一連の無料 AI ツールのデモンストレーションです。"
+    "summaryJa": "Insurance Journal の Risky Future シリーズは、「FNOL およびデジタル請求向け AI ツール」デモデーを主催しています。これは、最高請求責任者、イノベーションと変革のリーダー、顧客エクスペリエンスを含む、保険請求のリーダー専用に設計された一連の無料 AI ツールのデモンストレーションです。"
   },
   {
     "id": "rss-insurance-1dcf7f6637f6a9",
@@ -1097,7 +1149,8 @@
     ],
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
-    "url": "https://www.insurancejournal.com/news/southcentral/2026/09/11/884830.htm"
+    "url": "https://www.insurancejournal.com/news/southcentral/2026/09/11/884830.htm",
+    "summaryJa": "木曜日、テキサス州北部のロス火災現場とその周囲で雨が降り、２週間にわたって火災と闘ってきた消防士らにとっては歓迎すべき猶予となった。大雨は短時間ではあるが、炎や残り火を弱め、感染の封じ込めを早める可能性がある。"
   },
   {
     "id": "rss-insurance-4249b521803306",
@@ -1116,7 +1169,8 @@
     ],
     "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
     "isNew": true,
-    "url": "https://www.reinsurancene.ws/fire-safety-reinsurance-facility-sees-19-6bn-of-risks-secure-cover-abi/"
+    "url": "https://www.reinsurancene.ws/fire-safety-reinsurance-facility-sees-19-6bn-of-risks-secure-cover-abi/",
+    "summaryJa": "英国保険会社協会（ABI）は、業界の火災安全再保険ファシリティが2年目の成功を報告し、合計730のリスクで総額196億ポンドの保険補償が確保され、前年の703のリスクから増加したと発表した。 2024 年 4 月に設立されたこの施設は、再保険によって設立されました […] ポスト火災安全再保険施設では、196 億ポンドのリスクが確実にカバーされると見られています: ABI は ReinsuranceNews に最初に登場しました。"
   },
   {
     "id": "rss-economy-ede2da2275b0f7",
@@ -1135,7 +1189,8 @@
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
-    "url": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
+    "summaryJa": "オリアリー氏は、航空会社の乗客は「ヨーロッパ各地で高額運賃の強姦犯と一緒に飛行機に乗る余裕はない」と述べた。"
   },
   {
     "id": "rss-insurance-48231ed79da28d",
@@ -1191,7 +1246,8 @@
     ],
     "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
     "isNew": true,
-    "url": "https://www.artemis.bm/news/hiscox-capital-partners-hires-dang-as-portfolio-manager-from-scor-ip/?utm_source=rss&utm_medium=rss&utm_campaign=hiscox-capital-partners-hires-dang-as-portfolio-manager-from-scor-ip"
+    "url": "https://www.artemis.bm/news/hiscox-capital-partners-hires-dang-as-portfolio-manager-from-scor-ip/?utm_source=rss&utm_medium=rss&utm_campaign=hiscox-capital-partners-hires-dang-as-portfolio-manager-from-scor-ip",
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。 Hiscox Re の部門である Hiscox Capital Partners は、保険リンク証券 (ILS) 投資およびクォータシェア・パートナーシップにおける第三者資本の管理を担当しており、ミシェル・ダン氏をポートフォリオマネージャーに任命しました。 2月に遡ると、Hiscox Groupの再保険部門であるHiscox Reは、すべての資本パートナーシップ活動を統合するための新しいビジネスユニットとしてHiscox Capital Partnersを立ち上げました。 […] Hiscox Capital Partnersは、SCOR IPからポートフォリオマネージャーとしてDangを採用しました。"
   },
   {
     "id": "rss-economy-bca0e14433bb70",
@@ -1230,7 +1286,8 @@
     ],
     "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
     "isNew": true,
-    "url": "https://www.reinsurancene.ws/rokstone-agriculture-reaches-125m-premium-income-since-launch/"
+    "url": "https://www.reinsurancene.ws/rokstone-agriculture-reaches-125m-premium-income-since-launch/",
+    "summaryJa": "国際的な専門再保険/保険 MGA Rokstone の一部である農業および畜産業の専門 MGU である Rokstone Agriculture は、設立以来、保険料収入が 1 億 2,500 万ドルに達しました。これには、2026 年 6 月までの 12 か月間で 3,400 万ドルの GWP が含まれます。市場参入から 5 年が経ち、エリック・コンクリン率いる Rokstone Agriculture は現在、[…] The post Rokstone Agriculture は、立ち上げ以来 1 億 2,500 万ドルの保険料収入に達しています再保険ニュース"
   },
   {
     "id": "rss-economy-6eeb3728ea6593",
@@ -1362,7 +1419,8 @@
     ],
     "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
     "isNew": true,
-    "url": "https://www.reinsurancene.ws/wtw-names-owens-as-head-of-captive-insurance-management-solutions-ireland/"
+    "url": "https://www.reinsurancene.ws/wtw-names-owens-as-head-of-captive-insurance-management-solutions-ireland/",
+    "summaryJa": "WTW事業を展開するウィリスは、2026年11月1日付けでジェラルド・オーウェンスをアイルランドのキャプティブおよび保険管理ソリューション部門の責任者に昇進させました。オーウェンスの新しい役職では、シンガポールでウィリスのキャプティブおよび保険管理ソリューション事業を率いるトレバー・マッデンの後任となります。オーエンス氏は、ヨーロッパのキャプティブおよび保険管理ソリューションのマネージングディレクター、エリザベス・カルボナロ氏の直属となります[…] WTWの投稿では、アイルランドのキャプティブおよび保険管理ソリューション部門の責任者にオーエンス氏を指名しました。"
   },
   {
     "id": "rss-insurance-aba276cd130b2a",
@@ -1401,7 +1459,8 @@
     ],
     "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
     "isNew": true,
-    "url": "https://www.artemis.bm/news/reinsurance-offers-strong-diversification-with-total-return-potential-us-bank/?utm_source=rss&utm_medium=rss&utm_campaign=reinsurance-offers-strong-diversification-with-total-return-potential-us-bank"
+    "url": "https://www.artemis.bm/news/reinsurance-offers-strong-diversification-with-total-return-potential-us-bank/?utm_source=rss&utm_medium=rss&utm_campaign=reinsurance-offers-strong-diversification-with-total-return-potential-us-bank",
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。米国第5位の商業銀行であるUSバンクのウェルスマネージャーが執筆した最近のレポートでは、再保険市場における適格投資家にとって重要な機会について概説しており、同社は特に、再保険がトータルリターンの可能性を伴う効果的な分散をどのように提供するかを強調し、従来の資産と併用することを強く主張している […] 再保険はトータルリターンの可能性を伴う強力な分散を提供する：USバンクの発行者：www.Artemis.bm 災害債券取引 d"
   },
   {
     "id": "rss-economy-d1c43070267859",
@@ -1504,7 +1563,7 @@
     "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
     "isNew": true,
     "url": "https://www.artemis.bm/news/casualty-ils-inflows-an-incremental-negative-cat-may-soften-more-than-rvs-suggests-kbw/?utm_source=rss&utm_medium=rss&utm_campaign=casualty-ils-inflows-an-incremental-negative-cat-may-soften-more-than-rvs-suggests-kbw",
-    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。 KBWのアナリストらは、保険関連証券の構造を通じた損害再保険市場への資金流入は再保険会社にとってマイナスであるとみている一方、不動産災害に関しては金利軟化はRVSのヘッドラインが示唆するよりも顕著になる傾向が多いと警告している。 KBW のアナリスト チームは、2026 年のモンテカルロ ランデブー (RVS) に出席しました。 Cat は RVS が示唆する以上に軟化する可能性がある: KBW 発行者: www.Artemis.bm 災害債券取引ディレクター"
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。 KBWのアナリストらは、保険関連証券の構造を通じた損害再保険市場への資金流入は再保険会社にとってマイナスであるとみている一方、不動産災害に関しては金利軟化はRVSのヘッドラインが示唆するよりも顕著になる傾向が多いと警告している。 KBW のアナリスト チームは、2026 年のモンテカルロ ランデブー (RVS) に出席しました。[…] ILS 死傷者によるマイナスが増加。 Cat は RVS が示唆する以上に軟化する可能性がある: KBW 発行者: www.Artemis.bm 災害債券取引ディレクター"
   },
   {
     "id": "rss-ai-28657a797d1a20",
@@ -1664,22 +1723,6 @@
     "url": "https://www.nli-research.co.jp/topics_detail1/id=86770?site=nli"
   },
   {
-    "id": "rss-ai-54a7367606c4e8",
-    "title": "MCPは「AIとツールをつなぐ」で止まらない 共同開発者が語ったこれまでとこれから",
-    "summary": "爆発的な普及を見せているMCP。共同開発者のデビッド・ソリア・パラ氏が、MCPがどう広がってきたのか、これから何を目指していくのかを講演で語った。",
-    "sourceName": "ITmedia AI",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-09-11T05:29:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "MCPは「AIとツールをつなぐ」で止まらない",
-      "共同開発者が語ったこれまでとこれから"
-    ],
-    "bannerClass": "from-sky-900 to-slate-800",
-    "isNew": true,
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news076.html"
-  },
-  {
     "id": "rss-insurance-84da29f9f93a5d",
     "title": "AIに相談することのリスクと規制－EUのAI法における治療用AI解説文書",
     "summary": "■要旨 人ではなくAIに相談することが日本でも広まりつつある。このような場合のリスクと規制について参考になるのが、欧州委員会の公表した治療用・感情支援用AIシステム（「治療用AI」）を解説する文書（「解説文書」）である。 解説文書では治療用AIであってユーザーの事情を悪用して危害を及ぼす場合においては禁止されるなどのEUの規制を説明する。 特に、システミックリスクを有する汎用AIモデルにおいては、ユーザーに被害を与えるようなリスクを特定・評価・軽減をすることが求められる。このような規制は日本においても参考にできると思われる。 話し相手としてAIを利用したり、困りごとや悩みをAIに相談したりする利用方法が広がっている。そのようなAI利用にはどのようなリスクがあり、どのような規制を設けるべきであろうか。この点、2026年8月7日に欧州委員会が治療や感情支援（emotional support）を目的として利用されるAIシステム（以下、治療用AI）について解説した文書（以下、「解説文書」）を公表している1。冒頭に挙げた問題を検討するにあたって、解説文書が手掛かりになると考えられるため、以下、その内容を紹介する。 解説文書では、治療用AIに関して、有資格の専門家からの治療を受けられない若者や脆弱な人々にとって、無料で使い勝手のよい手段であるとする。しかし、AIには「Sycophancy（お世辞・迎合）」と呼ばれる、ユーザーの考えや立場に過度に同意・肯定する傾向がある。解説文書では、AIのこの傾向により、有害な行動が助長されたり、安全な対応が困難になったりするおそれがあることをリスクとして指摘している。たとえば、米国では、ChatGPTの利用が自死につながったとして、遺族がOpenAIを提訴した事例がある2。誤った認識や有害な思い込みであっても",
@@ -1695,7 +1738,7 @@
       "解説文書"
     ],
     "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.nli-research.co.jp/topics_detail1/id=86769?site=nli"
   },
   {
@@ -1714,7 +1757,7 @@
       "解説文書"
     ],
     "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.nli-research.co.jp/topics_detail1/id=86769?site=nli"
   },
   {
@@ -1733,7 +1776,7 @@
       "解説文書"
     ],
     "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.nli-research.co.jp/topics_detail1/id=86769?site=nli"
   },
   {
@@ -1752,27 +1795,8 @@
       "解説文書"
     ],
     "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.nli-research.co.jp/topics_detail1/id=86769?site=nli"
-  },
-  {
-    "id": "rss-economy-f13ea52db0ed14",
-    "title": "I asked my husband to pay into my pension when we had a child - here's why",
-    "summary": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
-    "sourceName": "BBC Business",
-    "sourceIcon": "¥",
-    "publishedAt": "2026-09-10T23:04:30.000Z",
-    "category": "economy",
-    "keywords": [
-      "asked",
-      "husband",
-      "pay",
-      "pension",
-      "child"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "rss-insurance-057709f6faefa0",
@@ -1807,8 +1831,9 @@
       "further"
     ],
     "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.artemis.bm/news/catastrophe-bond-market-shifts-further-towards-indemnity-triggers-and-per-occurrence-coverage/?utm_source=rss&utm_medium=rss&utm_campaign=catastrophe-bond-market-shifts-further-towards-indemnity-triggers-and-per-occurrence-coverage"
+    "isNew": false,
+    "url": "https://www.artemis.bm/news/catastrophe-bond-market-shifts-further-towards-indemnity-triggers-and-per-occurrence-coverage/?utm_source=rss&utm_medium=rss&utm_campaign=catastrophe-bond-market-shifts-further-towards-indemnity-triggers-and-per-occurrence-coverage",
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。昨年、そして2026年のこれまでの記録的な発行額を通じて、大災害債券市場の未払いエクスポージャーは、スポンサー側と投資家側の両方で、この種の取引に対する選好が高まり続けているため、賠償トリガーや発生ごとの補償へとさらにシフトしてきました。アルテミスの広範な災害債券データベースを使用すると、私たちは視覚化することができます。 […] 災害債券市場は、賠償トリガーと発生ごとの補償に向けてさらにシフトしています。発行元: www.Artemis.bm 災害債券取引ディレクター"
   },
   {
     "id": "rss-insurance-0756d1692a0043",
