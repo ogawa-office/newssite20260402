@@ -17,6 +17,7 @@ const CATEGORY_ROWS = [
   ['insurance', CATEGORY_LABEL.insurance],
   ['economy', CATEGORY_LABEL.economy],
   ['market', CATEGORY_LABEL.market],
+  ['housing', CATEGORY_LABEL.housing],
 ] as const
 
 export default function App() {
@@ -40,43 +41,49 @@ export default function App() {
 
   return (
     <div className="min-h-svh bg-[#f7f7f9]">
-      <Header />
-
-      <main id="feed" className="mx-auto max-w-6xl px-4 py-8 sm:px-6">
-        <div
-          className="sticky top-14 z-30 -mx-4 mb-2 flex flex-wrap gap-2 border-b border-slate-200/70 bg-[#f7f7f9]/95 px-4 py-2.5 backdrop-blur-sm sm:-mx-6 sm:px-6"
+      {/* ヘッダー＋カテゴリをまとめて viewport 上端に sticky（スクロールしても常に表示） */}
+      <div className="sticky top-0 z-40">
+        <Header />
+        <nav
+          className="border-b border-slate-200/70 bg-[#f7f7f9]/95 backdrop-blur-sm"
           aria-label="カテゴリで絞り込み"
         >
-          {CATEGORY_ROWS.map(([id, label]) => {
-            const active = category === id
-            const pill =
-              id === 'all'
-                ? {
-                    bg: 'bg-slate-100 text-slate-700',
-                    active:
-                      'bg-white text-slate-900 border-slate-400 ring-1 ring-slate-300',
-                  }
-                : CATEGORY_PILL[id]
-            return (
-              <button
-                key={id}
-                type="button"
-                onClick={() => setCategory(id)}
-                className={`rounded-full border px-3 py-1.5 text-left text-xs font-medium leading-snug transition sm:px-3.5 sm:text-sm ${
-                  id === 'ai_theory' ? 'max-w-[11rem] sm:max-w-none' : ''
-                } ${
-                  active
-                    ? `${pill.active} shadow-sm`
-                    : `${pill.bg} border-transparent hover:opacity-90`
-                }`}
-              >
-                {label}
-              </button>
-            )
-          })}
-        </div>
+          <div className="mx-auto flex max-w-6xl flex-wrap gap-2 px-4 py-2.5 sm:px-6">
+            {CATEGORY_ROWS.map(([id, label]) => {
+              const active = category === id
+              const pill =
+                id === 'all'
+                  ? {
+                      bg: 'bg-slate-100 text-slate-700',
+                      active:
+                        'bg-white text-slate-900 border-slate-400 ring-1 ring-slate-300',
+                    }
+                  : CATEGORY_PILL[id]
+              return (
+                <button
+                  key={id}
+                  type="button"
+                  onClick={() => setCategory(id)}
+                  className={`rounded-full border px-3 py-1.5 text-left text-xs font-medium leading-snug transition sm:px-3.5 sm:text-sm ${
+                    id === 'ai_theory' || id === 'housing'
+                      ? 'max-w-[11rem] sm:max-w-none'
+                      : ''
+                  } ${
+                    active
+                      ? `${pill.active} shadow-sm`
+                      : `${pill.bg} border-transparent hover:opacity-90`
+                  }`}
+                >
+                  {label}
+                </button>
+              )
+            })}
+          </div>
+        </nav>
+      </div>
 
-        <div className="relative mt-8">
+      <main id="feed" className="mx-auto max-w-6xl px-4 pb-8 pt-6 sm:px-6">
+        <div className="relative mt-6">
           <span
             className="pointer-events-none absolute left-4 top-1/2 -translate-y-1/2 text-slate-400"
             aria-hidden

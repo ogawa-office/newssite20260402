@@ -4,6 +4,7 @@ export type NewsCategory =
   | 'insurance'
   | 'economy'
   | 'market'
+  | 'housing'
 
 export interface NewsItem {
   id: string
@@ -30,6 +31,7 @@ export const CATEGORY_LABEL: Record<NewsCategory, string> = {
   insurance: '保険',
   economy: '経済',
   market: 'マーケット',
+  housing: '住宅・住宅ローン',
 }
 
 export const CATEGORY_BADGE: Record<NewsCategory, string> = {
@@ -38,6 +40,7 @@ export const CATEGORY_BADGE: Record<NewsCategory, string> = {
   insurance: '保険',
   economy: '経済',
   market: 'マーケット',
+  housing: '住宅',
 }
 
 export const CATEGORY_PILL: Record<
@@ -64,6 +67,10 @@ export const CATEGORY_PILL: Record<
     bg: 'bg-violet-100 text-violet-900',
     active: 'bg-violet-100 text-violet-950 border-violet-400 ring-1 ring-violet-300',
   },
+  housing: {
+    bg: 'bg-cyan-100 text-cyan-900',
+    active: 'bg-cyan-100 text-cyan-950 border-cyan-400 ring-1 ring-cyan-300',
+  },
 }
 
 const ago = (hours: number) =>
@@ -71,7 +78,7 @@ const ago = (hours: number) =>
 const daysAgo = (d: number) =>
   new Date(Date.now() - d * 24 * 60 * 60 * 1000).toISOString()
 
-/** カテゴリごとに5件ずつ（計25件） */
+/** カテゴリごとに5件ずつ（計30件） */
 export const MOCK_NEWS: NewsItem[] = [
   // --- AI（5件）---
   {
@@ -410,5 +417,73 @@ export const MOCK_NEWS: NewsItem[] = [
     keywords: ['社債', 'スプレッド', 'CLO'],
     bannerClass: 'from-zinc-900 to-slate-800',
     url: 'https://www.imf.org/en/Publications/GFSR/Issues/2024/10/22/global-financial-stability-report-october-2024',
+  },
+
+  // --- 住宅・住宅ローン（5件）---
+  {
+    id: 'hs-1',
+    title: '新設住宅着工戸数：持ち家は前年比で持ち直し、分譲は地域差が拡大',
+    summary:
+      '持ち家の着工は一部地域で前年比プラスに転じた一方、分譲マンションは大都市圏と地方で販売期間の開きが続いた。住宅ローン金利の上昇局面では、購入検討層の意思決定期間が長期化する傾向がアンケートでも確認されている。',
+    sourceName: '住宅市況レポート',
+    sourceIcon: '🏠',
+    publishedAt: ago(3),
+    category: 'housing',
+    keywords: ['着工', '持ち家', '分譲'],
+    bannerClass: 'from-cyan-950 to-slate-800',
+    isNew: true,
+    url: 'https://www.housenews.jp/',
+  },
+  {
+    id: 'hs-2',
+    title: '変動型住宅ローンの基準金利改定：主要行で引き上げ、返済負担感が再燃',
+    summary:
+      '長期金利と政策金利の動きを受け、変動型の基準金利を引き上げる銀行が相次いだ。固定型への借り換え相談は増加しているが、手数料・団信条件の比較が必要で、単純な金利差だけでは判断しにくい局面が続いている。',
+    sourceName: 'ローン金利ウォッチ',
+    sourceIcon: '🏦',
+    publishedAt: ago(8),
+    category: 'housing',
+    keywords: ['住宅ローン', '変動金利', '借り換え'],
+    bannerClass: 'from-teal-950 to-cyan-900',
+    url: 'https://www.housenews.jp/',
+  },
+  {
+    id: 'hs-3',
+    title: 'マンション販売：契約率が首都圏で改善も、在庫消化にはなお時間',
+    summary:
+      'モデルルーム来場は堅調だが、価格帯の上昇で一次取得層の購入ハードルは高い。販売側は間取り・立地の訴求を強化しつつ、段階的な価格改定や特典付き販売で契約率の底上げを図っている。',
+    sourceName: 'マンション市況',
+    sourceIcon: '🏢',
+    publishedAt: daysAgo(2),
+    category: 'housing',
+    keywords: ['マンション', '販売', '契約率'],
+    bannerClass: 'from-sky-950 to-cyan-950',
+    url: 'https://www.housenews.jp/',
+  },
+  {
+    id: 'hs-4',
+    title: 'フラット35：実行金利の動向と住宅性能要件の見直しが購入計画に影響',
+    summary:
+      '長期固定の選択肢として引き続き注目される一方、金利水準と物件の性能要件がセットで比較される場面が増えた。省エネ性能の高い物件ほどローン条件が有利になるケースもあり、建築・購入計画の初期段階からの確認が重要になっている。',
+    sourceName: '住宅金融ノート',
+    sourceIcon: '📋',
+    publishedAt: daysAgo(4),
+    category: 'housing',
+    keywords: ['フラット35', '長期固定', '性能'],
+    bannerClass: 'from-slate-800 to-cyan-900',
+    url: 'https://www.housenews.jp/',
+  },
+  {
+    id: 'hs-5',
+    title: '地価公示・地価調査：住宅地は都市部で上昇が続き、郊外は二極化',
+    summary:
+      '交通利便性の高い住宅地では需要が集中し、地価上昇が住宅価格を押し上げている。郊外では再開発エリアとそうでないエリアの差が開き、住宅ローン審査上の担保評価にも地域差が表れやすくなっている。',
+    sourceName: '地価観測',
+    sourceIcon: '📍',
+    publishedAt: daysAgo(6),
+    category: 'housing',
+    keywords: ['地価', '住宅地', '担保評価'],
+    bannerClass: 'from-cyan-900 to-teal-950',
+    url: 'https://www.housenews.jp/',
   },
 ]

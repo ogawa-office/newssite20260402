@@ -20,7 +20,7 @@ const parser = new Parser({
   },
 })
 
-/** @typedef {'ai'|'ai_theory'|'insurance'|'economy'|'market'} NewsCategory */
+/** @typedef {'ai'|'ai_theory'|'insurance'|'economy'|'market'|'housing'} NewsCategory */
 
 async function fetchTextWithTimeout(url, timeoutMs) {
   const controller = new AbortController()
@@ -238,6 +238,41 @@ const FEEDS = [
     bannerClass: 'from-green-950 to-emerald-900',
     max: 5,
     lang: 'ja',
+  },
+  // --- 住宅・住宅ローン ---
+  {
+    url: 'https://www.housenews.jp/feed',
+    category: 'housing',
+    sourceName: '住宅産業新聞',
+    sourceIcon: '🏠',
+    bannerClass: 'from-cyan-950 to-slate-800',
+    max: 12,
+    lang: 'ja',
+    sortBoost: 4,
+  },
+  {
+    url: 'https://www.mortgagenewsdaily.com/rss/news',
+    category: 'housing',
+    sourceName: 'Mortgage News Daily',
+    sourceIcon: '🏦',
+    bannerClass: 'from-teal-950 to-cyan-900',
+    max: 6,
+  },
+  {
+    url: 'https://www.housingwire.com/feed/',
+    category: 'housing',
+    sourceName: 'HousingWire',
+    sourceIcon: '🏘️',
+    bannerClass: 'from-sky-950 to-cyan-950',
+    max: 6,
+  },
+  {
+    url: 'https://www.redfin.com/news/feed/',
+    category: 'housing',
+    sourceName: 'Redfin News',
+    sourceIcon: '🔑',
+    bannerClass: 'from-slate-800 to-cyan-900',
+    max: 5,
   },
 ]
 

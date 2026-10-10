@@ -12,7 +12,7 @@ export function Header() {
 
   return (
     <header
-      className={`sticky top-0 z-40 border-b border-slate-200/80 bg-white/85 px-4 py-3.5 backdrop-blur-md transition-shadow duration-200 sm:px-6 ${
+      className={`border-b border-slate-200/80 bg-white/85 px-4 py-3.5 backdrop-blur-md transition-shadow duration-200 sm:px-6 ${
         elevated ? 'shadow-sm shadow-slate-200/80' : ''
       }`}
     >
