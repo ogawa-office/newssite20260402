@@ -161,7 +161,7 @@
       "高島平団地での住民健康改善プロジェクトを開始"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20261008-5/",
     "sortBoost": 5
   },
@@ -180,7 +180,7 @@
       "アイスホッケー"
     ],
     "bannerClass": "from-slate-800 to-blue-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20261008-4/",
     "sortBoost": 5
   },
@@ -190,7 +190,7 @@
     "summary": "第25回「金融庁・日本銀行連絡会」の開催について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-10-09T17:41:06.032Z",
+    "publishedAt": "2026-10-10T03:18:01.909Z",
     "category": "insurance",
     "keywords": [
       "第25回「金融庁",
@@ -206,7 +206,7 @@
     "summary": "「インターネット取引サービスへの不正アクセス・不正取引にご注意ください」のページを更新しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-10-09T17:41:06.032Z",
+    "publishedAt": "2026-10-10T03:18:01.909Z",
     "category": "insurance",
     "keywords": [
       "「インターネット取引サービスへの不正アクセス",
@@ -222,7 +222,7 @@
     "summary": "（株）出前館との契約締結交渉者の従業員から伝達を受けた海外居住者による内部者取引に対する違反事実がないと認める旨の決定について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-10-09T17:41:06.032Z",
+    "publishedAt": "2026-10-10T03:18:01.909Z",
     "category": "insurance",
     "keywords": [
       "（株）出前館との契約締結",
@@ -241,7 +241,7 @@
     "summary": "「トランジション・ファイナンス環境整備検討会」（第14回）議事要旨について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-10-09T17:41:06.032Z",
+    "publishedAt": "2026-10-10T03:18:01.909Z",
     "category": "insurance",
     "keywords": [
       "「トランジション・ファイ",
@@ -260,7 +260,7 @@
     "summary": "「トランジション・ファイナンス環境整備検討会」（第14回）議事次第について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-10-09T17:41:06.032Z",
+    "publishedAt": "2026-10-10T03:18:01.909Z",
     "category": "insurance",
     "keywords": [
       "「トランジション・ファイ",
@@ -279,7 +279,7 @@
     "summary": "プルデンシャル生命保険株式会社、ジブラルタ生命保険株式会社及びプルデンシャル・ホールディング・オブ・ジャパン株式会社に対する行政処分について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-10-09T17:41:06.032Z",
+    "publishedAt": "2026-10-10T03:18:01.909Z",
     "category": "insurance",
     "keywords": [
       "プルデンシャル生命保険株式会社",
@@ -297,7 +297,7 @@
     "summary": "現下の情勢を踏まえたサイバーセキュリティ対策の強化と各種取引申込等における対応について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-10-09T17:41:06.032Z",
+    "publishedAt": "2026-10-10T03:18:01.909Z",
     "category": "insurance",
     "keywords": [
       "現下の情勢を踏まえたサイ",
@@ -316,7 +316,7 @@
     "summary": "令和６年能登半島地震関連情報に関する特設ページを更新しました。（令和８年10月９日 10時00分時点）",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-10-09T17:41:06.032Z",
+    "publishedAt": "2026-10-10T03:18:01.909Z",
     "category": "insurance",
     "keywords": [
       "（令和８年10月９日",
@@ -327,186 +327,612 @@
     "url": "https://www.fsa.go.jp/ordinary/earthquake202401/press.html"
   },
   {
-    "id": "rss-market-5171618c44c496",
-    "title": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos",
-    "summary": "SpaceX announced the spectrum deal Thursday, as the company aims to push deeper into the telecom market through its Starlink service.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-10-09T17:18:32.000Z",
-    "category": "market",
+    "id": "rss-ai-f6a3c46c4711e0",
+    "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+    "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-10-10T03:10:06.000Z",
+    "category": "ai",
     "keywords": [
-      "Verizon",
-      "stock",
-      "heads",
-      "worst",
-      "2002"
+      "Elon",
+      "Musk",
+      "intensifies",
+      "attack",
+      "Ambani"
     ],
-    "bannerClass": "from-indigo-950 to-blue-800",
+    "bannerClass": "from-slate-800 to-slate-600",
     "isNew": true,
-    "url": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html"
+    "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+    "summaryJa": "イーロン・マスク氏はインドの億万長者ムケシュ・アンバニ氏が競争を妨害したとして非難した。"
   },
   {
-    "id": "rss-market-b79b3ec6672c04",
-    "title": "Tesla drops 'Full Self-Driving' brand name in Europe after regulator pushback",
-    "summary": "German regulators called Tesla's \"Full Self-Driving\" brand name \"somewhat misleading.\"",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-10-09T17:12:32.000Z",
-    "category": "market",
-    "keywords": [
-      "Tesla",
-      "drops",
-      "Full",
-      "Self-Driving",
-      "brand"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/10/09/tesla-full-self-driving-europe-regulator.html"
-  },
-  {
-    "id": "rss-market-354c19623bef8b",
-    "title": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
-    "summary": "The hurricane could tighten a fuel market that is already facing big disruptions from the wars in Eastern Europe and the Middle East.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-10-09T17:12:17.000Z",
-    "category": "market",
-    "keywords": [
-      "Hurricane",
-      "Isaias",
-      "disrupts",
-      "oil",
-      "production"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html"
-  },
-  {
-    "id": "rss-economy-b21f68b07fe3f1",
-    "title": "ノーベル平和賞にナビ・ピレイ氏 国連人権高等弁務官など歴任",
-    "summary": "ことしのノーベル平和賞に南アフリカ出身で、国連人権高等弁務官やICC＝国際刑事裁判所の裁判官などを歴任したナビ・ピレイ氏が選ばれました。ピレイ氏は記者会見で「最高の栄誉だ。国際法秩序を守るために、結束…",
-    "sourceName": "NHKニュース",
+    "id": "rss-ai_theory-7d6ed40052f3cf",
+    "title": "無料でOpenStreetMapにスマホから店舗や施設を追加できる「Every Door」",
+    "summary": "「Every Door」はOpenStreetMap(OSM)のPOI(Point of Interest)・建物・入口(entrances)の編集に特化したOSMモバイルエディタです。 続きを読む...",
+    "sourceName": "GIGAZINE",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T17:06:51.000Z",
+    "publishedAt": "2026-10-10T03:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "無料でOpenStree",
+      "treetMapにスマホ",
+      "にスマホから店舗や施設を",
+      "や施設を追加できる「Ev",
+      "る「EveryDoor」"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20261010-every-door/"
+  },
+  {
+    "id": "rss-economy-be3a3a94284850",
+    "title": "秀吉はなぜ\"茶々を寵愛\"し続けたか？｢悪女｣｢親の敵｣とはまた違う…史実で見る茶々の《意外な素顔》 | キャリア・教育 | 東洋経済オンライン",
+    "summary": "大河ドラマ｢豊臣兄弟！｣で井上和さんが演じる茶々。｢悪女｣のイメージで語られることが多い茶々ですが､意外な一面を持ち合わせていたようです。",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-10-10T03:00:00.000Z",
     "category": "economy",
     "keywords": [
-      "ノーベル平和賞にナビ",
-      "ピレイ氏",
-      "国連人権高等弁務官など歴任"
+      "秀吉はなぜ\"茶々を寵愛\"し続けたか",
+      "｢悪女｣｢親の敵｣とはまた違う",
+      "史実で見る茶々の《意外な素顔》",
+      "キャリア",
+      "教育"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/959596?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-1af9b327f3375b",
+    "title": "熊本地震以来約2か月半ぶり JR鹿児島本線 宇土～八代 運行再開",
+    "summary": "ことし7月の熊本地震の影響で熊本県の宇土駅と八代駅の間で運行できない状態が続いていたJR鹿児島本線は10日朝の始発から運行を再開しました。JR鹿児島本線が全線で運行できるようになったのはおよそ2か月半…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-10-10T02:47:42.000Z",
+    "category": "economy",
+    "keywords": [
+      "熊本地震以来約2か月半ぶり",
+      "JR鹿児島本線",
+      "宇土～八代",
+      "運行再開"
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55783"
+    "url": "https://news.web.nhk/newsweb/na/nd-20261010de57591"
   },
   {
     "id": "rss-economy-17b4ddc37a957b",
-    "title": "米トランプ政権 ICC＝国際刑事裁判所を制裁対象に",
-    "summary": "アメリカ財務省は9日、ICC＝国際刑事裁判所を制裁対象に指定したと発表しました。トランプ政権はことし8月にはICCのトップを務める赤根智子所長を制裁対象に加えると発表するなど圧力を強化しています。",
+    "title": "米トランプ政権 ICC＝国際刑事裁判所を制裁対象に【詳しく】",
+    "summary": "ことしのノーベル平和賞にICC＝国際刑事裁判所の裁判官などを歴任したナビ・ピレイ氏が選ばれた同じ日、アメリカのトランプ政権はICCを制裁対象に指定したと発表しました。戦争犯罪や人道に対する罪などを裁い…",
     "sourceName": "NHKニュース",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T17:03:40.000Z",
+    "publishedAt": "2026-10-10T02:47:00.000Z",
     "category": "economy",
     "keywords": [
       "米トランプ政権",
-      "ICC＝国際刑事裁判所を制裁対象に"
+      "ICC＝国際刑事裁判所を制裁対象に【詳しく】"
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
     "url": "https://news.web.nhk/newsweb/na/nd-20261009de57527"
   },
   {
-    "id": "rss-ai-b395927cf15788",
-    "title": "LumenUs helps automate tedious paperwork in times of grief",
-    "summary": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-10-09T17:00:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "LumenUs",
-      "helps",
-      "automate",
-      "tedious",
-      "paperwork"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/"
-  },
-  {
-    "id": "rss-ai-dd1a4ba899e07f",
-    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-    "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-10-09T16:56:42.000Z",
-    "category": "ai",
-    "keywords": [
-      "Amazon",
-      "others",
-      "done",
-      "keeping",
-      "data"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"
-  },
-  {
-    "id": "rss-ai-9e27a5c3a3f72b",
-    "title": "Danu Robotics’ fight to build a better recycling robot",
-    "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-10-09T16:45:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "Danu",
-      "Robotics",
-      "fight",
-      "build",
-      "better"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/"
-  },
-  {
-    "id": "rss-ai-ff41ef5ebf2316",
-    "title": "We can’t help treating AI like it’s human. But should we?",
-    "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-10-09T16:40:14.000Z",
-    "category": "ai",
-    "keywords": [
-      "help",
-      "treating",
-      "human"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/"
-  },
-  {
-    "id": "rss-economy-2a2f5e4aa18bfe",
-    "title": "宿泊予約管理システム「手間いらず」最大445万人情報漏えいか",
-    "summary": "宿泊施設向けの予約管理システムを手がける「手間いらず」は、不正アクセスで最大でおよそ445万人分の個人情報が漏えいしたおそれがあると発表しました。",
-    "sourceName": "NHKニュース",
+    "id": "rss-economy-3ebc7d2bfa4f98",
+    "title": "山に入った町長死亡 事故や病気か",
+    "summary": "山に入った町長死亡 事故や病気か",
+    "sourceName": "Yahoo!ニュース",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T16:18:27.000Z",
+    "publishedAt": "2026-10-10T02:35:47.000Z",
     "category": "economy",
     "keywords": [
-      "宿泊予約管理システム「手",
-      "テム「手間いらず」最大4",
-      "」最大445万人情報漏え",
-      "情報漏えいか"
+      "山に入った町長死亡",
+      "事故や病気か"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6598236?source=rss"
+  },
+  {
+    "id": "rss-economy-b2605e593074c4",
+    "title": "レアアース争奪だけではない､アメリカがグリーンランド新防衛協定で封じ込めようとする中国の北極進出･核ミサイル戦略 | 政治・経済・投資 | 東洋経済オンライン",
+    "summary": "アメリカ･デンマーク･グリーンランドの三者が2026年､新たな防衛協定を締結。中国やロシアの影響力拡大とレアアース確保をめぐる攻防､そして北極圏の軍事的価値が注目されます。グリーンランドを舞台に繰り…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-10-10T02:30:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "政治",
+      "経済",
+      "投資",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/960422?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-4579fdd9a986de",
+    "title": "敵国条項削除が呼び覚ます戦争の記憶――国連創設史と米中の同盟意識から問う､日本の軍拡と平和国家への国際的信頼 | 政治・経済・投資 | 東洋経済オンライン",
+    "summary": "アガサ･クリスティの小説に描かれる｢思いがけず蘇る過去｣。これは日本が敵国条項削除を国連に求めた時､米中両国が想起した歴史にも通じます。国際社会は日本を本当に平和国家と見なしているのか。歴史と記憶､…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-10-10T02:30:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "政治",
+      "経済",
+      "投資",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/960281?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-6f4aa143e889e8",
+    "title": "大阪大学発の創薬ベンチャー｢ステムリム｣は今期､開発マイルストーン計上の可能性高まる | 政治・経済・投資 | 東洋経済オンライン",
+    "summary": "大阪大学発･創薬ベンチャーのステムリム。今2027年7月期は9億円の売り上げが見込めそうです。売り上げが立つとすれば､22年7月期以来4期ぶりとなります。",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-10-10T02:30:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "政治",
+      "経済",
+      "投資",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/960008?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-market-284f670c4f9f19",
+    "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
+    "summary": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-10-10T02:09:00.000Z",
+    "category": "market",
+    "keywords": [
+      "Trump",
+      "diesel",
+      "agreement",
+      "Putin",
+      "accused"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html"
+  },
+  {
+    "id": "rss-economy-e548749996b2b8",
+    "title": "工場の洗濯機に巻き込みか 死亡",
+    "summary": "工場の洗濯機に巻き込みか 死亡",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-10-10T01:40:16.000Z",
+    "category": "economy",
+    "keywords": [
+      "工場の洗濯機に巻き込みか",
+      "死亡"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6598229?source=rss"
+  },
+  {
+    "id": "rss-economy-8d56d948f6b33c",
+    "title": "トランプ大統領“ロシアから軽油供給 プーチン大統領に感謝”",
+    "summary": "アメリカで軽油の販売価格が高止まりするなか、トランプ大統領は、ロシアがアメリカや世界の市場に軽油を供給することで、プーチン大統領と合意したと明らかにしました。トランプ大統領は「プーチン大統領に感謝する…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-10-10T01:27:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "トランプ大統領“ロシアから軽油供給",
+      "プーチン大統領に感謝”"
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20261010de57536"
+    "url": "https://news.web.nhk/newsweb/na/nd-20261010de57567"
+  },
+  {
+    "id": "rss-ai_theory-47d05761919306",
+    "title": "2026年第3四半期のPC出荷台数は前年比で20.1％も減少",
+    "summary": "市場調査企業のIDCが、2026年第3四半期(7～9月)の全世界PC出荷台数が前年同期比で20.1％減の6270万台となったことを報告しました。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-10-10T01:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "2026年第3四半期のP",
+      "半期のPC出荷台数は前年",
+      "数は前年比で20.1％も",
+      ".1％も減少"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20261010-pc-market-shipments-fall-20-q3-2026/"
+  },
+  {
+    "id": "rss-economy-854f67361d6b54",
+    "title": "なぜモンゴル帝国はあれほど強かったのか？何頭もの馬を乗り換える遊牧社会が最強の軍隊を生み出した組織構造 | ライフ | 東洋経済オンライン",
+    "summary": "巨大なユーラシア大陸を制したモンゴル帝国。その圧倒的な強さの秘密は､単なる騎馬戦術に留まりませんでした。\"馬\"を軸とした独自の軍事･社会構造や遊牧民ならではの生活習慣が､なぜ未曾有の征服力へと結びつ…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-10-10T01:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "なぜモンゴル帝国はあれほど強かったのか",
+      "ライフ",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/959344?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-f4dcb7a40b1922",
+    "title": "米軍の銃殺刑生配信計画 非難殺到",
+    "summary": "米軍の銃殺刑生配信計画 非難殺到",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-10-10T00:59:23.000Z",
+    "category": "economy",
+    "keywords": [
+      "米軍の銃殺刑生配信計画",
+      "非難殺到"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6598221?source=rss"
+  },
+  {
+    "id": "rss-economy-db218a0ded5ded",
+    "title": "物価高倒産が過去最多ペース なぜ",
+    "summary": "物価高倒産が過去最多ペース なぜ",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-10-10T00:49:04.000Z",
+    "category": "economy",
+    "keywords": [
+      "物価高倒産が過去最多ペース",
+      "なぜ"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6598219?source=rss"
+  },
+  {
+    "id": "rss-economy-26642edca61eef",
+    "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+    "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+    "sourceName": "BBC Business",
+    "sourceIcon": "¥",
+    "publishedAt": "2026-10-10T00:45:51.000Z",
+    "category": "economy",
+    "keywords": [
+      "Trump",
+      "announces",
+      "deal",
+      "Russian",
+      "diesel"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+    "summaryJa": "ウクライナ大統領はこの動きを「長期化ではなく終わらせるべき戦争への投資」と厳しく批判した。"
+  },
+  {
+    "id": "rss-ai-6fafcbf095655c",
+    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-10-10T00:18:32.000Z",
+    "category": "ai",
+    "keywords": [
+      "Anthropic",
+      "reliably",
+      "control",
+      "agents",
+      "cutting"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+  },
+  {
+    "id": "rss-economy-cd83469f272850",
+    "title": "露 米や世界向けの軽油供給開始へ",
+    "summary": "露 米や世界向けの軽油供給開始へ",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-10-10T00:09:39.000Z",
+    "category": "economy",
+    "keywords": [
+      "露米や世界向けの軽油供給",
+      "軽油供給開始へ"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6598216?source=rss"
+  },
+  {
+    "id": "rss-ai_theory-280ed51d53318e",
+    "title": "バックアップはなぜ難しいのか、ファイルをコピーするだけでは済まない理由とは？",
+    "summary": "故障や操作ミスなどによって大切なデータが失われることがあるため、日頃からバックアップを取っておくことは重要です。しかし、データのバックアップは単にファイルを別の場所にコピーするだけでは十分とは限りません。ソフトウェアエンジニアのアレクサンダル・フィリポフスキー氏が、バックアップの仕組みを整えるにつれて増えていく課題を、自身の体験を交えて説明しています。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-10-10T00:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "バックアップはなぜ難しいのか",
+      "ファイルをコピーするだけでは済まない理由とは"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20261010-data-backups-arent-simple/"
+  },
+  {
+    "id": "rss-economy-c4d3de43f66816",
+    "title": "Boots has a new owner: Three ways it could affect you",
+    "summary": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
+    "sourceName": "BBC Business",
+    "sourceIcon": "¥",
+    "publishedAt": "2026-10-09T23:01:14.000Z",
+    "category": "economy",
+    "keywords": [
+      "Boots",
+      "owner",
+      "Three",
+      "ways",
+      "affect"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
+    "summaryJa": "英国のハイストリートの重鎮が、カナダの億万長者一家に売却された。それはあなたにとって何を意味しますか？"
+  },
+  {
+    "id": "rss-ai-1cf35d53f44117",
+    "title": "出社回帰で離職リスク？ AI得意言語の分析からインフラ人手不足解消まで、エンジニアの本音と課題",
+    "summary": "＠ITで公開された記事の中から、特に注目を集めた10本をランキング形式で紹介します。何が読者の関心を引いたのでしょうか。",
+    "sourceName": "ITmedia AI",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-10-09T23:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "出社回帰で離職リスク",
+      "AI得意言語の分析からインフラ人手不足解消まで",
+      "エンジニアの本音と課題"
+    ],
+    "bannerClass": "from-sky-900 to-slate-800",
+    "isNew": true,
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/10/news003.html"
+  },
+  {
+    "id": "rss-ai-dbe52deccc35fa",
+    "title": "不正アクセス被害激増、今、何をすべきか？ IPAから緊急の点検要請",
+    "summary": "IPAは相次ぐ不正アクセス被害に向けて、公表事例から判明した、今狙われているシステムや攻撃手法の傾向から企業が直近でやるべき具体的なセキュリティ対策を示した。企業は今すぐチェックしてほしい。",
+    "sourceName": "ITmedia AI",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-10-09T23:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "不正アクセス被害激増",
+      "何をすべきか",
+      "IPAから緊急の点検要請"
+    ],
+    "bannerClass": "from-sky-900 to-slate-800",
+    "isNew": true,
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/10/news008.html"
+  },
+  {
+    "id": "rss-ai_theory-3cf83f62263ffe",
+    "title": "月面都市は「水がないため不可能」と専門家",
+    "summary": "月の上に都市を造る考えは古くから創作物等でも一般的で、技術が進歩した現在では実際に月面都市を造ろうとする動きも見られます。ただ、問題になるのが生命維持に不可欠な「水」。月には水が存在する可能性が指摘されていますが、この水をどんなにうまく使っても、月面都市は維持できないと専門家は指摘しています。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-10-09T23:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "月面都市は「水がないため",
+      "ないため不可能」と専門家",
+      "と専門家"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20261010-no-cities-on-the-moon/"
+  },
+  {
+    "id": "rss-economy-c42d0d03052a78",
+    "title": "日英伊の次期戦闘機 イタリアに新たな開発拠点設置で式典",
+    "summary": "日本、イギリス、イタリアの3か国が共同開発する次期戦闘機の設計などを担う合弁会社は、イタリアに新たな開発拠点を設置し、記念の式典を開きました。",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-10-09T22:50:02.000Z",
+    "category": "economy",
+    "keywords": [
+      "日英伊の次期戦闘機",
+      "イタリアに新たな開発拠点設置で式典"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20261010de57531"
+  },
+  {
+    "id": "rss-economy-45ee4516e19b1b",
+    "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+    "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+    "sourceName": "BBC Business",
+    "sourceIcon": "¥",
+    "publishedAt": "2026-10-09T22:30:22.000Z",
+    "category": "economy",
+    "keywords": [
+      "Analysis",
+      "Trump",
+      "shock",
+      "Russia",
+      "deal"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "rss-ai-6f1466c2638ab0",
+    "title": "Long live the mechanical keyboard",
+    "summary": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-10-09T22:08:24.000Z",
+    "category": "ai",
+    "keywords": [
+      "Long",
+      "live",
+      "mechanical",
+      "keyboard"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+    "summaryJa": "Keychron は、2017 年に Kickstarter で発売されてから名を馳せました。現在では、価値のある K2 モデルのほか、全木製ボディを含むさまざまなバージョンを提供しています。"
+  },
+  {
+    "id": "rss-ai-7984e92e6601d7",
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-10-09T21:41:29.000Z",
+    "category": "ai",
+    "keywords": [
+      "maker",
+      "non-text",
+      "model",
+      "Jev",
+      "valued"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+  },
+  {
+    "id": "rss-market-90c546ceca4425",
+    "title": "Junk bonds are 'flashing yellow.' Watch these warning signs",
+    "summary": "Spreads have widened in the high-yield bond market, but that doesn't tell the whole story.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-10-09T20:51:25.000Z",
+    "category": "market",
+    "keywords": [
+      "Junk",
+      "bonds",
+      "flashing",
+      "yellow",
+      "Watch"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html"
+  },
+  {
+    "id": "rss-ai-43fd2a198be0a4",
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-10-09T19:36:56.000Z",
+    "category": "ai",
+    "keywords": [
+      "Anthropic",
+      "model",
+      "sent",
+      "false",
+      "homicide"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "summaryJa": "Anthropic は、AI が誤った情報を提出してから 2 か月以上かかるまで、この動作を発見しませんでした。"
+  },
+  {
+    "id": "rss-market-0ef01a6437b0ae",
+    "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",
+    "summary": "The White House has tapped Katie Zacharia to be its next press secretary, a White House official confirmed to CNBC.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-10-09T19:25:28.000Z",
+    "category": "market",
+    "keywords": [
+      "Trump",
+      "Media",
+      "advisor",
+      "Katie",
+      "Zacharia"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html"
+  },
+  {
+    "id": "rss-market-196614d0b2936b",
+    "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+    "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-10-09T19:18:24.000Z",
+    "category": "market",
+    "keywords": [
+      "Americans",
+      "debt",
+      "problems",
+      "flashing",
+      "warning"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html"
+  },
+  {
+    "id": "rss-market-f7c856c773b285",
+    "title": "Two massive trades just happened in Micron and Nvidia. What they could mean for chips",
+    "summary": "Bears continued to build up positions against the semiconductor group on Friday.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-10-09T18:50:21.000Z",
+    "category": "market",
+    "keywords": [
+      "massive",
+      "trades",
+      "happened",
+      "Micron",
+      "Nvidia"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/10/09/two-massive-trades-just-happened-in-micron-and-nvidia-what-they-could-mean-for-chips.html"
+  },
+  {
+    "id": "rss-economy-b21f68b07fe3f1",
+    "title": "ノーベル平和賞にナビ・ピレイ氏 ICCの裁判官など歴任",
+    "summary": "ことしのノーベル平和賞に南アフリカ出身で、国連人権高等弁務官やICC＝国際刑事裁判所の裁判官などを歴任したナビ・ピレイ氏が選ばれました。ピレイ氏は記者会見で「最高の栄誉だ。国際法秩序を守るために、結束…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-10-09T18:11:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "ノーベル平和賞にナビ",
+      "ピレイ氏",
+      "ICCの裁判官など歴任"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20261007de55783"
   },
   {
     "id": "rss-economy-27e565231ea632",
@@ -528,25 +954,6 @@
     "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "rss-market-196614d0b2936b",
-    "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
-    "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-10-09T16:10:41.000Z",
-    "category": "market",
-    "keywords": [
-      "Americans",
-      "debt",
-      "problems",
-      "flashing",
-      "warning"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html"
-  },
-  {
     "id": "rss-insurance-ff0bdd97e09565",
     "title": "PVC Pipes Swept Away by Helene Still Dominate Cleanup of NC River",
     "summary": "They’re piled on river banks, lodged in uprooted trees, embedded in sediment and jammed under logs. Many are tangled in mounds of debris up to two stories high. Two years after Hurricane Helene leveled forests, bulldozed houses and filled western …",
@@ -563,45 +970,8 @@
     ],
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
-    "url": "https://www.insurancejournal.com/news/southeast/2026/10/09/888639.htm"
-  },
-  {
-    "id": "rss-market-e5c4a8e04b7475",
-    "title": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
-    "summary": "Trump tried to fire Cook, a nominee of former President Joe Biden, but the Supreme Court blocked his first attempt.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-10-09T16:10:02.000Z",
-    "category": "market",
-    "keywords": [
-      "Trump",
-      "appoints",
-      "committee",
-      "investigate",
-      "statements"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html"
-  },
-  {
-    "id": "rss-ai-2eca0347b1784a",
-    "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
-    "summary": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-10-09T16:07:26.000Z",
-    "category": "ai",
-    "keywords": [
-      "Tesla",
-      "renames",
-      "Full",
-      "Self-Driving",
-      "Assisted"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/"
+    "url": "https://www.insurancejournal.com/news/southeast/2026/10/09/888639.htm",
+    "summaryJa": "川岸に積み上げられたり、根こそぎにされた木々に埋もれたり、土砂に埋められたり、丸太の下に詰まったりしている。多くは2階建てまでの瓦礫の山に巻き込まれている。ハリケーン ヘレンが森林を破壊し、家屋をブルドーザーで破壊し、西部地域を埋め尽くしてから 2 年後…"
   },
   {
     "id": "rss-insurance-f4f077bfbc47a6",
@@ -620,7 +990,8 @@
     ],
     "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
     "isNew": true,
-    "url": "https://www.reinsurancene.ws/nuclear-verdicts-put-us-casualty-exposures-under-fresh-scrutiny-munich-re/"
+    "url": "https://www.reinsurancene.ws/nuclear-verdicts-put-us-casualty-exposures-under-fresh-scrutiny-munich-re/",
+    "summaryJa": "世界的な再保険会社ミュンヘン再保険によると、いわゆる核判決の頻度と規模が引き続き保険会社にとって課題となっているため、米国とのエクスポージャーを持つ欧州企業は死傷リスクを再評価する必要があるかもしれないという。再保険会社は、トラック死亡事故を受けて最近米国で陪審員が受け取った6億400万米ドルの賠償金は、いかに[…]核後の判決で米国の死傷者エクスポージャが新たな監視下に置かれているかを示していると述べた:ミュンヘン再保険はReinsuranceNewsに最初に登場した。"
   },
   {
     "id": "rss-insurance-f1cf1ba89f3375",
@@ -658,23 +1029,8 @@
     ],
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
-    "url": "https://www.insurancejournal.com/news/southcentral/2026/10/09/888630.htm"
-  },
-  {
-    "id": "rss-economy-850212eff0db7c",
-    "title": "簗農相 バス無料送迎報道「事実関係を整理でき次第説明」",
-    "summary": "簗農林水産大臣は、選挙活動中に手配したシャトルバスで自身の支持者を無料で送迎したことが法令違反にあたるのではないかなどと一部で報じられたことについて、「事実関係をしっかり整理でき次第、説明する」と述べ…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T15:15:27.000Z",
-    "category": "economy",
-    "keywords": [
-      "簗農相",
-      "バス無料送迎報道「事実関係を整理でき次第説明」"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20261009de56980"
+    "url": "https://www.insurancejournal.com/news/southcentral/2026/10/09/888630.htm",
+    "summaryJa": "州保険局の最新データによると、テキサス州では住宅所有者の保険料が下がり始めている。 7月初旬以来、保険会社は住宅所有者の保険料率を平均4.3％引き下げている。 ASIロイズ、…"
   },
   {
     "id": "rss-insurance-3d5d0c5ac3ced7",
@@ -694,39 +1050,6 @@
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
     "url": "https://www.insurancejournal.com/news/southcentral/2026/10/09/888625.htm"
-  },
-  {
-    "id": "rss-economy-e2a876b3fa7544",
-    "title": "米 ICC本体を制裁対象⁠に指定",
-    "summary": "米 ICC本体を制裁対象⁠に指定",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T15:07:57.000Z",
-    "category": "economy",
-    "keywords": [
-      "米ICC本体を制裁対象⁠",
-      "裁対象⁠に指定"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6598196?source=rss"
-  },
-  {
-    "id": "rss-economy-c06ec5176b15ff",
-    "title": "スカイチケット ブックオフでも…情報漏えい相次ぐ【対策は】",
-    "summary": "企業への不正アクセスによる被害が相次ぐ中、旅行サイトのスカイチケットを運営するアドベンチャーは外部から不正アクセスを受け、利用客の情報、1400万件あまりが流出したか、流出したおそれがあると発表しまし…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T15:03:54.000Z",
-    "category": "economy",
-    "keywords": [
-      "スカイチケット",
-      "ブックオフでも",
-      "情報漏えい相次ぐ【対策は】"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57123"
   },
   {
     "id": "rss-insurance-89c87bd7f541ae",
@@ -764,7 +1087,8 @@
     ],
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
-    "url": "https://www.insurancejournal.com/news/southeast/2026/10/09/888600.htm"
+    "url": "https://www.insurancejournal.com/news/southeast/2026/10/09/888600.htm",
+    "summaryJa": "アイサイアスは、10月9日金曜日の朝の時点で突然カテゴリー3のハリケーンに勢力を強め、6フィートを超える高潮と強風、最大15メートルの暴風雨でフロリダ州ペンサコーラ・パンハンドル地域を直撃する進路を維持した。"
   },
   {
     "id": "rss-economy-ccc8cfcec63655",
@@ -802,39 +1126,8 @@
     ],
     "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
     "isNew": true,
-    "url": "https://www.reinsurancene.ws/katrisk-appoints-david-vicary-as-international-product-lead/"
-  },
-  {
-    "id": "rss-economy-f9d87e201bbcf6",
-    "title": "文科相 議員会館内でパーティーか",
-    "summary": "文科相 議員会館内でパーティーか",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T14:22:04.000Z",
-    "category": "economy",
-    "keywords": [
-      "文科相",
-      "議員会館内でパーティーか"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6598193?source=rss"
-  },
-  {
-    "id": "rss-economy-902fbc49fcf0f2",
-    "title": "ビール4社担当者 価格協議認める",
-    "summary": "ビール4社担当者 価格協議認める",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T14:20:52.000Z",
-    "category": "economy",
-    "keywords": [
-      "ビール4社担当者",
-      "価格協議認める"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6598192?source=rss"
+    "url": "https://www.reinsurancene.ws/katrisk-appoints-david-vicary-as-international-product-lead/",
+    "summaryJa": "保険および金融サービス業界向けに壊滅的リスク モデリング ソフトウェアを提供する KatRisk は、David Vicary を国際プロダクト リードに任命したと発表しました。新しい役職で、Vicary は KatRisk のテクノロジー ソリューション部門の推進を支援し、製品スイートとパートナーシップの継続的な開発をサポートします。彼はロイズ全体に経験をもたらします […] KatRisk が David Vicary を国際プロダクト リードに任命するという記事は、ReinsuranceNews に最初に掲載されました。"
   },
   {
     "id": "rss-insurance-212d2c3149bd69",
@@ -853,7 +1146,8 @@
     ],
     "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
     "isNew": true,
-    "url": "https://www.artemis.bm/news/nepal-government-approves-world-bank-earthquake-cat-bond-mandate-agreement/?utm_source=rss&utm_medium=rss&utm_campaign=nepal-government-approves-world-bank-earthquake-cat-bond-mandate-agreement"
+    "url": "https://www.artemis.bm/news/nepal-government-approves-world-bank-earthquake-cat-bond-mandate-agreement/?utm_source=rss&utm_medium=rss&utm_campaign=nepal-government-approves-world-bank-earthquake-cat-bond-mandate-agreement",
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。ネパールのニュースソースからの報道によると、ネパール政府閣僚理事会は、世界銀行とのネパール地震災害債券プロジェクトの委任協定の締結を承認したとのこと。 7月に戻って、私たちは、世界銀行がネパールにパラメトリック地震災害債券を提供する提案されたプロジェクトに取り組み始めたと報告しました。 […] ネパール政府が世界銀行の地震災害債券委任契約を承認 発行元: www.Artemis.bm 災害債券取引ディレクトリ 当社の無料毎週メールニュース"
   },
   {
     "id": "rss-insurance-2b85c158036e37",
@@ -875,22 +1169,6 @@
     "url": "https://www.reinsurancene.ws/life-insurers-must-work-with-banks-advisors-distributors-to-keep-up-with-demand-swiss-re-institute/"
   },
   {
-    "id": "rss-economy-fc070bf855d20a",
-    "title": "イオン系食品スーパー100店閉店へ",
-    "summary": "イオン系食品スーパー100店閉店へ",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T13:39:49.000Z",
-    "category": "economy",
-    "keywords": [
-      "イオン系食品スーパー10",
-      "パー100店閉店へ"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6598188?source=rss"
-  },
-  {
     "id": "rss-insurance-ef416300c80d0f",
     "title": "Manulife names Sinéad O’Connor as Chief Actuary",
     "summary": "Manulife, a global financial services company providing insurance, wealth and asset management and retirement solutions, has appointed Sinéad O’Connor as Chief Actuary, with the appointment taking effect on 12 October 2026. O’Connor will report to Phil Witherington, President and Chief Executive Officer of Manulife, and will become a member of the company’s Executive Leadership Team. […] The post Manulife names Sinéad O’Connor as Chief Actuary appeared first on ReinsuranceNe.ws.",
@@ -907,7 +1185,8 @@
     ],
     "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
     "isNew": true,
-    "url": "https://www.reinsurancene.ws/manulife-names-sinead-oconnor-as-chief-actuary/"
+    "url": "https://www.reinsurancene.ws/manulife-names-sinead-oconnor-as-chief-actuary/",
+    "summaryJa": "保険、資産管理、退職金ソリューションを提供する世界的な金融サービス会社であるマニュライフは、シニード・オコナー氏を首席保険数理人に任命し、その任命は2026年10月12日から発効します。オコナー氏はマニュライフ社の社長兼最高経営責任者フィル・ウィザリントン氏の直属となり、同社の経営幹部チームのメンバーとなります。 […] マニュライフ生命保険計理士にシニード・オコナー氏を指名した記事は、ReinsuranceNews に最初に掲載されました。"
   },
   {
     "id": "rss-insurance-eccc3f377f94d7",
@@ -929,25 +1208,6 @@
     "url": "https://www.reinsurancene.ws/el-nino-could-reshape-catastrophe-risk-for-insurers-and-reinsurers-moodys-says/"
   },
   {
-    "id": "rss-economy-142dbf7d38a85d",
-    "title": "Anthropic bans users from being 'cruel' to its AI systems",
-    "summary": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-    "sourceName": "BBC Business",
-    "sourceIcon": "¥",
-    "publishedAt": "2026-10-09T12:34:27.000Z",
-    "category": "economy",
-    "keywords": [
-      "Anthropic",
-      "bans",
-      "users",
-      "cruel",
-      "systems"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "id": "rss-ai_theory-0f3e87e4a0aa4c",
     "title": "自動運転技術は毎年58万人の命を救う可能性がある",
     "summary": "自動運転車や自動運転技術の安全性についてまだまだ疑問を持つ人は多いとみられますが、自動運転車が交通事故を起こす割合は人間が運転している場合に比べて大幅に低く、事故による負傷者もはるかに少ないことが研究で示されています。 続きを読む...",
@@ -965,25 +1225,9 @@
     "url": "https://gigazine.net/news/20261009-self-driving-tech-prevent-58k-deaths-every-year/"
   },
   {
-    "id": "rss-economy-d9fb7d858c4e32",
-    "title": "簗氏「国交省にやらせる」 24年に",
-    "summary": "簗氏「国交省にやらせる」 24年に",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T12:19:46.000Z",
-    "category": "economy",
-    "keywords": [
-      "簗氏「国交省にやらせる」",
-      "24年に"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6598180?source=rss"
-  },
-  {
     "id": "rss-insurance-4686f9fb45fe7e",
     "title": "Hurricane Simon rapidly intensifying, bringing Mexico catastrophe bond back into focus",
-    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Hurricane Simon in the Pacific is rapidly intensifying and seen as having a chance of sustaining major hurricane strength when it makes landfall on the Mexico coastline on Sunday, which has brought the $175 million IBRD CAR Mexico 2024 (Pacific) parametric catastrophe bond back into focus again. Update – 16:00 UTC: The NHC’s latest update […] Hurricane Simon rapidly intensifying, bringing Mexico catastrophe bond back into focus was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
+    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Hurricane Simon in the Pacific is rapidly intensifying and seen as having a chance of sustaining major hurricane strength when it makes landfall on the Mexico coastline on Sunday, which has brought the $175 million IBRD CAR Mexico 2024 (Pacific) parametric catastrophe bond back into focus again. Update – 18:00 UTC: The NHC’s latest update […] Hurricane Simon rapidly intensifying, bringing Mexico catastrophe bond back into focus was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
     "sourceName": "Artemis",
     "sourceIcon": "🎯",
     "publishedAt": "2026-10-09T12:02:47.000Z",
@@ -998,127 +1242,6 @@
     "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
     "isNew": true,
     "url": "https://www.artemis.bm/news/hurricane-simon-rapidly-intensifying-bringing-mexico-catastrophe-bond-back-into-focus/?utm_source=rss&utm_medium=rss&utm_campaign=hurricane-simon-rapidly-intensifying-bringing-mexico-catastrophe-bond-back-into-focus"
-  },
-  {
-    "id": "rss-ai_theory-b4ab4f714a3aa0",
-    "title": "jevやGPT-6 Luna Decisionsなどの素早い判断に特化した確率モデルがパックマンをプレイするベンチマーク「jevman」",
-    "summary": "「jevman」は、AIにパックマンをプレイさせて、状況に応じた判断能力を比較するベンチマークです。 AI向けのAPIサービスを提供するOpperが公開しており、6種類のAIモデルにそれぞれ100回ずつパックマンをプレイさせ、その得点や判断速度、実行コストなどを比較しています。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T11:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "jevやGPT-6",
-      "Luna"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20261009-jevman/"
-  },
-  {
-    "id": "rss-ai_theory-d1bec1b98a620b",
-    "title": "2026年10月9日のヘッドラインニュース",
-    "summary": "とんかつ専門店「松のや」が、2026年10月14日(水)15時から新メニュー「ジンギスカン定食」を発売すると発表しました。価格は税込1190円で、一部店舗を除く全国の松のやで販売されます。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T10:33:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "2026年10月9日のヘ",
-      "9日のヘッドラインニュー",
-      "ンニュース"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20261009-headline/"
-  },
-  {
-    "id": "rss-ai_theory-b1b7eb68d653d9",
-    "title": "ロシアとイランがプロパガンダ工作で用いたChatGPTアカウントをOpenAIが停止、工作の影響度は6段階中4～5",
-    "summary": "OpenAIがロシアやイランによる「AI生成の架空組織・架空人物を用いた影響工作」に利用されたアカウントを停止したと発表しました。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T10:30:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "ロシアとイランがプロパガ",
-      "プロパガンダ工作で用いた",
-      "で用いたChatGPTア",
-      "GPTアカウントをOpe",
-      "をOpenAIが停止、工"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20261009-openai-disrupted-russian-operation-dark-clark/"
-  },
-  {
-    "id": "rss-ai_theory-249bf2d740ab11",
-    "title": "人類最初期の文明はどのようなものだったのか？",
-    "summary": "人類は古くから文明を築いてきましたが、大昔の記録はほとんど残っていません。そのような中でも、DNA解析技術や年代測定の進歩により、かつての世界がどのような姿をしていたのかが徐々に明らかになっています。科学系YouTubeチャンネルのKurzgesagtが、今から1万2000年ほど前、最後の氷河期が終わりを迎えた頃からの人類の歴史をたどっています。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T10:00:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "人類最初期の文明はどのよ",
-      "はどのようなものだったの",
-      "だったのか？"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20261009-humanity-first-civilization/"
-  },
-  {
-    "id": "rss-economy-b340654d657db1",
-    "title": "【夕方の‟電池切れ”で悩む人必見！】中間管理職の‟体力”を削る要因／1日の時間軸で整える体力運用／日光浴とカフェインナップの有効活用／1週間の推奨運動メニュー／‟余力スコア”で疲労の蓄積サインに気づく | ビジネス | 東洋経済オンライン",
-    "summary": "前編はこちら https://youtu.be/uv1p3YwUX6E今回の「Health SHIFT」は、「戦略的・体力マネジメント」の後編です。日々の体力運用について、分・時間単位や週単位といっ…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T10:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "【夕方の‟電池切れ”で悩む人必見",
-      "ビジネス",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/960825?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-8f17a2801297e8",
-    "title": "I've been with my boyfriend for two years and don't know his salary",
-    "summary": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
-    "sourceName": "BBC Business",
-    "sourceIcon": "¥",
-    "publishedAt": "2026-10-09T09:37:38.000Z",
-    "category": "economy",
-    "keywords": [
-      "been",
-      "boyfriend",
-      "don",
-      "know",
-      "salary"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "rss-economy-316a327f12b71a",
-    "title": "プルデンシャル生命､ジブラルタ生命保険に金融庁が一部業務停止命令､保険募集管理体制などに重大な欠陥 | ビジネス | 東洋経済オンライン",
-    "summary": "大手外資系生命保険会社プルデンシャル生命で総額61億円超の金銭不祥事が発覚し､金融庁から業務停止命令が下されました。長年にわたり放置された組織的な管理体制の欠陥は､なぜ是正されなかったのか。改革の行…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T09:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "ビジネス",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/960810?utm_source=rss&utm_medium=http&utm_campaign=link_back"
   },
   {
     "id": "rss-insurance-c5ffff7a5790f6",
@@ -1218,7 +1341,8 @@
     ],
     "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
     "isNew": true,
-    "url": "https://www.artemis.bm/news/hannover-re-targets-200m-seventh-acorn-re-parametric-us-earthquake-cat-bond/?utm_source=rss&utm_medium=rss&utm_campaign=hannover-re-targets-200m-seventh-acorn-re-parametric-us-earthquake-cat-bond"
+    "url": "https://www.artemis.bm/news/hannover-re-targets-200m-seventh-acorn-re-parametric-us-earthquake-cat-bond/?utm_source=rss&utm_medium=rss&utm_campaign=hannover-re-targets-200m-seventh-acorn-re-parametric-us-earthquake-cat-bond",
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。世界的な再保険会社ハノーバー再保険は、年次パラメトリック米国地震リスクシリーズ取引において7回目の大災害債券の発行を行っており、エイコーン再保険株式会社（シリーズ2026-1）発行の当初目標は2億ドルであるとアルテミスが明らかにした。これまでのエイコーン再パラメトリック大災害債券6つすべてで見られたように、この新しい7つ目は[…]ハノーバー再保険は2億ドルを目標とする第7回エイコーン再パラメトリック米国地震猫債は、www.Artemis.bm大災害債券取引ディレクトリで発行されました。"
   },
   {
     "id": "rss-insurance-890d3c8f690df5",
@@ -1371,25 +1495,6 @@
     "bannerClass": "from-blue-950 to-indigo-950",
     "isNew": true,
     "url": "https://www.nli-research.co.jp/topics_detail1/id=86996?site=nli"
-  },
-  {
-    "id": "rss-economy-fca2e00afd0ad6",
-    "title": "｢真面目な人は浮かばれない｣ 地元報復疑惑の簗農水相をかばう高市首相､｢働いて返せ｣に欠けた国民不在の大義 | 政治・経済・投資 | 東洋経済オンライン",
-    "summary": "｢とにかく働いて仕事で返せ｣と簗農水相を更迭しなかった高市首相。しかし､その判断は正しかったのでしょうか。｢仲間｣と｢敵｣で線引きし､徹底的に｢仲間｣をかばうことに主眼を置く高市政治の大義を問います。",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T07:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "｢真面目な人は浮かばれない｣",
-      "政治",
-      "経済",
-      "投資",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/960778?utm_source=rss&utm_medium=http&utm_campaign=link_back"
   },
   {
     "id": "rss-insurance-122dd367eb7a45",
@@ -1427,42 +1532,8 @@
     ],
     "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
     "isNew": true,
-    "url": "https://www.artemis.bm/news/conning-forecasts-long-term-expansion-for-us-life-settlement-market-through-2035/?utm_source=rss&utm_medium=rss&utm_campaign=conning-forecasts-long-term-expansion-for-us-life-settlement-market-through-2035"
-  },
-  {
-    "id": "rss-economy-5241d0f031bee0",
-    "title": "AI活用を｢点･線･面｣で捉える――質と量のトレードオフを崩した教育機関に学ぶ､売上の構造が変わる3つのレベル | ビジネス | 東洋経済オンライン",
-    "summary": "AI活用が効率化の域を出ない。多くの日本企業がぶつかるこの壁の正体は､技術の優劣ではなく､AIを業務のどのレベルに介入させているかの違いにある。 既存の事業資産を起点に売上の構造を変える｢事業…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T05:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "ビジネス",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/960488?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-38bf8b07009714",
-    "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
-    "summary": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
-    "sourceName": "BBC Business",
-    "sourceIcon": "¥",
-    "publishedAt": "2026-10-09T04:55:14.000Z",
-    "category": "economy",
-    "keywords": [
-      "Trump",
-      "wants",
-      "reduce",
-      "cost",
-      "fuel"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.artemis.bm/news/conning-forecasts-long-term-expansion-for-us-life-settlement-market-through-2035/?utm_source=rss&utm_medium=rss&utm_campaign=conning-forecasts-long-term-expansion-for-us-life-settlement-market-through-2035",
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。米国のライフセトルメント市場は、相関性の低い代替資産に対する投資家の需要が人口高齢化、退職金や長期介護の資金ニーズの増大、直接消費者への意識の拡大と融合することにより、2035年まで長期的に拡大する態勢が整っていることが、投資管理コンサルタント会社コニングの新たな調査で明らかになった。この研究は、2025 年の生命に関するコニングの分析を提供しています […] コニングは、米国の生命決済市場の 2035 年までの長期的な拡大を予測しています。発行元: www.Artemis.bm catas"
   },
   {
     "id": "rss-insurance-ddedb3a774ee71",
@@ -1557,7 +1628,8 @@
     ],
     "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
     "isNew": true,
-    "url": "https://arxiv.org/abs/2610.10541"
+    "url": "https://arxiv.org/abs/2610.10541",
+    "summaryJa": "arXiv:2610.10541v1 発表の種類: 新しい要約: ナレッジ グラフ (KG) の品質は、下流のグラフ検証だけでなく、統合前に使用される表形式のメタデータの品質にも依存します。メタデータのみのセマンティック テーブル解釈 (STI) では、セル値が利用できない、ノイズが多い、または不適切であるため、列ヘッダーが追跡可能な KG 準備のためのセマンティック証拠の重要なソースになります。メタデータ専用の列型アノテーション (CTA) とデータ品質評価 (DQA) のための、説明可能なヘッダー中心のフレームワークを紹介します。フレームワークは、厳選された語彙リソースを使用してヘッダーを 39 の解釈可能な FinalFormat タイプにマップし、"
   },
   {
     "id": "rss-ai_theory-30c38a4f4bf996",
@@ -1595,7 +1667,8 @@
     ],
     "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
     "isNew": true,
-    "url": "https://arxiv.org/abs/2610.10590"
+    "url": "https://arxiv.org/abs/2610.10590",
+    "summaryJa": "arXiv:2610.10590v1 アナウンスの種類: 新しい要約: ツールを使用するエージェントは、有用なコンテンツが元のペイロードよりもはるかに小さい可能性がある観測を繰り返し実行します。私たちはエージェント制御の忘却を研究しています。演技モデルは以前に観察されたツールの結果を選択し、それぞれを元の位置にある短いメモに置き換え、正確なオリジナルを回復可能なアーカイブに保持します。 Python ハーネスは、タスク固有のモデル トレーニングを行わずにバッチ アーカイブと明示的なリカバリを公開すると同時に、ユーザーの指示やアシスタント メッセージをこれらの操作から保護します。探索的な OpenTelemetry デバッグの場合、その後に無関係な実装が続く"
   },
   {
     "id": "rss-ai_theory-1322a304a3c5e6",
@@ -1633,7 +1706,8 @@
     ],
     "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
     "isNew": true,
-    "url": "https://arxiv.org/abs/2610.10629"
+    "url": "https://arxiv.org/abs/2610.10629",
+    "summaryJa": "arXiv:2610.10629v1 アナウンス タイプ: 新規 要約: 自己改善型 LLM エージェントは、変更されたルールにクレジット パイプラインを適応させることができますが、エージェント自体を書き換えるエージェントは、スーパーバイザーがレビューする成果物 (名前付き変更、記録されたテスト、承認) を破壊します。私たちは、自己進化がランタイムハーネス (命令テキスト、ツール呼び出しロジック、およびプリミティブ構成) に限定され、モデルの重みが固定されたままである場合にのみ、自己進化をレビュー可能であると主張します。そのため、すべての適応は、原因とテストが付属した差分であると考えられます。この境界に基づいて構築されたデュアル ループ エンジンを提供し、展開前にハッシュ チェーンされたレコードを書き込む 1 つのアドミッション ゲートを備え、"
   },
   {
     "id": "rss-ai-e3e2c36f4f7f05",
@@ -1653,23 +1727,6 @@
     "bannerClass": "from-sky-900 to-slate-800",
     "isNew": true,
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/09/news031.html"
-  },
-  {
-    "id": "rss-economy-dd09bbce5dc431",
-    "title": "文化人類学者･大川内直子と考える｢私たちは組織の『見えない前提』をどのように読むべきか｣ | キャリア・教育 | 東洋経済オンライン",
-    "summary": "AIやデジタル技術が進展し､社会や組織のあり方が問われる今､見えない\"前提\"をどう見抜くべきか。異質な現場や文化に身を投じ､組織の本質を探る文化人類学の視点に注目が集まっています。その具体的な価値と…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T04:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "キャリア",
-      "教育",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/958894?utm_source=rss&utm_medium=http&utm_campaign=link_back"
   },
   {
     "id": "rss-insurance-91b8847b6c2ffe",
@@ -1829,40 +1886,6 @@
     "bannerClass": "from-sky-900 to-slate-800",
     "isNew": true,
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/09/news029.html"
-  },
-  {
-    "id": "rss-ai-61d48c46121b28",
-    "title": "そのAPMは本番規模に耐えられる？ 大規模環境で確認したい「7つの要件」",
-    "summary": "システムの規模や複雑さが増したとき、APMツールにはどのような問題が生じる可能性があるのか。New Relicは大規模環境でAPMツールを選ぶ際の7つの要件と評価方法をブログ記事で示した。",
-    "sourceName": "ITmedia AI",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T02:00:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "そのAPMは本番規模に耐えられる",
-      "大規模環境で確認したい「7つの要件」"
-    ],
-    "bannerClass": "from-sky-900 to-slate-800",
-    "isNew": true,
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/09/news025.html"
-  },
-  {
-    "id": "rss-ai-3e4b4eadad4663",
-    "title": "PR： クレームゼロ＆探索2時間短縮を実現した製造業の現場主導DX",
-    "summary": "高精度な金属加工を強みとする山岸製作所は、ローコード開発ツールを活用してシステムを内製化。現場の課題を現場が解決する製造業DXを推進している。過去の属人化による業務システムのブラックボックス化という課題を乗り越え、アプリ開発によってクレームゼロや材料探索時間の大幅な削減を実現した。",
-    "sourceName": "ITmedia AI",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-10-09T01:00:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "PR：クレームゼロ＆探索",
-      "ロ＆探索2時間短縮を実現",
-      "縮を実現した製造業の現場",
-      "業の現場主導DX"
-    ],
-    "bannerClass": "from-sky-900 to-slate-800",
-    "isNew": true,
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/13/news002.html"
   },
   {
     "id": "rss-insurance-2d7b38bd18cd74",
