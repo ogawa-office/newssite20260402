@@ -20,7 +20,7 @@ const parser = new Parser({
   },
 })
 
-/** @typedef {'ai'|'ai_theory'|'insurance'|'economy'|'market'|'housing'} NewsCategory */
+/** @typedef {'ai'|'ai_theory'|'insurance'|'economy'|'market'|'housing'|'banking'} NewsCategory */
 
 async function fetchTextWithTimeout(url, timeoutMs) {
   const controller = new AbortController()
@@ -273,6 +273,33 @@ const FEEDS = [
     sourceIcon: '🔑',
     bannerClass: 'from-slate-800 to-cyan-900',
     max: 5,
+  },
+  // --- 銀行 ---
+  {
+    url: 'https://www.boj.or.jp/rss/whatsnew.xml',
+    category: 'banking',
+    sourceName: '日本銀行',
+    sourceIcon: '🏦',
+    bannerClass: 'from-indigo-950 to-slate-800',
+    max: 10,
+    lang: 'ja',
+    sortBoost: 4,
+  },
+  {
+    url: 'https://www.bankingdive.com/feeds/news/',
+    category: 'banking',
+    sourceName: 'Banking Dive',
+    sourceIcon: '🏛️',
+    bannerClass: 'from-slate-900 to-indigo-950',
+    max: 6,
+  },
+  {
+    url: 'https://www.finextra.com/rss/headlines.aspx',
+    category: 'banking',
+    sourceName: 'Finextra',
+    sourceIcon: '💳',
+    bannerClass: 'from-indigo-900 to-blue-950',
+    max: 6,
   },
 ]
 

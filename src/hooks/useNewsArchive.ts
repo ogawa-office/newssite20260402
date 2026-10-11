@@ -8,6 +8,7 @@ const CATEGORIES: readonly NewsCategory[] = [
   'economy',
   'market',
   'housing',
+  'banking',
 ]
 
 function isCategory(s: string): s is NewsCategory {

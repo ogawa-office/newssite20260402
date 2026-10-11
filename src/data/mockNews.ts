@@ -5,6 +5,7 @@ export type NewsCategory =
   | 'economy'
   | 'market'
   | 'housing'
+  | 'banking'
 
 export interface NewsItem {
   id: string
@@ -32,6 +33,7 @@ export const CATEGORY_LABEL: Record<NewsCategory, string> = {
   economy: '経済',
   market: 'マーケット',
   housing: '住宅・住宅ローン',
+  banking: '銀行',
 }
 
 export const CATEGORY_BADGE: Record<NewsCategory, string> = {
@@ -41,6 +43,7 @@ export const CATEGORY_BADGE: Record<NewsCategory, string> = {
   economy: '経済',
   market: 'マーケット',
   housing: '住宅',
+  banking: '銀行',
 }
 
 export const CATEGORY_PILL: Record<
@@ -71,6 +74,10 @@ export const CATEGORY_PILL: Record<
     bg: 'bg-cyan-100 text-cyan-900',
     active: 'bg-cyan-100 text-cyan-950 border-cyan-400 ring-1 ring-cyan-300',
   },
+  banking: {
+    bg: 'bg-indigo-100 text-indigo-900',
+    active: 'bg-indigo-100 text-indigo-950 border-indigo-400 ring-1 ring-indigo-300',
+  },
 }
 
 const ago = (hours: number) =>
@@ -78,7 +85,7 @@ const ago = (hours: number) =>
 const daysAgo = (d: number) =>
   new Date(Date.now() - d * 24 * 60 * 60 * 1000).toISOString()
 
-/** カテゴリごとに5件ずつ（計30件） */
+/** カテゴリごとに5件ずつ（計35件） */
 export const MOCK_NEWS: NewsItem[] = [
   // --- AI（5件）---
   {
@@ -485,5 +492,73 @@ export const MOCK_NEWS: NewsItem[] = [
     keywords: ['地価', '住宅地', '担保評価'],
     bannerClass: 'from-cyan-900 to-teal-950',
     url: 'https://www.housenews.jp/',
+  },
+
+  // --- 銀行（5件）---
+  {
+    id: 'bk-1',
+    title: '政策金利の動向と銀行の利ざや：短期市場の落ち着きが預貸金利に波及',
+    summary:
+      '短期金融市場の需給が安定するなか、銀行の利ざやは預金金利の改定ペースと貸出競争のバランスに左右されている。法人向け貸出では金利上昇局面でも競争が続き、個人向けでは住宅ローン優遇の見直しが続く地域もある。',
+    sourceName: '銀行業レポート',
+    sourceIcon: '🏦',
+    publishedAt: ago(4),
+    category: 'banking',
+    keywords: ['政策金利', '利ざや', '預貸'],
+    bannerClass: 'from-indigo-950 to-slate-800',
+    isNew: true,
+    url: 'https://www.boj.or.jp/',
+  },
+  {
+    id: 'bk-2',
+    title: '銀行のAML対応：当局の検査強化でシステム投資と人的体制の見直しが加速',
+    summary:
+      '不正送金・マネロン対策の実効性が改めて問われ、大手から地銀まで監視ルールとアラート運用の見直しが進む。外部ベンダー連携やデータ品質の改善が焦点となり、コンプライアンスコストの上昇が収益計画にも影響している。',
+    sourceName: '銀行規制ウォッチ',
+    sourceIcon: '🛡️',
+    publishedAt: ago(9),
+    category: 'banking',
+    keywords: ['AML', 'マネロン', '規制'],
+    bannerClass: 'from-slate-900 to-indigo-950',
+    url: 'https://www.boj.or.jp/',
+  },
+  {
+    id: 'bk-3',
+    title: '地銀再編と提携：営業基盤の重複解消とデジタル共通化が論点に',
+    summary:
+      '人口減少地域では店舗・人員の効率化が避けられず、合併や業務提携の検討が続く。勘定系の共同化やアプリ基盤の共有はコスト削減効果が見込まれる一方、顧客体験の統一と移行リスクの管理が課題となっている。',
+    sourceName: '地銀インサイト',
+    sourceIcon: '🏛️',
+    publishedAt: daysAgo(2),
+    category: 'banking',
+    keywords: ['地銀', '再編', 'デジタル'],
+    bannerClass: 'from-indigo-900 to-blue-950',
+    url: 'https://www.boj.or.jp/',
+  },
+  {
+    id: 'bk-4',
+    title: '決済・送金インフラ：即時決済の普及と銀行の手数料戦略',
+    summary:
+      '即時送金の利用拡大で、銀行は口座維持や付帯サービスの収益モデルを再設計している。フィンテック連携が進む一方、本人確認や不正検知の負荷も増えており、利便性と安全性の両立が競争軸になっている。',
+    sourceName: '決済動向',
+    sourceIcon: '💳',
+    publishedAt: daysAgo(3),
+    category: 'banking',
+    keywords: ['決済', '送金', '手数料'],
+    bannerClass: 'from-blue-950 to-indigo-900',
+    url: 'https://www.boj.or.jp/',
+  },
+  {
+    id: 'bk-5',
+    title: '銀行決算：有価証券評価損の残存と貸出残高の伸びが対照的',
+    summary:
+      '金利上昇で債券ポートフォリオの含み損はなお残る一方、貸出残高は大企業向けを中心に増加した先も多い。手数料ビジネスの伸長とコスト削減が、純利益の下支え要因として注目されている。',
+    sourceName: '銀行決算メモ',
+    sourceIcon: '📊',
+    publishedAt: daysAgo(5),
+    category: 'banking',
+    keywords: ['決算', '貸出', '有価証券'],
+    bannerClass: 'from-zinc-900 to-indigo-950',
+    url: 'https://www.boj.or.jp/',
   },
 ]

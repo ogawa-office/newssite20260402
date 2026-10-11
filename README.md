@@ -96,6 +96,7 @@ public/
 - **経済**: BBC Business, NHK, Yahoo!, 東洋経済
 - **マーケット**: CNBC
 - **住宅・住宅ローン**: 住宅産業新聞, Mortgage News Daily, HousingWire, Redfin News
+- **銀行**: 日本銀行, Banking Dive, Finextra
 
 一部フィード（例: The Insurer 401、Risk.net 404）は取得失敗時にスキップされます。
 

@@ -18,6 +18,7 @@ const CATEGORY_ROWS = [
   ['economy', CATEGORY_LABEL.economy],
   ['market', CATEGORY_LABEL.market],
   ['housing', CATEGORY_LABEL.housing],
+  ['banking', CATEGORY_LABEL.banking],
 ] as const
 
 export default function App() {
