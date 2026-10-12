@@ -42,7 +42,7 @@ async function fetchTextWithTimeout(url, timeoutMs) {
 }
 
 /** sortBoost: 並び優先（1≈12時間ぶん上に。大きいほど上） */
-/** @type {Array<{ url: string; category: NewsCategory; sourceName: string; sourceIcon: string; bannerClass: string; max: number; lang?: 'ja'; sortBoost?: number }>} */
+/** @type {Array<{ url: string; category: NewsCategory; sourceName: string; sourceIcon: string; bannerClass: string; max: number; lang?: 'ja'; sortBoost?: number; titleInclude?: string[]; titleExclude?: string[] }>} */
 const FEEDS = [
   // 取得元フィード設定（GitHub Actions で実行される）
   // --- 英語 ---
@@ -274,16 +274,52 @@ const FEEDS = [
     bannerClass: 'from-slate-800 to-cyan-900',
     max: 5,
   },
-  // --- 銀行 ---
+  // --- 銀行（個別行・業界動向中心。日銀公表は含めない）---
   {
-    url: 'https://www.boj.or.jp/rss/whatsnew.xml',
+    url:
+      'https://news.google.com/rss/search?q=' +
+      encodeURIComponent(
+        '銀行業界 OR メガバンク OR 地銀 OR 銀行再編 OR 銀行統合 OR 銀行決算 OR 銀行株',
+      ) +
+      '&hl=ja&gl=JP&ceid=JP:ja',
     category: 'banking',
-    sourceName: '日本銀行',
+    sourceName: '銀行業界ニュース',
     sourceIcon: '🏦',
     bannerClass: 'from-indigo-950 to-slate-800',
+    max: 12,
+    lang: 'ja',
+    sortBoost: 5,
+    titleExclude: [
+      'B.LEAGUE',
+      'リーグ戦',
+      'サッカー',
+      '野球',
+      'オープン・カンパニー',
+      '学生向け',
+    ],
+  },
+  {
+    url:
+      'https://news.google.com/rss/search?q=' +
+      encodeURIComponent(
+        'みずほ銀行 OR 三井住友銀行 OR 三菱UFJ銀行 OR りそな銀行 OR 三井住友信託銀行 OR 横浜銀行 OR 千葉銀行 OR 福岡銀行 OR 楽天銀行 OR 住信SBI',
+      ) +
+      '&hl=ja&gl=JP&ceid=JP:ja',
+    category: 'banking',
+    sourceName: '個別行ニュース',
+    sourceIcon: '🏛️',
+    bannerClass: 'from-slate-900 to-indigo-950',
     max: 10,
     lang: 'ja',
     sortBoost: 4,
+    titleExclude: [
+      'B.LEAGUE',
+      'リーグ戦',
+      'サッカー',
+      '野球',
+      '日本酒',
+      '口コミ情報',
+    ],
   },
   {
     url: 'https://www.bankingdive.com/feeds/news/',
@@ -291,6 +327,22 @@ const FEEDS = [
     sourceName: 'Banking Dive',
     sourceIcon: '🏛️',
     bannerClass: 'from-slate-900 to-indigo-950',
+    max: 8,
+  },
+  {
+    url: 'https://www.retailbankerinternational.com/feed/',
+    category: 'banking',
+    sourceName: 'Retail Banker International',
+    sourceIcon: '🌍',
+    bannerClass: 'from-indigo-900 to-blue-950',
+    max: 6,
+  },
+  {
+    url: 'https://www.americanbanker.com/feed?rss=true',
+    category: 'banking',
+    sourceName: 'American Banker',
+    sourceIcon: '🇺🇸',
+    bannerClass: 'from-blue-950 to-indigo-900',
     max: 6,
   },
   {
@@ -299,7 +351,7 @@ const FEEDS = [
     sourceName: 'Finextra',
     sourceIcon: '💳',
     bannerClass: 'from-indigo-900 to-blue-950',
-    max: 6,
+    max: 5,
   },
 ]
 
@@ -598,6 +650,21 @@ function itemToNews(item, meta) {
   }
 }
 
+function matchesTitleFilters(title, meta) {
+  const t = String(title ?? '')
+  const lower = t.toLowerCase()
+  const excludes = meta.titleExclude ?? []
+  for (const k of excludes) {
+    if (!k) continue
+    if (t.includes(k) || lower.includes(String(k).toLowerCase())) return false
+  }
+  const includes = meta.titleInclude ?? []
+  if (includes.length === 0) return true
+  return includes.some(
+    (k) => k && (t.includes(k) || lower.includes(String(k).toLowerCase())),
+  )
+}
+
 async function fetchFeed(meta) {
   try {
     // parseURL は内部でリクエストが止まらないことがあるため、
@@ -610,7 +677,9 @@ async function fetchFeed(meta) {
     for (const it of items) {
       if (out.length >= meta.max) break
       const n = itemToNews(it, meta)
-      if (n) out.push(n)
+      if (!n) continue
+      if (!matchesTitleFilters(n.title, meta)) continue
+      out.push(n)
     }
     // 英語記事の summary を日本語にして summaryJa に入れる
     if (meta.lang !== 'ja') {
