@@ -12,7 +12,7 @@
       "ース(11/10)"
     ],
     "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://blog.livedoor.jp/yanaharu_yanaharu/archives/65992473.html",
     "sortBoost": 18
   },
@@ -51,6 +51,26 @@
     "sortBoost": 18
   },
   {
+    "id": "rss-banking-708791441a01f9",
+    "title": "NTT・三菱電機・メガバンクらが連携！衛星群を活用した「通信・観測・宇宙データセンター」の事業化構想 - DXマガジン",
+    "summary": "NTT・三菱電機・メガバンクらが連携！衛星群を活用した「通信・観測・宇宙データセンター」の事業化構想 DXマガジン",
+    "sourceName": "銀行業界ニュース",
+    "sourceIcon": "🏦",
+    "publishedAt": "2026-11-11T09:23:26.000Z",
+    "category": "banking",
+    "keywords": [
+      "NTT",
+      "三菱電機",
+      "メガバンクらが連携",
+      "衛星群を活用した「通信",
+      "観測"
+    ],
+    "bannerClass": "from-indigo-950 to-slate-800",
+    "isNew": true,
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NSGRjQ0t5TDhiZHBLZ3J2eGVubVhmbVFUVkV1Nk9hb0Z6cktjLVRVUUVsNkhzdXlQbG1UWFRXdXdvZVkxdWJrcmhiWGUyZw?oc=5",
+    "sortBoost": 5
+  },
+  {
     "id": "rss-insurance-059ec37dd893fb",
     "title": "保険デイリーニュース(11/05)",
     "summary": "本日の主なニュース ・三井住友海上とあいおい、不正アクセス検知 顧客向けサイト一時停止 ・サイバー保険問い合わせ3倍 企業に防衛意識、「GMO問題」で保険料上昇も ・サイバー保険のジレンマ 油断が生む防衛の死角、加入企業が狙われるケースも ・損保ジャパン社長「代理店...",
@@ -87,42 +107,121 @@
     "sortBoost": 5
   },
   {
-    "id": "rss-banking-f8781e98cdb503",
-    "title": "(NEXT FUNDS)東証銀行業株価指数連動型上場投信【1615】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-    "summary": "(NEXT FUNDS)東証銀行業株価指数連動型上場投信【1615】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
-    "sourceName": "銀行業界ニュース",
-    "sourceIcon": "🏦",
-    "publishedAt": "2026-11-11T01:45:45.000Z",
+    "id": "rss-banking-aa5e9f3684060b",
+    "title": "【11月16日から】三井住友信託銀行の冬の定期預金キャンペーン、2年は最大年2.40％・5年は最大年2.70％。「500万円」預けると満期の利息はいくら？ - LIMO | くらしとお金の経済メディア",
+    "summary": "【11月16日から】三井住友信託銀行の冬の定期預金キャンペーン、2年は最大年2.40％・5年は最大年2.70％。「500万円」預けると満期の利息はいくら？ LIMO | くらしとお金の経済メディア",
+    "sourceName": "個別行ニュース",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-11-11T13:52:00.000Z",
     "category": "banking",
     "keywords": [
-      "(NEXT",
-      "株式情報（夜間PTS含む）",
-      "Yahoo",
-      "ファイナンス"
+      "2年は最大年2.40％",
+      "5年は最大年2.70％",
+      "「500万円」預けると満期の利息はいくら",
+      "LIMO",
+      "くらしとお金の経済メディア"
+    ],
+    "bannerClass": "from-slate-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56YlpZYjlGcllmcjB6YnNoeDdONWFZNW1MUmxKelB6Q0ZhTkMyLTJEV2NFNmxWb1N5OG9vd0oyLXRveW5BMUVtcUY4enk?oc=5",
+    "sortBoost": 4
+  },
+  {
+    "id": "rss-banking-945626a748345e",
+    "title": "横浜銀行、顧客情報流出は最大６万件超 一部ローン利用者、不正アクセスで - カナロコ",
+    "summary": "横浜銀行、顧客情報流出は最大６万件超 一部ローン利用者、不正アクセスで カナロコ",
+    "sourceName": "個別行ニュース",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-11-11T11:30:00.000Z",
+    "category": "banking",
+    "keywords": [
+      "横浜銀行",
+      "顧客情報流出は最大６万件超",
+      "一部ローン利用者",
+      "不正アクセスで",
+      "カナロコ"
+    ],
+    "bannerClass": "from-slate-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uNVZiekFqbHA3YUR1WWFzMjhBMldXTmdGdEN2dk4tb21HbERyX1FiWVRSTlF6SE9fUlNEazhlWE9IVmdkNlZBRFJnQnB1ZFJUaDNyMU1oakRsQ25Mc1pOS1c3WnZlMGdX?oc=5",
+    "sortBoost": 4
+  },
+  {
+    "id": "rss-banking-c0527392fe7597",
+    "title": "金融機関の仕組みや銀行の技を学ぶ、三菱UFJ銀行四日市支店で大池中の生徒が職場体験 - YOUよっかいち",
+    "summary": "金融機関の仕組みや銀行の技を学ぶ、三菱UFJ銀行四日市支店で大池中の生徒が職場体験 YOUよっかいち",
+    "sourceName": "個別行ニュース",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-11-11T10:24:06.000Z",
+    "category": "banking",
+    "keywords": [
+      "金融機関の仕組みや銀行の技を学ぶ",
+      "三菱UFJ銀行四日市支店で大池中の生徒が職場体験",
+      "YOUよっかいち"
+    ],
+    "bannerClass": "from-slate-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DQzBzYW5aOEVpamloSGZLZ3lydDk1b3pDSlhfUWR3emJvOS1jOUxFUk1TbTBZQkhSRHg4YS1GTUpCMWhtVlNOb2d2VkU4TDEzbmNOZF9PSWlQTzQ?oc=5",
+    "sortBoost": 4
+  },
+  {
+    "id": "rss-banking-2a39d221c94441",
+    "title": "決算:横浜銀行、4〜9月のコア業務純益31%増 金利上昇で利息収入増加 - 日本経済新聞",
+    "summary": "決算:横浜銀行、4〜9月のコア業務純益31%増 金利上昇で利息収入増加 日本経済新聞",
+    "sourceName": "個別行ニュース",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-11-11T10:17:35.000Z",
+    "category": "banking",
+    "keywords": [
+      "決算:横浜銀行",
+      "4〜9月のコア業務純益31%増",
+      "金利上昇で利息収入増加",
+      "日本経済新聞"
+    ],
+    "bannerClass": "from-slate-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93MjgtaDZxbFZUNE1mRVAydVdsUklKbExHQ0FtTDlEcTFuaVlQSnZhbDJGd3oyMHVmUDBvNjRLS05DWFp5S0RsMGFJRUlMNkZsTi1mVWJlUzdSR01lNWFGN095Ymp6XzBqRVNnZg?oc=5",
+    "sortBoost": 4
+  },
+  {
+    "id": "rss-banking-18f6b0935c4304",
+    "title": "三菱UFJと三井住友を「みずほ」が猛追… 日銀利上げで3メガバンクの「伸び率」に差、その独自の稼ぎ方とは - AERA DIGITAL",
+    "summary": "三菱UFJと三井住友を「みずほ」が猛追… 日銀利上げで3メガバンクの「伸び率」に差、その独自の稼ぎ方とは AERA DIGITAL",
+    "sourceName": "銀行業界ニュース",
+    "sourceIcon": "🏦",
+    "publishedAt": "2026-11-10T22:00:00.000Z",
+    "category": "banking",
+    "keywords": [
+      "三菱UFJと三井住友を「みずほ」が猛追",
+      "日銀利上げで3メガバンクの「伸び率」に差",
+      "その独自の稼ぎ方とは",
+      "AERA",
+      "DIGITAL"
     ],
     "bannerClass": "from-indigo-950 to-slate-800",
     "isNew": true,
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fTDhrZV9KLThoNVp2MzZuTnhHSmxRNGtEcTBkQ1Z1V1FYWjBLZEhSU2xzaVM1ME45VGpmR0M0eUEzVUZuSFRCeGRqTW5DalBVSEE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GTGE4bGNtYVJVYm1YMGJGRDBKMUwzVTIydE44cnhsWGtPejUzT0x0SDFkZm8xNE5fczVyaW5RcHE3NnFSMzZoSGdxdFFhN0pTbmlncVdhT1I?oc=5",
     "sortBoost": 5
   },
   {
-    "id": "rss-banking-945071fe3dfbb8",
-    "title": "食の商談会１３５０社出展 都内 「地銀セレクション」開幕 - 岐阜新聞デジタル",
-    "summary": "食の商談会１３５０社出展 都内 「地銀セレクション」開幕 岐阜新聞デジタル",
-    "sourceName": "銀行業界ニュース",
-    "sourceIcon": "🏦",
-    "publishedAt": "2026-11-10T20:00:00.000Z",
+    "id": "rss-banking-10c09f19fe9a3c",
+    "title": "三菱UFJ銀行、京都市・清水寺と地域の教育支援 文化・伝統継承へ - 日本経済新聞",
+    "summary": "三菱UFJ銀行、京都市・清水寺と地域の教育支援 文化・伝統継承へ 日本経済新聞",
+    "sourceName": "個別行ニュース",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-11-11T08:24:18.000Z",
     "category": "banking",
     "keywords": [
-      "食の商談会１３５０社出展",
-      "都内",
-      "「地銀セレクション」開幕",
-      "岐阜新聞デジタル"
+      "三菱UFJ銀行",
+      "京都市",
+      "清水寺と地域の教育支援",
+      "文化",
+      "伝統継承へ"
     ],
-    "bannerClass": "from-indigo-950 to-slate-800",
+    "bannerClass": "from-slate-900 to-indigo-950",
     "isNew": true,
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80U21IOHlhMDVQbUlRYldtRzdUZml1V1ZsSDhjeGxLVk5HYjZvTzhTWEMxNDB0Y2JnTWdWVDRUeUoybVVZR3BIeFpCckgzV0ExQzdyUzdB?oc=5",
-    "sortBoost": 5
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Pekl4S3JmajVBbjJnTHExMmhnbTFrV19YTDlEa3YzNzhjVHJXRXJVVEFUUi1rMTlxOVR0Wk9QdzRfR1BIN1lPY2ZiZ3NQX2hwX3J2bGhyVWgzNFFlak5fbUpzU3hDcjNCMTlwcw?oc=5",
+    "sortBoost": 4
   },
   {
     "id": "rss-banking-ea7075fb2b6a97",
@@ -144,58 +243,58 @@
     "sortBoost": 5
   },
   {
-    "id": "rss-banking-bfd9fd0af6d669",
-    "title": "あかり保証 みずほ銀行 が業務提携 銀行客に あかり保証 身元保証サービス 死後事務サービス 日常生活支援サービスを案内 弁護士 司法書士 看護師 ケアマネジャー...専門家集団の信頼と安心 - ｄメニューニュース",
-    "summary": "あかり保証 みずほ銀行 が業務提携 銀行客に あかり保証 身元保証サービス 死後事務サービス 日常生活支援サービスを案内 弁護士 司法書士 看護師 ケアマネジャー...専門家集団の信頼と安心 ｄメニューニュース",
+    "id": "rss-banking-3cee6e509610d3",
+    "title": "データチェーン、三井住友銀行のオンチェーン金融基盤構築を技術支援 - BigGo ファイナンス",
+    "summary": "データチェーン、三井住友銀行のオンチェーン金融基盤構築を技術支援 BigGo ファイナンス",
     "sourceName": "個別行ニュース",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-11T03:36:00.000Z",
+    "publishedAt": "2026-11-11T05:55:00.000Z",
     "category": "banking",
     "keywords": [
-      "あかり保証",
-      "みずほ銀行",
-      "が業務提携",
-      "銀行客に",
-      "身元保証サービス"
-    ],
-    "bannerClass": "from-slate-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DUVpkN0Z2STBpTTZBTjR6ZldNYmdzR0JBVXVtYVo4eHV4bWd5QXNhOFJvOE04M2xqWDlhWDVIWGdXcnRTeGdzRVZRbDZ0TUZkV243TUlMZmxERG9rbWFZTzd2WnJ0VmdRX1l6b1NEQVdDb2ZtTWNSWndaTzJuUdIBgwFBVV95cUxPX1dxTkhTR0dETjZOd08xTXhOTUhmMXM4UUI2ZkJfNlM2VF9lTnFvT0RjbWZDZ2FxcUgyUlZnSmVRanF4LWpmRktaZjZic05zUVJhb2FzZHZaaWxBdmh5eG52b093MUtHdDRSbjVkeUlCUEt5eUlHY0pLVlZTM1BjZ2d5dw?oc=5",
-    "sortBoost": 4
-  },
-  {
-    "id": "rss-banking-d57e60d2c327b8",
-    "title": "Datachain、三井住友銀行のオンチェーン金融インフラ技術検討を支援 - Iolite（アイオライト）",
-    "summary": "Datachain、三井住友銀行のオンチェーン金融インフラ技術検討を支援 Iolite（アイオライト）",
-    "sourceName": "個別行ニュース",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-11T02:38:10.000Z",
-    "category": "banking",
-    "keywords": [
-      "Datachain",
-      "Iolite（アイオライト）"
-    ],
-    "bannerClass": "from-slate-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ha0hkdmNDQ1Rhbzc1NHJrU1FzbVVjcWpMNExTU1VLcGV1M1pMN09oel9raUpybDItcnc2ck9ScnlKRC1jYkxYZ2VoVVNfODQ5?oc=5",
-    "sortBoost": 4
-  },
-  {
-    "id": "rss-banking-cc38c35a62eac0",
-    "title": "Datachain、三井住友銀行のオンチェーン金融インフラ技術検討を支援(CoinPost) - Yahoo!ファイナンス",
-    "summary": "Datachain、三井住友銀行のオンチェーン金融インフラ技術検討を支援(CoinPost) Yahoo!ファイナンス",
-    "sourceName": "個別行ニュース",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-11T02:36:45.000Z",
-    "category": "banking",
-    "keywords": [
-      "Datachain",
-      "Yahoo",
+      "データチェーン",
+      "三井住友銀行のオンチェーン金融基盤構築を技術支援",
+      "BigGo",
       "ファイナンス"
     ],
     "bannerClass": "from-slate-900 to-indigo-950",
     "isNew": true,
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY1dZWXRjV0pMMDVDenc5aGhXbklUY0hEdmlIcm0walRqM1gySzFmSDhMOWVFM2pVNDluVnJxbV92a21LN0tWNkZvRWtKNElseWdoN3RlYXdGOUhORzZ0Z0ZpcDM1SGo2aG9DWGFsV1dnTk1JeWtnVGpQZ1h2X1V4Q0hUSlR0d2s?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85UnByaEdOOVp3ajJGQWZRQ2tid3dwbXFMdXBUN3hzZjdpdHJpWlQwTUR4OE5MZlBidldKTEQ2X2ZpdU56dnQ1dFJyMU9HWC1BRDZpdExkNjJ3Ti1tOVNCMzUtOXdPX25vUGZjRlBfZ0h0eVQ5?oc=5",
+    "sortBoost": 4
+  },
+  {
+    "id": "rss-banking-38fc4d6adfb8ee",
+    "title": "データチェーン、三井住友銀行のオンチェーン金融インフラ構築に向け技術検討を支援（あたらしい経済） - Yahoo!ニュース",
+    "summary": "データチェーン、三井住友銀行のオンチェーン金融インフラ構築に向け技術検討を支援（あたらしい経済） Yahoo!ニュース",
+    "sourceName": "個別行ニュース",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-11-11T05:32:42.000Z",
+    "category": "banking",
+    "keywords": [
+      "データチェーン",
+      "Yahoo"
+    ],
+    "bannerClass": "from-slate-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oS1lTTXFvdWUwWHNtLWF1T1NIZklKdlNNTHJlNVBFUUJfNWVWQ3FsRHI2dW1HbXUyVFdMZHFFSFp6MTYzV2JkQ1daa0M4UVhXazZLQW5waFozcFhsc2gzdW5fWDY1a0lJZFVUV2tsdUFEQUJxNXdRNl9CUWIxWTQ?oc=5",
+    "sortBoost": 4
+  },
+  {
+    "id": "rss-banking-f64a58633b69e3",
+    "title": "ＵＡＣＪについて、みずほ銀行は保有割合が減少したと報告 [変更報告書No.14] - 株探",
+    "summary": "ＵＡＣＪについて、みずほ銀行は保有割合が減少したと報告 [変更報告書No.14] 株探",
+    "sourceName": "個別行ニュース",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-11-11T01:16:01.000Z",
+    "category": "banking",
+    "keywords": [
+      "ＵＡＣＪについて",
+      "みずほ銀行は保有割合が減少したと報告",
+      "[変更報告書No.14]",
+      "株探"
+    ],
+    "bannerClass": "from-slate-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBneVpJaHdZWW1hRm85OTZzZVpGOC1nanFjSzlaVnZxcGx3a1ZWX1FPcG84V2JXeVVTQlhlSDNMWU42NkhxR1NkVTB5V2xGejdqZ0E?oc=5",
     "sortBoost": 4
   },
   {
@@ -256,7 +355,7 @@
   {
     "id": "rss-insurance-4967366cbd108c",
     "title": "生保文化センター、第64回中学生作文コンクール「わたしたちのくらしと生命保険」入賞者決定",
-    "summary": "生保文化センターが文部科学省、金融庁、全日本中学校長会の後援ならびに（一社）生命保険協会の協賛を得て、全国の中学生を対象に実施した第64回中学生作文コンクールの入賞者が決定した。このコンクールは、1963年より生命保険を …",
+    "summary": "生保文化センターでは、文部科学省、金融庁、全日本中学校長会の後援ならびに生保協会の協賛を得て、全国の中学生を対象に実施した第64回中学生作文コンクールの入賞者が決定した。このコンクールは、1963年より生命保険を題材に毎 …",
     "sourceName": "シンニチ保険WEB（業界ニュース）",
     "sourceIcon": "📰",
     "publishedAt": "2026-11-10T11:18:46.000Z",
@@ -307,65 +406,6 @@
     "bannerClass": "from-slate-800 to-blue-950",
     "isNew": true,
     "url": "https://www.shinnihon-ins.co.jp/industry-news/industry-news-20261110-9/",
-    "sortBoost": 5
-  },
-  {
-    "id": "rss-banking-984e25aac4401a",
-    "title": "みずほ、アニメやデータセンターに小規模融資 事業の将来性を担保に - 日本経済新聞",
-    "summary": "みずほ、アニメやデータセンターに小規模融資 事業の将来性を担保に 日本経済新聞",
-    "sourceName": "個別行ニュース",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-10T20:00:00.000Z",
-    "category": "banking",
-    "keywords": [
-      "みずほ",
-      "アニメやデータセンターに小規模融資",
-      "事業の将来性を担保に",
-      "日本経済新聞"
-    ],
-    "bannerClass": "from-slate-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LZkZqWU1sVmNLXzVwQ0kyREludFNpTGkxYWpBR1lPSUFnekNVU2tjaFhrMy16ZDhISndRQ3ZRdFlDQzdfb3lLN1lnclp4WGY4ekdWN0VFRVFFQ29wZUdmYmlGanAtZDcxOTlWUw?oc=5",
-    "sortBoost": 4
-  },
-  {
-    "id": "rss-banking-c1a0b4973a3f87",
-    "title": "10年定期、三菱UFJ銀行は11月2日から年1.35％に。ただし2年未満で解約すると、利率は普通預金と同じ「0.5％」に下がる - LIMO | くらしとお金の経済メディア",
-    "summary": "10年定期、三菱UFJ銀行は11月2日から年1.35％に。ただし2年未満で解約すると、利率は普通預金と同じ「0.5％」に下がる LIMO | くらしとお金の経済メディア",
-    "sourceName": "個別行ニュース",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-10T19:51:00.000Z",
-    "category": "banking",
-    "keywords": [
-      "10年定期",
-      "三菱UFJ銀行は11月2日から年1.35％に",
-      "ただし2年未満で解約すると",
-      "利率は普通預金と同じ「0.5％」に下がる",
-      "LIMO"
-    ],
-    "bannerClass": "from-slate-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NSHlNVWlnVEtXUTd2cWJoN1M2MmVscjNPT3A0clhxb2VYYnVTNTUyNVVnSVlJWE52WFdGWVJJRnRNYUNFdXMxdzRPVVE?oc=5",
-    "sortBoost": 4
-  },
-  {
-    "id": "rss-banking-7e7d07b59c90a0",
-    "title": "上海株大引け 小幅続伸、AI関連が下支え 銀行株に売り - 日本経済新聞",
-    "summary": "上海株大引け 小幅続伸、AI関連が下支え 銀行株に売り 日本経済新聞",
-    "sourceName": "銀行業界ニュース",
-    "sourceIcon": "🏦",
-    "publishedAt": "2026-11-10T07:21:19.000Z",
-    "category": "banking",
-    "keywords": [
-      "上海株大引け",
-      "小幅続伸",
-      "AI関連が下支え",
-      "銀行株に売り",
-      "日本経済新聞"
-    ],
-    "bannerClass": "from-indigo-950 to-slate-800",
-    "isNew": true,
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYNVBuMXIwcERkV2w3V1ZyX1ZERFMxbGUwdHJpZ2VsMkF3VENJS25xc05mYVlJck1ZalREY0NyQ3loQmRRNkhUS2diU1BPT2VsWGx5VVAzX3ZYb3JEdThpbURYemRjZzFyY1l4MA?oc=5",
     "sortBoost": 5
   },
   {
@@ -482,24 +522,23 @@
     "sortBoost": 5
   },
   {
-    "id": "rss-banking-b715491b3d9a39",
-    "title": "埼玉りそな銀行本庄支店の新築移転オープニングセレモニー - 本庄経済新聞",
-    "summary": "埼玉りそな銀行本庄支店の新築移転オープニングセレモニー 本庄経済新聞",
-    "sourceName": "個別行ニュース",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-10T09:15:12.000Z",
+    "id": "rss-banking-906ca042298137",
+    "title": "日本株ADR9日、ほぼ全面高 メガバンクの上げ目立つ - 日本経済新聞",
+    "summary": "日本株ADR9日、ほぼ全面高 メガバンクの上げ目立つ 日本経済新聞",
+    "sourceName": "銀行業界ニュース",
+    "sourceIcon": "🏦",
+    "publishedAt": "2026-11-09T21:19:42.000Z",
     "category": "banking",
     "keywords": [
-      "埼玉りそな銀行本庄支店の",
-      "庄支店の新築移転オープニ",
-      "オープニングセレモニー-",
-      "モニー-本庄経済新聞",
-      "新聞"
+      "日本株ADR9日",
+      "ほぼ全面高",
+      "メガバンクの上げ目立つ",
+      "日本経済新聞"
     ],
-    "bannerClass": "from-slate-900 to-indigo-950",
+    "bannerClass": "from-indigo-950 to-slate-800",
     "isNew": true,
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YMDJ2Z25DbUFZemJJU2ppVEl4em5qb3hGeE9mczktZVZKT0tnV2Q0X2tCblZPRld2UDQ5aHUwczh1ekNENUZwbmFpamV3MTAzdDhr?oc=5",
-    "sortBoost": 4
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTalZaNUViZXh4Q3d2X1pBTnk0S193dlRkTnFLc0lMT0lzUzYyNmFCSXZBVHN1LVRGUTRrWEpvSDBJRERhRmt5NFRmdzFGLVRra2RDbVN1dUlFYWlDQ1QzWEozeC0yWHFBQm1mNg?oc=5",
+    "sortBoost": 5
   },
   {
     "id": "rss-banking-566ee7eca5f27e",
@@ -540,26 +579,6 @@
     "sortBoost": 5
   },
   {
-    "id": "rss-banking-f7496d3a2773ea",
-    "title": "横浜銀行、BIツール「Tableau」を導入、M&A候補先の選定工数6割減を目指す - IT Leaders",
-    "summary": "横浜銀行、BIツール「Tableau」を導入、M&A候補先の選定工数6割減を目指す IT Leaders",
-    "sourceName": "個別行ニュース",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-10T07:12:37.000Z",
-    "category": "banking",
-    "keywords": [
-      "横浜銀行",
-      "BIツール「Tableau」を導入",
-      "M&A候補先の選定工数6割減を目指す",
-      "IT",
-      "Leaders"
-    ],
-    "bannerClass": "from-slate-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiejRHVTNLUGRrVTZuRGx5ZmN2cmZ1UkYyUjFGYjk0MXBPUHhhaXpKNWFuS1g4eFdRdjllcEZjYXk0NHY4UDZlVEhVSTFYOU1fbFBN?oc=5",
-    "sortBoost": 4
-  },
-  {
     "id": "rss-banking-941e26b8ddf730",
     "title": "横浜銀行、「タブロー」でM＆A候補先選定工数の6割削減を目指す - ZDNET Japan",
     "summary": "横浜銀行、「タブロー」でM＆A候補先選定工数の6割削減を目指す ZDNET Japan",
@@ -590,162 +609,123 @@
       "Yahoo"
     ],
     "bannerClass": "from-indigo-950 to-slate-800",
-    "isNew": true,
+    "isNew": false,
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yRWR3bXhJTzV4LW9jeWMycER3V3pKVUYxYVZySVEzLWYxeHJmWENZeHlKZnJIbldyZ3h6bEtfWW5hVWFxcnR1OUtQQnBIdUZi?oc=5",
     "sortBoost": 5
   },
   {
-    "id": "rss-banking-294647c11c11cd",
-    "title": "【イベント情報】11/29(日)「横浜銀行 presents はまぎん おかねの教室&横浜ビー・コルセアーズ バスケットボールクリニック」開催のお知らせ - 横浜ビー・コルセアーズ",
-    "summary": "【イベント情報】11/29(日)「横浜銀行 presents はまぎん おかねの教室&横浜ビー・コルセアーズ バスケットボールクリニック」開催のお知らせ 横浜ビー・コルセアーズ",
-    "sourceName": "個別行ニュース",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-09T08:06:13.000Z",
-    "category": "banking",
-    "keywords": [
-      "【イベント情報】11/29(日)「横浜銀行",
-      "presents",
-      "はまぎん",
-      "おかねの教室&横浜ビー",
-      "コルセアーズ"
-    ],
-    "bannerClass": "from-slate-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zTVpJUlFEZk9BZHJGZTQyaV82YzEzMlJ1RVpLdUtXTWFfRkF0OS1xeHhFTl9JTS1SQ1JmTXM4SWhHSm01N3JlSm1OeWluc0Jnb241SlhZdzU?oc=5",
-    "sortBoost": 4
-  },
-  {
-    "id": "rss-insurance-f87c3bb41a0241",
-    "title": "採用,職員を募集しています。（保険会社等のモニタリング業務等に従事する職員【弁護士】）",
-    "summary": "採用,職員を募集しています。（保険会社等のモニタリング業務等に従事する職員【弁護士】）",
+    "id": "rss-insurance-c8d21d1187ac5b",
+    "title": "「デジタル・分散型金融への対応のあり方等に関する研究会」（令和８事務年度第１回）議事要旨について公表しました。",
+    "summary": "「デジタル・分散型金融への対応のあり方等に関する研究会」（令和８事務年度第１回）議事要旨について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-11T03:43:28.028Z",
+    "publishedAt": "2026-11-11T18:59:14.858Z",
     "category": "insurance",
     "keywords": [
-      "採用,職員を募集していま",
-      "しています。（保険会社等",
-      "険会社等のモニタリング業",
-      "リング業務等に従事する職",
-      "事する職員【弁護士】）"
+      "「デジタル・分散型金融へ",
+      "型金融への対応のあり方等",
+      "あり方等に関する研究会」",
+      "研究会」（令和８事務年度",
+      "事務年度第１回）議事要旨"
     ],
     "bannerClass": "from-slate-900 to-slate-700",
     "isNew": true,
-    "url": "https://www.fsa.go.jp/common/recruit/r8/shiho-05/shiho-05.html"
+    "url": "https://www.fsa.go.jp/singi/digital_2026/gizi/261020.html"
   },
   {
-    "id": "rss-insurance-37a6c60d14076c",
-    "title": "「経済価値ベースのソルベンシー規制に関する告示の一部改正（案）」について公表しました。",
-    "summary": "「経済価値ベースのソルベンシー規制に関する告示の一部改正（案）」について公表しました。",
+    "id": "rss-insurance-ee756000e6a192",
+    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年11月10日）について掲載しました。",
+    "summary": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年11月10日）について掲載しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-11T03:43:28.028Z",
+    "publishedAt": "2026-11-11T18:59:14.858Z",
     "category": "insurance",
     "keywords": [
-      "「経済価値ベースのソルベ",
-      "のソルベンシー規制に関す",
-      "制に関する告示の一部改正",
-      "一部改正（案）」について",
-      "について公表しました。"
+      "記者会見,片山財務大臣兼",
+      "務大臣兼内閣府特命担当大",
+      "命担当大臣閣議後記者会見",
+      "記者会見の概要（令和８年",
+      "令和８年11月10日）に"
     ],
     "bannerClass": "from-slate-900 to-slate-700",
     "isNew": true,
-    "url": "https://www.fsa.go.jp/news/r8/hoken/20261109/20261109.html"
+    "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261110-1.html"
   },
   {
-    "id": "rss-insurance-dc9612b252a29e",
-    "title": "気候変動リスク産官学連携ネットワーク公開シンポジウム～気候関連開示からレジリエンス強化への実践～の開催について公表しました。",
-    "summary": "気候変動リスク産官学連携ネットワーク公開シンポジウム～気候関連開示からレジリエンス強化への実践～の開催について公表しました。",
+    "id": "rss-insurance-3f0ba363b93582",
+    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年11月６日）について掲載しました。",
+    "summary": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年11月６日）について掲載しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-11T03:43:28.028Z",
+    "publishedAt": "2026-11-11T18:59:14.858Z",
     "category": "insurance",
     "keywords": [
-      "気候変動リスク産官学連携",
-      "官学連携ネットワーク公開",
-      "ーク公開シンポジウム～気",
-      "ウム～気候関連開示からレ",
-      "示からレジリエンス強化へ"
+      "記者会見,片山財務大臣兼",
+      "務大臣兼内閣府特命担当大",
+      "命担当大臣閣議後記者会見",
+      "記者会見の概要（令和８年",
+      "令和８年11月６日）につ"
     ],
     "bannerClass": "from-slate-900 to-slate-700",
     "isNew": true,
-    "url": "https://www.fsa.go.jp/news/r8/sonota/20261109.html"
+    "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261106-1.html"
   },
   {
-    "id": "rss-insurance-159453512052cc",
-    "title": "採用,職員を募集しています。（モニタリング高度化に係るシステムに関する業務に従事する専門調査員（非常勤職員））",
-    "summary": "採用,職員を募集しています。（モニタリング高度化に係るシステムに関する業務に従事する専門調査員（非常勤職員））",
+    "id": "rss-insurance-9fa660712e64e3",
+    "title": "その他,無登録で金融商品取引業を行う者の名称等について更新しました。",
+    "summary": "その他,無登録で金融商品取引業を行う者の名称等について更新しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-11T03:43:28.028Z",
+    "publishedAt": "2026-11-11T18:59:14.858Z",
     "category": "insurance",
     "keywords": [
-      "採用,職員を募集していま",
-      "しています。（モニタリン",
-      "ニタリング高度化に係るシ",
-      "に係るシステムに関する業",
-      "関する業務に従事する専門"
+      "その他,無登録で金融商品",
+      "金融商品取引業を行う者の",
+      "行う者の名称等について更",
+      "ついて更新しました。",
+      "た。"
     ],
     "bannerClass": "from-slate-900 to-slate-700",
     "isNew": true,
-    "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-11/ginnsyou-11.html"
+    "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku.html"
   },
   {
-    "id": "rss-insurance-2d5cf1fc804de4",
-    "title": "国際関係,「日ＥＵ合同金融規制フォーラム」第７回会合の開催について公表しました。",
-    "summary": "国際関係,「日ＥＵ合同金融規制フォーラム」第７回会合の開催について公表しました。",
+    "id": "rss-insurance-1084f5eaff4406",
+    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣繰上げ閣議後記者会見の概要（令和８年11月2日）について掲載しました。",
+    "summary": "記者会見,片山財務大臣兼内閣府特命担当大臣繰上げ閣議後記者会見の概要（令和８年11月2日）について掲載しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-11T03:43:28.028Z",
+    "publishedAt": "2026-11-11T18:59:14.858Z",
     "category": "insurance",
     "keywords": [
-      "国際関係,「日ＥＵ合同金",
-      "Ｕ合同金融規制フォーラム",
-      "ォーラム」第７回会合の開",
-      "会合の開催について公表し",
-      "て公表しました。"
+      "記者会見,片山財務大臣兼",
+      "務大臣兼内閣府特命担当大",
+      "命担当大臣繰上げ閣議後記",
+      "閣議後記者会見の概要（令",
+      "概要（令和８年11月2日"
     ],
     "bannerClass": "from-slate-900 to-slate-700",
     "isNew": true,
-    "url": "https://www.fsa.go.jp/inter/etc/20261106/20261106.html"
+    "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261102-1.html"
   },
   {
-    "id": "rss-insurance-85f626d45c3af6",
-    "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第３回）の議事次第について公表しました。",
-    "summary": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第３回）の議事次第について公表しました。",
+    "id": "rss-insurance-6ded2a1dd2d9ca",
+    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月30日）について掲載しました。",
+    "summary": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月30日）について掲載しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-11T03:43:28.028Z",
+    "publishedAt": "2026-11-11T18:59:14.858Z",
     "category": "insurance",
     "keywords": [
-      "金融審議会「成長企業への",
-      "企業への資金供給の在り方",
-      "の在り方等に関するワーキ",
-      "るワーキング・グループ」",
-      "ループ」（第３回）の議事"
+      "記者会見,片山財務大臣兼",
+      "務大臣兼内閣府特命担当大",
+      "命担当大臣閣議後記者会見",
+      "記者会見の概要（令和８年",
+      "令和８年10月30日）に"
     ],
     "bannerClass": "from-slate-900 to-slate-700",
     "isNew": true,
-    "url": "https://www.fsa.go.jp/singi/singi_kinyu/seityousikin_wg/gijishidai/20261109.html"
-  },
-  {
-    "id": "rss-insurance-d505983fb37e50",
-    "title": "障がい者等に配慮した取組みに関するアンケート調査の結果（令和８年３月末時点）について公表しました。",
-    "summary": "障がい者等に配慮した取組みに関するアンケート調査の結果（令和８年３月末時点）について公表しました。",
-    "sourceName": "金融庁（新着情報）",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-11T03:43:28.028Z",
-    "category": "insurance",
-    "keywords": [
-      "障がい者等に配慮した取組",
-      "した取組みに関するアンケ",
-      "るアンケート調査の結果（",
-      "の結果（令和８年３月末時",
-      "３月末時点）について公表"
-    ],
-    "bannerClass": "from-slate-900 to-slate-700",
-    "isNew": true,
-    "url": "https://www.fsa.go.jp/news/r8/ginkou/20261106/20261106.html"
+    "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261030-1.html"
   },
   {
     "id": "rss-insurance-d364e484fca03a",
@@ -753,7 +733,7 @@
     "summary": "「無登録業者との取引は要注意！！～ 無登録業者との取引は高リスク ～」のページを更新しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-11T03:43:28.027Z",
+    "publishedAt": "2026-11-11T18:59:14.858Z",
     "category": "insurance",
     "keywords": [
       "「無登録業者との取引は要注意",
@@ -765,184 +745,1574 @@
     "url": "https://www.fsa.go.jp/ordinary/chuui/highrisk.html"
   },
   {
-    "id": "rss-ai_theory-d7d230a906be3e",
-    "title": "Claude内で表計算アプリをそのまま実行できる「Claude Sheets」が登場、「Claude Whiteboards」と「Claude Data」も",
-    "summary": "Anthropicが、AIの「Claude」が取り扱うことができるツール群を発表しました。外部のツールではできなかった細かい作業を行えるようになります。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-11T03:36:00.000Z",
-    "category": "ai_theory",
+    "id": "rss-insurance-0abf17e5fdd05b",
+    "title": "金融審議会「ディスクロージャーワーキング・グループ」（第７回）の開催について公表しました。",
+    "summary": "金融審議会「ディスクロージャーワーキング・グループ」（第７回）の開催について公表しました。",
+    "sourceName": "金融庁（新着情報）",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-11-11T18:59:14.857Z",
+    "category": "insurance",
     "keywords": [
-      "Sheets」が登場",
-      "「Claude",
-      "Whiteboards」と「Claude",
-      "Data」も"
+      "金融審議会「ディスクロージャーワーキング",
+      "グループ」（第７回）の開催について公表しました"
     ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "bannerClass": "from-slate-900 to-slate-700",
     "isNew": true,
-    "url": "https://gigazine.net/news/20261111-claude-sheets-whiteboards-data/"
+    "url": "https://www.fsa.go.jp/news/r8/singi/20261118.html"
   },
   {
-    "id": "rss-ai_theory-e94ec580a576b2",
-    "title": "ジェンスン・フアンCEOの不倫関係を利用して1兆円分以上のNVIDIA製半導体が中国に出荷されていた疑い",
-    "summary": "NVIDIAのジェンスン・フアンCEOがアメリカ当局に「中国のスパイ」と断定された女性と不倫していた問題で、女性はフアン氏との関係を利用して2023年以降、少なくとも75億ドル(約1兆1900億円)分のNVIDIA製半導体を中国に出荷していたことがわかりました。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-11T03:32:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "ジェンスン・フアンCEO",
-      "ンCEOの不倫関係を利用",
-      "係を利用して1兆円分以上",
-      "円分以上のNVIDIA製",
-      "DIA製半導体が中国に出"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20261111-nvidia-spy-affair-ai-chip-shipments-to-china/"
-  },
-  {
-    "id": "rss-ai_theory-f51609a2f2a508",
-    "title": "AI搭載人工衛星に音声で命令して宇宙で『DOOM』を起動することに成功",
-    "summary": "欧州宇宙機関(ESA)の人工衛星に地上から音声で命令し、宇宙空間でFPSゲーム『DOOM』を起動する実験が成功しました。人工衛星に搭載されたAIが音声を認識してゲームを起動する仕組みで、2026年4月から7月にかけて7回の実験が行われ、最終的に人間が直接話した音声による操作に成功しています。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-11T03:30:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "AI搭載人工衛星に音声で",
-      "に音声で命令して宇宙で『",
-      "宇宙で『DOOM』を起動",
-      "』を起動することに成功",
-      "に成功"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20261111-doom-satelite-ops-sat/"
-  },
-  {
-    "id": "rss-economy-835d2ec644c51d",
-    "title": "学校で裸の男児盗撮疑い 教諭逮捕",
-    "summary": "学校で裸の男児盗撮疑い 教諭逮捕",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-11T03:22:34.000Z",
+    "id": "rss-economy-763502d052f076",
+    "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+    "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+    "sourceName": "BBC Business",
+    "sourceIcon": "¥",
+    "publishedAt": "2026-11-11T18:48:19.000Z",
     "category": "economy",
     "keywords": [
-      "学校で裸の男児盗撮疑い",
-      "教諭逮捕"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6602155?source=rss"
-  },
-  {
-    "id": "rss-ai_theory-761ac1ae080324",
-    "title": "日常生活で「強い光」を浴びる量が認知症リスクに肥満よりも強く関連しているとの研究結果",
-    "summary": "日中に太陽の光をたくさん浴びる人は寿命が長いことが知られているほか、日照時間が短くなる冬には冬季うつ(季節性感情障害)のリスクも高まります。新たな研究では、日常生活で強い光を浴びる量が多い人は、後に認知症を発症するリスクが低いことが明らかになりました。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-11T03:20:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "日常生活で「強い光」を浴",
-      "光」を浴びる量が認知症リ",
-      "認知症リスクに肥満よりも",
-      "満よりも強く関連している",
-      "しているとの研究結果"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20261111-less-bright-light-predictor-dementia/"
-  },
-  {
-    "id": "rss-ai_theory-3222ea1a193045",
-    "title": "Amazon Ringが家の中を巡回するセキュリティロボットの「Ring Rover Cam」と屋内用ドローン「Ring Drone Cam」を発表",
-    "summary": "Amazon傘下のホームセキュリティブランド「Ring」が、屋内用ロボットシリーズの「Ring Robotics」を発表しました。屋内用ドローンの「Ring Drone Cam」と屋内用移動式ロボット「Ring Rover Cam」が登場しています。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-11T03:16:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "Amazon",
-      "Rover",
-      "Cam」と屋内用ドローン「Ring",
-      "Drone",
-      "Cam」を発表"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20261111-amazon-ring-robotics/"
-  },
-  {
-    "id": "rss-economy-e3c92644488faa",
-    "title": "「中野ブロードウェイ」高級時計窃盗事件で30代の容疑者を逮捕",
-    "summary": "先月、東京 中野区の商業施設「中野ブロードウェイ」に入る時計店で男がおよそ4600万円相当の高級腕時計を試着したまま逃走した事件で、警視庁が11日、30代の容疑者を窃盗の疑いで逮捕したことが捜査関係者…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-11T03:13:25.000Z",
-    "category": "economy",
-    "keywords": [
-      "「中野ブロードウェイ」高",
-      "ェイ」高級時計窃盗事件で",
-      "盗事件で30代の容疑者を",
-      "容疑者を逮捕"
+      "Poundland",
+      "set",
+      "time",
+      "secure",
+      "rescue"
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74027"
+    "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+    "summaryJa": "BBCは、管理に向けて一歩ずつ進んでいるこのディスカウントチェーンには、買い手を見つけるのにより多くの時間が与えられることを理解している。"
   },
   {
-    "id": "rss-market-5008d4e3837142",
-    "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-    "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+    "id": "rss-market-20a495e85cbbc2",
+    "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
+    "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
     "sourceName": "CNBC",
     "sourceIcon": "📈",
-    "publishedAt": "2026-11-11T03:08:17.000Z",
+    "publishedAt": "2026-11-11T18:45:27.000Z",
     "category": "market",
     "keywords": [
-      "Alibaba",
-      "announces",
-      "plans",
-      "list",
-      "T-Head"
+      "Analysis",
+      "Nvidia",
+      "too",
+      "big",
+      "fail"
     ],
     "bannerClass": "from-indigo-950 to-blue-800",
     "isNew": true,
-    "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-    "summaryJa": "アリババは、すでに9月11日にTヘッドを香港証券取引所に上場することを極秘に申請していた、と指摘した。"
+    "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html"
   },
   {
-    "id": "rss-economy-dcafaaff17ea53",
-    "title": "\"ルフィ\"詐欺グループトップ 強盗事件は無罪やほう助主張",
-    "summary": "「ルフィ」などと名乗る指示役らによる広域強盗事件で、強盗致死などの罪に問われている 特殊詐欺グループのトップ、渡邉優樹被告の初公判が開かれ、被告側は起訴された7件の強盗事件のうち、3件は無罪を主張し、…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-11T03:02:48.000Z",
-    "category": "economy",
+    "id": "rss-banking-ae1da377f1e6c1",
+    "title": "SEC's enforcement actions fall nearly 24% in 2026",
+    "summary": "In its annual report, the agency said it filed 348 enforcement actions in fiscal 2026, down from 456 the previous fiscal year.",
+    "sourceName": "American Banker",
+    "sourceIcon": "🇺🇸",
+    "publishedAt": "2026-11-11T18:38:20.000Z",
+    "category": "banking",
     "keywords": [
-      "\"ルフィ\"詐欺グループトップ",
-      "強盗事件は無罪やほう助主張"
+      "SEC",
+      "enforcement",
+      "actions",
+      "fall",
+      "nearly"
     ],
-    "bannerClass": "from-stone-800 to-neutral-700",
+    "bannerClass": "from-blue-950 to-indigo-900",
     "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20261110de73809"
+    "url": "https://www.americanbanker.com/news/secs-enforcement-actions-fall-nearly-24-in-2026"
   },
   {
-    "id": "rss-economy-e883cded73839f",
-    "title": "高級時計が盗まれた事件 男を逮捕",
-    "summary": "高級時計が盗まれた事件 男を逮捕",
+    "id": "rss-market-711ee94c5442dc",
+    "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+    "summary": "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-11-11T17:39:26.000Z",
+    "category": "market",
+    "keywords": [
+      "Nvidia",
+      "shares",
+      "rebound",
+      "Jensen",
+      "Huang"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html"
+  },
+  {
+    "id": "rss-housing-09773ef1b386d6",
+    "title": "Housing demand shows signs of stabilizing. Does your market?",
+    "summary": "New pending listings rose 20% in one Florida metro area, but neighboring cities tell different stories. Here's how to spot the signals that matter in your market.",
+    "sourceName": "HousingWire",
+    "sourceIcon": "🏘️",
+    "publishedAt": "2026-11-11T17:38:52.000Z",
+    "category": "housing",
+    "keywords": [
+      "Housing",
+      "demand",
+      "shows",
+      "signs",
+      "stabilizing"
+    ],
+    "bannerClass": "from-sky-950 to-cyan-950",
+    "isNew": true,
+    "url": "https://www.housingwire.com/articles/is-your-houisng-market-stabilizing/"
+  },
+  {
+    "id": "rss-insurance-a74e3f87a8b171",
+    "title": "American Integrity’s Q3’26 net income surges 115% as policies in-force reach 481k",
+    "summary": "American Integrity Insurance Group, Inc., a Tampa-based property and casualty insurance holding company, has reported net income of $28.4 million for the third quarter of 2026, up 115.4% from $13.2 million in the same period a year earlier. During the quarter, gross premiums written grew 22.7% to $293.3 million from $239.1 million in Q3 2025, […] The post American Integrity’s Q3’26 net income surges 115% as policies in-force reach 481k appeared first on ReinsuranceNe.ws.",
+    "sourceName": "Reinsurance News",
+    "sourceIcon": "🔁",
+    "publishedAt": "2026-11-11T17:00:42.000Z",
+    "category": "insurance",
+    "keywords": [
+      "American",
+      "Integrity",
+      "net",
+      "income",
+      "surges"
+    ],
+    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
+    "isNew": true,
+    "url": "https://www.reinsurancene.ws/american-integritys-q326-net-income-surges-115-as-policies-in-force-reach-481k/",
+    "summaryJa": "タンパに本拠を置く損害保険持株会社であるアメリカン・インテグリティ・インシュアランス・グループは、2026年第3四半期の純利益が2,840万ドルと、前年同期の1,320万ドルから115.4％増加したと報告した。当四半期の総収入保険料は、2025年第3四半期の2億3,910万ドルから22.7％増加し、2億9,330万ドルとなりました。"
+  },
+  {
+    "id": "rss-housing-1fa19415439d09",
+    "title": "A Veterans Day reflection for building leaders and the work ahead",
+    "summary": "We highlight two Texas families promised mortgage-free homes and frame affordability progress as an industry leadership test",
+    "sourceName": "HousingWire",
+    "sourceIcon": "🏘️",
+    "publishedAt": "2026-11-11T17:00:35.000Z",
+    "category": "housing",
+    "keywords": [
+      "Veterans",
+      "reflection",
+      "building",
+      "leaders",
+      "work"
+    ],
+    "bannerClass": "from-sky-950 to-cyan-950",
+    "isNew": true,
+    "url": "https://www.housingwire.com/articles/veterans-day-housing-leadership/"
+  },
+  {
+    "id": "rss-market-546e5117796355",
+    "title": "Bessent moved to military base amid 'growing threats' from Iran",
+    "summary": "Bessent's role leading Operation Economic Outcast has made him one of the Trump administration's top targets of Iranian threats, The New York Times reported.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-11-11T16:59:18.000Z",
+    "category": "market",
+    "keywords": [
+      "Bessent",
+      "moved",
+      "military",
+      "base",
+      "amid"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html"
+  },
+  {
+    "id": "rss-market-9e718f170e9174",
+    "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+    "summary": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-11-11T16:49:02.000Z",
+    "category": "market",
+    "keywords": [
+      "Fed",
+      "Goolsbee",
+      "calls",
+      "inflation",
+      "borderline"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html"
+  },
+  {
+    "id": "rss-banking-3bfd8d98583bf1",
+    "title": "Black-owned M&F shareholders opt overwhelmingly to stay the course",
+    "summary": "Roughly 98.6% of voting investors supported a tie-up with fellow Black-owned Optus Bank despite a series of counterproposals. The deal, which needs regulator sign-off, is on track for a fourth-quarter close, M&F said.",
+    "sourceName": "Banking Dive",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-11-11T16:21:49.000Z",
+    "category": "banking",
+    "keywords": [
+      "Black-owned",
+      "shareholders",
+      "opt",
+      "overwhelmingly",
+      "stay"
+    ],
+    "bannerClass": "from-slate-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.bankingdive.com/news/mf-optus-merger-black-owned-bank-shareholder-vote-triad-proposal-carolina/874393/"
+  },
+  {
+    "id": "rss-insurance-6fb6c29c6c4109",
+    "title": "VKB lifts target to €200m for King Max Re German multi-peril cat bond renewal",
+    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. German domestic market insurance group VKB is now aiming to upsize its latest catastrophe bond deal, raising the target size to secure a slightly larger €200 million of German multi-peril reinsurance protection from the King Max Re II DAC (Series 2026-1) issuance, this publication has learned. Versicherungskammer Bayern Versicherungsanstalt des oeffentlichen Rechts’ (VKB) made its […] VKB lifts target to €200m for King Max Re German multi-peril cat bond renewal was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
+    "sourceName": "Artemis",
+    "sourceIcon": "🎯",
+    "publishedAt": "2026-11-11T16:20:43.000Z",
+    "category": "insurance",
+    "keywords": [
+      "VKB",
+      "lifts",
+      "target",
+      "200m",
+      "King"
+    ],
+    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.artemis.bm/news/vkb-lifts-target-to-e200m-for-king-max-re-german-multi-peril-cat-bond-renewal/?utm_source=rss&utm_medium=rss&utm_campaign=vkb-lifts-target-to-e200m-for-king-max-re-german-multi-peril-cat-bond-renewal",
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。ドイツの国内市場保険グループVKBは現在、キングマックスRe II DAC（シリーズ2026-1）発行によるドイツの複数危険再保険保護の若干多めの2億ユーロを確保するために目標規模を引き上げ、最新の大災害債券取引の規模を拡大することを目指していることが本紙の報道でわかった。 Versicherungskammer Bayern Versicherungsanstalt des oeffentlichen Rechts’ (VKB) は、[…] VKB、キングマックス再の目標を 2 億ユーロに引き上げ ドイツの複数危険猫債券の更新は、www.Artemis.bm 災害債券取引指令によって発行されました。"
+  },
+  {
+    "id": "rss-ai-639dd1bd8a9035",
+    "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+    "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-11-11T16:16:07.000Z",
+    "category": "ai",
+    "keywords": [
+      "Jensen",
+      "Huang",
+      "bad",
+      "behavior",
+      "commonplace"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+    "summaryJa": "「業界にはこのようなことが起こっていることを知っており、事実上それを容認している上級者がたくさんいる」と投資情報コンサルタントは語った。"
+  },
+  {
+    "id": "rss-ai-f31248890af403",
+    "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+    "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-11-11T16:14:44.000Z",
+    "category": "ai",
+    "keywords": [
+      "OpenAI",
+      "quarterly",
+      "revenue",
+      "reportedly",
+      "crosses"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
+  },
+  {
+    "id": "rss-insurance-1644e37e7e4858",
+    "title": "MSIG USA names Andrew Pateyuk Head of Retail and Wholesale Property",
+    "summary": "MSIG USA, a specialist insurance provider operating in the United States and part of the international MS&AD Insurance Group, has named Andrew Pateyuk as its new Head of Retail and Wholesale Property. The appointment forms part of the insurer’s plans to develop its property underwriting business and expand its presence in the US specialty insurance […] The post MSIG USA names Andrew Pateyuk Head of Retail and Wholesale Property appeared first on ReinsuranceNe.ws.",
+    "sourceName": "Reinsurance News",
+    "sourceIcon": "🔁",
+    "publishedAt": "2026-11-11T16:00:50.000Z",
+    "category": "insurance",
+    "keywords": [
+      "MSIG",
+      "USA",
+      "names",
+      "Andrew",
+      "Pateyuk"
+    ],
+    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
+    "isNew": true,
+    "url": "https://www.reinsurancene.ws/msig-usa-names-andrew-pateyuk-head-of-retail-and-wholesale-property/"
+  },
+  {
+    "id": "rss-market-6bcd9b6f161517",
+    "title": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
+    "summary": "After CoreWeave beat on revenue and upped its forecast, CEO Mike Intrator indicated the company will be fine despite last week's Democratic midterm sweep.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-11-11T15:53:36.000Z",
+    "category": "market",
+    "keywords": [
+      "CoreWeave",
+      "CEO",
+      "Intrator",
+      "tells",
+      "CNBC"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html"
+  },
+  {
+    "id": "rss-insurance-9b0bdb52c09875",
+    "title": "James River reports $189.4m Q3’26 net loss following $181.8m goodwill impairment",
+    "summary": "James River has announced its financial results for the third quarter of 2026, reporting a net loss available to common shareholders of $189.4 million, which included a non-cash goodwill impairment of $181.8 million. The goodwill was added to the balance sheet when James River was acquired by an investor group in 2007, rather than as […] The post James River reports $189.4m Q3’26 net loss following $181.8m goodwill impairment appeared first on ReinsuranceNe.ws.",
+    "sourceName": "Reinsurance News",
+    "sourceIcon": "🔁",
+    "publishedAt": "2026-11-11T15:30:11.000Z",
+    "category": "insurance",
+    "keywords": [
+      "James",
+      "River",
+      "189",
+      "net",
+      "loss"
+    ],
+    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
+    "isNew": true,
+    "url": "https://www.reinsurancene.ws/james-river-reports-189-4m-q326-net-loss-following-181-8m-goodwill-impairment/",
+    "summaryJa": "ジェームズ・リバーは2026年第3四半期の決算を発表し、普通株主が享受できる純損失は1億8,940万ドルで、これには非現金のれんの減損1億8,180万ドルが含まれていると報告した。こののれんは、ジェームズ・リバーが 2007 年に投資家グループに買収されたときに貸借対照表に追加されました。"
+  },
+  {
+    "id": "rss-banking-5a6b569345e646",
+    "title": "Alta raises $47.5m to build blockchain infrastructure for financial institutions",
+    "summary": "Google Ventures has joined a $47.5 million Series A round for Alta, a firm building institutional-grade blockchain infrastructure for global finance.",
+    "sourceName": "Finextra",
+    "sourceIcon": "💳",
+    "publishedAt": "2026-11-11T15:06:00.000Z",
+    "category": "banking",
+    "keywords": [
+      "Alta",
+      "raises",
+      "build",
+      "blockchain",
+      "infrastructure"
+    ],
+    "bannerClass": "from-indigo-900 to-blue-950",
+    "isNew": true,
+    "url": "https://www.finextra.com/newsarticle/48744/alta-raises-475m-to-build-blockchain-infrastructure-for-financial-institutions?utm_medium=rssfinextra&utm_source=finextrafeed"
+  },
+  {
+    "id": "rss-ai-11ae2fd9c5f203",
+    "title": "Siri co-founder backs Helix for its voice ID tech",
+    "summary": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-11-11T15:02:47.000Z",
+    "category": "ai",
+    "keywords": [
+      "Siri",
+      "co-founder",
+      "backs",
+      "Helix",
+      "voice"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+    "summaryJa": "Instinct や Muse のような AI エージェントの台頭により、業界はインターネット上の人間のアイデンティティを再考し、音声などの生体信号に依存する必要があり、ここで Helix が登場します。"
+  },
+  {
+    "id": "rss-insurance-fd8bc267888013",
+    "title": "VIG expands presence in Türkiye with acquisition of health insurer Demir",
+    "summary": "Vienna Insurance Group (VIG) is expanding its presence in the Turkish market with the acquisition of health insurer Demir Sağlık ve Hayat Sigorta A.Ş. (Demir). This strategic acquisition will broaden VIG’s product range within Türkiye’s lucrative and rapidly expanding health sector and contribute to the diversification of portfolios in the region. Demir has been operating […] The post VIG expands presence in Türkiye with acquisition of health insurer Demir appeared first on ReinsuranceNe.ws.",
+    "sourceName": "Reinsurance News",
+    "sourceIcon": "🔁",
+    "publishedAt": "2026-11-11T15:00:03.000Z",
+    "category": "insurance",
+    "keywords": [
+      "VIG",
+      "expands",
+      "presence",
+      "Türkiye",
+      "acquisition"
+    ],
+    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
+    "isNew": true,
+    "url": "https://www.reinsurancene.ws/vig-expands-presence-in-turkiye-with-acquisition-of-health-insurer-demir/"
+  },
+  {
+    "id": "rss-ai-d5ce8d4f2e7d56",
+    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+    "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-11-11T15:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "Databricks",
+      "agent",
+      "tells",
+      "CEO",
+      "Ali"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/"
+  },
+  {
+    "id": "rss-economy-e4a1cabd0478af",
+    "title": "約6300の学校に爆破予告メール 伊",
+    "summary": "約6300の学校に爆破予告メール 伊",
     "sourceName": "Yahoo!ニュース",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-11T03:00:05.000Z",
+    "publishedAt": "2026-11-11T14:55:23.000Z",
     "category": "economy",
     "keywords": [
-      "高級時計が盗まれた事件",
-      "男を逮捕"
+      "約6300の学校に爆破予",
+      "に爆破予告メール伊"
     ],
     "bannerClass": "from-amber-900 to-orange-950",
     "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6602150?source=rss"
+    "url": "https://news.yahoo.co.jp/pickup/6602234?source=rss"
+  },
+  {
+    "id": "rss-banking-8a092a3cbe7eef",
+    "title": "Democrats' affordability mandate could revive swipe-fee fight",
+    "summary": "New Democratic dominance in state governments could breathe new life into merchant and consumer advocacy groups' pushes on challenging interchange fees, credit card network dominance and consumer protections of all stripes.",
+    "sourceName": "American Banker",
+    "sourceIcon": "🇺🇸",
+    "publishedAt": "2026-11-11T14:54:25.000Z",
+    "category": "banking",
+    "keywords": [
+      "Democrats",
+      "affordability",
+      "mandate",
+      "revive",
+      "swipe-fee"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-900",
+    "isNew": true,
+    "url": "https://www.americanbanker.com/news/democrats-affordability-mandate-could-revive-swipe-fee-fight"
+  },
+  {
+    "id": "rss-banking-a68e518616fe65",
+    "title": "North Dakota bank to buy Texas lender",
+    "summary": "The deal will bring family-owned First International Bank & Trust, which started in 1910 with $15,000, to roughly $7 billion in assets.",
+    "sourceName": "Banking Dive",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-11-11T14:46:19.000Z",
+    "category": "banking",
+    "keywords": [
+      "North",
+      "Dakota",
+      "bank",
+      "buy",
+      "Texas"
+    ],
+    "bannerClass": "from-slate-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.bankingdive.com/news/north-dakota-first-international-bank-buy-trust-dominion-dallas-texas-7-billion-assets-stenehjem/874368/"
+  },
+  {
+    "id": "rss-insurance-9b0a20bf287252",
+    "title": "Ascot names Neil Mayer CEO of HNW Personal Lines",
+    "summary": "Ascot Group Limited, an international provider of specialty insurance and reinsurance, has named Neil Mayer as Chief Executive Officer of High Net Worth (HNW) Personal Lines, marking a further step in the development of its Consumer Solutions division, joining in January 2027 and become a member of its Group Executive Committee. The appointment comes as […] The post Ascot names Neil Mayer CEO of HNW Personal Lines appeared first on ReinsuranceNe.ws.",
+    "sourceName": "Reinsurance News",
+    "sourceIcon": "🔁",
+    "publishedAt": "2026-11-11T14:30:26.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Ascot",
+      "names",
+      "Neil",
+      "Mayer",
+      "CEO"
+    ],
+    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
+    "isNew": true,
+    "url": "https://www.reinsurancene.ws/ascot-names-neil-mayer-ceo-of-hnw-personal-lines/",
+    "summaryJa": "特殊保険および再保険の国際プロバイダーであるアスコット グループ リミテッドは、ニール メイヤー氏を富裕層 (HNW) パーソナル ラインの最高経営責任者に任命し、消費者ソリューション部門の発展におけるさらなる一歩を示し、2027 年 1 月に入社し、グループ執行委員会のメンバーとなります。この任命は […] アスコットが HNW Personal Lines の CEO に Neil Mayer を指名するという記事が ReinsuranceNews に最初に掲載されました。"
+  },
+  {
+    "id": "rss-banking-a1674a11d908d7",
+    "title": "Western Union ditches Intermax acquisition",
+    "summary": "Western Union has pulled the plug on its $500 million acquisition of rival Intermax after failing to secure an \"acceptable approval\" for the deal from regulators.",
+    "sourceName": "Finextra",
+    "sourceIcon": "💳",
+    "publishedAt": "2026-11-11T14:05:00.000Z",
+    "category": "banking",
+    "keywords": [
+      "Western",
+      "Union",
+      "ditches",
+      "Intermax",
+      "acquisition"
+    ],
+    "bannerClass": "from-indigo-900 to-blue-950",
+    "isNew": true,
+    "url": "https://www.finextra.com/newsarticle/48743/western-union-ditches-intermax-acquisition?utm_medium=rssfinextra&utm_source=finextrafeed"
+  },
+  {
+    "id": "rss-insurance-9a492eeefcfe2b",
+    "title": "Premium renewal rates down across most lines month over month in October: Ivans",
+    "summary": "Ivans, a division of Applied Systems, has released the October 2026 results of the Ivans Index, indicating a year-over-year increase in average premium renewal rates across Commercial Auto, Business Owner’s Policy (BOP), General Liability, Commercial Property, and Umbrella. Conversely, Workers’ Compensation experienced a decrease in premium renewal rates during the same period. Month over month, […] The post Premium renewal rates down across most lines month over month in October: Ivans appeared first on ReinsuranceNe.ws.",
+    "sourceName": "Reinsurance News",
+    "sourceIcon": "🔁",
+    "publishedAt": "2026-11-11T14:00:12.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Premium",
+      "renewal",
+      "rates",
+      "down",
+      "lines"
+    ],
+    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
+    "isNew": true,
+    "url": "https://www.reinsurancene.ws/premium-renewal-rates-down-across-most-lines-month-over-month-in-october-ivans/"
+  },
+  {
+    "id": "rss-insurance-9e5578e67bbd86",
+    "title": "Cortina shows another avenue for third-party capital to enter the reinsurance market: Evercore ISI",
+    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. A new report from Evercore ISI has outlined that the recently announced Aon and Blackstone reinsurance facility at Lloyd’s, Cortina, offers another alternative for third-party capital to be deployed into the reinsurance market without having to endure some of the exit risk mechanics. The much-discussed reinsurance Cortina syndicate 1956 was launched last week by broker […] Cortina shows another avenue for third-party capital to enter the reinsurance market: Evercore ISI was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
+    "sourceName": "Artemis",
+    "sourceIcon": "🎯",
+    "publishedAt": "2026-11-11T14:00:10.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Cortina",
+      "shows",
+      "avenue",
+      "third-party",
+      "capital"
+    ],
+    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.artemis.bm/news/cortina-shows-another-avenue-for-third-party-capital-to-enter-the-reinsurance-market-evercore-isi/?utm_source=rss&utm_medium=rss&utm_campaign=cortina-shows-another-avenue-for-third-party-capital-to-enter-the-reinsurance-market-evercore-isi"
+  },
+  {
+    "id": "rss-ai-274edf310d65fc",
+    "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+    "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "📰",
+    "publishedAt": "2026-11-11T14:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "Plurai",
+      "wants",
+      "help",
+      "agents",
+      "work"
+    ],
+    "bannerClass": "from-slate-800 to-slate-600",
+    "isNew": true,
+    "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+    "summaryJa": "車を運転するために訓練されたエンドツーエンドのモデルと同様、AI エージェントは予測不可能な環境で動作する確率的なシステムです。"
+  },
+  {
+    "id": "rss-ai_theory-3e010d20c1ca74",
+    "title": "無料でWebサイト・DNS・AWS認証情報・クレカ・機密文書などにおとりを設置して不審な操作を検知できる「Canarytokens」、インストール不要でセルフホストにも対応",
+    "summary": "自分が管理するWebページやDNS・AWSなどへの不審なアクセスを把握するには、それぞれのサービスでログを調査するなどの方法がありますが、攻撃者が触れそうな場所へ特殊なおとりを用意することでアクセスされた際に通知を受け取る方法もあります。そこで、Webページ・DNS・AWS・クレジットカード・QRコードなどに対応したおとりを無料で生成し、その利用をメールで通知するサービスが「Canarytokens」です。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T14:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "無料でWebサイト",
+      "DNS",
+      "AWS認証情報",
+      "クレカ",
+      "インストール不要でセルフホストにも対応"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20261111-canarytokens/"
+  },
+  {
+    "id": "rss-economy-0d5b2142c10f50",
+    "title": "開発事業者がミラー設置断る 困惑",
+    "summary": "開発事業者がミラー設置断る 困惑",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T13:54:56.000Z",
+    "category": "economy",
+    "keywords": [
+      "開発事業者がミラー設置断る",
+      "困惑"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6602232?source=rss"
+  },
+  {
+    "id": "rss-economy-92cff3d86d59d9",
+    "title": "Amazon「表示枠」公取なぜ問題視",
+    "summary": "Amazon「表示枠」公取なぜ問題視",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T13:26:37.000Z",
+    "category": "economy",
+    "keywords": [
+      "Amazon「表示枠」公",
+      "示枠」公取なぜ問題視",
+      "題視"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6602231?source=rss"
+  },
+  {
+    "id": "rss-banking-46a9d6d395e298",
+    "title": "Atomic targets capital raise to fuel agentic AI work",
+    "summary": "CEO and co-founder Jordan Wright said the fintech seeks to raise between $30 million and $50 million, although AI firms capturing investor attention has made the fundraising climate more challenging.",
+    "sourceName": "Banking Dive",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-11-11T13:17:26.000Z",
+    "category": "banking",
+    "keywords": [
+      "Atomic",
+      "targets",
+      "capital",
+      "raise",
+      "fuel"
+    ],
+    "bannerClass": "from-slate-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.bankingdive.com/news/atomic-fintech-capital-raise-agentic-ai-work/874357/"
+  },
+  {
+    "id": "rss-economy-76c3244fa1348d",
+    "title": "アメリカ・ロシア・ウクライナ高官協議 大規模捕虜交換で合意",
+    "summary": "ロシアとウクライナの和平をめぐるアメリカも交えた3か国の高官協議の2日目の協議が11日、UAE＝アラブ首長国連邦の首都アブダビで行われました。",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T12:58:23.000Z",
+    "category": "economy",
+    "keywords": [
+      "アメリカ",
+      "ロシア",
+      "ウクライナ高官協議",
+      "大規模捕虜交換で合意"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20261110de73734"
+  },
+  {
+    "id": "rss-economy-3291c781296136",
+    "title": "ドコモ通信障害復旧 原因は機器の不具合",
+    "summary": "NTTドコモでは、11日午前10時半すぎから「5G SA」と呼ばれる通信の方式を契約している利用者の間で、通話やデータ通信などが利用しにくい状況が続いていましたが、午後7時すぎに復旧したということです…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T12:47:21.000Z",
+    "category": "economy",
+    "keywords": [
+      "ドコモ通信障害復旧",
+      "原因は機器の不具合"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20261111de73934"
+  },
+  {
+    "id": "rss-banking-408bd5f96a2f94",
+    "title": "Indonesia ranks social engineering scams as single biggest concern",
+    "summary": "With the majority of scams originating on social media and messaging apps, a new Biocatch survey of 100 fraud management, AML and compliance team leaders at banks in Indonesia has found that social engineering scams remain the biggest concern.",
+    "sourceName": "Finextra",
+    "sourceIcon": "💳",
+    "publishedAt": "2026-11-11T12:45:00.000Z",
+    "category": "banking",
+    "keywords": [
+      "Indonesia",
+      "ranks",
+      "social",
+      "engineering",
+      "scams"
+    ],
+    "bannerClass": "from-indigo-900 to-blue-950",
+    "isNew": true,
+    "url": "https://www.finextra.com/newsarticle/48742/indonesia-ranks-social-engineering-scams-as-single-biggest-concern?utm_medium=rssfinextra&utm_source=finextrafeed"
+  },
+  {
+    "id": "rss-economy-6702d03da2d9e2",
+    "title": "月収5万円 受診遅れ死亡した男性",
+    "summary": "月収5万円 受診遅れ死亡した男性",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T12:30:08.000Z",
+    "category": "economy",
+    "keywords": [
+      "月収5万円",
+      "受診遅れ死亡した男性"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6602222?source=rss"
+  },
+  {
+    "id": "rss-banking-a0ddc964837386",
+    "title": "US payments companies continue to be shut out of China",
+    "summary": "The Chinese government's decades of resistance to allowing U.S. payments networks to compete in China have created an effectively closed market. Recent overtures to Visa don't change that.",
+    "sourceName": "American Banker",
+    "sourceIcon": "🇺🇸",
+    "publishedAt": "2026-11-11T12:30:00.000Z",
+    "category": "banking",
+    "keywords": [
+      "payments",
+      "companies",
+      "continue",
+      "shut",
+      "China"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-900",
+    "isNew": true,
+    "url": "https://www.americanbanker.com/payments/opinion/us-payments-companies-continue-to-be-shut-out-of-china"
+  },
+  {
+    "id": "rss-economy-a8b7448b05fae0",
+    "title": "消費減税法案 支援金巡り野党追及",
+    "summary": "消費減税法案 支援金巡り野党追及",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T12:05:32.000Z",
+    "category": "economy",
+    "keywords": [
+      "消費減税法案",
+      "支援金巡り野党追及"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6602215?source=rss"
+  },
+  {
+    "id": "rss-ai_theory-141b7a297c7220",
+    "title": "AmazonがAIモデルの「Claude Sonnet 4.6」を独自開発の意志決定モデル「Strands Decider」に置き換えることで98％のコスト削減に成功",
+    "summary": "AmazonとAWSは、コストを抑えながら社内への問い合わせやシステムエラーをAIで自動仕分けするため、Anthropicのバランス型モデルである「Claude Sonnet 4.6」を利用してきました。これを意思決定モデルの「Strands Decider」に置き換えることで、98％のコスト削減に成功したと報告しています。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T12:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "AmazonがAIモデルの「Claude",
+      "Sonnet"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/"
+  },
+  {
+    "id": "rss-banking-156a0d36d0b855",
+    "title": "Northern Trust leans on Microsoft engineers to boost agentic buildout",
+    "summary": "The financial services firm cut analyst data preparation time by 83% with the use of an onboarding agent, the companies said.",
+    "sourceName": "Banking Dive",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-11-11T12:00:00.000Z",
+    "category": "banking",
+    "keywords": [
+      "Northern",
+      "Trust",
+      "leans",
+      "Microsoft",
+      "engineers"
+    ],
+    "bannerClass": "from-slate-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.bankingdive.com/news/northern-trust-leans-microsoft-fde-agentic-buildout/874362/"
+  },
+  {
+    "id": "rss-banking-197900e5bd8029",
+    "title": "Ransomware crew claims 5 banks and a CU; 2 confirm breaches",
+    "summary": "The five banks Storm listed hold about $6.1 billion in assets. Only Sawyer and Insight Credit Union have confirmed breaches.",
+    "sourceName": "American Banker",
+    "sourceIcon": "🇺🇸",
+    "publishedAt": "2026-11-11T12:00:00.000Z",
+    "category": "banking",
+    "keywords": [
+      "Ransomware",
+      "crew",
+      "claims",
+      "banks",
+      "confirm"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-900",
+    "isNew": true,
+    "url": "https://www.americanbanker.com/news/ransomware-crew-claims-5-banks-and-a-cu-2-confirm-breaches"
+  },
+  {
+    "id": "rss-banking-a5cea689bd08ec",
+    "title": "Zilch expands debt facilities to £395m in round led by Deutsche Bank",
+    "summary": "Zilch has expanded its securitisation and corporate debt facilities by an additional £165 million in aggregate, taking the total commitment available to £395 million.",
+    "sourceName": "Finextra",
+    "sourceIcon": "💳",
+    "publishedAt": "2026-11-11T11:34:00.000Z",
+    "category": "banking",
+    "keywords": [
+      "Zilch",
+      "expands",
+      "debt",
+      "facilities",
+      "395m"
+    ],
+    "bannerClass": "from-indigo-900 to-blue-950",
+    "isNew": true,
+    "url": "https://www.finextra.com/newsarticle/48741/zilch-expands-debt-facilities-to-395m-in-round-led-by-deutsche-bank?utm_medium=rssfinextra&utm_source=finextrafeed"
+  },
+  {
+    "id": "rss-insurance-c01008bdb81235",
+    "title": "Montauk Point hires Whiley to strengthen ILS Advisory & Special Situations",
+    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Montauk Point Ltd., a Bermuda-based firm that provides independent advisory and strategic advice to third-party risk capital providers, has announced that senior ILS specialist John Whiley has joined the firm, where he will focus on strengthening its ILS Advisory and Special Situations capabilities. Recall that Montauk Point was launched in early 2025 by established reinsurance […] Montauk Point hires Whiley to strengthen ILS Advisory & Special Situations was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
+    "sourceName": "Artemis",
+    "sourceIcon": "🎯",
+    "publishedAt": "2026-11-11T11:30:47.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Montauk",
+      "Point",
+      "hires",
+      "Whiley",
+      "strengthen"
+    ],
+    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.artemis.bm/news/montauk-point-hires-whiley-to-strengthen-ils-advisory-special-situations/?utm_source=rss&utm_medium=rss&utm_campaign=montauk-point-hires-whiley-to-strengthen-ils-advisory-special-situations",
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。バミューダに本拠を置き、サードパーティのリスクキャピタルプロバイダーに独立したアドバイザリーおよび戦略的アドバイスを提供するモントーク・ポイント社は、上級ILSスペシャリストのジョン・ワイリー氏が同社に加わり、ILSアドバイザリーおよび特殊状況対応能力の強化に注力すると発表した。モントーク ポイントが確立された再保険会社によって 2025 年初めに開始されたことを思い出してください […] モントーク ポイントが ILS 勧告と特別状況を強化するためにホワイリーを雇用 この記事は www.Artemis.bm 災害債券取引ディレクトリで公開されました。"
+  },
+  {
+    "id": "rss-economy-f5f07caf2f42fc",
+    "title": "日本近海で水温上昇 雑種フグ・アニサキス…食の安全に影響も",
+    "summary": "日本近海の海面の水温が上昇するペースは、世界全体の海と比較すると2倍以上になっていることが気象庁の調査でわかっています。 生き物の分布の変化が起き、毒の位置や強さにばらつきがある雑種のフグの増加や、…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T11:25:41.000Z",
+    "category": "economy",
+    "keywords": [
+      "日本近海で水温上昇",
+      "雑種フグ",
+      "アニサキス",
+      "食の安全に影響も"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20261111de73954"
+  },
+  {
+    "id": "rss-housing-f51396556ecf6e",
+    "title": "Homebuilders and their partners team up to salute our veterans",
+    "summary": "Veterans Day initiatives include discounts for military families, mortgage-free home donations and workforce development",
+    "sourceName": "HousingWire",
+    "sourceIcon": "🏘️",
+    "publishedAt": "2026-11-11T11:14:00.000Z",
+    "category": "housing",
+    "keywords": [
+      "Homebuilders",
+      "partners",
+      "team",
+      "salute",
+      "veterans"
+    ],
+    "bannerClass": "from-sky-950 to-cyan-950",
+    "isNew": true,
+    "url": "https://www.housingwire.com/articles/homebuilders-celebrate-veterans-day/"
+  },
+  {
+    "id": "rss-banking-83ff0e37891e84",
+    "title": "Deutsche Bank and Ant set out roadmap for integrating agentic AI into wholesale banking",
+    "summary": "A new research report released by Deutsche Bank and Ant Digital Technologies highlights the potential of agentic AI across institutional treasury, cross border payments and trade finance.",
+    "sourceName": "Finextra",
+    "sourceIcon": "💳",
+    "publishedAt": "2026-11-11T11:13:00.000Z",
+    "category": "banking",
+    "keywords": [
+      "Deutsche",
+      "Bank",
+      "Ant",
+      "set",
+      "roadmap"
+    ],
+    "bannerClass": "from-indigo-900 to-blue-950",
+    "isNew": true,
+    "url": "https://www.finextra.com/newsarticle/48740/deutsche-bank-and-ant-set-out-roadmap-for-integrating-agentic-ai-into-wholesale-banking?utm_medium=rssfinextra&utm_source=finextrafeed"
+  },
+  {
+    "id": "rss-banking-fecfba45a63402",
+    "title": "IIFL Finance approves $686m capital raise led by Blackstone",
+    "summary": "Alongside the institutional investment, company promoters Nirmal Jain and R. Venkataraman are contributing Rs12.6bn ($135m).",
+    "sourceName": "Retail Banker International",
+    "sourceIcon": "🌍",
+    "publishedAt": "2026-11-11T11:07:56.000Z",
+    "category": "banking",
+    "keywords": [
+      "IIFL",
+      "Finance",
+      "approves",
+      "686m",
+      "capital"
+    ],
+    "bannerClass": "from-indigo-900 to-blue-950",
+    "isNew": true,
+    "url": "https://www.retailbankerinternational.com/news/iifl-finance-capital-raise-blackstone/"
+  },
+  {
+    "id": "rss-ai_theory-b4082df9e94c40",
+    "title": "「黒いU.F.O.」「黒いカレーメシ」「黒いどん兵衛」試食レビュー、「背徳こそ正義！」とアピールする3品の味を確かめてみた",
+    "summary": "日清食品からブラックフライデーに合わせた新商品として、「“黒い欲望”を解放し、本能のままに食を楽しんでいただきたい」というコンセプトの「背徳BLACK」シリーズ3品、「日清焼そばBLACK U.F.O. ガリマヨブラックイカスミソース焼そば」「日清のBLACKどん兵衛 背脂醤油黒うどん」「日清BLACKカレーメシ 濃厚チーズ」が2026年11月16日(月)から新発売となります。今回、日清食品から一足早く製品を送ってもらったので、食べてみました。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T11:05:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "「背徳こそ正義",
+      "」とアピールする3品の味を確かめてみた"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20261111-nissin-immoral-black/"
+  },
+  {
+    "id": "rss-ai_theory-0b18e2c52fc56d",
+    "title": "2027年にも「超人的AI研究者(SAR)」が登場する可能性が高いとAI研究者らが予測、全ホワイトカラー業務の自動化AIも2028年までに登場か",
+    "summary": "元OpenAIのガバナンス研究者であるダニエル・ココタイロ氏が率いる非営利研究団体のAI Futures Projectが、最高水準の人間の研究者を一掃するかもしれない「Superhuman AI Researcher(超人的AI研究者：SAR)」が2027年に登場する可能性が高いとの予測を発表しました。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T11:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "2027年にも「超人的A",
+      "超人的AI研究者(SAR",
+      "(SAR)」が登場する可",
+      "場する可能性が高いとAI",
+      "いとAI研究者らが予測、"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20261111-superhuman-ai-researcher-2027/"
+  },
+  {
+    "id": "rss-ai_theory-785dcffe056779",
+    "title": "サイバートラック生産終了についてイーロン・マスクが「売れ行きは好調だが利益の大きいサイバーキャブを優先した」と反論",
+    "summary": "テスラのイーロン・マスクCEOが電動ピックアップトラック「Cybertruck(サイバートラック)」の生産を2027年半ばで終了することを明らかにしました。メディアでは生産終了の原因として不具合やリコールの多さ、販売台数が当初の予測をはるかに下回ったことなどが挙げられましたが、マスクCEOは「受注自体は好調」と反論しています。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T10:45:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "サイバートラック生産終了",
+      "生産終了についてイーロン",
+      "イーロン・マスクが「売れ",
+      "が「売れ行きは好調だが利",
+      "調だが利益の大きいサイバ"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20261111-elon-musk-cybertruck/"
+  },
+  {
+    "id": "rss-banking-1ac2e49120580c",
+    "title": "Italy authorises Bancoposta to take stakes in financial companies",
+    "summary": "The decree does not allow Bancoposta to hold controlling interests in \"banks and financial intermediaries\".",
+    "sourceName": "Retail Banker International",
+    "sourceIcon": "🌍",
+    "publishedAt": "2026-11-11T10:39:39.000Z",
+    "category": "banking",
+    "keywords": [
+      "Italy",
+      "authorises",
+      "Bancoposta",
+      "take",
+      "stakes"
+    ],
+    "bannerClass": "from-indigo-900 to-blue-950",
+    "isNew": true,
+    "url": "https://www.retailbankerinternational.com/news/bancoposta-financial-companies-stakes/"
+  },
+  {
+    "id": "rss-banking-2a03a7bfa1b9ec",
+    "title": "Crédit Agricole assures Italy on sovereign debt over BPM merger bid – report",
+    "summary": "The French bank’s approach aims to avoid intervention under Italy’s “golden power” rules.",
+    "sourceName": "Retail Banker International",
+    "sourceIcon": "🌍",
+    "publishedAt": "2026-11-11T10:34:41.000Z",
+    "category": "banking",
+    "keywords": [
+      "Crédit",
+      "Agricole",
+      "assures",
+      "Italy",
+      "sovereign"
+    ],
+    "bannerClass": "from-indigo-900 to-blue-950",
+    "isNew": true,
+    "url": "https://www.retailbankerinternational.com/news/credit-agricole-bpm-merger-bid/"
+  },
+  {
+    "id": "rss-economy-01e4e382add2ac",
+    "title": "【金利ある時代の有力資産「国債」の戦略的買い方】元本割れなし！無リスク2%の魅力／「変動10年」の金利推移／「預金と国債」利息が増えるのは？／おすすめポートフォリオ【ウエンツ瑛士のマネーファーム】 | ビジネス | 東洋経済オンライン",
+    "summary": "ウエンツ瑛士がマネーの「育て方」を学ぶ教育バラエティ「マネーファーム」。第12回のテーマは「リスク回避の国債・徹底攻略」です。日銀が政策金利を引き上げたことで、「金利ある時代」が復活しました。それに…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T10:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "ビジネス",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/964454?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-d3ce4a23b58aae",
+    "title": "情報漏えいリスク回避へ対策は？通販サイト閉鎖の企業も",
+    "summary": "企業の間で不正アクセスによる情報漏えいが相次ぐ中、自社の通販サイトを閉鎖したり、あらかじめ個人情報を持たないようにしたりする動きが広がっています。",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T09:51:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "情報漏えいリスク回避へ対策は",
+      "通販サイト閉鎖の企業も"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20261111de73911"
+  },
+  {
+    "id": "rss-insurance-f38947afba4eee",
+    "title": "Cat bond market primed for growth as perils, sponsors and capacity expands: Man Group",
+    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. A new article from Man Group has highlighted how the catastrophe bond market continues to offer effective pricing competition, multi-year cover against a range of perils, and an additional source of capacity. All of which leads the firm to call out that it believes the market is well placed for further growth, provided pricing remains […] Cat bond market primed for growth as perils, sponsors and capacity expands: Man Group was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
+    "sourceName": "Artemis",
+    "sourceIcon": "🎯",
+    "publishedAt": "2026-11-11T09:00:39.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Cat",
+      "bond",
+      "market",
+      "primed",
+      "growth"
+    ],
+    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.artemis.bm/news/cat-bond-market-primed-for-growth-as-perils-sponsors-and-capacity-expands-man-group/?utm_source=rss&utm_medium=rss&utm_campaign=cat-bond-market-primed-for-growth-as-perils-sponsors-and-capacity-expands-man-group"
+  },
+  {
+    "id": "rss-economy-59741855c8774c",
+    "title": "自民 森山前幹事長 石破氏ら4人“国民の気持ち反映した行動”",
+    "summary": "食料品の消費税減税関連法案をめぐり、自民党の森山前幹事長は財源などについての党内議論が不十分だったと指摘した上で、衆議院本会議で採決を前に退席した石破前総理大臣ら4人の行動は国民の気持ちを反映したもの…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T08:47:39.000Z",
+    "category": "economy",
+    "keywords": [
+      "自民",
+      "森山前幹事長",
+      "石破氏ら4人“国民の気持ち反映した行動”"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74306"
+  },
+  {
+    "id": "rss-ai-fe5091447d5140",
+    "title": "「Google ドライブもランサムウェアに狙われている」 身代金を払わずに一括ファイル復元するには",
+    "summary": "Googleは「Google ドライブ」のランサムウェア検知機能と一括ファイル復元機能の一般提供を開始したと発表した。",
+    "sourceName": "ITmedia AI",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T08:15:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "「Google",
+      "ドライブもランサムウェアに狙われている」",
+      "身代金を払わずに一括ファイル復元するには"
+    ],
+    "bannerClass": "from-sky-900 to-slate-800",
+    "isNew": true,
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news037.html"
+  },
+  {
+    "id": "rss-insurance-7c66f4757ec7b7",
+    "title": "California Earthquake Authority lifts Ursa Re 2026-1 cat bond to target $900m of reinsurance",
+    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. The California Earthquake Authority (CEA) is aiming to meaningfully upsize its latest catastrophe bond sponsorship, with the target for the issuance raised 50% to now $900 million of fully-collateralized earthquake reinsurance limit from the new Ursa Re Ltd. (Series 2026-1) transaction, Artemis understands. The California Earthquake Authority (CEA) returned to the catastrophe bond market in […] California Earthquake Authority lifts Ursa Re 2026-1 cat bond to target $900m of reinsurance was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
+    "sourceName": "Artemis",
+    "sourceIcon": "🎯",
+    "publishedAt": "2026-11-11T08:00:04.000Z",
+    "category": "insurance",
+    "keywords": [
+      "California",
+      "Earthquake",
+      "Authority",
+      "lifts",
+      "Ursa"
+    ],
+    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.artemis.bm/news/california-earthquake-authority-lifts-ursa-re-2026-1-cat-bond-to-target-900m-of-reinsurance/?utm_source=rss&utm_medium=rss&utm_campaign=california-earthquake-authority-lifts-ursa-re-2026-1-cat-bond-to-target-900m-of-reinsurance",
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。カリフォルニア地震庁（CEA）は、最新の災害債券のスポンサーシップを大幅に増額することを目指しており、Ursa Re Ltd.（シリーズ2026-1）の新規取引により、発行目標が50％増額され、完全担保型地震再保険限度額9億ドルとなったとアルテミス氏は理解している。カリフォルニア地震庁（CEA）は、大災害債券市場に復帰した […] カリフォルニア地震庁、Ursa Re 2026-1 cat債券を引き上げ、9億ドルの再保険を目標に発行: www.Artemis.bm ca"
+  },
+  {
+    "id": "rss-ai-d16495b8d8bcee",
+    "title": "端末を開いたら即アウト？ CVSS 11.0の「致命的脆弱性」が笑える理由",
+    "summary": "端末を開くだけで攻撃が成立し、CVSSスコアは満点超えの11.0。そんな「致命的脆弱性」を告発する特設サイトが登場した。ただし、これは端末の正常な機能を脆弱性に見立てたパロディーだ。背景にあるのは、脆弱性の命名や公表を巡る風潮への皮肉だ。",
+    "sourceName": "ITmedia AI",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T08:00:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "端末を開いたら即アウト",
+      "CVSS",
+      "11.0の「致命的脆弱性」が笑える理由"
+    ],
+    "bannerClass": "from-sky-900 to-slate-800",
+    "isNew": true,
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news036.html"
+  },
+  {
+    "id": "rss-housing-6be11bee5faaa1",
+    "title": "Winning in a buyer’s market",
+    "summary": "Three practical strategies agents and lenders can use to help hesitant homebuyers capitalize on today's shifting conditions",
+    "sourceName": "HousingWire",
+    "sourceIcon": "🏘️",
+    "publishedAt": "2026-11-11T08:00:00.000Z",
+    "category": "housing",
+    "keywords": [
+      "Winning",
+      "buyer",
+      "market"
+    ],
+    "bannerClass": "from-sky-950 to-cyan-950",
+    "isNew": true,
+    "url": "https://www.housingwire.com/articles/winning-in-a-buyers-market/"
+  },
+  {
+    "id": "rss-housing-b20042cc624490",
+    "title": "If you own the asset, you should own the project data",
+    "summary": "A durable record of budgets, decisions, RFIs and as-builts supports operations, refinancing and AI use",
+    "sourceName": "HousingWire",
+    "sourceIcon": "🏘️",
+    "publishedAt": "2026-11-11T08:00:00.000Z",
+    "category": "housing",
+    "keywords": [
+      "own",
+      "asset",
+      "project",
+      "data"
+    ],
+    "bannerClass": "from-sky-950 to-cyan-950",
+    "isNew": true,
+    "url": "https://www.housingwire.com/articles/own-project-data-record/"
+  },
+  {
+    "id": "rss-housing-5fad1ff6c7b36b",
+    "title": "A military spouse’s advice for serving veteran homebuyers",
+    "summary": "55% of veteran homebuyers used VA financing in 2025, and eligibility is not limited to one use",
+    "sourceName": "HousingWire",
+    "sourceIcon": "🏘️",
+    "publishedAt": "2026-11-11T08:00:00.000Z",
+    "category": "housing",
+    "keywords": [
+      "military",
+      "spouse",
+      "advice",
+      "serving",
+      "veteran"
+    ],
+    "bannerClass": "from-sky-950 to-cyan-950",
+    "isNew": true,
+    "url": "https://www.housingwire.com/articles/va-loan-veteran-homebuyers/"
+  },
+  {
+    "id": "rss-economy-c273b9fd9591e9",
+    "title": "Christmas toy rush being driven by squishies and building sets",
+    "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+    "sourceName": "BBC Business",
+    "sourceIcon": "¥",
+    "publishedAt": "2026-11-11T07:52:05.000Z",
+    "category": "economy",
+    "keywords": [
+      "Christmas",
+      "toy",
+      "rush",
+      "driven",
+      "squishies"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "rss-economy-a8a8bf231808d5",
+    "title": "週刊誌の｢150万円のギャラ｣報道はなぜ死活問題か…キンタロー｡の\"怒りの反論\"に46歳フリーランスおじさんが共感した訳 | ライフ | 東洋経済オンライン",
+    "summary": "ものまねタレント･キンタロー。のイベント出演料に関する報道が波紋を広げる中､本人がXで事実無根と強く反論。独立後フリーランスとして活動する彼女にとって､誤ったイメージは仕事の機会を奪いかねません。",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T07:30:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "ライフ",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/964260?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-09565d7a28f3ef",
+    "title": "揺れるエヌビディア､さまざまな経歴が浮かび上がる謎めいたアリス･フアン氏について判明していることとは？ | 政治・経済・投資 | 東洋経済オンライン",
+    "summary": "標的とされたアリス･フアン氏の正体や米中ビジネスの闇､加速する捜査の行方に世界が注目しています。",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T07:15:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "政治",
+      "経済",
+      "投資",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/964427?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-insurance-dc2afefeafda14",
+    "title": "「種」だけでは守れないもの－ESUとMU、二つの保全の単位が生まれるまで",
+    "summary": "■要旨 生物を保全する際、「種」という単位だけでは、同じ種の中にある集団ごとの遺伝的な違いを守れない場合がある。本稿は、集団間の遺伝的な違いを測る指標Fstを起点に、保全の単位として提案されてきたESU（進化的に重要な単位）とMU（管理単位）を整理する。ESUは、長い年月をかけて独立した進化の歴史を積み重ねてきたことまで確認する重い単位であり、太平洋のサケなどが代表例となる。一方MUは、今の遺伝的な違いさえ確認できれば足りる、実務的で軽い単位であり、北海道のヒグマの地域個体群管理などに用いられる。両者が生まれた経緯や具体例を通じて、種として絶滅していなくても失われうる、集団固有の価値について考える。 ■目次 1――はじめに 2――遺伝的な違いをどう見るのか 1｜「対立遺伝子」という考え方 2｜ライトが発表した違いを測る物差し 3｜この物差しだけでは「時間の長さ」が表せない 3――ESUとMUの違いと具体例 1｜ライダーが発案したESU 2｜ウェイプルスが示した2条件 3｜モリッツが提案したMU 4｜保全の単位についてまとめ 4――ESUとMUの事例 1｜太平洋のサケ：ESUの代表例 2｜サザン・レジデントのシャチ：DPSとして守られたESU 3｜北海道のヒグマ：MUとして扱われる地域個体群 5――おわりに （私見）生き物を守るとき、多くの人は「種」を単位に考える。パンダを守る、トキを守る、という具合だ。しかし、実際の保全（生き物や自然環境を、なくならないように守り、管理すること）の現場では、種だけを見ていると足りない場面が出てくる。 たとえば同じ種のサケでも、生まれた川によって遺伝的な特徴が少しずつ違う。ある川の個体群が消えても、種としてのサケは絶滅しない。しかし、その川だけが持っていた特徴は、二度と取り戻せない。 こうした違いに気づ",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T07:06:07.000Z",
+    "category": "insurance",
+    "keywords": [
+      "「種」だけでは守れないもの－ESUとMU",
+      "二つの保全の単位が生まれるまで"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87299?site=nli"
+  },
+  {
+    "id": "rss-insurance-dc2afefeafda14",
+    "title": "「種」だけでは守れないもの－ESUとMU、二つの保全の単位が生まれるまで",
+    "summary": "■要旨 生物を保全する際、「種」という単位だけでは、同じ種の中にある集団ごとの遺伝的な違いを守れない場合がある。本稿は、集団間の遺伝的な違いを測る指標Fstを起点に、保全の単位として提案されてきたESU（進化的に重要な単位）とMU（管理単位）を整理する。ESUは、長い年月をかけて独立した進化の歴史を積み重ねてきたことまで確認する重い単位であり、太平洋のサケなどが代表例となる。一方MUは、今の遺伝的な違いさえ確認できれば足りる、実務的で軽い単位であり、北海道のヒグマの地域個体群管理などに用いられる。両者が生まれた経緯や具体例を通じて、種として絶滅していなくても失われうる、集団固有の価値について考える。 ■目次 1――はじめに 2――遺伝的な違いをどう見るのか 1｜「対立遺伝子」という考え方 2｜ライトが発表した違いを測る物差し 3｜この物差しだけでは「時間の長さ」が表せない 3――ESUとMUの違いと具体例 1｜ライダーが発案したESU 2｜ウェイプルスが示した2条件 3｜モリッツが提案したMU 4｜保全の単位についてまとめ 4――ESUとMUの事例 1｜太平洋のサケ：ESUの代表例 2｜サザン・レジデントのシャチ：DPSとして守られたESU 3｜北海道のヒグマ：MUとして扱われる地域個体群 5――おわりに （私見）生き物を守るとき、多くの人は「種」を単位に考える。パンダを守る、トキを守る、という具合だ。しかし、実際の保全（生き物や自然環境を、なくならないように守り、管理すること）の現場では、種だけを見ていると足りない場面が出てくる。 たとえば同じ種のサケでも、生まれた川によって遺伝的な特徴が少しずつ違う。ある川の個体群が消えても、種としてのサケは絶滅しない。しかし、その川だけが持っていた特徴は、二度と取り戻せない。 こうした違いに気づ",
+    "sourceName": "ニッセイ基礎研（年金）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T07:06:07.000Z",
+    "category": "insurance",
+    "keywords": [
+      "「種」だけでは守れないもの－ESUとMU",
+      "二つの保全の単位が生まれるまで"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87299?site=nli"
+  },
+  {
+    "id": "rss-insurance-dc2afefeafda14",
+    "title": "「種」だけでは守れないもの－ESUとMU、二つの保全の単位が生まれるまで",
+    "summary": "■要旨 生物を保全する際、「種」という単位だけでは、同じ種の中にある集団ごとの遺伝的な違いを守れない場合がある。本稿は、集団間の遺伝的な違いを測る指標Fstを起点に、保全の単位として提案されてきたESU（進化的に重要な単位）とMU（管理単位）を整理する。ESUは、長い年月をかけて独立した進化の歴史を積み重ねてきたことまで確認する重い単位であり、太平洋のサケなどが代表例となる。一方MUは、今の遺伝的な違いさえ確認できれば足りる、実務的で軽い単位であり、北海道のヒグマの地域個体群管理などに用いられる。両者が生まれた経緯や具体例を通じて、種として絶滅していなくても失われうる、集団固有の価値について考える。 ■目次 1――はじめに 2――遺伝的な違いをどう見るのか 1｜「対立遺伝子」という考え方 2｜ライトが発表した違いを測る物差し 3｜この物差しだけでは「時間の長さ」が表せない 3――ESUとMUの違いと具体例 1｜ライダーが発案したESU 2｜ウェイプルスが示した2条件 3｜モリッツが提案したMU 4｜保全の単位についてまとめ 4――ESUとMUの事例 1｜太平洋のサケ：ESUの代表例 2｜サザン・レジデントのシャチ：DPSとして守られたESU 3｜北海道のヒグマ：MUとして扱われる地域個体群 5――おわりに （私見）生き物を守るとき、多くの人は「種」を単位に考える。パンダを守る、トキを守る、という具合だ。しかし、実際の保全（生き物や自然環境を、なくならないように守り、管理すること）の現場では、種だけを見ていると足りない場面が出てくる。 たとえば同じ種のサケでも、生まれた川によって遺伝的な特徴が少しずつ違う。ある川の個体群が消えても、種としてのサケは絶滅しない。しかし、その川だけが持っていた特徴は、二度と取り戻せない。 こうした違いに気づ",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T07:06:07.000Z",
+    "category": "insurance",
+    "keywords": [
+      "「種」だけでは守れないもの－ESUとMU",
+      "二つの保全の単位が生まれるまで"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87299?site=nli"
+  },
+  {
+    "id": "rss-insurance-dc2afefeafda14",
+    "title": "「種」だけでは守れないもの－ESUとMU、二つの保全の単位が生まれるまで",
+    "summary": "■要旨 生物を保全する際、「種」という単位だけでは、同じ種の中にある集団ごとの遺伝的な違いを守れない場合がある。本稿は、集団間の遺伝的な違いを測る指標Fstを起点に、保全の単位として提案されてきたESU（進化的に重要な単位）とMU（管理単位）を整理する。ESUは、長い年月をかけて独立した進化の歴史を積み重ねてきたことまで確認する重い単位であり、太平洋のサケなどが代表例となる。一方MUは、今の遺伝的な違いさえ確認できれば足りる、実務的で軽い単位であり、北海道のヒグマの地域個体群管理などに用いられる。両者が生まれた経緯や具体例を通じて、種として絶滅していなくても失われうる、集団固有の価値について考える。 ■目次 1――はじめに 2――遺伝的な違いをどう見るのか 1｜「対立遺伝子」という考え方 2｜ライトが発表した違いを測る物差し 3｜この物差しだけでは「時間の長さ」が表せない 3――ESUとMUの違いと具体例 1｜ライダーが発案したESU 2｜ウェイプルスが示した2条件 3｜モリッツが提案したMU 4｜保全の単位についてまとめ 4――ESUとMUの事例 1｜太平洋のサケ：ESUの代表例 2｜サザン・レジデントのシャチ：DPSとして守られたESU 3｜北海道のヒグマ：MUとして扱われる地域個体群 5――おわりに （私見）生き物を守るとき、多くの人は「種」を単位に考える。パンダを守る、トキを守る、という具合だ。しかし、実際の保全（生き物や自然環境を、なくならないように守り、管理すること）の現場では、種だけを見ていると足りない場面が出てくる。 たとえば同じ種のサケでも、生まれた川によって遺伝的な特徴が少しずつ違う。ある川の個体群が消えても、種としてのサケは絶滅しない。しかし、その川だけが持っていた特徴は、二度と取り戻せない。 こうした違いに気づ",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T07:06:07.000Z",
+    "category": "insurance",
+    "keywords": [
+      "「種」だけでは守れないもの－ESUとMU",
+      "二つの保全の単位が生まれるまで"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87299?site=nli"
+  },
+  {
+    "id": "rss-economy-50fb6212790f83",
+    "title": "国立大学のコストを誰が､いつ負担するのか…インフレで始まった国立大学授業料の見直しで考えるべきこと | 政治・経済・投資 | 東洋経済オンライン",
+    "summary": "国立大学の授業料を物価や賃金の動向に応じて見直す動きが本格化しています。欧米諸国の制度も参考に､日本の高等教育費負担のあり方が問われる今､単なる値上げ議論でなく､社会全体で｢誰が､いつ､どのように負…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T07:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "国立大学のコストを誰が､いつ負担するのか",
+      "政治",
+      "経済",
+      "投資",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/963455?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-insurance-317421beb33a20",
+    "title": "Liberty Mutual Investments Backs Pet and Vet Services Firm Synergy Pet Group",
+    "summary": "Liberty Mutual Investments, the investment firm for Liberty Mutual Group, said it has provided debt financing to Synergy Pet Group to support the company’s continued pet services and technology expansion. Synergy Pet Group, based in Lakewood, New Jersey, is backed …",
+    "sourceName": "Insurance Journal",
+    "sourceIcon": "🛡️",
+    "publishedAt": "2026-11-11T06:00:45.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Liberty",
+      "Mutual",
+      "Investments",
+      "Backs",
+      "Pet"
+    ],
+    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
+    "isNew": true,
+    "url": "https://www.insurancejournal.com/news/east/2026/11/11/892246.htm",
+    "summaryJa": "リバティ・ミューチュアル・グループの投資会社であるリバティ・ミューチュアル・インベストメンツは、同社の継続的なペットサービスとテクノロジーの拡大を支援するために、シナジー・ペット・グループに債務融資を提供したと発表した。ニュージャージー州レイクウッドに拠点を置く Synergy Pet Group が支援しています…"
+  },
+  {
+    "id": "rss-insurance-df5061cbdc8987",
+    "title": "Maryland High Court Weighs Sovereign Immunity Claim for Some Sex Abuse Lawsuits",
+    "summary": "Maryland’s highest court heard arguments on an appeal Monday that will affect 1,300 lawsuits filed under the Child Victims Act. The 2023 law effectively eliminated time barriers for someone to file a court claim of institutional sex abuse. At issue …",
+    "sourceName": "Insurance Journal",
+    "sourceIcon": "🛡️",
+    "publishedAt": "2026-11-11T06:00:36.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Maryland",
+      "High",
+      "Court",
+      "Weighs",
+      "Sovereign"
+    ],
+    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
+    "isNew": true,
+    "url": "https://www.insurancejournal.com/news/east/2026/11/11/892252.htm"
+  },
+  {
+    "id": "rss-insurance-55a2d75b0d2d19",
+    "title": "People Moves: Island Insurance Names Cheung VP; Alliant Names Shenouda AI Transformation Officer; Daley Becomes EverPeak CUO",
+    "summary": "Cheung Joins Island Insurance as VP of Operations, Data and Product Management Island Insurance named Michelle Cheung to its executive team as vice president overseeing the organization’s operations and data products management. Most recently, Cheung was the IT development manager …",
+    "sourceName": "Insurance Journal",
+    "sourceIcon": "🛡️",
+    "publishedAt": "2026-11-11T06:00:00.000Z",
+    "category": "insurance",
+    "keywords": [
+      "People",
+      "Moves",
+      "Island",
+      "Insurance",
+      "Names"
+    ],
+    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
+    "isNew": true,
+    "url": "https://www.insurancejournal.com/news/west/2026/11/11/891227.htm",
+    "summaryJa": "チャン氏が運営、データ、製品管理担当副社長としてアイランド・インシュアランスに入社 アイランド・インシュアランスでは、組織の運営とデータ製品管理を監督する副社長として、ミシェル・チャン氏を経営陣に任命しました。つい最近まで、Cheung は IT 開発マネージャーでした…"
+  },
+  {
+    "id": "rss-ai_theory-f6365915535226",
+    "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+    "summary": "arXiv:2611.12933v1 Announce Type: new Abstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains largely unexplored. Here, using coding-agent infrastructure grounded in validated scientific methods, we demonstrate autonomous synchrotron X-ray experiments on nanoparticle superlattices under evolving, human-defined objectives. Complete human-agent and agent-agent transcripts enable an audit that reconstructs decision provenance and characterizes the division of cognitive labor. Across three experiments, 61-67% of messages involved interpretation or judgment, while the share of methodological and sci",
+    "sourceName": "arXiv cs.AI",
+    "sourceIcon": "◆",
+    "publishedAt": "2026-11-11T05:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "Auditable",
+      "Human-Agent",
+      "Teams",
+      "Autonomous",
+      "X-ray"
+    ],
+    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
+    "isNew": true,
+    "url": "https://arxiv.org/abs/2611.12933",
+    "summaryJa": "arXiv:2611.12933v1 発表の種類: 新しい要約: クローズドループの自律実験は科学的発見を加速できますが、実装の努力によりアクセシビリティが制限されます。エージェントシステムはこの障壁を下げる可能性がありますが、物理的な機器での持続的な操作はほとんど未解明のままです。ここでは、検証済みの科学的手法に基づいたコーディング エージェント インフラストラクチャを使用して、進化する人間が定義した目標の下で、ナノ粒子超格子に対する自律型シンクロトロン X 線実験を実証します。人間とエージェント、およびエージェントとエージェントの完全な記録により、意思決定の来歴を再構築し、部門の特徴を明らかにする監査が可能になります。"
+  },
+  {
+    "id": "rss-ai_theory-70b6e0e37bdecc",
+    "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+    "summary": "arXiv:2611.12934v1 Announce Type: new Abstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, remains unmeasured. Existing benchmarks fall short: they pose questions on curated images or give agents preprocessed inputs, leaving out the raw multi-sensor archives where such analysis begins. We introduce EarthRecord, a benchmark built on the raw record of 56 sites: four decades of Landsat, MODIS, VIIRS, and Sentinel-2 data, with cloud masking and cross-sensor harmonization left to the agent. It poses 238 land-change questions across ten analysis tasks, scored against withheld references from global products, agreement among",
+    "sourceName": "arXiv cs.AI",
+    "sourceIcon": "◆",
+    "publishedAt": "2026-11-11T05:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "EarthRecord",
+      "Pixels",
+      "Land",
+      "Change",
+      "Multimodal"
+    ],
+    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
+    "isNew": true,
+    "url": "https://arxiv.org/abs/2611.12934"
+  },
+  {
+    "id": "rss-ai_theory-e5cd4cd10b4ff8",
+    "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
+    "summary": "arXiv:2611.12935v1 Announce Type: new Abstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generation time have so far been trained to detect harmful content and are limited to two or three classes. We introduce TopicScope, a framework for training causal topic classifiers on SAE features that assign a topic to every token, so that the label can change partway through a response. We train three detector architectures on synthetic multi-topic conversations covering seven topics. Across Gemma-3 1B and 4B, monitors trained on features extracted from prefill hidden states were able to generalise to decoding. We also found that the classifiers are robust to perturbations, lo",
+    "sourceName": "arXiv cs.AI",
+    "sourceIcon": "◆",
+    "publishedAt": "2026-11-11T05:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "Train",
+      "prefill",
+      "monitor",
+      "decode",
+      "sparse"
+    ],
+    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
+    "isNew": true,
+    "url": "https://arxiv.org/abs/2611.12935",
+    "summaryJa": "arXiv:2611.12935v1 Announce Type: new Abstract: トピック監視は、生成中にモデルの応答内の各トークンのトピックにラベルを付けるタスクです。生成時に実行されるアクティベーションベースのモニターはこれまでのところ、有害なコンテンツを検出するように訓練されており、2 つまたは 3 つのクラスに限定されています。 TopicScope は、すべてのトークンにトピックを割り当てる SAE 機能で因果トピック分類子をトレーニングするためのフレームワークであり、応答の途中でラベルを変更できるようにします。 7 つのトピックをカバーする合成マルチトピック会話で 3 つの検出器アーキテクチャをトレーニングします。 Gemma-3 1B および 4B 全体で、機能についてトレーニングされたモニター"
+  },
+  {
+    "id": "rss-ai_theory-4bd6d8fca0727c",
+    "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
+    "summary": "arXiv:2611.12936v1 Announce Type: new Abstract: Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visual tasks, require extensive labeled data, and lack deep analytical and scene-understanding capabilities. To address these limitations, we propose LandslideFM, the first unified foundation model that connects visual perception tasks with contextual interpretation of landslides. Specifically, LandslideFM adapts to multiple visual tasks via a Source-Agreement Graduated Trust semi-supervised learning framework that leverages limited labeled data alongside abundant unlabeled data. Furthermore, predicted landslide regions provide explicit spatial guidance to a Vision-Language Model adapted through parame",
+    "sourceName": "arXiv cs.AI",
+    "sourceIcon": "◆",
+    "publishedAt": "2026-11-11T05:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "LandslideFM",
+      "Foundation",
+      "Model",
+      "Towards",
+      "Unified"
+    ],
+    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
+    "isNew": true,
+    "url": "https://arxiv.org/abs/2611.12936"
+  },
+  {
+    "id": "rss-ai_theory-e15dfd244ed580",
+    "title": "Tracing Psychometric Inference in Large Language Models",
+    "summary": "arXiv:2611.12937v1 Announce Type: new Abstract: Do large language models represent psychological constructs internally, or do they only generate outputs that resemble psychometric structure? We address this question using a cross-persona paradigm across 14 model variants from two families (Llama 3 and Qwen 2.5, 0.5B-14B, base and instruct). Given responses on one psychological scale from real individuals (N = 272 Taiwanese university students), models predict responses on six other scales. At the behavioral level, larger variants reproduce and amplify human cross-scale correlations; amplification persists after correcting the seven-scale human correlations for measurement attenuation. We then examine whether this structure is reflected internally. Contrastive direction ",
+    "sourceName": "arXiv cs.AI",
+    "sourceIcon": "◆",
+    "publishedAt": "2026-11-11T05:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "Tracing",
+      "Psychometric",
+      "Inference",
+      "Large",
+      "Language"
+    ],
+    "bannerClass": "from-rose-900 via-fuchsia-900 to-violet-900",
+    "isNew": true,
+    "url": "https://arxiv.org/abs/2611.12937",
+    "summaryJa": "arXiv:2611.12937v1 発表タイプ: 新しい要約: 大規模な言語モデルは内部的に心理的構造を表しますか、それとも心理測定構造に似た出力を生成するだけですか?私たちは、2 つのファミリー (Llama 3 と Qwen 2.5、0.5B ～ 14B、ベースと命令) の 14 のモデル バリアントにわたるクロスペルソナ パラダイムを使用してこの問題に取り組みます。実際の個人 (N = 272 の台湾の大学生) からの 1 つの心理スケールでの反応が与えられると、モデルは他の 6 つのスケールでの反応を予測します。行動レベルでは、より大きな変異体は人間のスケール間の相関関係を再現し、増幅させます。 7-を修正した後も増幅は持続します。"
+  },
+  {
+    "id": "rss-insurance-3539ec933c3adb",
+    "title": "年金額改定の本来の意義は実質的な価値の維持－年金額改定の仕組みと2027年度以降の見通し (1)",
+    "summary": "■要旨 本連載では、年金額改定の仕組みを確認し、2027年度以降の見通しを展望する。第1回の本稿では、年金額改定のルールのうち本来の改定ルールについて、意義や経緯を確認した。その要点は、次のとおりである。 現在の公的年金の改定率（毎年度の見直し率）は、常に適用される本来の改定率と、年金財政を健全化している最中に適用される年金財政健全化のための調整率（いわゆるマクロ経済スライド）を組み合わせたものとなっている。 このうち本来の改定の基本的な意義は、経済状況の変化に対応して年金額の実質的な価値を維持することである。 現在の仕組み（2021年度以降）では、67歳以下（厳密には67歳に到達する年度まで）に適用される本来の改定率は、常に賃金変動率である。これは、従来行われていた約５年ごとの法改正によって賃金の変化に連動して改定する仕組みを、2004年改正を機に毎年度自動的に行う仕組み（政治状況に左右されにくい仕組み）に切り替えたものである。 68歳以上（厳密には68歳に到達する年度以降）に適用される本来の改定率は、賃金変動率と物価変動率のうち低い方である（2021年度以降）。 ・賃金変動率が物価変動率を上回る場合は、年金の購買力を維持しつつ少子化や長寿化による年金財政の悪化に対応するため、年金財政の保険料収入を左右する賃金変動率よりも低い物価変動率が使われる。ただし、この仕組みが発動されたのは、2023年度のみである。 ・賃金変動率が物価変動率を下回る場合は、年金財政の悪化を避けつつ、現役の賃金の伸びを上回る年金額の引上げは不適切という世代間バランスの観点から、物価変動率よりも低い賃金変動率が使われる。2021年度からこの仕組みに切り替えられたことで、改正前のように年金財政の悪化要因になることが避けられた。 賃金変動率の計算には、直近の物価変動",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T04:11:33.000Z",
+    "category": "insurance",
+    "keywords": [
+      "年金額改定の本来の意義は",
+      "の意義は実質的な価値の維",
+      "価値の維持－年金額改定の",
+      "額改定の仕組みと2027",
+      "2027年度以降の見通し"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87298?site=nli"
+  },
+  {
+    "id": "rss-insurance-3539ec933c3adb",
+    "title": "年金額改定の本来の意義は実質的な価値の維持－年金額改定の仕組みと2027年度以降の見通し (1)",
+    "summary": "■要旨 本連載では、年金額改定の仕組みを確認し、2027年度以降の見通しを展望する。第1回の本稿では、年金額改定のルールのうち本来の改定ルールについて、意義や経緯を確認した。その要点は、次のとおりである。 現在の公的年金の改定率（毎年度の見直し率）は、常に適用される本来の改定率と、年金財政を健全化している最中に適用される年金財政健全化のための調整率（いわゆるマクロ経済スライド）を組み合わせたものとなっている。 このうち本来の改定の基本的な意義は、経済状況の変化に対応して年金額の実質的な価値を維持することである。 現在の仕組み（2021年度以降）では、67歳以下（厳密には67歳に到達する年度まで）に適用される本来の改定率は、常に賃金変動率である。これは、従来行われていた約５年ごとの法改正によって賃金の変化に連動して改定する仕組みを、2004年改正を機に毎年度自動的に行う仕組み（政治状況に左右されにくい仕組み）に切り替えたものである。 68歳以上（厳密には68歳に到達する年度以降）に適用される本来の改定率は、賃金変動率と物価変動率のうち低い方である（2021年度以降）。 ・賃金変動率が物価変動率を上回る場合は、年金の購買力を維持しつつ少子化や長寿化による年金財政の悪化に対応するため、年金財政の保険料収入を左右する賃金変動率よりも低い物価変動率が使われる。ただし、この仕組みが発動されたのは、2023年度のみである。 ・賃金変動率が物価変動率を下回る場合は、年金財政の悪化を避けつつ、現役の賃金の伸びを上回る年金額の引上げは不適切という世代間バランスの観点から、物価変動率よりも低い賃金変動率が使われる。2021年度からこの仕組みに切り替えられたことで、改正前のように年金財政の悪化要因になることが避けられた。 賃金変動率の計算には、直近の物価変動",
+    "sourceName": "ニッセイ基礎研（年金）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T04:11:33.000Z",
+    "category": "insurance",
+    "keywords": [
+      "年金額改定の本来の意義は",
+      "の意義は実質的な価値の維",
+      "価値の維持－年金額改定の",
+      "額改定の仕組みと2027",
+      "2027年度以降の見通し"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87298?site=nli"
+  },
+  {
+    "id": "rss-insurance-3539ec933c3adb",
+    "title": "年金額改定の本来の意義は実質的な価値の維持－年金額改定の仕組みと2027年度以降の見通し (1)",
+    "summary": "■要旨 本連載では、年金額改定の仕組みを確認し、2027年度以降の見通しを展望する。第1回の本稿では、年金額改定のルールのうち本来の改定ルールについて、意義や経緯を確認した。その要点は、次のとおりである。 現在の公的年金の改定率（毎年度の見直し率）は、常に適用される本来の改定率と、年金財政を健全化している最中に適用される年金財政健全化のための調整率（いわゆるマクロ経済スライド）を組み合わせたものとなっている。 このうち本来の改定の基本的な意義は、経済状況の変化に対応して年金額の実質的な価値を維持することである。 現在の仕組み（2021年度以降）では、67歳以下（厳密には67歳に到達する年度まで）に適用される本来の改定率は、常に賃金変動率である。これは、従来行われていた約５年ごとの法改正によって賃金の変化に連動して改定する仕組みを、2004年改正を機に毎年度自動的に行う仕組み（政治状況に左右されにくい仕組み）に切り替えたものである。 68歳以上（厳密には68歳に到達する年度以降）に適用される本来の改定率は、賃金変動率と物価変動率のうち低い方である（2021年度以降）。 ・賃金変動率が物価変動率を上回る場合は、年金の購買力を維持しつつ少子化や長寿化による年金財政の悪化に対応するため、年金財政の保険料収入を左右する賃金変動率よりも低い物価変動率が使われる。ただし、この仕組みが発動されたのは、2023年度のみである。 ・賃金変動率が物価変動率を下回る場合は、年金財政の悪化を避けつつ、現役の賃金の伸びを上回る年金額の引上げは不適切という世代間バランスの観点から、物価変動率よりも低い賃金変動率が使われる。2021年度からこの仕組みに切り替えられたことで、改正前のように年金財政の悪化要因になることが避けられた。 賃金変動率の計算には、直近の物価変動",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T04:11:33.000Z",
+    "category": "insurance",
+    "keywords": [
+      "年金額改定の本来の意義は",
+      "の意義は実質的な価値の維",
+      "価値の維持－年金額改定の",
+      "額改定の仕組みと2027",
+      "2027年度以降の見通し"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87298?site=nli"
+  },
+  {
+    "id": "rss-insurance-3539ec933c3adb",
+    "title": "年金額改定の本来の意義は実質的な価値の維持－年金額改定の仕組みと2027年度以降の見通し (1)",
+    "summary": "■要旨 本連載では、年金額改定の仕組みを確認し、2027年度以降の見通しを展望する。第1回の本稿では、年金額改定のルールのうち本来の改定ルールについて、意義や経緯を確認した。その要点は、次のとおりである。 現在の公的年金の改定率（毎年度の見直し率）は、常に適用される本来の改定率と、年金財政を健全化している最中に適用される年金財政健全化のための調整率（いわゆるマクロ経済スライド）を組み合わせたものとなっている。 このうち本来の改定の基本的な意義は、経済状況の変化に対応して年金額の実質的な価値を維持することである。 現在の仕組み（2021年度以降）では、67歳以下（厳密には67歳に到達する年度まで）に適用される本来の改定率は、常に賃金変動率である。これは、従来行われていた約５年ごとの法改正によって賃金の変化に連動して改定する仕組みを、2004年改正を機に毎年度自動的に行う仕組み（政治状況に左右されにくい仕組み）に切り替えたものである。 68歳以上（厳密には68歳に到達する年度以降）に適用される本来の改定率は、賃金変動率と物価変動率のうち低い方である（2021年度以降）。 ・賃金変動率が物価変動率を上回る場合は、年金の購買力を維持しつつ少子化や長寿化による年金財政の悪化に対応するため、年金財政の保険料収入を左右する賃金変動率よりも低い物価変動率が使われる。ただし、この仕組みが発動されたのは、2023年度のみである。 ・賃金変動率が物価変動率を下回る場合は、年金財政の悪化を避けつつ、現役の賃金の伸びを上回る年金額の引上げは不適切という世代間バランスの観点から、物価変動率よりも低い賃金変動率が使われる。2021年度からこの仕組みに切り替えられたことで、改正前のように年金財政の悪化要因になることが避けられた。 賃金変動率の計算には、直近の物価変動",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T04:11:33.000Z",
+    "category": "insurance",
+    "keywords": [
+      "年金額改定の本来の意義は",
+      "の意義は実質的な価値の維",
+      "価値の維持－年金額改定の",
+      "額改定の仕組みと2027",
+      "2027年度以降の見通し"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87298?site=nli"
+  },
+  {
+    "id": "rss-economy-d6fe449c84871d",
+    "title": "きっかけは何? 他人にうつるの? つらい後遺症は? 《発症が急増する50代》が知っておきたい帯状疱疹の素朴な疑問10 | ライフ | 東洋経済オンライン",
+    "summary": "水ぼうそうと原因ウイルスは同じながら､まったく異なる症状を引き起こす帯状疱疹。加齢やストレスで免疫が低下すると誰にでも発症リスクがあります。知られざる後遺症や予防法､早期の対処法まで､あなたの健康を…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T04:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "きっかけは何",
+      "他人にうつるの",
+      "つらい後遺症は",
+      "ライフ",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/962192?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-ai-4410ba8d824162",
+    "title": "“脱マクロ”に反発も、「作業時間→Geminiで2分」 オートバックスはGoogle Workspaceにどう移行？",
+    "summary": "オートバックスセブンが、「Google Workspace」や「Gemini」を活用した業務改革を進めている。しかし、長年使い慣れた表計算ソフトウェアやマクロからの移行には、現場から強い反発もあったという。同社はこうした課題にどう対応し、生成AIによる業務効率化につなげたのか。",
+    "sourceName": "ITmedia AI",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-11T03:45:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "“脱マクロ”に反発も",
+      "「作業時間→Geminiで2分」",
+      "オートバックスはGoogle",
+      "Workspaceにどう移行"
+    ],
+    "bannerClass": "from-sky-900 to-slate-800",
+    "isNew": true,
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news035.html"
   },
   {
     "id": "rss-ai-99a6d7091b8452",
@@ -961,176 +2331,6 @@
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news033.html"
   },
   {
-    "id": "rss-economy-3c72dec0c030c0",
-    "title": "今季いちばんの冷え込み 日中は気温上昇 台風で小笠原は大しけ",
-    "summary": "上空の寒気の影響などで11日朝は北日本から西日本の広い範囲で気温が下がり、今シーズンいちばんの冷え込みとなりました。日中は穏やかに晴れて前日よりも気温が高いところが多くなる見込みです。",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-11T03:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "今季いちばんの冷え込み",
-      "日中は気温上昇",
-      "台風で小笠原は大しけ"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20261111de73870"
-  },
-  {
-    "id": "rss-economy-126baa5f5e717d",
-    "title": "《餃子の王将･社長射殺事件》｢被告人が吸ったたばこの吸い殻｣と認められても無罪…元検察官が指摘する｢検察の誤算｣ | ライフ | 東洋経済オンライン",
-    "summary": "2013年に発生した｢餃子の王将｣社長射殺事件で､京都地裁は無罪を言い渡しました。事件現場近くで見つかった｢たばこの吸い殻｣から被告人と一致するDNAが検出されるも､犯行を裏付ける決定的な証拠にはな…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-11T03:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "元検察官が指摘する｢検察の誤算｣",
-      "ライフ",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/964078?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-0bc1558f5858f1",
-    "title": "《脚の筋肉量は腹筋の36倍》腹筋を最速で割りたい人へ､家トレ専門トレーナーが教える｢最強のスクワット｣のやり方 | ライフ | 東洋経済オンライン",
-    "summary": "最速でシックスパックを目指すには､実は腹筋ではなく｢脚｣を鍛えることが重要です。\"家トレ専門トレーナー\"が｢下半身はこれ一択｣と太鼓判を押す､効果的なスクワットを紹介します。",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-11T03:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "ライフ",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/963266?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-3291c781296136",
-    "title": "NTTドコモ通信障害 「5G SA」利用者に影響 原因を調査中",
-    "summary": "NTTドコモでは、11日午前10時半すぎから通信障害が発生し、一部の利用者の間で携帯電話のサービスが利用しづらくなっています。",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-11T02:58:04.000Z",
-    "category": "economy",
-    "keywords": [
-      "NTTドコモ通信障害",
-      "「5G",
-      "SA」利用者に影響",
-      "原因を調査中"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20261111de73934"
-  },
-  {
-    "id": "rss-economy-98b487637bf11e",
-    "title": "ルフィ事件 幹部が起訴内容を否認",
-    "summary": "ルフィ事件 幹部が起訴内容を否認",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-11T02:49:09.000Z",
-    "category": "economy",
-    "keywords": [
-      "ルフィ事件",
-      "幹部が起訴内容を否認"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6602143?source=rss"
-  },
-  {
-    "id": "rss-economy-5de0836c0f6946",
-    "title": "消費税減税法案が参院に 高市首相“支援金 勤労者の3割以上”",
-    "summary": "今の国会で最大の焦点となっている食料品の消費税減税関連法案が参議院で審議入りしました。高市総理大臣は、所得に応じた支援金について、より多くの人が受け取れるよう、勤労者の3割以上を対象とする方向で検討す…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-11T02:47:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "消費税減税法案が参院に",
-      "高市首相“支援金",
-      "勤労者の3割以上”"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20261111de73947"
-  },
-  {
-    "id": "rss-economy-d06dcbeab56a2e",
-    "title": "ドコモ携帯 全国で障害が発生",
-    "summary": "ドコモ携帯 全国で障害が発生",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-11T02:45:39.000Z",
-    "category": "economy",
-    "keywords": [
-      "ドコモ携帯",
-      "全国で障害が発生"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6602147?source=rss"
-  },
-  {
-    "id": "rss-economy-157f0ec198f1b7",
-    "title": "トヨタがアメリカで最高時速40キロの超小型車｢KEI-01｣を生産へ､当初は法人向けチャンネルを通じてのみの販売 | 政治・経済・投資 | 東洋経済オンライン",
-    "summary": "トヨタ自動車が米国で日本の軽自動車の名前を冠した超小型車｢KEI-01｣の生産に乗り出します。",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-11T02:30:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "政治",
-      "経済",
-      "投資",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/964344?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-8598e5dd3ead66",
-    "title": "日本ハム､オーストラリア苦戦やコスト高で利益計画を下方修正 柱の食肉事業が採算悪化 | 政治・経済・投資 | 東洋経済オンライン",
-    "summary": "食肉最大手の日本ハムが今2027年3月期の利益計画を下方修正しました。その要因とは？",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-11T02:30:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "柱の食肉事業が採算悪化",
-      "政治",
-      "経済",
-      "投資",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/964217?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-7ba9c280cd904b",
-    "title": "ダンプカー衝突 自転車の15歳死亡",
-    "summary": "ダンプカー衝突 自転車の15歳死亡",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-11T02:22:35.000Z",
-    "category": "economy",
-    "keywords": [
-      "ダンプカー衝突",
-      "自転車の15歳死亡"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6602142?source=rss"
-  },
-  {
     "id": "rss-insurance-13f82394909ee5",
     "title": "景気ウォッチャー調査2026年10月～食料品の値上げが景況感を下押しし、現状判断DIは6ヵ月ぶりに低下～",
     "summary": "■要旨 2026年10月の景気の現状判断DI（季節調整値）は46.1と前月から0.9ポイント低下した。低下は6ヵ月ぶりとなった。 内訳をみると、企業動向関連のDIは上昇したものの、家計動向関連、雇用関連のDIは低下した。 DIが前月から2.1ポイント低下した家計動向関連の小売関連のコメントをみると、「ビールの値下げと発泡酒の値上げなどで、まとめ買いや節約の動きが増え、販売量が不安定になっている（近畿・コンビニ）」や「10月も食品の値上がりが止まらず物価高が進み、かつ、可処分所得が増えないため、客の購買意欲が落ちている（東北・スーパー）」など、物価高による消費者の節約志向の強まりや購買意欲の低下を指摘する声が聞かれた。 2～3か月先の景気の先行きに対する判断DIは46.5と前月から0.9ポイント低下した。 ■目次 1．景気の現状判断DIは6ヵ月ぶりに低下 2．物価高が家計、企業双方の景況感を下押し 3．景気の先行き判断DIは46.5と前月から0.9ポイント低下内閣府が11月10日に公表した景気ウォッチャー調査によると、2026年10月の景気の現状判断DI（季節調整値）は46.1となり、前月から0.9ポイント低下した。低下は6ヵ月ぶりとなった。 内訳をみると、企業動向関連（前月差0.5ポイント）のDIは上昇したものの、家計動向関連（同▲1.3ポイント）、雇用関連（同▲1.6ポイント）のDIは低下した。内閣府は、景気の基調判断を「持ち直しの動きがみられる」に据え置いた。 地域別にみると、全国12地域中2地域で上昇し、10地域で低下した。最も上昇幅が大きかったのは南関東（前月差2.5ポイント）で、最も低下幅が大きかったのは沖縄（同▲10.2ポイント）であった。 2．物価高が家計、企業双方の景況感を下押し 家計動向関連では、飲食関連（前月差2.",
@@ -1207,25 +2407,6 @@
     "url": "https://www.nli-research.co.jp/topics_detail1/id=87297?site=nli"
   },
   {
-    "id": "rss-market-488cd970551be2",
-    "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
-    "summary": "Anthropic opened its Australia retail IPO offering on Wednesday, allowing individual investors to apply for shares ahead of its planned IPO.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-11-11T01:52:56.000Z",
-    "category": "market",
-    "keywords": [
-      "Anthropic",
-      "opens",
-      "Australian",
-      "retail",
-      "IPO"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html"
-  },
-  {
     "id": "rss-insurance-b88d81fb3f4b9f",
     "title": "外国株への投資意欲が低下か？～2026年10月の投信動向～",
     "summary": "■要旨 10月は外国株式ファンドへの資金流入が大きく落ち込んだ結果、ファンド全体の資金流入は９月から2,800億円減少し、１兆7,800億円と５月以降で最少となった。 ■目次 ・５月以降で最少の流入 ・一部のアクティブ型外国株式ファンドの人気に陰り ・インデックス型外国株式トップ２本の流入鈍化止まらず ・外国株式やバランス型への投資意欲が低下？ ・外国債券も売り拡大 ・日経平均連動型には押し目買い ・資源関連、好配当の外国株式ファンドの一部が好調2026年10月の日本籍追加型株式投信（ＥＴＦを除く。以下、「ファンド」とする）の推計資金流出入を見ると、ファンド全体へ１兆7,800億円の資金流入があった。９月の２兆600億円から2,800億円減少し、５カ月ぶりに２兆円を下回った。ＳＭＡ専用ファンドへの流入が3,300億円と９月から500億円増加したが、一般販売されているファンドへの流入は１兆4,500億円と５月以降で最少となった。 資産クラス別に一般販売されているファンドを見ると、10月は外国株式ファンドへの資金流入が１兆1,200億円に留まり、９月から2,800億円減少したことがファンド全体の流入減につながった【図表１】。特にアクティブ型の外国株式ファンドへの流入額が2,600億円と、９月から1,500億円減少した。 一部のアクティブ型外国株式ファンドの人気に陰り アクティブ型の外国株式ファンドを個別で見ると、「フィデリティ・グロース・オポチュニティ・ファンド Ｄコース（毎月決算・予想分配金提示型・為替ヘッジなし）」（フィデリティ投信）の10月の流入額は800億円と９月と同規模であった【図表２】。さらに「サイバーセキュリティ株式オープン(為替ヘッジなし)」（三菱ＵＡＭ）は流入額が400億円に迫り、急増した。 しかし、それ以外の多くのアク",
@@ -1288,138 +2469,6 @@
     "bannerClass": "from-blue-950 to-indigo-950",
     "isNew": true,
     "url": "https://www.nli-research.co.jp/topics_detail1/id=87296?site=nli"
-  },
-  {
-    "id": "rss-ai-27f896233dc624",
-    "title": "X launches its own clipping feature to spur influencer engagement",
-    "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-11-11T01:02:13.000Z",
-    "category": "ai",
-    "keywords": [
-      "launches",
-      "own",
-      "clipping",
-      "feature",
-      "spur"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
-    "summaryJa": "X はクリッピングに積極的に取り組んでいます。クリッピングとは、長いビデオを短く共有可能なクリップに切り分けて拡散させるという一般的な手法です。"
-  },
-  {
-    "id": "rss-economy-59230dd70ccc09",
-    "title": "｢黒板は写真で撮る｣｢プリントに書いてあるからメモしない｣という人は｢読む力｣が衰えるかもしれない恐ろしい理由 | ライフ | 東洋経済オンライン",
-    "summary": "｢黒板は写真､プリントで十分｣と感じていませんか？ しかし､情報を\"記録\"するだけでは､本当の理解や思考力は身につきません。ノートを書く行為が､なぜ学びの核心なのか。テクノロジー万能時代にこそ問いた…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-11T01:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "ライフ",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/963893?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-housing-db0673e3fec7ae",
-    "title": "Reverse mortgage leaders on alleviating sales and referral pain points",
-    "summary": "Industry veterans Dan Hultquist, John Luddy and Scott Harmes were joined by financial adviser Ryan Ponsford in a NRMLA panel discussion",
-    "sourceName": "HousingWire",
-    "sourceIcon": "🏘️",
-    "publishedAt": "2026-11-11T00:42:35.000Z",
-    "category": "housing",
-    "keywords": [
-      "Reverse",
-      "mortgage",
-      "leaders",
-      "alleviating",
-      "sales"
-    ],
-    "bannerClass": "from-sky-950 to-cyan-950",
-    "isNew": true,
-    "url": "https://www.housingwire.com/articles/nrmla-reverse-mortgage-strategies-2026/"
-  },
-  {
-    "id": "rss-housing-83fb16cfce64ec",
-    "title": "Higharc, ECI launch MarkSystems integration for big builders",
-    "summary": "Integration ties 3D design, option pricing and ERP workflows to cut production builders' manual entry and errors",
-    "sourceName": "HousingWire",
-    "sourceIcon": "🏘️",
-    "publishedAt": "2026-11-11T00:24:58.000Z",
-    "category": "housing",
-    "keywords": [
-      "Higharc",
-      "ECI",
-      "launch",
-      "MarkSystems",
-      "integration"
-    ],
-    "bannerClass": "from-sky-950 to-cyan-950",
-    "isNew": true,
-    "url": "https://www.housingwire.com/articles/higharc-eci-marksystems-integration/"
-  },
-  {
-    "id": "rss-economy-c273b9fd9591e9",
-    "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
-    "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-    "sourceName": "BBC Business",
-    "sourceIcon": "¥",
-    "publishedAt": "2026-11-11T00:16:44.000Z",
-    "category": "economy",
-    "keywords": [
-      "Stickers",
-      "building",
-      "sets",
-      "help",
-      "drive"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "rss-economy-763502d052f076",
-    "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
-    "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-    "sourceName": "BBC Business",
-    "sourceIcon": "¥",
-    "publishedAt": "2026-11-11T00:02:07.000Z",
-    "category": "economy",
-    "keywords": [
-      "Poundland",
-      "hopeful",
-      "last-minute",
-      "rescue",
-      "deal"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-    "summaryJa": "BBCは、管理に向けて一歩ずつ進んでいるこのディスカウントチェーンには、買い手を見つけるのにより多くの時間が与えられることを理解している。"
-  },
-  {
-    "id": "rss-banking-eaf84a7f68eab3",
-    "title": "AI could cut banking industry's cost base by 20% - McKinsey's",
-    "summary": "AI could cut the banking industry's cost base by 20% or more, but most firms have so far only used the technology to boost individual employees' productivity, with negligible impact on the bottom line, according to a report from McKinsey's.",
-    "sourceName": "Finextra",
-    "sourceIcon": "💳",
-    "publishedAt": "2026-11-11T00:01:00.000Z",
-    "category": "banking",
-    "keywords": [
-      "cut",
-      "banking",
-      "industry",
-      "cost",
-      "base"
-    ],
-    "bannerClass": "from-indigo-900 to-blue-950",
-    "isNew": true,
-    "url": "https://www.finextra.com/newsarticle/48739/ai-could-cut-banking-industrys-cost-base-by-20---mckinseys?utm_medium=rssfinextra&utm_source=finextrafeed"
   },
   {
     "id": "rss-insurance-8bc956cf223169",
@@ -1496,45 +2545,6 @@
     "bannerClass": "from-blue-950 to-indigo-950",
     "isNew": true,
     "url": "https://www.nli-research.co.jp/topics_detail1/id=87295?site=nli"
-  },
-  {
-    "id": "rss-market-21bd78aa8e2368",
-    "title": "Hegseth impeachment effort torpedoed in House",
-    "summary": "GOP Rep. Thomas Massie, who has clashed with President Donald Trump, kicked off the Hegseth impeachment fight days after a blue wave midterm election.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-11-10T23:46:41.000Z",
-    "category": "market",
-    "keywords": [
-      "Hegseth",
-      "impeachment",
-      "effort",
-      "torpedoed",
-      "House"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html"
-  },
-  {
-    "id": "rss-market-1c163bdb1f0848",
-    "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
-    "summary": "Nvidia employees described the mood as \"sad\" as CEO Jensen Huang returned to the office after disclosing an affair.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-11-10T23:11:34.000Z",
-    "category": "market",
-    "keywords": [
-      "Nvidia",
-      "Huang",
-      "tries",
-      "project",
-      "usual"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
-    "summaryJa": "Nvidiaの従業員らは、最高経営責任者（CEO）のジェンスン・ファンが不倫を明らかにした後にオフィスに戻ってきたときの雰囲気を「悲しい」と表現した。"
   },
   {
     "id": "rss-banking-01aee6c6edcbfa",
@@ -1614,322 +2624,6 @@
     "url": "https://www.americanbanker.com/news/bofa-has-5-million-wealthy-customers-outside-merrill-can-it-win-their-assets"
   },
   {
-    "id": "rss-ai-ef2bf509ad223f",
-    "title": "セガの220万件流出は氷山の一角 委託先侵害でメールアドレス8100万件が流出",
-    "summary": "セガのメールマガジン配信先約220万件が外部流出した。原因は、配信業務を委託していたアララのシステムへの不正アクセスだ。だが、問題はセガだけでは終わらない。アララが公表した調査結果からは、メールアドレス8100万件が流出、最大約380社に影響が及ぶ可能性と、情報を持ち出された配信基盤が不審メールの送信にも悪用された実態が浮かび上がった。",
-    "sourceName": "ITmedia AI",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-10T22:45:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "セガの220万件流出は氷山の一角",
-      "委託先侵害でメールアドレス8100万件が流出"
-    ],
-    "bannerClass": "from-sky-900 to-slate-800",
-    "isNew": true,
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news034.html"
-  },
-  {
-    "id": "rss-banking-6e245f6627de0e",
-    "title": "Fed's Bowman says 'there is still work to do' on inflation",
-    "summary": "The Federal Reserve Board member and leading regulator said inflation has been 'more persistent' than she expected but argued for gathering more data on financial conditions.",
-    "sourceName": "American Banker",
-    "sourceIcon": "🇺🇸",
-    "publishedAt": "2026-11-10T22:02:37.000Z",
-    "category": "banking",
-    "keywords": [
-      "Fed",
-      "Bowman",
-      "work",
-      "inflation"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-900",
-    "isNew": true,
-    "url": "https://www.americanbanker.com/news/feds-bowman-says-there-is-still-work-to-do-on-inflation"
-  },
-  {
-    "id": "rss-housing-188132f1df2d00",
-    "title": "Mamdani gives nonprofits first dibs on buying apartment buildings",
-    "summary": "Mamdani says COPA can deter predatory investors, while rent freeze and 2019 rent law lawsuits continue",
-    "sourceName": "HousingWire",
-    "sourceIcon": "🏘️",
-    "publishedAt": "2026-11-10T21:58:06.000Z",
-    "category": "housing",
-    "keywords": [
-      "Mamdani",
-      "gives",
-      "nonprofits",
-      "dibs",
-      "buying"
-    ],
-    "bannerClass": "from-sky-950 to-cyan-950",
-    "isNew": true,
-    "url": "https://www.housingwire.com/articles/mamdani-nonprofits-first-dibs/"
-  },
-  {
-    "id": "rss-banking-29654309110d10",
-    "title": "Card balances rise, but pace of growth slows: New York Fed",
-    "summary": "The regional Fed bank's latest quarterly report on household debt and credit shows an uptick in credit-card debt during the third quarter. That's not necessarily a bad thing, one analyst said.",
-    "sourceName": "American Banker",
-    "sourceIcon": "🇺🇸",
-    "publishedAt": "2026-11-10T21:57:26.000Z",
-    "category": "banking",
-    "keywords": [
-      "Card",
-      "balances",
-      "rise",
-      "pace",
-      "growth"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-900",
-    "isNew": true,
-    "url": "https://www.americanbanker.com/news/card-balances-rise-but-pace-of-growth-slows-new-york-fed"
-  },
-  {
-    "id": "rss-market-436aee0c71cf58",
-    "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
-    "summary": "Business executives warned at a Washington summit of rising costs and shifting supply chains as polls showed growing opposition to Trump's tariffs.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-11-10T21:45:46.000Z",
-    "category": "market",
-    "keywords": [
-      "White",
-      "House",
-      "vows",
-      "press",
-      "ahead"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html"
-  },
-  {
-    "id": "rss-housing-fdfd137071b3ce",
-    "title": "Third spaces perform a star turn in this new Florida master plan",
-    "summary": "The 215-acre Wyld Oaks will include up to 6,000 residential units, along with retail, hotels, parks, medical and industrial uses",
-    "sourceName": "HousingWire",
-    "sourceIcon": "🏘️",
-    "publishedAt": "2026-11-10T21:36:58.000Z",
-    "category": "housing",
-    "keywords": [
-      "Third",
-      "spaces",
-      "perform",
-      "star",
-      "turn"
-    ],
-    "bannerClass": "from-sky-950 to-cyan-950",
-    "isNew": true,
-    "url": "https://www.housingwire.com/articles/third-spaces-perform-a-star-turn-in-this-new-florida-master-plan/"
-  },
-  {
-    "id": "rss-housing-16aaf30e074969",
-    "title": "RealPlus brings HouseCanary Google Listings to NYC clients",
-    "summary": "Listings can display photos, price, and a click-to-contact link that routes inquiries to the listing agent",
-    "sourceName": "HousingWire",
-    "sourceIcon": "🏘️",
-    "publishedAt": "2026-11-10T21:32:43.000Z",
-    "category": "housing",
-    "keywords": [
-      "RealPlus",
-      "brings",
-      "HouseCanary",
-      "Google",
-      "Listings"
-    ],
-    "bannerClass": "from-sky-950 to-cyan-950",
-    "isNew": true,
-    "url": "https://www.housingwire.com/articles/realplus-housecanary-google-listings/"
-  },
-  {
-    "id": "rss-banking-af437a0bd26c63",
-    "title": "As bank BNPL grows, consumers could face added risk",
-    "summary": "Equipifi, which processes buy now/pay later lending for banks and credit unions, says usage is growing quickly ahead of the 2026 holidays. Payment experts say the option also increases cashflow risk for consumers.",
-    "sourceName": "American Banker",
-    "sourceIcon": "🇺🇸",
-    "publishedAt": "2026-11-10T21:31:11.000Z",
-    "category": "banking",
-    "keywords": [
-      "bank",
-      "BNPL",
-      "grows",
-      "consumers",
-      "face"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-900",
-    "isNew": true,
-    "url": "https://www.americanbanker.com/payments/news/equipifi-offers-risk-based-pricing-as-bank-bnpl-grows"
-  },
-  {
-    "id": "rss-ai-612bc333be1779",
-    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-11-10T21:08:52.000Z",
-    "category": "ai",
-    "keywords": [
-      "OpenAI",
-      "acquires",
-      "Odessia",
-      "travel",
-      "startup"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
-  },
-  {
-    "id": "rss-ai-636bec9b1738d1",
-    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-11-10T20:52:13.000Z",
-    "category": "ai",
-    "keywords": [
-      "OpenAI",
-      "Anthropic",
-      "face",
-      "oversight",
-      "York"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-    "summaryJa": "ニューヨーク市は、OpenAIやAnthropicなどの大手開発者に登録、安全慣行の開示、重大なインシデントの報告を義務付け、さもなければ罰金を科すという、広範なAI安全法を施行する準備を進めている。"
-  },
-  {
-    "id": "rss-ai-fb396cc9ce5546",
-    "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-    "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-11-10T20:47:05.000Z",
-    "category": "ai",
-    "keywords": [
-      "Proximal",
-      "Ventures",
-      "raises",
-      "debut",
-      "fund"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/"
-  },
-  {
-    "id": "rss-ai-a74ea9bf7a9e74",
-    "title": "X-energy gets green light to build its first small modular nuclear reactors",
-    "summary": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "📰",
-    "publishedAt": "2026-11-10T20:43:55.000Z",
-    "category": "ai",
-    "keywords": [
-      "X-energy",
-      "gets",
-      "green",
-      "light",
-      "build"
-    ],
-    "bannerClass": "from-slate-800 to-slate-600",
-    "isNew": true,
-    "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
-    "summaryJa": "Xエナジーは米国原子力規制委員会からテキサス州に4基の原子炉を建設する建設許可を取得した。"
-  },
-  {
-    "id": "rss-housing-15313440abb537",
-    "title": "From chaos to close: Holly Mabery says agents need to quell confusion",
-    "summary": "At NAR NXT, the eXp Realty leader urged a noise versus action filter and simpler client messaging",
-    "sourceName": "HousingWire",
-    "sourceIcon": "🏘️",
-    "publishedAt": "2026-11-10T20:19:56.000Z",
-    "category": "housing",
-    "keywords": [
-      "chaos",
-      "close",
-      "Holly",
-      "Mabery",
-      "agents"
-    ],
-    "bannerClass": "from-sky-950 to-cyan-950",
-    "isNew": true,
-    "url": "https://www.housingwire.com/articles/holly-mabery-chaos-closings/"
-  },
-  {
-    "id": "rss-ai-4c0311983dea13",
-    "title": "NotebookLMに公式APIが登場 WebページやYouTube動画の取り込みを自動化でき、MCPでAIエージェントからも使える",
-    "summary": "NotebookLM（現Gemini Notebook）に、個人アカウントで使える公式のREST APIとMCPサーバが公開プレビューとして登場した。今できること、まだできないこと、使う前の条件を整理し、筆者が手元で試した結果も添える。",
-    "sourceName": "ITmedia AI",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-10T20:00:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "NotebookLMに公式APIが登場",
-      "MCPでAIエージェントからも使える"
-    ],
-    "bannerClass": "from-sky-900 to-slate-800",
-    "isNew": true,
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news011.html"
-  },
-  {
-    "id": "rss-ai-25b8b023b505da",
-    "title": "「ソースコードに“Why”は書かれていない」 レガシーシステムの“闇の仕様”、何をどこまで復元する？",
-    "summary": "AIによるコード解析だけでは、レガシーシステムの仕様を完全には復元できない。そこには人の知識や判断が欠かせない。仕様を復元する手順と、関係者の認識のずれがある中でどう仕様のレビューを進めればいいのかを解説する。",
-    "sourceName": "ITmedia AI",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-10T20:00:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "「ソースコードに“Why”は書かれていない」",
-      "レガシーシステムの“闇の仕様”",
-      "何をどこまで復元する"
-    ],
-    "bannerClass": "from-sky-900 to-slate-800",
-    "isNew": true,
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news012.html"
-  },
-  {
-    "id": "rss-banking-ad4ed4d410ce8c",
-    "title": "RIA Leaders: Top 10 firms by number of financial advisors for 2026",
-    "summary": "For the third year in a row, registered investment advisory firm Savant Wealth Management has more financial advisors than any other fee-only financial planning company.",
-    "sourceName": "American Banker",
-    "sourceIcon": "🇺🇸",
-    "publishedAt": "2026-11-10T19:50:50.000Z",
-    "category": "banking",
-    "keywords": [
-      "RIA",
-      "Leaders",
-      "Top",
-      "firms",
-      "number"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-900",
-    "isNew": true,
-    "url": "https://www.americanbanker.com/list/ria-leaders-top-10-firms-by-number-of-financial-advisors-for-2026"
-  },
-  {
-    "id": "rss-banking-31efa707b76490",
-    "title": "Banking giants commit $270m to stablecoin venture - Bloomberg",
-    "summary": "Some of the world's biggest banks - including Citi, Goldman Sachs and Deutsche Bank - have committed around $270 million to a new stablecoin venture called Project Faro, according to Bloomberg.",
-    "sourceName": "Finextra",
-    "sourceIcon": "💳",
-    "publishedAt": "2026-11-10T18:46:00.000Z",
-    "category": "banking",
-    "keywords": [
-      "Banking",
-      "giants",
-      "commit",
-      "270m",
-      "stablecoin"
-    ],
-    "bannerClass": "from-indigo-900 to-blue-950",
-    "isNew": true,
-    "url": "https://www.finextra.com/newsarticle/48738/banking-giants-commit-270m-to-stablecoin-venture---bloomberg?utm_medium=rssfinextra&utm_source=finextrafeed"
-  },
-  {
     "id": "rss-economy-c67f8109386fc6",
     "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
     "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
@@ -1965,8 +2659,7 @@
     ],
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
-    "url": "https://www.insurancejournal.com/news/midwest/2026/11/10/892294.htm",
-    "summaryJa": "インディアナ州のトッド・ロキタ司法長官は火曜日、全米最大の一戸建て賃貸住宅の所有者および運営会社の一つであるプログレス・レジデンシャルLLCおよびプレティアム・パートナーズLLCとの和解を発表し、両社が欺瞞的かつ不当な行為を行っていたという申し立てを解決した。"
+    "url": "https://www.insurancejournal.com/news/midwest/2026/11/10/892294.htm"
   },
   {
     "id": "rss-insurance-e26ff8128e5274",
@@ -1985,27 +2678,8 @@
     ],
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
     "isNew": true,
-    "url": "https://www.insurancejournal.com/news/southcentral/2026/11/10/892289.htm"
-  },
-  {
-    "id": "rss-insurance-00495f464e8e4c",
-    "title": "SpaceX Plans $24 Billion Data Center and Gas Plant in Texas",
-    "summary": "SpaceX plans to construct, own and operate a gas-fired power plant and super-compute facility at its company town in Starbase, Texas, according to a notice of a public hearing on the city’s website. The estimated investment for the initial phase …",
-    "sourceName": "Insurance Journal",
-    "sourceIcon": "🛡️",
-    "publishedAt": "2026-11-10T17:36:29.000Z",
-    "category": "insurance",
-    "keywords": [
-      "SpaceX",
-      "Plans",
-      "Billion",
-      "Data",
-      "Center"
-    ],
-    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
-    "isNew": true,
-    "url": "https://www.insurancejournal.com/news/southcentral/2026/11/10/892283.htm",
-    "summaryJa": "市のウェブサイトに掲載された公聴会の通知によると、スペースXはテキサス州スターベースの自社都市にガス火力発電所とスーパーコンピューティング施設を建設、所有、運営する計画だという。初期段階の推定投資額…"
+    "url": "https://www.insurancejournal.com/news/southcentral/2026/11/10/892289.htm",
+    "summaryJa": "AMベストは、長期発行体信用格付け（長期ICR）の見通しをネガティブから安定的へと修正し、テキサス州加盟国の財務体力格付け（FSR）がB++（良好）、長期ICRが「bbb+」（良好）であることを確認した。"
   },
   {
     "id": "rss-banking-3fe61c46294620",
@@ -2027,102 +2701,23 @@
     "url": "https://www.bankingdive.com/news/alabama-max-credit-union-first-financial-bank-birmingham/874276/"
   },
   {
-    "id": "rss-insurance-09a6cf16ca4500",
-    "title": "Radian reports 106% revenue increase for Q3’26 as net premiums rise following Inigo deal",
-    "summary": "Radian Group Inc., a US financial services company operating in mortgage and specialty insurance, has reported a total revenue hike of 106% to $624 million for the third quarter of 2026, as net premiums earned rose to $548 million, of which 57%, or $311 million, came from the specialty segment following the firm’s acquisition of […] The post Radian reports 106% revenue increase for Q3’26 as net premiums rise following Inigo deal appeared first on ReinsuranceNe.ws.",
-    "sourceName": "Reinsurance News",
-    "sourceIcon": "🔁",
-    "publishedAt": "2026-11-10T17:00:14.000Z",
-    "category": "insurance",
+    "id": "rss-banking-335bccc2ec981e",
+    "title": "8 questions for the Wells Fargo wealth unit’s AI chief",
+    "summary": "Wells Fargo’s AI Teammate has had hundreds of thousands of interactions, according to Andre Mansour, and “things that used to take hours now are down to minutes.”",
+    "sourceName": "Banking Dive",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-11-10T17:21:20.000Z",
+    "category": "banking",
     "keywords": [
-      "Radian",
-      "106",
-      "revenue",
-      "increase",
-      "net"
+      "questions",
+      "Wells",
+      "Fargo",
+      "wealth",
+      "unit"
     ],
-    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
+    "bannerClass": "from-slate-900 to-indigo-950",
     "isNew": true,
-    "url": "https://www.reinsurancene.ws/radian-reports-106-revenue-increase-for-q326-as-net-premiums-rise-following-inigo-deal/",
-    "summaryJa": "住宅ローンおよび特殊保険を事業とする米国の金融サービス会社であるラディアン・グループは、正味収入保険料が5億4,800万ドルに増加し、2026年第3四半期の総収益が106%増加して6億2,400万ドルになると報告しました。そのうちの57%、つまり3億1,100万ドルが、同社の買収後の特殊部門からのものでした。 ReinsuranceNews に最初に登場しました。"
-  },
-  {
-    "id": "rss-insurance-e56b85d1ed8863",
-    "title": "DUAE Growth Expected to Moderate; Outlook Stable: AM Best",
-    "summary": "AM Best is maintaining its stable outlook for the delegated underwriting authority enterprise (DUAE) segment, citing continued premium growth, strong demand for specialty expertise and technology, and a growing emphasis on underwriting discipline and governance. The segment recorded its fifth …",
-    "sourceName": "Insurance Journal",
-    "sourceIcon": "🛡️",
-    "publishedAt": "2026-11-10T16:48:57.000Z",
-    "category": "insurance",
-    "keywords": [
-      "DUAE",
-      "Growth",
-      "Expected",
-      "Moderate",
-      "Outlook"
-    ],
-    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
-    "isNew": true,
-    "url": "https://www.insurancejournal.com/news/national/2026/11/10/892275.htm"
-  },
-  {
-    "id": "rss-insurance-e21aefbfd23a91",
-    "title": "MS Transverse names Grippa as new Chief Commercial Officer",
-    "summary": "MS Transverse, a specialty insurance platform that works with programme administrators and managing general agents (MGAs), has announced the appointment of Anthony Grippa as Chief Commercial Officer (CCO). Grippa brings more than 25 years of experience building and leading businesses across insurance, reinsurance, programmes, specialty insurance, brokerage and claims services. He is joining the company […] The post MS Transverse names Grippa as new Chief Commercial Officer appeared first on ReinsuranceNe.ws.",
-    "sourceName": "Reinsurance News",
-    "sourceIcon": "🔁",
-    "publishedAt": "2026-11-10T16:30:44.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Transverse",
-      "names",
-      "Grippa",
-      "Chief",
-      "Commercial"
-    ],
-    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
-    "isNew": true,
-    "url": "https://www.reinsurancene.ws/ms-transverse-names-grippa-as-new-chief-commercial-officer/"
-  },
-  {
-    "id": "rss-insurance-455ea86af1de3d",
-    "title": "Global Climate Talks Open With Big Questions, Smaller Goals",
-    "summary": "Climate negotiators from almost 200 countries will spend the next two weeks at an annual United Nations summit under a dark cloud of waning ambition to tackle rapidly rising global temperatures. The negotiating agenda at COP31, which opened Monday in …",
-    "sourceName": "Insurance Journal",
-    "sourceIcon": "🛡️",
-    "publishedAt": "2026-11-10T16:19:54.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Global",
-      "Climate",
-      "Talks",
-      "Open",
-      "Big"
-    ],
-    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
-    "isNew": true,
-    "url": "https://www.insurancejournal.com/news/international/2026/11/10/892270.htm",
-    "summaryJa": "約200カ国の気候変動交渉担当者は、急速に上昇する地球温暖化に対処するという野望が薄れていく暗雲の中で、年次国連サミットで今後2週間を過ごすことになる。月曜日に開幕したCOP31の交渉議題…"
-  },
-  {
-    "id": "rss-insurance-0cd1077b6b6b0d",
-    "title": "Constantly evolving reinsurance market creates opportunities: Lockton Re’s Bisset",
-    "summary": "Robert Bisset, CEO, North America at global reinsurance broker Lockton Re, described the current reinsurance market as healthy and constantly evolving, with some divergence in appetite across certain lines of business creating opportunities. In an interview with Reinsurance News, Bisset emphasised that the global reinsurance market is healthy, with plentiful capital, robust competition and options […] The post Constantly evolving reinsurance market creates opportunities: Lockton Re’s Bisset appeared first on ReinsuranceNe.ws.",
-    "sourceName": "Reinsurance News",
-    "sourceIcon": "🔁",
-    "publishedAt": "2026-11-10T16:00:57.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Constantly",
-      "evolving",
-      "reinsurance",
-      "market",
-      "creates"
-    ],
-    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
-    "isNew": true,
-    "url": "https://www.reinsurancene.ws/constantly-evolving-reinsurance-market-creates-opportunities-lockton-res-bisset/",
-    "summaryJa": "世界的な再保険ブローカー、ロックトン・リー社の北米担当最高経営責任者（CEO）ロバート・ビセット氏は、現在の再保険市場は健全で常に進化しており、特定の事業分野で需要に多少の差異があり、チャンスが生まれていると述べた。 Reinsurance Newsとのインタビューでビセット氏は、世界の再保険市場は潤沢な資本、激しい競争、選択肢によって健全であると強調した […]ポスト 絶え間なく進化する再保険市場が機会を生み出す: ロックトン・リーのビセット氏は ReinsuranceNews に最初に登場した。"
+    "url": "https://www.bankingdive.com/news/8-questions-for-the-wells-fargo-wealth-units-ai-chief/874275/"
   },
   {
     "id": "rss-insurance-ccd0a73db251f8",
@@ -2141,64 +2736,7 @@
     ],
     "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
     "isNew": true,
-    "url": "https://www.artemis.bm/news/our-ability-to-invest-consistently-in-ils-is-a-huge-advantage-quantedge-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=our-ability-to-invest-consistently-in-ils-is-a-huge-advantage-quantedge-ceo",
-    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。シンガポールに本拠を置くヘッジファンド資産運用会社クォンテッジ・キャピタルは、保険関連証券資産クラスへの資本展開の一貫性が重要であると認識している。そうすることで、損失が発生した場合でも同社は対応でき、価格硬化の恩恵を受けることができるからだ、と最高経営責任者（CEO）のスハイミ・ザイヌル＝アビディン氏が最近のポッドキャストインタビューで説明した。 […] (ILS に) 一貫して投資できる当社の能力は大きな利点です: Quantedge CEO の発行元: www.Artemis.bm 災害債券取引ディレクトリ、無料の週刊電子メール"
-  },
-  {
-    "id": "rss-banking-43cf39b30b5d80",
-    "title": "Private banking fintech Light Frame raises $5.1m",
-    "summary": "Light Frame, a Swiss startup providing core banking and portfolio management software for the wealth industry, has closed an oversubscribed $5.1 million seed financing round.",
-    "sourceName": "Finextra",
-    "sourceIcon": "💳",
-    "publishedAt": "2026-11-10T15:39:00.000Z",
-    "category": "banking",
-    "keywords": [
-      "Private",
-      "banking",
-      "fintech",
-      "Light",
-      "Frame"
-    ],
-    "bannerClass": "from-indigo-900 to-blue-950",
-    "isNew": true,
-    "url": "https://www.finextra.com/newsarticle/48737/private-banking-fintech-light-frame-raises-51m?utm_medium=rssfinextra&utm_source=finextrafeed"
-  },
-  {
-    "id": "rss-insurance-b83a054ec96b30",
-    "title": "Baker appointed Chairman and Walls Global Head of Marine, Cargo, and Logistics at Marsh Risk",
-    "summary": "­Marsh, the professional services firm providing insurance, risk management and advisory services, has appointed Marcus Baker to the newly created role of Chairman of Marine, Cargo, and Logistics at Marsh Risk. Michael Walls has been named as Baker’s successor as Global Head of Marine, Cargo, and Logistics, Marsh Risk. Both appointments are effective 1 January […] The post Baker appointed Chairman and Walls Global Head of Marine, Cargo, and Logistics at Marsh Risk appeared first on ReinsuranceNe.ws.",
-    "sourceName": "Reinsurance News",
-    "sourceIcon": "🔁",
-    "publishedAt": "2026-11-10T15:30:16.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Baker",
-      "appointed",
-      "Chairman",
-      "Walls",
-      "Global"
-    ],
-    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
-    "isNew": true,
-    "url": "https://www.reinsurancene.ws/baker-appointed-chairman-and-walls-global-head-of-marine-cargo-and-logistics-at-marsh-risk/"
-  },
-  {
-    "id": "rss-banking-23beb53ffe8d59",
-    "title": "Nexi to sell Ratepay to Affirm",
-    "summary": "Italian payments giant Nexi has agreed to sell German fintech Ratepay to buy now, pay later player Affirm. Financial terms were not disclosed.",
-    "sourceName": "Finextra",
-    "sourceIcon": "💳",
-    "publishedAt": "2026-11-10T15:12:00.000Z",
-    "category": "banking",
-    "keywords": [
-      "Nexi",
-      "sell",
-      "Ratepay",
-      "Affirm"
-    ],
-    "bannerClass": "from-indigo-900 to-blue-950",
-    "isNew": true,
-    "url": "https://www.finextra.com/newsarticle/48736/nexi-to-sell-ratepay-to-affirm?utm_medium=rssfinextra&utm_source=finextrafeed"
+    "url": "https://www.artemis.bm/news/our-ability-to-invest-consistently-in-ils-is-a-huge-advantage-quantedge-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=our-ability-to-invest-consistently-in-ils-is-a-huge-advantage-quantedge-ceo"
   },
   {
     "id": "rss-economy-d1b26a44517374",
@@ -2217,28 +2755,7 @@
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
-    "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-    "summaryJa": "政府が各家庭に緊急事態に備えるよう呼び掛けたことを受けて、手指消毒剤などの必需品の売り上げが急増した。"
-  },
-  {
-    "id": "rss-insurance-e921545d62cdca",
-    "title": "Annual nat cat losses of $100bn no longer enough to move the needle: Gallagher Re’s Bowen",
-    "summary": "Global insured losses from natural catastrophes have officially surpassed the $100 billion threshold in 2026, according to reinsurance broker Gallagher Re’s historical loss dataset. This follows Gallagher Re reporting that nat cat insured losses reached $92 billion between January and September 2026, the lowest total for the first nine months of a year since 2019 […] The post Annual nat cat losses of $100bn no longer enough to move the needle: Gallagher Re’s Bowen appeared first on ReinsuranceNe.ws.",
-    "sourceName": "Reinsurance News",
-    "sourceIcon": "🔁",
-    "publishedAt": "2026-11-10T15:00:59.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Annual",
-      "nat",
-      "cat",
-      "losses",
-      "100bn"
-    ],
-    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
-    "isNew": true,
-    "url": "https://www.reinsurancene.ws/annual-nat-cat-losses-of-100bn-no-longer-enough-to-move-the-needle-gallagher-res-bowen/",
-    "summaryJa": "再保険ブローカー、ギャラガー再保険の過去の損失データセットによると、自然災害による世界の保険損失は、2026年に正式に1,000億ドルの基準を超えた。これは、2026 年 1 月から 9 月までの間に、ナットキャット保険による損失が 920 億ドルに達し、2019 年以降、年間の最初の 9 か月間で最低の総額である 920 億ドルに達したとギャラガー・リーが報告したことを受けてのことです。"
+    "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "rss-housing-00ea814164f2bd",
@@ -2296,63 +2813,6 @@
     "url": "https://www.redfin.com/news/hot-inflation-report-and-hawkish-comments-from-feds-waller-put-a-50-bps-december-hike-in-play/"
   },
   {
-    "id": "rss-insurance-e1027e8d6446fa",
-    "title": "Aon appoints Mona Gupta as Global Head of Risk Capital Client Delivery",
-    "summary": "Aon, a global professional services firm specialising in risk, retirement and health solutions, has announced the appointment of Mona Gupta as Global Head of Risk Capital Client Delivery. Gupta brings more than 25 years of leadership experience across the insurance, reinsurance and banking, financial services and insurance (BFSI) sectors. Her background includes global client delivery, […] The post Aon appoints Mona Gupta as Global Head of Risk Capital Client Delivery appeared first on ReinsuranceNe.ws.",
-    "sourceName": "Reinsurance News",
-    "sourceIcon": "🔁",
-    "publishedAt": "2026-11-10T14:30:31.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Aon",
-      "appoints",
-      "Mona",
-      "Gupta",
-      "Global"
-    ],
-    "bannerClass": "from-indigo-950 via-blue-900 to-slate-800",
-    "isNew": true,
-    "url": "https://www.reinsurancene.ws/aon-appoints-mona-gupta-as-global-head-of-risk-capital-client-delivery/"
-  },
-  {
-    "id": "rss-banking-6517cbf8fcfd9c",
-    "title": "Venmo launches receipt scanning feature for bill splitting",
-    "summary": "Venmo has added a receipt scanning feature that makes it easy for users split bills by item.",
-    "sourceName": "Finextra",
-    "sourceIcon": "💳",
-    "publishedAt": "2026-11-10T14:24:00.000Z",
-    "category": "banking",
-    "keywords": [
-      "Venmo",
-      "launches",
-      "receipt",
-      "scanning",
-      "feature"
-    ],
-    "bannerClass": "from-indigo-900 to-blue-950",
-    "isNew": true,
-    "url": "https://www.finextra.com/newsarticle/48735/venmo-launches-receipt-scanning-feature-for-bill-splitting?utm_medium=rssfinextra&utm_source=finextrafeed"
-  },
-  {
-    "id": "rss-insurance-a69f3616a2edeb",
-    "title": "Hyperscale capacity hype – Defining the ILS role in data centre risk: Artemis London 2026 video",
-    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. This video from our Artemis London 2026 catastrophe bond and insurance-linked securities conference in September sees a panel of experts discussing the topic of the day: where capital market investors can realistically participate in data centre risk through ILS structures. This fourth panel session of the day was titled “Hyperscale capacity hype: Defining the ILS […] Hyperscale capacity hype – Defining the ILS role in data centre risk: Artemis London 2026 video was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
-    "sourceName": "Artemis",
-    "sourceIcon": "🎯",
-    "publishedAt": "2026-11-10T14:00:00.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Hyperscale",
-      "capacity",
-      "hype",
-      "Defining",
-      "ILS"
-    ],
-    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.artemis.bm/news/hyperscale-capacity-hype-defining-the-ils-role-in-data-centre-risk-artemis-london-2026-video/?utm_source=rss&utm_medium=rss&utm_campaign=hyperscale-capacity-hype-defining-the-ils-role-in-data-centre-risk-artemis-london-2026-video"
-  },
-  {
     "id": "rss-banking-7a572e73a05473",
     "title": "PNC adds stablecoin option for corporate clients",
     "summary": "Boosting stablecoin capabilities has been an area of focus for PNC, which has launched a pilot that lets corporate clients receive USDC payments, through the bank’s partnership with Coinbase.",
@@ -2372,26 +2832,6 @@
     "url": "https://www.bankingdive.com/news/pnc-stablecoin-payments-corporate-clients-coinbase-usdc/874229/"
   },
   {
-    "id": "rss-insurance-5a57a232acbe46",
-    "title": "Insured catastrophe losses surpass $100bn in 2026. No longer enough to move the needle: Bowen, Gallagher Re",
-    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Global insured catastrophe losses have now surpassed the $100 billion level in 2026, according to Steve Bowen, Chief Science Officer at reinsurance broker Gallagher Re. This marks the 10th consecutive year in which the threshold has been exceeded on an inflation-adjusted basis, and the seventh consecutive year on a nominal basis. Gallagher Re recently reported […] Insured catastrophe losses surpass $100bn in 2026. No longer enough to move the needle: Bowen, Gallagher Re was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
-    "sourceName": "Artemis",
-    "sourceIcon": "🎯",
-    "publishedAt": "2026-11-10T12:45:43.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Insured",
-      "catastrophe",
-      "losses",
-      "surpass",
-      "100bn"
-    ],
-    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.artemis.bm/news/insured-catastrophe-losses-surpass-100bn-in-2026-no-longer-enough-to-move-the-needle-bowen-gallagher-re/?utm_source=rss&utm_medium=rss&utm_campaign=insured-catastrophe-losses-surpass-100bn-in-2026-no-longer-enough-to-move-the-needle-bowen-gallagher-re",
-    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。再保険ブローカー、ギャラガー・リー社の最高科学責任者、スティーブ・ボーエン氏によると、世界の保険災害による損失額は2026年に1000億ドルの水準を超えたという。これは、インフレ調整ベースで基準を超えるのは10年連続であり、名目ベースでは7年連続となる。ギャラガー再保険会社は最近報告しました […] 2026 年に保険された大災害損失は 1,000 億ドルを超える。もはや針を動かすには十分ではない: ボーウェン、ギャラガー再保険会社の発行者: www.Artemis.bm 大災害債券"
-  },
-  {
     "id": "rss-banking-1765f21b832e45",
     "title": "Previsory: Celent highlights the five key technology trends reshaping corporate banking",
     "summary": "Celent kicks off its annual series of previsory webinars with the Corporate Banking edition of its Top Tech Trends Previsory for 2027",
@@ -2409,25 +2849,6 @@
     "bannerClass": "from-indigo-900 to-blue-950",
     "isNew": true,
     "url": "https://www.retailbankerinternational.com/news/celent-previsory-corporate-banking-five-key-technology-trends/"
-  },
-  {
-    "id": "rss-insurance-5fcc5343bce24d",
-    "title": "Munich Re teams with Wawanesa & WWF-Canada to launch parametric river flood solution",
-    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Reinsurance firm Munich Re has partnered with Wawanesa and World Wildlife Fund Canada (WWF-Canada), to develop and launch a parametric river flood insurance solution that will deliver rapid funding to safeguard nature-based restoration across the Wolastoq (Saint John River) watershed. The arrangement, a first of its kind in Canada, applies parametric financing to the charitable […] Munich Re teams with Wawanesa & WWF-Canada to launch parametric river flood solution was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
-    "sourceName": "Artemis",
-    "sourceIcon": "🎯",
-    "publishedAt": "2026-11-10T11:30:11.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Munich",
-      "teams",
-      "Wawanesa",
-      "WWF-Canada",
-      "launch"
-    ],
-    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.artemis.bm/news/munich-re-teams-with-wawanesa-wwf-canada-to-launch-parametric-river-flood-solution/?utm_source=rss&utm_medium=rss&utm_campaign=munich-re-teams-with-wawanesa-wwf-canada-to-launch-parametric-river-flood-solution"
   },
   {
     "id": "rss-banking-e9c870caccf471",
@@ -2468,64 +2889,6 @@
     "url": "https://www.retailbankerinternational.com/news/lic-reconsider-banking-entry/"
   },
   {
-    "id": "rss-banking-ed776a0a56b9fa",
-    "title": "DE Shaw reportedly in talks to lead Monzo funding round at £7bn valuation",
-    "summary": "The asset manager has signalled interest in leading an equity injection of at least £300m in the coming weeks.",
-    "sourceName": "Retail Banker International",
-    "sourceIcon": "🌍",
-    "publishedAt": "2026-11-10T10:43:09.000Z",
-    "category": "banking",
-    "keywords": [
-      "Shaw",
-      "reportedly",
-      "talks",
-      "lead",
-      "Monzo"
-    ],
-    "bannerClass": "from-indigo-900 to-blue-950",
-    "isNew": true,
-    "url": "https://www.retailbankerinternational.com/news/de-shaw-monzo-funding-round/"
-  },
-  {
-    "id": "rss-insurance-3033762c18108a",
-    "title": "VIG Re lifts target to €60m for debut Charles Bridge Re catastrophe bond",
-    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. VIG Re, the reinsurance arm of Vienna Insurance Group, is now aiming to slightly upsize its debut catastrophe bond sponsorship, raising the target to secure a larger €60 million of fully-collateralized European windstorm retrocession from the Charles Bridge Re 2026 DAC issuance, Artemis has learned. VIG Re made its debut in the catastrophe bond market […] VIG Re lifts target to €60m for debut Charles Bridge Re catastrophe bond was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
-    "sourceName": "Artemis",
-    "sourceIcon": "🎯",
-    "publishedAt": "2026-11-10T10:15:20.000Z",
-    "category": "insurance",
-    "keywords": [
-      "VIG",
-      "lifts",
-      "target",
-      "60m",
-      "debut"
-    ],
-    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.artemis.bm/news/vig-re-lifts-target-to-e60m-for-debut-charles-bridge-re-catastrophe-bond/?utm_source=rss&utm_medium=rss&utm_campaign=vig-re-lifts-target-to-e60m-for-debut-charles-bridge-re-catastrophe-bond",
-    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。ウィーン・インシュアランス・グループの再保険部門であるVIG Reは現在、デビュー時の大惨事債券のスポンサーシップを若干増額することを目指しており、カレル橋再保険2026年DAC発行からの完全担保付き欧州暴風遡及債の6,000万ユーロを確保するという目標を引き上げていることがアルテミスの情報で分かった。 VIG Re が大災害債券市場にデビュー […] VIG Re、カレル橋再大災害債券のデビュー目標を 6,000 万ユーロに引き上げる 発行元: www.Artemis.bm 大災害債券取引ディレクトリ 当社の無料週刊電子メール ニュースレット"
-  },
-  {
-    "id": "rss-insurance-edf5eb205892c0",
-    "title": "ILS expansion beyond cat must be driven by pricing, structure, understanding: Doris, Twelve Securis",
-    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. While the ILS market has moved beyond traditional property catastrophe risk and expanded into emerging perils such as cyber, casualty and specialty lines in recent years, Cahal Doris of Twelve Securis has expressed that this growth must be driven by pricing, structure and understanding, and not simply for the sake of expanding the market. Speaking […] ILS expansion beyond cat must be driven by pricing, structure, understanding: Doris, Twelve Securis was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
-    "sourceName": "Artemis",
-    "sourceIcon": "🎯",
-    "publishedAt": "2026-11-10T09:00:02.000Z",
-    "category": "insurance",
-    "keywords": [
-      "ILS",
-      "expansion",
-      "beyond",
-      "cat",
-      "must"
-    ],
-    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.artemis.bm/news/ils-expansion-beyond-cat-must-be-driven-by-pricing-structure-understanding-doris-twelve-securis/?utm_source=rss&utm_medium=rss&utm_campaign=ils-expansion-beyond-cat-must-be-driven-by-pricing-structure-understanding-doris-twelve-securis"
-  },
-  {
     "id": "rss-insurance-04d41cd3a590d2",
     "title": "内閣府調査「13分野すべて上昇」をどう読むか～過去8年間と生活満足度の変化と分析から考える政策課題",
     "summary": "■要旨 内閣府「満足度・生活の質に関する調査」（2026年7月31日公表）によると、生活全体の満足度（0～10点で評価）の全体平均は、2019年の5.78点から2026年には5.86点となり、上昇幅は0.08点であった。また、家計と資産、健康状態、仕事と生活のバランスなど、調査で確認されている13分野の個別の満足度は、すべて2019年を上回る結果となった。特に「社会とのつながり」と「生活の楽しさ・面白さ」の個別項目では、生活全体の満足度と似た動きが見られており、生活満足度を考える上で、「経済面」「健康状態」のみならずそのような「社会的・心理的な側面」への評価にも目を向ける必要があると思われる。 一方、特徴的なのが、「仕事と生活（ワークライフバランス、以下WLB）」項目の変化である。全体では2019年から2026年まで一貫して上昇しているが、男性40～64歳のいわゆる「ミドル・シニア世代」に絞る同期間は総じてほぼ横ばいであった。またこの世代は、13項目のうち7項目（教育水準・教育環境、住宅、健康状態、生活の楽しさ・面白さ、社会とのつながり、子育てのしやすさ、WLB）で2019年の水準を下回っていた。 近年は働き方改革によって長時間労働の是正や休暇取得が進む一方、中年男性には依然として長時間労働が比較的多く、人手不足による職場の負担も課題になっている。また、40～50代では親の介護と仕事の両立に対する不安があることも関連研究で示されている。こうした状況を踏まえると、制度や労働条件の改善が進んでも、仕事や家庭での負担が十分に軽減されず、本人が望むように生活時間を調整できていない可能性がある。 今回のデータだけでその背景を特定することはできないが、生活満足度のデータと、就業状況や労働時間、家庭での負担、休暇・両立支援制度の利用状況など客観的な",
@@ -2619,57 +2982,6 @@
     "url": "https://www.nli-research.co.jp/topics_detail1/id=87293?site=nli"
   },
   {
-    "id": "rss-insurance-9c6ee3a56fa16a",
-    "title": "中国の貿易統計（26年10月）～輸出は小幅減速、輸入は加速、半導体関連は高い伸びを維持",
-    "summary": "・中国海関総署が2026年11月10日に26年10月の貿易統計の速報値を発表した。財輸出（ドル建て、図表1）は前年同月比＋35.2％となった（前月は同＋36.3％）。財輸入は同＋41.6％となった（前月は同＋31.0％）。貿易収支は＋1,053億ドルと、前年同月（＋901億ドル）から増加した。当社試算の季節調整値でみると、輸出は前月比＋1.3％、輸入は同＋2.6％であった。 ・財輸出（人民元建て、図表2）は前年同月比＋28.7％となった（前月は同＋29.6％）。財輸入は同＋34.7％となった（前月は同＋24.6％）。貿易収支は＋7,128億元と、前年同月（＋6,405億元）から増加した。（１）輸出 ・国・地域別（ドル建て、前年同月比）では、米国、ASEAN、日本向けはいずれも増加が続いたが、前月から減速した。EU向けは前月と同じ伸び率だった（図表3）。 ・品目別（同上）では、プラスチック製品、紡績糸等、衣類等、鋼材、携帯電話、家電、自動車等が減速した。コンピュータ・同部品は加速した。集積回路は小幅に加速し、3桁の伸びが続いた（図表4）。（２）輸入 ・国・地域別（ドル建て、前年同月比）では、米国、ASEAN、日本からの輸入が加速した一方、EUからの輸入はマイナスに転じた（図表5）。 ・品目別（同上）では、大豆がマイナスに転じ、鉄鉱石等はマイナス幅が拡大した。銅鉱石等やコンピュータ・同部品は減速し、原油、天然ガス、集積回路は加速した（図表6）。 【関連レポート】 中国の物価関連統計（26年10月）～食品価格下落でCPIは鈍化、エネルギー高でPPIは上昇幅拡大 中国の不動産関連統計（26年9月）～販売の落ち込みが拡大する一方、在庫は緩やかに減少 中国：26年7～9月期GDPの評価－内需の悪化に歯止めがかからず、不安定な状況が続く 光と影が交",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-10T04:21:41.000Z",
-    "category": "insurance",
-    "keywords": [
-      "中国の貿易統計（26年10月）～輸出は小幅減速",
-      "輸入は加速",
-      "半導体関連は高い伸びを維持"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87293?site=nli"
-  },
-  {
-    "id": "rss-insurance-9c6ee3a56fa16a",
-    "title": "中国の貿易統計（26年10月）～輸出は小幅減速、輸入は加速、半導体関連は高い伸びを維持",
-    "summary": "・中国海関総署が2026年11月10日に26年10月の貿易統計の速報値を発表した。財輸出（ドル建て、図表1）は前年同月比＋35.2％となった（前月は同＋36.3％）。財輸入は同＋41.6％となった（前月は同＋31.0％）。貿易収支は＋1,053億ドルと、前年同月（＋901億ドル）から増加した。当社試算の季節調整値でみると、輸出は前月比＋1.3％、輸入は同＋2.6％であった。 ・財輸出（人民元建て、図表2）は前年同月比＋28.7％となった（前月は同＋29.6％）。財輸入は同＋34.7％となった（前月は同＋24.6％）。貿易収支は＋7,128億元と、前年同月（＋6,405億元）から増加した。（１）輸出 ・国・地域別（ドル建て、前年同月比）では、米国、ASEAN、日本向けはいずれも増加が続いたが、前月から減速した。EU向けは前月と同じ伸び率だった（図表3）。 ・品目別（同上）では、プラスチック製品、紡績糸等、衣類等、鋼材、携帯電話、家電、自動車等が減速した。コンピュータ・同部品は加速した。集積回路は小幅に加速し、3桁の伸びが続いた（図表4）。（２）輸入 ・国・地域別（ドル建て、前年同月比）では、米国、ASEAN、日本からの輸入が加速した一方、EUからの輸入はマイナスに転じた（図表5）。 ・品目別（同上）では、大豆がマイナスに転じ、鉄鉱石等はマイナス幅が拡大した。銅鉱石等やコンピュータ・同部品は減速し、原油、天然ガス、集積回路は加速した（図表6）。 【関連レポート】 中国の物価関連統計（26年10月）～食品価格下落でCPIは鈍化、エネルギー高でPPIは上昇幅拡大 中国の不動産関連統計（26年9月）～販売の落ち込みが拡大する一方、在庫は緩やかに減少 中国：26年7～9月期GDPの評価－内需の悪化に歯止めがかからず、不安定な状況が続く 光と影が交",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-10T04:21:41.000Z",
-    "category": "insurance",
-    "keywords": [
-      "中国の貿易統計（26年10月）～輸出は小幅減速",
-      "輸入は加速",
-      "半導体関連は高い伸びを維持"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87293?site=nli"
-  },
-  {
-    "id": "rss-insurance-9c6ee3a56fa16a",
-    "title": "中国の貿易統計（26年10月）～輸出は小幅減速、輸入は加速、半導体関連は高い伸びを維持",
-    "summary": "・中国海関総署が2026年11月10日に26年10月の貿易統計の速報値を発表した。財輸出（ドル建て、図表1）は前年同月比＋35.2％となった（前月は同＋36.3％）。財輸入は同＋41.6％となった（前月は同＋31.0％）。貿易収支は＋1,053億ドルと、前年同月（＋901億ドル）から増加した。当社試算の季節調整値でみると、輸出は前月比＋1.3％、輸入は同＋2.6％であった。 ・財輸出（人民元建て、図表2）は前年同月比＋28.7％となった（前月は同＋29.6％）。財輸入は同＋34.7％となった（前月は同＋24.6％）。貿易収支は＋7,128億元と、前年同月（＋6,405億元）から増加した。（１）輸出 ・国・地域別（ドル建て、前年同月比）では、米国、ASEAN、日本向けはいずれも増加が続いたが、前月から減速した。EU向けは前月と同じ伸び率だった（図表3）。 ・品目別（同上）では、プラスチック製品、紡績糸等、衣類等、鋼材、携帯電話、家電、自動車等が減速した。コンピュータ・同部品は加速した。集積回路は小幅に加速し、3桁の伸びが続いた（図表4）。（２）輸入 ・国・地域別（ドル建て、前年同月比）では、米国、ASEAN、日本からの輸入が加速した一方、EUからの輸入はマイナスに転じた（図表5）。 ・品目別（同上）では、大豆がマイナスに転じ、鉄鉱石等はマイナス幅が拡大した。銅鉱石等やコンピュータ・同部品は減速し、原油、天然ガス、集積回路は加速した（図表6）。 【関連レポート】 中国の物価関連統計（26年10月）～食品価格下落でCPIは鈍化、エネルギー高でPPIは上昇幅拡大 中国の不動産関連統計（26年9月）～販売の落ち込みが拡大する一方、在庫は緩やかに減少 中国：26年7～9月期GDPの評価－内需の悪化に歯止めがかからず、不安定な状況が続く 光と影が交",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-10T04:21:41.000Z",
-    "category": "insurance",
-    "keywords": [
-      "中国の貿易統計（26年10月）～輸出は小幅減速",
-      "輸入は加速",
-      "半導体関連は高い伸びを維持"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87293?site=nli"
-  },
-  {
     "id": "rss-insurance-8bec6c23f46de1",
     "title": "氷河期世代の正社員比率は改善したが、将来の年金水準には不安も～年金改革ウォッチ 2026年11月号",
     "summary": "■要旨 年金数理部会のセミナーでは様々な年代の就労が話題になったが、本稿では、年金水準が話題になりやすい就職氷河期世代について現状を確認した。 同セミナーでの講演によれば、就職氷河期世代が社会に出てから20年以上が経ち、当初は低かった正社員比率は改善しつつある。しかし、正社員へ至る経路によって、収入や労働時間あたりの収入には差がある。 老後に受け取る年金のうち、厚生年金(２階部分)は厚生年金に加入した月数と、その間の平均報酬に比例して年金額が決まる。新卒時から正社員に定着していない場合は、加入月数と平均報酬の両面で、年金額の下押し要因となる。 世代内の年金額のばらつきを把握する手段として、厚生労働省は前回の将来見通しの際に年金額の分布を初めて推計したが、詳細な分析には不十分な情報量だった。 そこで本稿では、個人単位ではないが、財政状況の推計に使われる基礎数値を確認した。氷河期世代の加入年数は前の世代より短いが、これには大学などへの進学の増加が影響した可能性がある。他方で、加入年数別の平均報酬は、男女ともに多くの加入年数で前の世代より低い。 実態の把握や対策の検討に向け、分布推計の詳細な開示と分析を期待したい。 * 年金改革ウォッチは2013年1月より連載。2023年4月より、原則毎月第2火曜日に連載。 ■目次 1――先月までの動き 2――ポイント解説：就職氷河期世代の厚生年金への加入履歴 1｜就労状況 ：正社員比率は改善しているが、過去に非正規期間等があると賃金水準が低めに 2｜厚生年金の加入：氷河期と大卒化の影響が混在 3｜課題：対策に向け詳細な情報開示と分析を期待年金数理部会は、有識者を招いたオンラインセミナー形式で、若年から高齢までの各世代や外国人の就労状況、および結婚・出産・家族などについて説明を受け、意見交換を行った。 ○社",
@@ -2685,92 +2997,6 @@
     "bannerClass": "from-teal-950 to-emerald-900",
     "isNew": true,
     "url": "https://www.nli-research.co.jp/topics_detail1/id=87294?site=nli"
-  },
-  {
-    "id": "rss-insurance-8bec6c23f46de1",
-    "title": "氷河期世代の正社員比率は改善したが、将来の年金水準には不安も～年金改革ウォッチ 2026年11月号",
-    "summary": "■要旨 年金数理部会のセミナーでは様々な年代の就労が話題になったが、本稿では、年金水準が話題になりやすい就職氷河期世代について現状を確認した。 同セミナーでの講演によれば、就職氷河期世代が社会に出てから20年以上が経ち、当初は低かった正社員比率は改善しつつある。しかし、正社員へ至る経路によって、収入や労働時間あたりの収入には差がある。 老後に受け取る年金のうち、厚生年金(２階部分)は厚生年金に加入した月数と、その間の平均報酬に比例して年金額が決まる。新卒時から正社員に定着していない場合は、加入月数と平均報酬の両面で、年金額の下押し要因となる。 世代内の年金額のばらつきを把握する手段として、厚生労働省は前回の将来見通しの際に年金額の分布を初めて推計したが、詳細な分析には不十分な情報量だった。 そこで本稿では、個人単位ではないが、財政状況の推計に使われる基礎数値を確認した。氷河期世代の加入年数は前の世代より短いが、これには大学などへの進学の増加が影響した可能性がある。他方で、加入年数別の平均報酬は、男女ともに多くの加入年数で前の世代より低い。 実態の把握や対策の検討に向け、分布推計の詳細な開示と分析を期待したい。 * 年金改革ウォッチは2013年1月より連載。2023年4月より、原則毎月第2火曜日に連載。 ■目次 1――先月までの動き 2――ポイント解説：就職氷河期世代の厚生年金への加入履歴 1｜就労状況 ：正社員比率は改善しているが、過去に非正規期間等があると賃金水準が低めに 2｜厚生年金の加入：氷河期と大卒化の影響が混在 3｜課題：対策に向け詳細な情報開示と分析を期待年金数理部会は、有識者を招いたオンラインセミナー形式で、若年から高齢までの各世代や外国人の就労状況、および結婚・出産・家族などについて説明を受け、意見交換を行った。 ○社",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-10T03:58:54.000Z",
-    "category": "insurance",
-    "keywords": [
-      "氷河期世代の正社員比率は改善したが",
-      "将来の年金水準には不安も～年金改革ウォッチ",
-      "2026年11月号"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87294?site=nli"
-  },
-  {
-    "id": "rss-insurance-8bec6c23f46de1",
-    "title": "氷河期世代の正社員比率は改善したが、将来の年金水準には不安も～年金改革ウォッチ 2026年11月号",
-    "summary": "■要旨 年金数理部会のセミナーでは様々な年代の就労が話題になったが、本稿では、年金水準が話題になりやすい就職氷河期世代について現状を確認した。 同セミナーでの講演によれば、就職氷河期世代が社会に出てから20年以上が経ち、当初は低かった正社員比率は改善しつつある。しかし、正社員へ至る経路によって、収入や労働時間あたりの収入には差がある。 老後に受け取る年金のうち、厚生年金(２階部分)は厚生年金に加入した月数と、その間の平均報酬に比例して年金額が決まる。新卒時から正社員に定着していない場合は、加入月数と平均報酬の両面で、年金額の下押し要因となる。 世代内の年金額のばらつきを把握する手段として、厚生労働省は前回の将来見通しの際に年金額の分布を初めて推計したが、詳細な分析には不十分な情報量だった。 そこで本稿では、個人単位ではないが、財政状況の推計に使われる基礎数値を確認した。氷河期世代の加入年数は前の世代より短いが、これには大学などへの進学の増加が影響した可能性がある。他方で、加入年数別の平均報酬は、男女ともに多くの加入年数で前の世代より低い。 実態の把握や対策の検討に向け、分布推計の詳細な開示と分析を期待したい。 * 年金改革ウォッチは2013年1月より連載。2023年4月より、原則毎月第2火曜日に連載。 ■目次 1――先月までの動き 2――ポイント解説：就職氷河期世代の厚生年金への加入履歴 1｜就労状況 ：正社員比率は改善しているが、過去に非正規期間等があると賃金水準が低めに 2｜厚生年金の加入：氷河期と大卒化の影響が混在 3｜課題：対策に向け詳細な情報開示と分析を期待年金数理部会は、有識者を招いたオンラインセミナー形式で、若年から高齢までの各世代や外国人の就労状況、および結婚・出産・家族などについて説明を受け、意見交換を行った。 ○社",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-10T03:58:54.000Z",
-    "category": "insurance",
-    "keywords": [
-      "氷河期世代の正社員比率は改善したが",
-      "将来の年金水準には不安も～年金改革ウォッチ",
-      "2026年11月号"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87294?site=nli"
-  },
-  {
-    "id": "rss-insurance-8bec6c23f46de1",
-    "title": "氷河期世代の正社員比率は改善したが、将来の年金水準には不安も～年金改革ウォッチ 2026年11月号",
-    "summary": "■要旨 年金数理部会のセミナーでは様々な年代の就労が話題になったが、本稿では、年金水準が話題になりやすい就職氷河期世代について現状を確認した。 同セミナーでの講演によれば、就職氷河期世代が社会に出てから20年以上が経ち、当初は低かった正社員比率は改善しつつある。しかし、正社員へ至る経路によって、収入や労働時間あたりの収入には差がある。 老後に受け取る年金のうち、厚生年金(２階部分)は厚生年金に加入した月数と、その間の平均報酬に比例して年金額が決まる。新卒時から正社員に定着していない場合は、加入月数と平均報酬の両面で、年金額の下押し要因となる。 世代内の年金額のばらつきを把握する手段として、厚生労働省は前回の将来見通しの際に年金額の分布を初めて推計したが、詳細な分析には不十分な情報量だった。 そこで本稿では、個人単位ではないが、財政状況の推計に使われる基礎数値を確認した。氷河期世代の加入年数は前の世代より短いが、これには大学などへの進学の増加が影響した可能性がある。他方で、加入年数別の平均報酬は、男女ともに多くの加入年数で前の世代より低い。 実態の把握や対策の検討に向け、分布推計の詳細な開示と分析を期待したい。 * 年金改革ウォッチは2013年1月より連載。2023年4月より、原則毎月第2火曜日に連載。 ■目次 1――先月までの動き 2――ポイント解説：就職氷河期世代の厚生年金への加入履歴 1｜就労状況 ：正社員比率は改善しているが、過去に非正規期間等があると賃金水準が低めに 2｜厚生年金の加入：氷河期と大卒化の影響が混在 3｜課題：対策に向け詳細な情報開示と分析を期待年金数理部会は、有識者を招いたオンラインセミナー形式で、若年から高齢までの各世代や外国人の就労状況、および結婚・出産・家族などについて説明を受け、意見交換を行った。 ○社",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-10T03:58:54.000Z",
-    "category": "insurance",
-    "keywords": [
-      "氷河期世代の正社員比率は改善したが",
-      "将来の年金水準には不安も～年金改革ウォッチ",
-      "2026年11月号"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87294?site=nli"
-  },
-  {
-    "id": "rss-insurance-3817282e1d3fd8",
-    "title": "投資部門別売買動向（26年10月）～事業法人の自社株買いと個人の押し目買い～",
-    "summary": "■要旨 ・2026年10月は、事業法人、個人、海外投資家が買い越し。信託銀行は売り越し。 ・日経平均株価は5.19％下落、TOPIXは3.49％下落。 ・事業法人は5,036億円の買い越しで、65カ月連続の買い越し。 ・個人は4,498億円の買い越しで、２カ月連続の買い越し。 ・海外投資家は1,785億円の買い越しで、４カ月連続の買い越し。 ・信託銀行は2,090億円の売り越しで、２カ月ぶりの売り越し。2026年10月の日経平均株価は、ＡＩ・半導体関連株の下落や中東情勢の緊迫化に伴う原油高などを背景に、３カ月ぶりに下落した。月初は、米雇用統計の下振れによる米国の追加利上げ観測の後退を背景に買いが優勢となり、６日には７万円台を回復した。しかし、その後は利益確定売りに加え、原油高が重しとなり、下落に転じた。中旬から下旬にかけては、米ＡＩクラウド企業の信用不安をきっかけにＡＩ投資の持続性への懸念が強まったほか、米半導体関連企業の決算も嫌気され、26日には６万2,000円台まで下落した。その後は、好決算銘柄を中心に買戻しが入り、29日には６万4,000円台まで戻した。しかし、30日は米ハイテク企業の決算を受けて下落し、６万3,290円で終了した。投資部門別では、事業法人、個人、海外投資家が買い越し、信託銀行が売り越した（図表１）。2026年10月（10月５日～10月30日）の投資部門別売買動向をみると、事業法人は現物と先物の合計で5,036億円の買い越しと、最大の買い越し部門であった。2026年４～10月の自社株買い設定額（ＴＯＰＩＸ構成銘柄）は13.8兆円と前年同期の11.6兆円を上回っており、企業の積極的な自社株買い姿勢が続いている。こうした事業法人による買いが株式市場を下支えしたとみられる（図表２）。個人は現物と先物の合計で4,498億",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-10T01:56:26.000Z",
-    "category": "insurance",
-    "keywords": [
-      "投資部門別売買動向（26",
-      "向（26年10月）～事業",
-      "）～事業法人の自社株買い",
-      "社株買いと個人の押し目買",
-      "押し目買い～"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87291?site=nli"
-  },
-  {
-    "id": "rss-insurance-95456f3b3c3db1",
-    "title": "時間制約社会とペット消費－飼える人は減り、関わり方は深まる",
-    "summary": "■要旨 犬の飼育世帯は2013年の約702万世帯から2025年には約501万世帯へと減少した一方、猫の飼育頭数はやや増加している。犬の飼い主は猫に比べて散歩を飼育のきっかけに挙げる割合が高く、世帯年収による飼育率の差も大きいことから、日々の時間を確保できるかどうかが、犬を迎える条件の一つになっていると考えられる。 一方、二人以上の世帯のペット関連支出は2015年から2025年に実質で25.0％増加し、とりわけ動物病院代やトリミング、ペットホテルなどのサービスへの支出が伸びている。ただし、散歩代行サービスの利用は1.7％にとどまり、散歩という時間の負担はまだ飼い主の手に残されている。 そうしたなか、若い世代では、散歩を人とのつながりや家族の時間として楽しむ新しい迎え方も芽生えつつある。時間や住まいの制約を和らげる仕組みが育てば、ペットとの暮らしの入口は再び広がる可能性がある。 ■目次 1――はじめに 2――犬は減少、猫は微増 3――散歩という「時間の約束」 4――頭数は減っても、支出は実質で増加 5――支出が増えているのはサービス 6――散歩は、まだ任されていない 7――若い世代に芽生える新しい迎え方 8――迎えたい人と、迎えられない人 9――おわりに毎年11月１日は「犬の日」です。ワン・ワン・ワンの語呂合わせから、1987年にペットフード協会が定めました1。ペットはいまや家族の一員とよく言われますが、データをたどると、ペットとの暮らし方そのものが、この10年余りで静かに変わってきたことがみえてきます。犬を飼う世帯は減り、それでもペットにかけるお金は増え、その中身も変わっている。そして、その変化の背景には、時間に追われる私たちの暮らしが映っているようです。本稿では、ペットフード協会「全国犬猫飼育実態調査」と総務省の「家計調査」をもとに、",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-10T00:56:49.000Z",
-    "category": "insurance",
-    "keywords": [
-      "時間制約社会とペット消費－飼える人は減り",
-      "関わり方は深まる"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87289?site=nli"
   },
   {
     "id": "rss-housing-b4fae5aa8b6c38",
@@ -2810,44 +3036,6 @@
     "url": "https://www.bankingdive.com/news/binance-cfo-departs-one-week-6-billion-hack-cybersecurity-kaiser-ng/874224/"
   },
   {
-    "id": "rss-banking-ebec09196a3676",
-    "title": "Morgan Stanley to bolster IPO wheelhouse with Vinyl acquisition",
-    "summary": "Financial terms of the Vinyl Equity deal were not disclosed. But the purchase gives the bank an in-house transfer agent for share transfer, which can be complicated when a company goes public.",
-    "sourceName": "Banking Dive",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-09T17:26:21.000Z",
-    "category": "banking",
-    "keywords": [
-      "Morgan",
-      "Stanley",
-      "bolster",
-      "IPO",
-      "wheelhouse"
-    ],
-    "bannerClass": "from-slate-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.bankingdive.com/news/morgan-stanley-acquire-vinyl-equity-ipo-wealth/874136/"
-  },
-  {
-    "id": "rss-banking-eb4ef6423bbcd4",
-    "title": "Coinbase secures unconditional trust charter",
-    "summary": "The company applied for the license in October 2025 and gained the Office of the Comptroller of the Currency’s conditional approval in April, but charter plans date back more than two years, an executive said.",
-    "sourceName": "Banking Dive",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-09T17:23:50.000Z",
-    "category": "banking",
-    "keywords": [
-      "Coinbase",
-      "secures",
-      "unconditional",
-      "trust",
-      "charter"
-    ],
-    "bannerClass": "from-slate-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.bankingdive.com/news/coinbase-secures-unconditional-trust-charter/874135/"
-  },
-  {
     "id": "rss-housing-999a9bd86edb5d",
     "title": "Mortgage Rates Dip Ahead of a Big Week for Inflation Data",
     "summary": "In A Nutshell: Mortgage rates are coming down as investors dial back expectations for rate hikes. But that could change: Key inflation data comes out this week. Last Week’s Highlights Two highlights from a busy election week: The landslide win for Democrats could impact markets in two ways. One, markets are starting to price […] The post Mortgage Rates Dip Ahead of a Big Week for Inflation Data appeared first on Redfin Real Estate News.",
@@ -2863,7 +3051,7 @@
       "Big"
     ],
     "bannerClass": "from-slate-800 to-cyan-900",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.redfin.com/news/economic-update-november-9/"
   },
   {
@@ -2882,65 +3070,8 @@
       "Gives"
     ],
     "bannerClass": "from-slate-800 to-cyan-900",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.redfin.com/news/condo-fall-2026/"
-  },
-  {
-    "id": "rss-banking-c7b5ae863259fa",
-    "title": "Crédit Agricole proposes merger talks with Banco BPM",
-    "summary": "The combined bank will remain listed in Milan, with the French lender adding Banco BPM will be \"at the heart\" of the new entity.",
-    "sourceName": "Retail Banker International",
-    "sourceIcon": "🌍",
-    "publishedAt": "2026-11-09T11:01:50.000Z",
-    "category": "banking",
-    "keywords": [
-      "Crédit",
-      "Agricole",
-      "proposes",
-      "merger",
-      "talks"
-    ],
-    "bannerClass": "from-indigo-900 to-blue-950",
-    "isNew": true,
-    "url": "https://www.retailbankerinternational.com/news/credit-agricole-banco-bpm-merger-talks/"
-  },
-  {
-    "id": "rss-banking-4a5d154c9309b4",
-    "title": "Société Générale to close 148 branches by 2027 – report",
-    "summary": "The French bank’s network is projected to fall to 1,621 points of sale by the end of 2027, from 1,769 at the end of this year.",
-    "sourceName": "Retail Banker International",
-    "sourceIcon": "🌍",
-    "publishedAt": "2026-11-09T10:42:54.000Z",
-    "category": "banking",
-    "keywords": [
-      "Société",
-      "Générale",
-      "close",
-      "148",
-      "branches"
-    ],
-    "bannerClass": "from-indigo-900 to-blue-950",
-    "isNew": true,
-    "url": "https://www.retailbankerinternational.com/news/societe-generale-close-branches/"
-  },
-  {
-    "id": "rss-banking-980e331204aa90",
-    "title": "Why augmentation, not automation, is banking’s AI sweet spot",
-    "summary": "Why AI projects stall and how leading banks break through.",
-    "sourceName": "Banking Dive",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-09T10:00:00.000Z",
-    "category": "banking",
-    "keywords": [
-      "augmentation",
-      "automation",
-      "banking",
-      "sweet",
-      "spot"
-    ],
-    "bannerClass": "from-slate-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.bankingdive.com/spons/why-augmentation-not-automation-is-bankings-ai-sweet-spot/873542/"
   },
   {
     "id": "rss-banking-7d4233a4bafb30",
@@ -3021,43 +3152,6 @@
     "isNew": false,
     "url": "https://www.housenews.jp/association/38585",
     "sortBoost": 4
-  },
-  {
-    "id": "rss-banking-42e614f6483e0e",
-    "title": "Dive Deposits: Goldman named new partners but left other details out",
-    "summary": "The bank did not give a gender or racial breakdown for its largest partner class since 2010. That doesn’t necessarily mean it’s shelving diversity; it may be staying purposefully quiet.",
-    "sourceName": "Banking Dive",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-06T17:28:31.000Z",
-    "category": "banking",
-    "keywords": [
-      "Dive",
-      "Deposits",
-      "Goldman",
-      "named",
-      "partners"
-    ],
-    "bannerClass": "from-slate-900 to-indigo-950",
-    "isNew": false,
-    "url": "https://www.bankingdive.com/news/goldman-109-new-partners-women-gender-race-diversity-trump-solomon/874018/"
-  },
-  {
-    "id": "rss-banking-258d3a80de0fb1",
-    "title": "5 questions with Barclays head of US cards",
-    "summary": "Twenty-plus years into card co-brands, Barclays’ newest launch – a card integrated into Samsung’s wallet – offers both new challenges and opportunities.",
-    "sourceName": "Banking Dive",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-06T17:24:53.000Z",
-    "category": "banking",
-    "keywords": [
-      "questions",
-      "Barclays",
-      "head",
-      "cards"
-    ],
-    "bannerClass": "from-slate-900 to-indigo-950",
-    "isNew": false,
-    "url": "https://www.bankingdive.com/news/5-questions-with-barclays-head-of-us-cards/874017/"
   },
   {
     "id": "rss-housing-579cbb1047596b",
