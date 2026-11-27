@@ -29,7 +29,7 @@
       "ース(11/26)"
     ],
     "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://blog.livedoor.jp/yanaharu_yanaharu/archives/65992698.html",
     "sortBoost": 18
   },
@@ -49,6 +49,42 @@
     "isNew": false,
     "url": "https://blog.livedoor.jp/yanaharu_yanaharu/archives/65992674.html",
     "sortBoost": 18
+  },
+  {
+    "id": "rss-banking-c1766120856af4",
+    "title": "スタートアップを支える地銀の新戦略～“未来”に融資する、新たな金融のかたち～ - TVer",
+    "summary": "スタートアップを支える地銀の新戦略～“未来”に融資する、新たな金融のかたち～ TVer",
+    "sourceName": "銀行業界ニュース",
+    "sourceIcon": "🏦",
+    "publishedAt": "2026-11-27T17:21:04.000Z",
+    "category": "banking",
+    "keywords": [
+      "新たな金融のかたち～",
+      "TVer"
+    ],
+    "bannerClass": "from-indigo-950 to-slate-800",
+    "isNew": true,
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05YzlHcWhmeUFySVBiS2NaODFhZUdlbWZmeTJpc19CS2dIQ3RvNTNiX2ZfRVRLdGE4QjZhSjRZS2pWWFBTcmRNNlhNZw?oc=5",
+    "sortBoost": 5
+  },
+  {
+    "id": "rss-banking-977eeb4882f1c6",
+    "title": "関西地銀 本人確認の方法見直しへ サイバー攻撃相次ぐ中 - NHKニュース",
+    "summary": "関西地銀 本人確認の方法見直しへ サイバー攻撃相次ぐ中 NHKニュース",
+    "sourceName": "銀行業界ニュース",
+    "sourceIcon": "🏦",
+    "publishedAt": "2026-11-27T11:01:43.000Z",
+    "category": "banking",
+    "keywords": [
+      "関西地銀",
+      "本人確認の方法見直しへ",
+      "サイバー攻撃相次ぐ中",
+      "NHKニュース"
+    ],
+    "bannerClass": "from-indigo-950 to-slate-800",
+    "isNew": true,
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ETlJkTkcydlZ3emRVdExNUUpQU3VOU05YMEtkNWgycWlrTFpuUUlrYVlhOE5CNTRnVWswLXlFSXViRGltdHRyb3hrS1JmZWtub1lKLTRwdkZJVW55cldr?oc=5",
+    "sortBoost": 5
   },
   {
     "id": "rss-banking-b0cd193ad73b75",
@@ -293,26 +329,6 @@
     "sortBoost": 5
   },
   {
-    "id": "rss-banking-6a8c39ef7286a9",
-    "title": "３メガバンク主幹事の１０３・４億円 グリーンシンジケートローン契約 レノバ - 環境新聞オンライン",
-    "summary": "３メガバンク主幹事の１０３・４億円 グリーンシンジケートローン契約 レノバ 環境新聞オンライン",
-    "sourceName": "銀行業界ニュース",
-    "sourceIcon": "🏦",
-    "publishedAt": "2026-11-26T22:58:00.000Z",
-    "category": "banking",
-    "keywords": [
-      "３メガバンク主幹事の１０３",
-      "４億円",
-      "グリーンシンジケートローン契約",
-      "レノバ",
-      "環境新聞オンライン"
-    ],
-    "bannerClass": "from-indigo-950 to-slate-800",
-    "isNew": true,
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRQWJpYWUzRDlOcW5WQ08wb204S1dIRHFldzRSZ3BGaWpETU1oVzF4Z1VUeUVCTUpqZmRBR1I1aDdsXzFSdFJ1SXFObHhjc2U0QllhdzNjeVZ1VTB4NlJvYlhRZkZydVhNdW5zUHFKY29BbjQ3MTMwUjllRQ?oc=5",
-    "sortBoost": 5
-  },
-  {
     "id": "rss-banking-11df277a501a5d",
     "title": "金利上昇で業績好調だが、AI活用が大きな課題になっている銀行業界【業界研究ニュース】 - 就活ニュースペーパーｂｙ朝日新聞",
     "summary": "金利上昇で業績好調だが、AI活用が大きな課題になっている銀行業界【業界研究ニュース】 就活ニュースペーパーｂｙ朝日新聞",
@@ -328,25 +344,6 @@
     "isNew": true,
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MMlhIRjlScERTWWZpNHpMb2NSUWRQUkpOTWt4VjY3MHN5aHhMQkVZU0xFUXdnc3h1QWlxMjljUXJKa2ItYUh4UnE3Y3JDZlFiTjFnWjFLRHVIOWlrZFVLZjg4cVE1M0pfTHpTY3F6MmJoVV9T?oc=5",
     "sortBoost": 5
-  },
-  {
-    "id": "rss-banking-eb2213f0dd42dc",
-    "title": "みずほ銀行、顧客管理番号が最大3万3224件漏えい プレイドのKARTEへの不正アクセスで - NOVAIST",
-    "summary": "みずほ銀行、顧客管理番号が最大3万3224件漏えい プレイドのKARTEへの不正アクセスで NOVAIST",
-    "sourceName": "個別行ニュース",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-27T03:18:43.000Z",
-    "category": "banking",
-    "keywords": [
-      "みずほ銀行",
-      "顧客管理番号が最大3万3224件漏えい",
-      "プレイドのKARTEへの不正アクセスで",
-      "NOVAIST"
-    ],
-    "bannerClass": "from-slate-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UelhLNVdNdjlWWmFueDQzYS1VWkVDYXhVNHdvVFJUT0hLZnhGUDYtZXBqUEhFUk5PalBUeDNPWFpuYXpJc1VqS3JIVjlYZHZTSDQ4M1JTUFR5cjNXZ1paS3Rqc0N4VTA?oc=5",
-    "sortBoost": 4
   },
   {
     "id": "rss-banking-8c095a00c64dfa",
@@ -367,42 +364,24 @@
     "sortBoost": 4
   },
   {
-    "id": "rss-banking-683cee87b1dd3e",
-    "title": "みずほ銀行、KARTE経由で顧客管理番号最大33,224件が漏えい 3メガバンクすべてが公表 - innovaTopia",
-    "summary": "みずほ銀行、KARTE経由で顧客管理番号最大33,224件が漏えい 3メガバンクすべてが公表 innovaTopia",
+    "id": "rss-banking-ca7b9971bb3115",
+    "title": "千葉銀行(8331) 今期業績予想を20億円減額修正するが、会社計画上回る着地を見込む - QUICK Money World",
+    "summary": "千葉銀行(8331) 今期業績予想を20億円減額修正するが、会社計画上回る着地を見込む QUICK Money World",
     "sourceName": "個別行ニュース",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-27T02:14:26.000Z",
+    "publishedAt": "2026-11-27T01:15:00.000Z",
     "category": "banking",
     "keywords": [
-      "みずほ銀行",
-      "3メガバンクすべてが公表",
-      "innovaTopia"
+      "千葉銀行(8331)",
+      "今期業績予想を20億円減額修正するが",
+      "会社計画上回る着地を見込む",
+      "QUICK",
+      "Money"
     ],
     "bannerClass": "from-slate-900 to-indigo-950",
     "isNew": true,
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfQVNkVzJ5YUxVU1JZT3ZzMVZfYWdCRllyR0tsNW1raS03ZEFnUFl3ZTZkVnBsMlhNTVVOMG1oaXlwREZkbEJnM2xVNms0MXJBTzRwQ3l6d1V5dmxkM0x0UjlZVWk1bDlha1BiUnVDY2xpTE0?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyNjBpOFZpUHJWaDFlVkxhUUlyU09pYVkzWGdpRm9oOUdvSzM5YXVVbjAxRUJkcVJwaklkRnpsNnRZWFY4YzFjNE9MWmk3dEdET2dVcGpn?oc=5",
     "sortBoost": 4
-  },
-  {
-    "id": "rss-banking-1844a89134114a",
-    "title": "広島県内の信金・信組、定期預金キャンペーン続々 金利優遇、地銀との競争激化 - 中国新聞デジタル",
-    "summary": "広島県内の信金・信組、定期預金キャンペーン続々 金利優遇、地銀との競争激化 中国新聞デジタル",
-    "sourceName": "銀行業界ニュース",
-    "sourceIcon": "🏦",
-    "publishedAt": "2026-11-26T11:45:00.000Z",
-    "category": "banking",
-    "keywords": [
-      "広島県内の信金",
-      "信組",
-      "定期預金キャンペーン続々",
-      "金利優遇",
-      "地銀との競争激化"
-    ],
-    "bannerClass": "from-indigo-950 to-slate-800",
-    "isNew": true,
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sa0ExODRuWFN5WnZGaVF1eVhBSHFSYnBGYzRmb3ZuY0dZWXQtblNXNTQ1aFFwYmV2NXNRWWlRVDRCYi1fRDVPc2plVjFYZ0dCMTJTWmlqVjhaQQ?oc=5",
-    "sortBoost": 5
   },
   {
     "id": "rss-banking-395d711c6b4558",
@@ -425,6 +404,24 @@
     "sortBoost": 4
   },
   {
+    "id": "rss-banking-92abeee1f1ffdc",
+    "title": "【セミナー】地銀間の連携・共同化を活用した効率的なSSBJ開示 - PwC",
+    "summary": "【セミナー】地銀間の連携・共同化を活用した効率的なSSBJ開示 PwC",
+    "sourceName": "銀行業界ニュース",
+    "sourceIcon": "🏦",
+    "publishedAt": "2026-11-26T04:18:18.000Z",
+    "category": "banking",
+    "keywords": [
+      "【セミナー】地銀間の連携",
+      "共同化を活用した効率的なSSBJ開示",
+      "PwC"
+    ],
+    "bannerClass": "from-indigo-950 to-slate-800",
+    "isNew": true,
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzMFh4TGIybUxkdlJGQ2tsd0xLSkNGQ05fOFdYeEZscWN4YlZueXpaS0IyNFZPWFVhMFhybUNNM0hTclBieW5qR0V4WTBHU2FyaWp1TGlfbmI4ZlhV?oc=5",
+    "sortBoost": 5
+  },
+  {
     "id": "rss-insurance-ff5b482fec9dc2",
     "title": "保険デイリーニュース(11/20)",
     "summary": "本日の主なニュース ・タマホームの不正請求、少なくとも全支店の1割で疑い 損保調査 ・“AI悪用”で事故写真加工 保険金不正請求に損保各社が新システム 次々発見 ・ＭＳ＆ＡＤ・ＨＤ、傘下の生命保険会社２社合併に向け協議へ…商品開発力や販売力を強化 ・大手生保4社、営...",
@@ -440,24 +437,6 @@
     "isNew": false,
     "url": "https://blog.livedoor.jp/yanaharu_yanaharu/archives/65992612.html",
     "sortBoost": 18
-  },
-  {
-    "id": "rss-banking-bdc6e80cdd43f2",
-    "title": "みずほ銀行の顧客管理番号３万３２２４件漏えい、氏名や口座の暗証番号など含まれず - 読売新聞",
-    "summary": "みずほ銀行の顧客管理番号３万３２２４件漏えい、氏名や口座の暗証番号など含まれず 読売新聞",
-    "sourceName": "個別行ニュース",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-26T09:08:00.000Z",
-    "category": "banking",
-    "keywords": [
-      "みずほ銀行の顧客管理番号３万３２２４件漏えい",
-      "氏名や口座の暗証番号など含まれず",
-      "読売新聞"
-    ],
-    "bannerClass": "from-slate-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaRmtmM3pLeE9oY3htSGVUMnRDeEdndmpINnlsQ3BvdFhzREgyN0F0Ny1YdlB6NlZyRWh6c2RHSVVrWUZUQjQyTG02enBEQm00YTFySWtaLW9vVGphemJGMDNKaFI?oc=5",
-    "sortBoost": 4
   },
   {
     "id": "rss-banking-c0626e9f795cee",
@@ -517,6 +496,25 @@
     "sortBoost": 4
   },
   {
+    "id": "rss-banking-85307f561a653a",
+    "title": "【nCino】「変革の責任」は誰が負うのか ― ひろぎんHD・横浜銀行が語る銀行DXの現実 - グッドウェイ",
+    "summary": "【nCino】「変革の責任」は誰が負うのか ― ひろぎんHD・横浜銀行が語る銀行DXの現実 グッドウェイ",
+    "sourceName": "個別行ニュース",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-11-26T00:54:04.000Z",
+    "category": "banking",
+    "keywords": [
+      "【nCino】「変革の責任」は誰が負うのか",
+      "ひろぎんHD",
+      "横浜銀行が語る銀行DXの現実",
+      "グッドウェイ"
+    ],
+    "bannerClass": "from-slate-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNa1FMNElCVGhIVmY5NURCQVRNTTY3MTFia1VzTXpSdERqcW83UkxlN3hKbnNxemxTVzhmYl9sMXNaRnhJOVpKUEJn?oc=5",
+    "sortBoost": 4
+  },
+  {
     "id": "rss-housing-1b4b69548562c9",
     "title": "国内外から14社が連携、「バスルームプロジェクト2026」を東京・青山で開催",
     "summary": "国内外のバスルーム関連企業が連携し、浴室...",
@@ -535,30 +533,12 @@
     "sortBoost": 4
   },
   {
-    "id": "rss-banking-5e4eead5ce65c6",
-    "title": "地銀再編、株価に揺れるのれん - 日本経済新聞",
-    "summary": "地銀再編、株価に揺れるのれん 日本経済新聞",
-    "sourceName": "銀行業界ニュース",
-    "sourceIcon": "🏦",
-    "publishedAt": "2026-11-25T02:30:00.000Z",
-    "category": "banking",
-    "keywords": [
-      "地銀再編",
-      "株価に揺れるのれん",
-      "日本経済新聞"
-    ],
-    "bannerClass": "from-indigo-950 to-slate-800",
-    "isNew": false,
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56ZkIwZmZhM1pNZWJVc1JYVVpOQ1cxZy1NU0F4SFhZdURXUGFkV3ZFenFLOTJLLUxZSDZUZHJGbG9HeEpTNEVvX0RDVFNqN0pRM21UVVNMMmNZRktWcEllX25CeExEUHNDNWNRaA?oc=5",
-    "sortBoost": 5
-  },
-  {
     "id": "rss-insurance-de042d1fa0c808",
     "title": "貸金業関係資料集について掲載しました。",
     "summary": "貸金業関係資料集について掲載しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-27T05:49:37.285Z",
+    "publishedAt": "2026-11-27T20:27:40.954Z",
     "category": "insurance",
     "keywords": [
       "貸金業関係資料集について",
@@ -575,7 +555,7 @@
     "summary": "国際関係,金融安定理事会による「グローバルなシステム上重要な銀行（G-SIB）の2026年リスト」を公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-27T05:49:37.285Z",
+    "publishedAt": "2026-11-27T20:27:40.954Z",
     "category": "insurance",
     "keywords": [
       "国際関係,金融安定理事会",
@@ -594,7 +574,7 @@
     "summary": "その他,無登録で金融商品取引業を行う者の名称等について更新しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-27T05:49:37.285Z",
+    "publishedAt": "2026-11-27T20:27:40.954Z",
     "category": "insurance",
     "keywords": [
       "その他,無登録で金融商品",
@@ -613,7 +593,7 @@
     "summary": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年11月20日）について掲載しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-27T05:49:37.285Z",
+    "publishedAt": "2026-11-27T20:27:40.954Z",
     "category": "insurance",
     "keywords": [
       "記者会見,片山財務大臣兼",
@@ -632,7 +612,7 @@
     "summary": "「トランジション・ファイナンス環境整備検討会」（第15回）の開催について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-27T05:49:37.285Z",
+    "publishedAt": "2026-11-27T20:27:40.954Z",
     "category": "insurance",
     "keywords": [
       "「トランジション・ファイ",
@@ -651,7 +631,7 @@
     "summary": "「AI等の健全な利活用の推進に関する研究会」（第１回）議事次第について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-27T05:49:37.285Z",
+    "publishedAt": "2026-11-27T20:27:40.954Z",
     "category": "insurance",
     "keywords": [
       "「AI等の健全な利活用の",
@@ -670,7 +650,7 @@
     "summary": "国際関係,金融安定理事会による「金融機関の実効的な破綻処理の枠組みの主要な特性」に整合的な破綻処理計画基準に服する保険会社のリストを公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-27T05:49:37.285Z",
+    "publishedAt": "2026-11-27T20:27:40.954Z",
     "category": "insurance",
     "keywords": [
       "国際関係,金融安定理事会",
@@ -689,7 +669,7 @@
     "summary": "国際関係,バーゼル銀行監督委員会による議事要旨について公表しました。",
     "sourceName": "金融庁（新着情報）",
     "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-27T05:49:37.285Z",
+    "publishedAt": "2026-11-27T20:27:40.954Z",
     "category": "insurance",
     "keywords": [
       "国際関係,バーゼル銀行監",
@@ -703,73 +683,965 @@
     "url": "https://www.fsa.go.jp/inter/bis/20261124/20261124.html"
   },
   {
-    "id": "rss-economy-73458b225612f4",
-    "title": "貨物列車が牛と衝突 巻き込み停車",
-    "summary": "貨物列車が牛と衝突 巻き込み停車",
-    "sourceName": "Yahoo!ニュース",
+    "id": "rss-economy-0b987adc5d14c0",
+    "title": "宮城県山中で身元不明2人の遺体 1人は横浜の女子高校生か 警察",
+    "summary": "27日、宮城県の山中で身元が分からない2人が遺体で見つかり、警察はこのうち1人は10月から行方が分からなくなっている横浜市の高校1年の女子生徒の可能性があるとみて確認を進めています。警察は女子生徒を連…",
+    "sourceName": "NHKニュース",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T05:38:41.000Z",
+    "publishedAt": "2026-11-27T20:21:45.000Z",
     "category": "economy",
     "keywords": [
-      "貨物列車が牛と衝突",
-      "巻き込み停車"
+      "宮城県山中で身元不明2人の遺体",
+      "1人は横浜の女子高校生か",
+      "警察"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20261127de82799"
+  },
+  {
+    "id": "rss-economy-d4312586adad71",
+    "title": "生成AIへの不安 「犯罪に悪用される」が73% NHK世論調査",
+    "summary": "急速に普及が進む生成AIについて、NHKの世論調査で期待と不安を聞いたところ、期待することとしては「仕事の効率化が進む」が62％だった一方、不安は「犯罪に悪用される」が最も多く73％でした。",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-27T20:05:17.000Z",
+    "category": "economy",
+    "keywords": [
+      "生成AIへの不安",
+      "「犯罪に悪用される」が73%",
+      "NHK世論調査"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20261127de82786"
+  },
+  {
+    "id": "rss-economy-80e68400e2fa80",
+    "title": "警察 ICC赤根所長の安全確保 最高ランク「特A」で警戒強化",
+    "summary": "ICC＝国際刑事裁判所の赤根智子所長について、国際社会からの注目が集まる中で不測の事態を防ぐ体制を強化する必要があるとして、日本の警察当局が、安全確保などを行う際の警戒の区分を最も高いランクに指定して…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-27T20:03:23.000Z",
+    "category": "economy",
+    "keywords": [
+      "警察",
+      "ICC赤根所長の安全確保",
+      "最高ランク「特A」で警戒強化"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20261127de82788"
+  },
+  {
+    "id": "rss-economy-f982d5f4ba4aa5",
+    "title": "東電 資本提携の交渉先に「株式売却時は国の了承必要」と提示",
+    "summary": "経営の立て直しに向けて他社との資本提携の交渉を進める東京電力ホールディングスは、交渉相手に対し、出資によって得た株式を売却する際には国の了承が必要だとする条件を提示していたことが新たにわかりました。交…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-27T20:02:15.000Z",
+    "category": "economy",
+    "keywords": [
+      "東電資本提携の交渉先に「",
+      "渉先に「株式売却時は国の",
+      "時は国の了承必要」と提示",
+      "」と提示"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20261127de82791"
+  },
+  {
+    "id": "rss-economy-5a9f0bcc259670",
+    "title": "問責決議案否決 与党“消費税法案成立を” 野党“疑惑を追及”",
+    "summary": "関文部科学大臣に対する問責決議案は、27日に採決が行われ、自民・維新両党などの反対多数で否決されました。国会の会期末まで2週間となる中、与党側は食料品の消費税減税関連法案などの成立に全力を挙げる方針な…",
+    "sourceName": "NHKニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-27T20:00:55.000Z",
+    "category": "economy",
+    "keywords": [
+      "問責決議案否決",
+      "与党“消費税法案成立を”",
+      "野党“疑惑を追及”"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://news.web.nhk/newsweb/na/nd-20261128de82805"
+  },
+  {
+    "id": "rss-economy-ae5e62c84ed097",
+    "title": "その代償は意外と大きかった… 関文科相の問責決議｢薄氷の否決｣で忍び寄る自民･維新連立\"不吉な不協和音\"の正体 | 政治・経済・投資 | 東洋経済オンライン",
+    "summary": "関文科相への問責決議は賛成120･反対124でかろうじて否決に。今臨時国会のヤマ場をひとまず乗り切った高市政権ですが､その代償は意外と大きいようです。連立与党を待ち受ける､これから先の隘路とは？",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-27T20:00:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "その代償は意外と大きかった",
+      "政治",
+      "経済",
+      "投資",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/966160?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-economy-5a7ac079416644",
+    "title": "山陰本線｢長距離鈍行｣が走った国鉄時代の記憶 ｢長大なローカル線｣の保津峡\"旧線\"や旧余部鉄橋 | ビジネス | 東洋経済オンライン",
+    "summary": "山陰地方の日本海沿いを走る山陰本線。ローカル色豊かなこの路線は､かつては今では考えられないような｢長距離普通列車｣などが走っていました。鉄道写真家･南正時氏が撮影した国鉄時代から近年までの貴重な写真…",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-27T19:30:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "山陰本線｢長距離鈍行｣が走った国鉄時代の記憶",
+      "｢長大なローカル線｣の保津峡\"旧線\"や旧余部鉄橋",
+      "ビジネス",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/966034?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-market-fb1df87992db7f",
+    "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+    "summary": "SpaceX shares jumped in trading Friday after Elon Musk said on X that he would donate shares to American children every year.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-11-27T18:24:06.000Z",
+    "category": "market",
+    "keywords": [
+      "SpaceX",
+      "shares",
+      "jump",
+      "amid",
+      "tech"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html"
+  },
+  {
+    "id": "rss-market-4d4cda97b22f96",
+    "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+    "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-11-27T18:20:32.000Z",
+    "category": "market",
+    "keywords": [
+      "Budget",
+      "airline",
+      "Norse",
+      "Atlantic",
+      "files"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+    "summaryJa": "格安航空会社ノース・アトランティック航空は金曜日、燃料費の高騰により経営が圧迫され資金を確保できなかったとして破産を申請した。"
+  },
+  {
+    "id": "rss-banking-4926b107c51c26",
+    "title": "Intermex sues Western Union over merger agreement termination",
+    "summary": "Intermex is suing Western Union to enforce the terms of a $500 million merger agreement that the latter abandoned in the face of regulatory conditions.",
+    "sourceName": "Finextra",
+    "sourceIcon": "💳",
+    "publishedAt": "2026-11-27T18:10:00.000Z",
+    "category": "banking",
+    "keywords": [
+      "Intermex",
+      "sues",
+      "Western",
+      "Union",
+      "merger"
+    ],
+    "bannerClass": "from-indigo-900 to-blue-950",
+    "isNew": true,
+    "url": "https://www.finextra.com/newsarticle/48831/intermex-sues-western-union-over-merger-agreement-termination?utm_medium=rssfinextra&utm_source=finextrafeed"
+  },
+  {
+    "id": "rss-housing-225821f65075c0",
+    "title": "Highest New Home Sales in Nearly a Year",
+    "summary": "New home sales continued their recovery in October, returning to levels not seen since the start of 2026. Sales of new single-family homes rose to a seasonally adjusted annual rate of 701,000 , up 14.2% from September's revised 614,000 and 7.5% above October 2025. The number of new homes for sale fell to 470,000 , down 1.5% from September and 4.1% from a year earlier. With sales rising and inventory declining, the implied supply dropped to 8.0 months , down from 9.3 months in September and 9.0 months a year ago. Prices continued to soften. The median sales price slipped to $391,300 , down 0.3% from September and 3.2% from October 2025. The average sales price fell to $459,900 , down 2.2% month over month and 12.1% year over year. As a reminder, prices in this data set d",
+    "sourceName": "Mortgage News Daily",
+    "sourceIcon": "🏦",
+    "publishedAt": "2026-11-27T16:59:00.000Z",
+    "category": "housing",
+    "keywords": [
+      "Highest",
+      "Home",
+      "Sales",
+      "Nearly"
+    ],
+    "bannerClass": "from-teal-950 to-cyan-900",
+    "isNew": true,
+    "url": "https://www.mortgagenewsdaily.com/news/11272026-new-home-sales"
+  },
+  {
+    "id": "rss-housing-00693b82b36513",
+    "title": "Purchase Applications Post Strongest Week Since September",
+    "summary": "Mortgage applications rebounded as rates eased over the course of the week, despite a slight increase in the weekly average. The Mortgage Bankers Association (MBA) reported a 6.1% increase in total application volume for the week ending November 20, 2026. Purchase applications improved by 10% on a seasonally adjusted basis, and Refinance applications increased just 1%. On an unadjusted basis, purchase activity was up 5% for the week. Despite the rebound, purchase applications remained 16% below year-ago levels , while refinance activity was down 51% . The refinance share of total applications fell to 40.1% from 41.1%, while adjustable-rate mortgage applications increased to 11.5%, their highest share in more than a year. MBA's Joel Kan noted that purchase applications r",
+    "sourceName": "Mortgage News Daily",
+    "sourceIcon": "🏦",
+    "publishedAt": "2026-11-27T16:58:00.000Z",
+    "category": "housing",
+    "keywords": [
+      "Purchase",
+      "Applications",
+      "Post",
+      "Strongest",
+      "September"
+    ],
+    "bannerClass": "from-teal-950 to-cyan-900",
+    "isNew": true,
+    "url": "https://www.mortgagenewsdaily.com/news/11272026-mortgage-applications-mba"
+  },
+  {
+    "id": "rss-housing-bb52615d18dbce",
+    "title": "Home Price Appreciation Remains Positive",
+    "summary": "Home prices continued to post modest annual gains in September. The S&P Cotality Case-Shiller National Home Price Index rose 2.1% year over year in September, matching August's gain. The 10-City Composite increased 3.5% , down slightly from 3.6% in August, while the 20-City Composite rose 2.6% , unchanged from the previous month. Monthly results offered a somewhat more encouraging picture after accounting for seasonal patterns. The National Index rose 0.2% on a seasonally adjusted basis. The 10-City Composite followed the same pattern, while the 20-City Composite posted a 0.1% seasonally adjusted gain. The latest FHFA data also showed continued appreciation, with national home prices rising 2.5% between the third quarters of 2025 and 2026. Prices increased 0.7% from the",
+    "sourceName": "Mortgage News Daily",
+    "sourceIcon": "🏦",
+    "publishedAt": "2026-11-27T16:54:00.000Z",
+    "category": "housing",
+    "keywords": [
+      "Home",
+      "Price",
+      "Appreciation",
+      "Remains",
+      "Positive"
+    ],
+    "bannerClass": "from-teal-950 to-cyan-900",
+    "isNew": true,
+    "url": "https://www.mortgagenewsdaily.com/news/11272026-case-shiller-fhfa-home-prices-prices-apprecia"
+  },
+  {
+    "id": "rss-market-cbbae6846f066b",
+    "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+    "summary": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-11-27T16:43:14.000Z",
+    "category": "market",
+    "keywords": [
+      "shopping",
+      "agents",
+      "having",
+      "moment",
+      "Amazon"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+    "summaryJa": "OpenAI、Meta、Google、Instinct の AI ショッピング エージェントはユーザーの買い物を支援すると約束していますが、Amazon やその他の小売業者では障害に直面しています。"
+  },
+  {
+    "id": "rss-insurance-a55b206534d776",
+    "title": "Allstate Customer, Agent Access Disrupted by Multiday Tech Outage",
+    "summary": "Personal lines insurer Allstate continues to experience some disruption to its network systems. Insurance Journal earlier this week began receiving messages about Allstate experiencing some kind of outage to its customer- and agent-facing systems. When reached for comment, Allstate provided …",
+    "sourceName": "Insurance Journal",
+    "sourceIcon": "🛡️",
+    "publishedAt": "2026-11-27T16:39:31.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Allstate",
+      "Customer",
+      "Agent",
+      "Access",
+      "Disrupted"
+    ],
+    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
+    "isNew": true,
+    "url": "https://www.insurancejournal.com/news/national/2026/11/27/893817.htm",
+    "summaryJa": "個人向け保険会社オールステートでは、引き続きネットワーク システムに障害が発生しています。 Insurance Journal は今週初め、Allstate 社の顧客および代理店向けシステムに何らかの障害が発生しているというメッセージを受け取り始めました。コメントを求めたところ、オールステートは次のように述べた。"
+  },
+  {
+    "id": "rss-market-d5f73ba4b22ba4",
+    "title": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
+    "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-11-27T15:52:00.000Z",
+    "category": "market",
+    "keywords": [
+      "Trump",
+      "demands",
+      "probe",
+      "record",
+      "setting"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+    "summaryJa": "ドナルド・トランプ大統領は木曜日、最新の国内総生産（ＧＤＰ）改定は誤りであり、「直ちに調査」されるべきだと主張した。"
+  },
+  {
+    "id": "rss-insurance-3b3befbf3bd3ba",
+    "title": "ILS funds upward trajectory continues in 2026, average October return hits 1.07%: ILS Advisers",
+    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. The performance of insurance-linked securities investment fund strategies, across catastrophe bonds and private ILS, has continued to rise through October 2026 with their upward momentum continuing, as the average ILS fund performance reached 1.07%, as measured by the ILS Advisers Fund Index. Two months ago, ILS Advisers reported August returns provisionally at 1.39%, but once […] ILS funds upward trajectory continues in 2026, average October return hits 1.07%: ILS Advisers was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
+    "sourceName": "Artemis",
+    "sourceIcon": "🎯",
+    "publishedAt": "2026-11-27T15:30:46.000Z",
+    "category": "insurance",
+    "keywords": [
+      "ILS",
+      "funds",
+      "upward",
+      "trajectory",
+      "continues"
+    ],
+    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.artemis.bm/news/ils-funds-upward-trajectory-continues-in-2026-average-october-return-hits-1-07-ils-advisers/?utm_source=rss&utm_medium=rss&utm_campaign=ils-funds-upward-trajectory-continues-in-2026-average-october-return-hits-1-07-ils-advisers",
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。カタストロフ債とプライベートILSを含む保険関連証券投資ファンド戦略のパフォーマンスは、ILSアドバイザーズファンド指数で測定した場合、ILSファンドの平均パフォーマンスが1.07%に達するなど、上昇の勢いが続き、2026年10月まで上昇を続けています。 2か月前、ILSアドバイザーズは8月のリターンを暫定的に1.39％と報告したが、ひとたび[…]ILSファンドの上昇軌道が2026年まで続くと、10月の平均リターンは1.07％に達する：ILSアドバイザーズの発行元：www.Artemis.bm catastrophe bo"
+  },
+  {
+    "id": "rss-economy-fe920c70c5b9cd",
+    "title": "防衛相ら 献金報道巡り違法性否定",
+    "summary": "防衛相ら 献金報道巡り違法性否定",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-27T15:15:52.000Z",
+    "category": "economy",
+    "keywords": [
+      "防衛相ら",
+      "献金報道巡り違法性否定"
     ],
     "bannerClass": "from-amber-900 to-orange-950",
     "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6604187?source=rss"
+    "url": "https://news.yahoo.co.jp/pickup/6604248?source=rss"
   },
   {
-    "id": "rss-economy-f9167e50706c19",
-    "title": "【更新中】関文科相への問責決議案 4票差で否決 参院本会議",
-    "summary": "政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣に対する問責決議案は、参議院本会議で採決が行われ、自民・維新両党などの反対多数で否決されました。",
-    "sourceName": "NHKニュース",
+    "id": "rss-housing-3ed0cd532a6ee4",
+    "title": "Who should referee a national MLS, brokers or a neutral body?",
+    "summary": "The column compares a neutral MLS operator to Visa, and warns against competitors writing the market rulebook",
+    "sourceName": "HousingWire",
+    "sourceIcon": "🏘️",
+    "publishedAt": "2026-11-27T15:00:00.000Z",
+    "category": "housing",
+    "keywords": [
+      "referee",
+      "national",
+      "MLS",
+      "brokers",
+      "neutral"
+    ],
+    "bannerClass": "from-sky-950 to-cyan-950",
+    "isNew": true,
+    "url": "https://www.housingwire.com/articles/open-real-estate-national-mls/"
+  },
+  {
+    "id": "rss-housing-b053181bfa77e8",
+    "title": "The referral source real estate agents overlook is sitting in the next office",
+    "summary": "Consistent outreach to 3 to 5 agents monthly can create two-way deal flow across markets over time",
+    "sourceName": "HousingWire",
+    "sourceIcon": "🏘️",
+    "publishedAt": "2026-11-27T15:00:00.000Z",
+    "category": "housing",
+    "keywords": [
+      "referral",
+      "source",
+      "real",
+      "estate",
+      "agents"
+    ],
+    "bannerClass": "from-sky-950 to-cyan-950",
+    "isNew": true,
+    "url": "https://www.housingwire.com/articles/build-agent-referral-network/"
+  },
+  {
+    "id": "rss-banking-dc7a993db6d97a",
+    "title": "Sweden to join Eurosystem's T2 RTGS system",
+    "summary": "The European Central Bank has struck a deal with Sveriges Riksbank for Sweden to join the Eurosystem's T2 real-time gross settlement system.",
+    "sourceName": "Finextra",
+    "sourceIcon": "💳",
+    "publishedAt": "2026-11-27T14:29:00.000Z",
+    "category": "banking",
+    "keywords": [
+      "Sweden",
+      "join",
+      "Eurosystem",
+      "RTGS",
+      "system"
+    ],
+    "bannerClass": "from-indigo-900 to-blue-950",
+    "isNew": true,
+    "url": "https://www.finextra.com/newsarticle/48829/sweden-to-join-eurosystems-t2-rtgs-system?utm_medium=rssfinextra&utm_source=finextrafeed"
+  },
+  {
+    "id": "rss-economy-9f5ef20cadd11e",
+    "title": "山中に2遺体 1人は不明の高校生か",
+    "summary": "山中に2遺体 1人は不明の高校生か",
+    "sourceName": "Yahoo!ニュース",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T05:33:07.000Z",
+    "publishedAt": "2026-11-27T14:27:39.000Z",
     "category": "economy",
     "keywords": [
-      "【更新中】関文科相への問責決議案",
-      "4票差で否決",
-      "参院本会議"
+      "山中に2遺体",
+      "1人は不明の高校生か"
     ],
-    "bannerClass": "from-stone-800 to-neutral-700",
+    "bannerClass": "from-amber-900 to-orange-950",
     "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20261127de82148"
+    "url": "https://news.yahoo.co.jp/pickup/6604246?source=rss"
   },
   {
-    "id": "rss-ai_theory-c0d78b317e450f",
-    "title": "NVIDIAが海賊版書籍を配布しAdobeと共有したと著者らが主張",
-    "summary": "NVIDIAがAIモデルの学習に著作権で保護された書籍を無断で使用したとして、2024年に書籍著者らから提訴されました。裁判所は訴訟の一部却下申し立てを認めましたが、一部の主張は訴訟を継続できると判断しており、書籍著者らは2026年11月23日に「NVIDIAはダウンロードした海賊版書籍をAdobeなどの提携企業に拡散した」と訴状を修正しています。 続きを読む...",
+    "id": "rss-economy-0b4a41f1bb9ff1",
+    "title": "関氏18年食事会で300万円収入計上",
+    "summary": "関氏18年食事会で300万円収入計上",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-27T14:08:54.000Z",
+    "category": "economy",
+    "keywords": [
+      "関氏18年食事会で300",
+      "で300万円収入計上",
+      "計上"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6604244?source=rss"
+  },
+  {
+    "id": "rss-insurance-7f6a3836ebfd7f",
+    "title": "Cat bonds hold rate advantage, as principal loss remains primary risk for investors: King Ridge",
+    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. A recent report from King Ridge Capital Advisors LLC, the specialist insurance-linked securities (ILS) investment manager, has highlighted how catastrophe bonds differ from traditional fixed-rate bonds in their interest rate sensitivity, while emphasising that the primary risk for investors remains loss of principal rather than rising yields. “Rising rates are usually bad news for bond […] Cat bonds hold rate advantage, as principal loss remains primary risk for investors: King Ridge was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
+    "sourceName": "Artemis",
+    "sourceIcon": "🎯",
+    "publishedAt": "2026-11-27T14:00:27.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Cat",
+      "bonds",
+      "hold",
+      "rate",
+      "advantage"
+    ],
+    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.artemis.bm/news/cat-bonds-hold-rate-advantage-as-principal-loss-remains-primary-risk-for-investors-king-ridge/?utm_source=rss&utm_medium=rss&utm_campaign=cat-bonds-hold-rate-advantage-as-principal-loss-remains-primary-risk-for-investors-king-ridge"
+  },
+  {
+    "id": "rss-ai_theory-ed4a42b9183477",
+    "title": "シンプルな構文で美しい図を自動生成する「D2」が進化、非営利化で独自レイアウトエンジンもオープンソース化",
+    "summary": "テキストで図形や矢印の関係を記述するだけで図を自動生成できる「D2」は、2022年に基本的な使い方をレビューしました。その後は手描き風のデザインやアニメーション、ターミナルでも表示できるASCII出力などに対応し、図の表現方法が広がっています。2026年9月には運営体制が非営利に切り替わり、独自の自動配置エンジンもオープンソース化されたので、追加された機能を中心に改めて使ってみました。 続きを読む...",
     "sourceName": "GIGAZINE",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T05:22:00.000Z",
+    "publishedAt": "2026-11-27T14:00:00.000Z",
     "category": "ai_theory",
     "keywords": [
-      "NVIDIAが海賊版書籍",
-      "賊版書籍を配布しAdob",
-      "Adobeと共有したと著",
-      "したと著者らが主張"
+      "シンプルな構文で美しい図",
+      "美しい図を自動生成する「",
+      "成する「D2」が進化、非",
+      "進化、非営利化で独自レイ",
+      "独自レイアウトエンジンも"
     ],
     "bannerClass": "from-fuchsia-950 to-violet-900",
     "isNew": true,
-    "url": "https://gigazine.net/news/20261127-nvidia-adobe-pirate/"
+    "url": "https://gigazine.net/news/20261127-d2/"
   },
   {
-    "id": "rss-economy-6cdeb62c532bbb",
-    "title": "【速報中】フィギュアNHK杯 アイスダンス前半 櫛田・島田7位",
-    "summary": "フィギュアスケートのグランプリシリーズ、最終第6戦のNHK杯は27日、開幕しました。アイスダンスの前半、リズムダンスが行われ、 櫛田育良選手と島田高志郎選手のカップルが7位、紀平梨花選手と西山真瑚選手…",
-    "sourceName": "NHKニュース",
+    "id": "rss-banking-a68ff58be1c9ba",
+    "title": "Lloyds app goes down",
+    "summary": "Lloyds Bank customers have been hit with another app outage leaving thousands unable to access their accounts on pay day.",
+    "sourceName": "Finextra",
+    "sourceIcon": "💳",
+    "publishedAt": "2026-11-27T13:43:00.000Z",
+    "category": "banking",
+    "keywords": [
+      "Lloyds",
+      "app",
+      "goes",
+      "down"
+    ],
+    "bannerClass": "from-indigo-900 to-blue-950",
+    "isNew": true,
+    "url": "https://www.finextra.com/newsarticle/48828/lloyds-app-goes-down?utm_medium=rssfinextra&utm_source=finextrafeed"
+  },
+  {
+    "id": "rss-market-baa1056c7f8b26",
+    "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+    "summary": "The November sell-off has so far pushed the S&P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.",
+    "sourceName": "CNBC",
+    "sourceIcon": "📈",
+    "publishedAt": "2026-11-27T13:21:56.000Z",
+    "category": "market",
+    "keywords": [
+      "500",
+      "correction",
+      "Bear",
+      "markets",
+      "recessions"
+    ],
+    "bannerClass": "from-indigo-950 to-blue-800",
+    "isNew": true,
+    "url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+    "summaryJa": "11月の下落により、これまでのところS&P500指数は調整局面に入っている。歴史は、調整が必ずしも弱気相場や景気後退につながるわけではないことを示しています。"
+  },
+  {
+    "id": "rss-economy-f0f2ffd410482c",
+    "title": "舞妓を狙う観光客の迷惑行為 拍車",
+    "summary": "舞妓を狙う観光客の迷惑行為 拍車",
+    "sourceName": "Yahoo!ニュース",
     "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T05:15:24.000Z",
+    "publishedAt": "2026-11-27T13:00:25.000Z",
     "category": "economy",
     "keywords": [
-      "【速報中】フィギュアNHK杯",
-      "アイスダンス前半",
-      "櫛田",
-      "島田7位"
+      "舞妓を狙う観光客の迷惑行為",
+      "拍車"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6604239?source=rss"
+  },
+  {
+    "id": "rss-ai_theory-410fb456bbb54f",
+    "title": "ゴミ捨て場で大量のアポピスの儀式の痕跡が見つかり古代エジプトでは呪いの儀式が広く行われていたことが明らかに",
+    "summary": "エジプトの古代都市であるテーベの遺跡で、焼け焦げたパピルス(古代エジプトで利用された紙)の断片40点が見つかりました。ここから、古代エジプトで有名な呪いの儀式は、これまで考えられてきたよりも広く日常的に行われていた可能性が浮上しています。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-27T13:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "ゴミ捨て場で大量のアポピ",
+      "のアポピスの儀式の痕跡が",
+      "の痕跡が見つかり古代エジ",
+      "古代エジプトでは呪いの儀",
+      "呪いの儀式が広く行われて"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20261127-curse-ritual-widespread-ancient-egypt/"
+  },
+  {
+    "id": "rss-housing-92a4ff89e68680",
+    "title": "Mortgage hires: Genworth names CEO, FHLB New York elects chair",
+    "summary": "Genworth named a new CEO, while Fannie Mae appointed a director and approved executive retention awards",
+    "sourceName": "HousingWire",
+    "sourceIcon": "🏘️",
+    "publishedAt": "2026-11-27T13:00:00.000Z",
+    "category": "housing",
+    "keywords": [
+      "Mortgage",
+      "hires",
+      "Genworth",
+      "names",
+      "CEO"
+    ],
+    "bannerClass": "from-sky-950 to-cyan-950",
+    "isNew": true,
+    "url": "https://www.housingwire.com/articles/genworth-ceo-fhlb-chair-hires/"
+  },
+  {
+    "id": "rss-banking-6fdbec3c117040",
+    "title": "SAP may cut 10,000 jobs to make room for AI",
+    "summary": "German software company SAP is considering a major staff cut to prepare its business for AI transformation, Bloomberg reported yesterday.",
+    "sourceName": "Finextra",
+    "sourceIcon": "💳",
+    "publishedAt": "2026-11-27T12:37:00.000Z",
+    "category": "banking",
+    "keywords": [
+      "SAP",
+      "cut",
+      "000",
+      "jobs",
+      "room"
+    ],
+    "bannerClass": "from-indigo-900 to-blue-950",
+    "isNew": true,
+    "url": "https://www.finextra.com/newsarticle/48827/sap-may-cut-10000-jobs-to-make-room-for-ai?utm_medium=rssfinextra&utm_source=finextrafeed"
+  },
+  {
+    "id": "rss-banking-047a1b9bffcc22",
+    "title": "The fintech graveyard is full of companies that grew too fast",
+    "summary": "It’s extremely difficult to scale fraud controls at the same rate as customer growth. But the fintechs that fail to do it are leaving themselves vulnerable to the kind of attacks that can prove fatal to a young company.",
+    "sourceName": "American Banker",
+    "sourceIcon": "🇺🇸",
+    "publishedAt": "2026-11-27T12:30:00.000Z",
+    "category": "banking",
+    "keywords": [
+      "fintech",
+      "graveyard",
+      "full",
+      "companies",
+      "grew"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-900",
+    "isNew": true,
+    "url": "https://www.americanbanker.com/opinion/the-fintech-graveyard-is-full-of-companies-that-grew-too-fast"
+  },
+  {
+    "id": "rss-banking-c0c22ca8edad4b",
+    "title": "Binance withdrawals back online after $6.3 bn loss in cyberattack",
+    "summary": "Binance recovered its withdrawal systems on Thursday after losing $6.3 billion in a crypto heist last month.",
+    "sourceName": "Finextra",
+    "sourceIcon": "💳",
+    "publishedAt": "2026-11-27T12:08:00.000Z",
+    "category": "banking",
+    "keywords": [
+      "Binance",
+      "withdrawals",
+      "online",
+      "loss",
+      "cyberattack"
+    ],
+    "bannerClass": "from-indigo-900 to-blue-950",
+    "isNew": true,
+    "url": "https://www.finextra.com/newsarticle/48826/binance-withdrawals-back-online-after-63-bn-loss-in-cyberattack?utm_medium=rssfinextra&utm_source=finextrafeed"
+  },
+  {
+    "id": "rss-ai_theory-c18342f0ecfff0",
+    "title": "GoogleがAIエージェントによるGmailなどへのAPI直接アクセスを制限へ、MCPサーバーかCLIの使用を要求",
+    "summary": "Googleは2027年2月1日から、AIエージェントがGmailやGoogleドライブなどのGoogle Workspaceのサービスにアクセスする際に公式のMCPサーバーやGoogle Workspace CLIを使用するよう求める方針を発表しました。GmailのMCPサーバーを巡ってはメールの送信などが一部の開発者に限定されていることが指摘されていましたが、記事作成時点で機能制限に関する記述がすでに変更されています。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-27T12:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "GoogleがAIエージ",
+      "IエージェントによるGm",
+      "よるGmailなどへのA",
+      "どへのAPI直接アクセス",
+      "アクセスを制限へ、MCP"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20261127-google-workspace-ai-tools-mcp/"
+  },
+  {
+    "id": "rss-insurance-ab6efdaaf3cf0c",
+    "title": "Boards approve SCOR and Japan Post Insurance’s reinsurance vehicle partnership",
+    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Global reinsurance firm SCOR and Japan Post Insurance are moving forward with a longevity reinsurance transaction valued at roughly ¥3 trillion in policy reserves, anchored by a new SCOR-managed Bermuda reinsurance vehicle in which Japan Post Insurance will invest approximately ¥81 billion into. With both companies having received approval from their respective boards to implement […] Boards approve SCOR and Japan Post Insurance’s reinsurance vehicle partnership was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
+    "sourceName": "Artemis",
+    "sourceIcon": "🎯",
+    "publishedAt": "2026-11-27T11:30:49.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Boards",
+      "approve",
+      "SCOR",
+      "Japan",
+      "Post"
+    ],
+    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.artemis.bm/news/boards-approve-scor-and-japan-post-insurances-reinsurance-vehicle-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=boards-approve-scor-and-japan-post-insurances-reinsurance-vehicle-partnership",
+    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。世界的な再保険会社SCORとかんぽ生命は、かんぽ生命が約810億円を投資するSCOR管理の新しいバミューダ再保険ビークルを核として、責任準備金約3兆円相当の長寿再保険取引を進めている。両社はそれぞれの取締役会から実施の承認を得ており、[…]取締役会はSCORとかんぽ生命の再保険ビークルパートナーシップを承認: www.Artemis.bm catastrophe Bond deal dire"
+  },
+  {
+    "id": "rss-ai_theory-62cfb0935f588b",
+    "title": "YouTubeで広告が出たら自動的にページを再読み込みして広告を消すChrome拡張「YouTube Ad Punisher」",
+    "summary": "「YouTube Ad Punisher」は、YouTubeで広告が再生された瞬間にページを自動でリロードし、広告を回避するブラウザ拡張機能です。一般的な広告ブロッカーとは異なり、広告の通信自体を遮断するのではなく、ページの再読み込みによってYouTubeに広告配信の判定をやり直させる仕組みを採用しています。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-27T11:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "Ad",
+      "Punisher」"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20261127-youtube-ad-punisher/"
+  },
+  {
+    "id": "rss-banking-a1046195690d6c",
+    "title": "Pockets of opportunity await banks in virtual cards",
+    "summary": "Virtual cards are set to outpace purchase cards by 2029, with agentic commerce and multicurrency cards emerging as options for banks.",
+    "sourceName": "American Banker",
+    "sourceIcon": "🇺🇸",
+    "publishedAt": "2026-11-27T11:00:00.000Z",
+    "category": "banking",
+    "keywords": [
+      "Pockets",
+      "opportunity",
+      "await",
+      "banks",
+      "virtual"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-900",
+    "isNew": true,
+    "url": "https://www.americanbanker.com/payments/news/pockets-of-opportunity-await-banks-in-virtual-cards"
+  },
+  {
+    "id": "rss-banking-6e91bb24a535ef",
+    "title": "Nationwide’s 1% deposit mortgage lowers barrier for first-time buyers but shifts more risk onto borrowers: GlobalData",
+    "summary": "The new 1% deposit mortgage launched by Nationwide will not make housing fundamentally more affordable, but it could help buyers enter the market sooner, says Rhys Hicks",
+    "sourceName": "Retail Banker International",
+    "sourceIcon": "🌍",
+    "publishedAt": "2026-11-27T10:59:46.000Z",
+    "category": "banking",
+    "keywords": [
+      "Nationwide",
+      "deposit",
+      "mortgage",
+      "lowers",
+      "barrier"
+    ],
+    "bannerClass": "from-indigo-900 to-blue-950",
+    "isNew": true,
+    "url": "https://www.retailbankerinternational.com/news/nationwide-1-percent-mortgage-lowers-barrier-first-time-buyers/"
+  },
+  {
+    "id": "rss-banking-1b095b0a314b60",
+    "title": "Suspected hack prompts probe at US Treasury’s financial crimes unit",
+    "summary": "The agency disclosed that it took specific platforms offline “as a proactive measure”.",
+    "sourceName": "Retail Banker International",
+    "sourceIcon": "🌍",
+    "publishedAt": "2026-11-27T10:55:15.000Z",
+    "category": "banking",
+    "keywords": [
+      "Suspected",
+      "hack",
+      "prompts",
+      "probe",
+      "Treasury"
+    ],
+    "bannerClass": "from-indigo-900 to-blue-950",
+    "isNew": true,
+    "url": "https://www.retailbankerinternational.com/news/us-treasury-financial-crimes-unit-hack/"
+  },
+  {
+    "id": "rss-banking-44c8ec8bd34ab3",
+    "title": "Bank of England proposes further capital relief for major UK banks",
+    "summary": "However, the committee said larger reductions could create “financial instability”.",
+    "sourceName": "Retail Banker International",
+    "sourceIcon": "🌍",
+    "publishedAt": "2026-11-27T10:49:33.000Z",
+    "category": "banking",
+    "keywords": [
+      "Bank",
+      "England",
+      "proposes",
+      "further",
+      "capital"
+    ],
+    "bannerClass": "from-indigo-900 to-blue-950",
+    "isNew": true,
+    "url": "https://www.retailbankerinternational.com/news/bank-of-england-uk-capital-relief/"
+  },
+  {
+    "id": "rss-economy-5dbdf30e0c0986",
+    "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
+    "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+    "sourceName": "BBC Business",
+    "sourceIcon": "¥",
+    "publishedAt": "2026-11-27T10:10:36.000Z",
+    "category": "economy",
+    "keywords": [
+      "self-care",
+      "ritual",
+      "meal",
+      "fancy",
+      "restaurant"
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20261127de82343"
+    "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+    "summaryJa": "ソロダイニングはセルフケアのトレンドとして受け入れられており、レストラン業界の形を変えつつあります。"
+  },
+  {
+    "id": "rss-banking-1b0b2a2ac36ded",
+    "title": "Spain’s BBVA plans London delisting on low trading volumes",
+    "summary": "The bank will retain its primary listing on the Madrid, Barcelona, Bilbao and Valencia stock exchanges.",
+    "sourceName": "Retail Banker International",
+    "sourceIcon": "🌍",
+    "publishedAt": "2026-11-27T10:07:28.000Z",
+    "category": "banking",
+    "keywords": [
+      "Spain",
+      "BBVA",
+      "plans",
+      "London",
+      "delisting"
+    ],
+    "bannerClass": "from-indigo-900 to-blue-950",
+    "isNew": true,
+    "url": "https://www.retailbankerinternational.com/news/bbva-plans-london-delisting/"
+  },
+  {
+    "id": "rss-ai_theory-44b449a35d2916",
+    "title": "有酸素運動と筋力トレーニングの順番が血糖値調節に影響するとの研究結果",
+    "summary": "運動が血糖値のコントロールに役立つことは広く知られており、ジョギングやサイクリングなどの有酸素運動と筋力トレーニングはそれぞれ異なる効果をもたらします。中国とスウェーデンの研究者らは、これらの運動をどのような順番で行うことでより高い効果を得られるかについて研究しました。 続きを読む...",
+    "sourceName": "GIGAZINE",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-27T10:00:00.000Z",
+    "category": "ai_theory",
+    "keywords": [
+      "有酸素運動と筋力トレーニ",
+      "トレーニングの順番が血糖",
+      "番が血糖値調節に影響する",
+      "影響するとの研究結果",
+      "結果"
+    ],
+    "bannerClass": "from-fuchsia-950 to-violet-900",
+    "isNew": true,
+    "url": "https://gigazine.net/news/20261127-workout-blood-sugar/"
+  },
+  {
+    "id": "rss-banking-6e57163dac2962",
+    "title": "Chase prepares buyers for high-rate winter months with sale",
+    "summary": "The sale will last from Nov. 30 through Dec. 13, as qualified customers across the country can lock in a lower rate on a new home purchase or refinance loan.",
+    "sourceName": "American Banker",
+    "sourceIcon": "🇺🇸",
+    "publishedAt": "2026-11-27T10:00:00.000Z",
+    "category": "banking",
+    "keywords": [
+      "Chase",
+      "prepares",
+      "buyers",
+      "high-rate",
+      "winter"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-900",
+    "isNew": true,
+    "url": "https://www.americanbanker.com/news/chase-prepares-buyers-for-high-rate-winter-months-with-sale"
+  },
+  {
+    "id": "rss-banking-603496316b0448",
+    "title": "京都FGを超えた…誕生する「滋賀銀×池田泉州」が関西最強の地銀か？そのリアルな実力 - ビジネス+IT",
+    "summary": "京都FGを超えた…誕生する「滋賀銀×池田泉州」が関西最強の地銀か？そのリアルな実力 ビジネス+IT",
+    "sourceName": "銀行業界ニュース",
+    "sourceIcon": "🏦",
+    "publishedAt": "2026-11-24T21:30:00.000Z",
+    "category": "banking",
+    "keywords": [
+      "京都FGを超えた",
+      "誕生する「滋賀銀×池田泉州」が関西最強の地銀か",
+      "そのリアルな実力",
+      "ビジネス+IT"
+    ],
+    "bannerClass": "from-indigo-950 to-slate-800",
+    "isNew": false,
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjODZ2Qm55NWdsbW5SUHNybGVNNk9leU5uTVNLMUpvRjJORm1pSWpieEx1bHhYNmM1T2JIRGRYNS1QNFJtVlhjYU92TEp6bW8?oc=5",
+    "sortBoost": 5
+  },
+  {
+    "id": "rss-insurance-a0c8fa6cdb2ed1",
+    "title": "Progressive targets $100m one-year aggregate Bonanza Re 2026-1 catastrophe bond",
+    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Progressive, the US insurance company, has returned to the catastrophe bond market aiming to secure $100 million or more of annual aggregate, multi-peril reinsurance protection from the capital markets, through a Bonanza Re Ltd. (Series 2026-1) cat bond sponsorship, Artemis has learned. Once issued, this new deal would become the tenth in the Bonanza Re […] Progressive targets $100m one-year aggregate Bonanza Re 2026-1 catastrophe bond was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
+    "sourceName": "Artemis",
+    "sourceIcon": "🎯",
+    "publishedAt": "2026-11-27T09:00:59.000Z",
+    "category": "insurance",
+    "keywords": [
+      "Progressive",
+      "targets",
+      "100m",
+      "one-year",
+      "aggregate"
+    ],
+    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
+    "isNew": true,
+    "url": "https://www.artemis.bm/news/progressive-targets-100m-one-year-aggregate-bonanza-re-2026-1-catastrophe-bond/?utm_source=rss&utm_medium=rss&utm_campaign=progressive-targets-100m-one-year-aggregate-bonanza-re-2026-1-catastrophe-bond"
+  },
+  {
+    "id": "rss-housing-404851ca1f6849",
+    "title": "Chase launches Cyber Monday rate sale for purchase, refi loans",
+    "summary": "The limited-time offer runs Nov. 30 through Dec. 13 for purchase and refinance loans locked during the window",
+    "sourceName": "HousingWire",
+    "sourceIcon": "🏘️",
+    "publishedAt": "2026-11-27T09:00:00.000Z",
+    "category": "housing",
+    "keywords": [
+      "Chase",
+      "launches",
+      "Cyber",
+      "Monday",
+      "rate"
+    ],
+    "bannerClass": "from-sky-950 to-cyan-950",
+    "isNew": true,
+    "url": "https://www.housingwire.com/articles/chase-rate-sale-cyber-monday/"
+  },
+  {
+    "id": "rss-economy-9f81b52b344a24",
+    "title": "露指示とされる破壊工作 欧州激化",
+    "summary": "露指示とされる破壊工作 欧州激化",
+    "sourceName": "Yahoo!ニュース",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-27T08:37:30.000Z",
+    "category": "economy",
+    "keywords": [
+      "露指示とされる破壊工作",
+      "欧州激化"
+    ],
+    "bannerClass": "from-amber-900 to-orange-950",
+    "isNew": true,
+    "url": "https://news.yahoo.co.jp/pickup/6604208?source=rss"
+  },
+  {
+    "id": "rss-ai-4b7916ba48e97c",
+    "title": "従業員家族もマルウェア感染の入り口に 約5億件の分析で判明、情シスが促すべき3つの対策",
+    "summary": "NordVPNは、情報窃取型マルウェア「インフォスティーラー」による2025年の被害実態調査を発表した。同社は、約5億件のインフォスティーラーのログデータを分析した結果に基づき、3つの防御策を推奨している。",
+    "sourceName": "ITmedia AI",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-27T08:15:00.000Z",
+    "category": "ai",
+    "keywords": [
+      "従業員家族もマルウェア感染の入り口に",
+      "約5億件の分析で判明",
+      "情シスが促すべき3つの対策"
+    ],
+    "bannerClass": "from-sky-900 to-slate-800",
+    "isNew": true,
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news044.html"
+  },
+  {
+    "id": "rss-housing-6e1ea30fc60568",
+    "title": "Why biodiversity belongs in the master plan",
+    "summary": "Research links more diverse landscapes to better stormwater outcomes and stronger resilience under environmental stress",
+    "sourceName": "HousingWire",
+    "sourceIcon": "🏘️",
+    "publishedAt": "2026-11-27T08:00:00.000Z",
+    "category": "housing",
+    "keywords": [
+      "biodiversity",
+      "belongs",
+      "master",
+      "plan"
+    ],
+    "bannerClass": "from-sky-950 to-cyan-950",
+    "isNew": true,
+    "url": "https://www.housingwire.com/articles/biodiversity-master-planned-communities/"
+  },
+  {
+    "id": "rss-economy-df5ee3a5457e16",
+    "title": "2029年大河『三成のうた』に｢また戦国か｣の声も…なぜNHKは｢戦国と幕末｣ばかり描くのか､視聴率データが示す理由 | ライフ | 東洋経済オンライン",
+    "summary": "大河ドラマがなぜ戦国時代や三英傑に偏るのか――2029年も石田三成を主人公に戦国が舞台と聞き､SNSでは｢またか｣とため息が広がっています。",
+    "sourceName": "東洋経済オンライン",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-27T07:45:00.000Z",
+    "category": "economy",
+    "keywords": [
+      "ライフ",
+      "東洋経済オンライン"
+    ],
+    "bannerClass": "from-green-950 to-emerald-900",
+    "isNew": true,
+    "url": "https://toyokeizai.net/articles/-/966020?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+    "id": "rss-housing-544139d0f0d0c0",
+    "title": "8 best Florida real estate schools for 2026",
+    "summary": "We rigorously reviewed the best online real estate schools in Florida to help you launch a new career with ease and confidence.",
+    "sourceName": "HousingWire",
+    "sourceIcon": "🏘️",
+    "publishedAt": "2026-11-27T06:00:00.000Z",
+    "category": "housing",
+    "keywords": [
+      "best",
+      "Florida",
+      "real",
+      "estate",
+      "schools"
+    ],
+    "bannerClass": "from-sky-950 to-cyan-950",
+    "isNew": true,
+    "url": "https://www.housingwire.com/articles/8-best-florida-real-estate-schools-for-2026/"
   },
   {
     "id": "rss-banking-7eb26e5c696e60",
@@ -788,6 +1660,24 @@
     "bannerClass": "from-slate-900 to-indigo-950",
     "isNew": false,
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zN09MV0tBdFZrM3UzY1Jwei01UXg3c2lnZXZZQjV1QkV0bHpwVXRWd0NRNmtKTTY4MVN0Z0pZSTVRNzFHQnJDaWZCMGFLNnVKUkU3N0o0S2pISkNQT210Qlc3T011eWUxNk85U3Nn?oc=5",
+    "sortBoost": 4
+  },
+  {
+    "id": "rss-banking-4d165c491cdcf5",
+    "title": "関西経済同友会、次期代表幹事に三井住友銀行の道岡俊浩副頭取 - 朝日新聞",
+    "summary": "関西経済同友会、次期代表幹事に三井住友銀行の道岡俊浩副頭取 朝日新聞",
+    "sourceName": "個別行ニュース",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-11-25T05:03:08.000Z",
+    "category": "banking",
+    "keywords": [
+      "関西経済同友会",
+      "次期代表幹事に三井住友銀行の道岡俊浩副頭取",
+      "朝日新聞"
+    ],
+    "bannerClass": "from-slate-900 to-indigo-950",
+    "isNew": false,
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DQWFIaWFVcTkyb3AweF9PaU5sN0RjZXNrb0Y2aHB5ZEZiTFI5bW5HVFJTUmV3ZFowUTRrNDVzYTdXaWZWSFZjRjVxUnBxVTczN3hOdHc4bGZ2TFdMQkNrallmempqdXc?oc=5",
     "sortBoost": 4
   },
   {
@@ -887,130 +1777,6 @@
     "summaryJa": "arXiv:2611.33263v1 発表の種類: 新しい要約: メンタルヘルス サポートのための大規模言語モデル (LLM) の使用の増加により、重要な安全上の懸念が生じています。既存のガード モデルは主に有害なコンテンツのカテゴリを識別し、適切な対応を決定するために必要なコンテキストを見落としていることがよくあります。私たちは、害が何であるか、誰が関与しているか、いつ発生するかという 3 つの側面に沿って害を特徴付ける、臨床に基づいた分類法を導入します。これにより、危害の特徴付けと介入の決定がさらに分離されるため、臨床医が厳選した明示的な指示を通じて、モデルの重み付けの範囲外で安全ポリシーを指定できるようになります。"
   },
   {
-    "id": "rss-economy-026eeab3b33517",
-    "title": "郡山市の中1不明 新たな写真公開",
-    "summary": "郡山市の中1不明 新たな写真公開",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T04:56:28.000Z",
-    "category": "economy",
-    "keywords": [
-      "郡山市の中1不明",
-      "新たな写真公開"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6604182?source=rss"
-  },
-  {
-    "id": "rss-ai_theory-572b7f4a072a79",
-    "title": "人間の生きた細胞にビートルズの歌詞を保存＆細胞分裂後も正確に読み取ることに成功",
-    "summary": "アメリカのテキサス大学ダラス校の研究チームが人間の生きた細胞にデジタルデータを保存したうえで、第三者によるデータの読み取りを困難にする技術を開発したと発表しました。研究チームはビートルズの楽曲「レット・イット・ビー」の歌詞をDNAに記録し、細胞分裂を繰り返した後も正確に読み取れることを確認しています。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T04:42:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "人間の生きた細胞にビート",
-      "にビートルズの歌詞を保存",
-      "詞を保存＆細胞分裂後も正",
-      "裂後も正確に読み取ること",
-      "取ることに成功"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20261127-human-cells-dna-storage/"
-  },
-  {
-    "id": "rss-economy-3732fdda2c07c4",
-    "title": "食べ残し持ち帰り 政府が呼びかけ",
-    "summary": "食べ残し持ち帰り 政府が呼びかけ",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T04:36:49.000Z",
-    "category": "economy",
-    "keywords": [
-      "食べ残し持ち帰り",
-      "政府が呼びかけ"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6604166?source=rss"
-  },
-  {
-    "id": "rss-ai_theory-9cd5212d0a61d4",
-    "title": "メモリ不足により2026年第3四半期のラテンアメリカにおけるスマートフォン出荷台数は前年同期比24％減を記録",
-    "summary": "グローバルなテクノロジー市場調査企業のCounterpoint Researchが、2026年第3四半期のスマートフォン出荷台数レポートを公開しました。レポートではラテンアメリカのスマートフォン出荷台数が前年同期比24％減となり、2015年以降で2番目に低い四半期出荷台数となったことが示されています。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T04:33:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "メモリ不足により2026",
-      "2026年第3四半期のラ",
-      "半期のラテンアメリカにお",
-      "リカにおけるスマートフォ",
-      "ートフォン出荷台数は前年"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20261127-latam-smartphone/"
-  },
-  {
-    "id": "rss-economy-31a4a4a24f7e4e",
-    "title": "首相 関文科相を続投させる構え",
-    "summary": "首相 関文科相を続投させる構え",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T04:23:01.000Z",
-    "category": "economy",
-    "keywords": [
-      "首相",
-      "関文科相を続投させる構え"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6604175?source=rss"
-  },
-  {
-    "id": "rss-market-fb1df87992db7f",
-    "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
-    "summary": "SpaceX shares jumped in overnight trading on Blue Ocean ATS after Elon Musk said on X that he would donate shares to American children every year.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-11-27T04:20:55.000Z",
-    "category": "market",
-    "keywords": [
-      "SpaceX",
-      "shares",
-      "jump",
-      "alternative",
-      "trading"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html"
-  },
-  {
-    "id": "rss-ai_theory-aa36dbb66fb650",
-    "title": "生産終了がアナウンスされたテスラのCybertruck(サイバートラック)は中古車市場で最も売れやすいトラック",
-    "summary": "テスラが2027年中頃に生産を終了すると発表した「Cybertruck(サイバートラック)」は、中古車市場で最も売れているトラックであることが明らかになっています。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T04:13:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "生産終了がアナウンスされ",
-      "ンスされたテスラのCyb",
-      "のCybertruck(",
-      "uck(サイバートラック",
-      "トラック)は中古車市場で"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20261127-tesla-cybertruck-fastest-selling-used-truck/"
-  },
-  {
     "id": "rss-economy-80a8ed500c1782",
     "title": "会社四季報×東洋経済オンラインイベントを12/18開催｢2027年経済･株式相場大予測!｣ | ライフ | 東洋経済オンライン",
     "summary": "東洋経済オンラインでは有料会員読者向けのリアルイベントを開催しています。東洋経済オンラインの人気連載執筆者やその連載テーマのキーパーソンの方などを招き､リアルな空間で､話題のテーマについて徹底的に掘…",
@@ -1025,114 +1791,6 @@
     "bannerClass": "from-green-950 to-emerald-900",
     "isNew": true,
     "url": "https://toyokeizai.net/articles/-/966053?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-insurance-b360f876fdd51e",
-    "title": "フィジカルAIの覇権と日本企業の勝ち筋－米中の競争を読み解き、「仕事の知識」を世界で稼ぐ事業に変える－",
-    "summary": "■要旨 フィジカルAIは、仕事を機械に教え、その成果を別の現場へ広げる方法を変える。2025年に世界で導入された産業用ロボットは60万台を超え、その巨大な設備基盤に、現実世界を理解して動くAIが入り始めた。産業覇権は、頭脳・機械・現場の三階層と、それらをつなぐ学習の循環をめぐる競争となる。米国は頭脳から、中国は量産と導入市場から、互いの隣接領域へ事業を広げている。 日本企業の勝ち筋は、機械・制御の競争力と、教え方・品質評価・運用改善を組み合わせることにある。共通のAI基盤を使う以上、差は基盤の上で何を教え、どう品質を保証するかで生まれる。最初の顧客で整えた技能と評価手順を次の顧客で再利用できれば、導入負担は下がり、導入後の改善から継続的な対価が生まれる。日本企業が長年積み上げてきた業種ごとの品質基準は、この再利用の中核になり得る。工場をロボットの学校に変えようとするトヨタの構想は、その具体例である。 海外展開では、米国、インド、中国のそれぞれで、需要がある工程、届ける価値、現地の協業相手を選ぶ必要がある。あわせて、利用料型の提供やAIロボット保険など、導入企業と提供企業の負担とリスクを分かち合う金融の仕組みが動き始めた。国には、学習・再利用の合意形成、品質と安全性の評価、導入・保守人材の育成を通じて、現場の知識の事業化を支える役割がある。 ■目次 1――フィジカルAIは生産立地と競争条件を変える 1｜機械に仕事を教える能力が、生産拠点の価値を変える 2｜自動化の広がりから、学習する産業基盤へ 2――三つの階層で見る覇権争い 1｜頭脳・機械・現場をつなぐ学習の循環 2｜米国は頭脳から、中国は量産と導入市場から広がる 3｜欧州の産業ソフトと、分断下の企業戦略 3――日本企業は、機械と仕事の知識で稼ぐ 1｜部品・機械の競争力を磨く 2｜共通",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T03:57:14.000Z",
-    "category": "insurance",
-    "keywords": [
-      "フィジカルAIの覇権と日",
-      "覇権と日本企業の勝ち筋－",
-      "勝ち筋－米中の競争を読み",
-      "争を読み解き、「仕事の知",
-      "仕事の知識」を世界で稼ぐ"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87436?site=nli"
-  },
-  {
-    "id": "rss-insurance-b360f876fdd51e",
-    "title": "フィジカルAIの覇権と日本企業の勝ち筋－米中の競争を読み解き、「仕事の知識」を世界で稼ぐ事業に変える－",
-    "summary": "■要旨 フィジカルAIは、仕事を機械に教え、その成果を別の現場へ広げる方法を変える。2025年に世界で導入された産業用ロボットは60万台を超え、その巨大な設備基盤に、現実世界を理解して動くAIが入り始めた。産業覇権は、頭脳・機械・現場の三階層と、それらをつなぐ学習の循環をめぐる競争となる。米国は頭脳から、中国は量産と導入市場から、互いの隣接領域へ事業を広げている。 日本企業の勝ち筋は、機械・制御の競争力と、教え方・品質評価・運用改善を組み合わせることにある。共通のAI基盤を使う以上、差は基盤の上で何を教え、どう品質を保証するかで生まれる。最初の顧客で整えた技能と評価手順を次の顧客で再利用できれば、導入負担は下がり、導入後の改善から継続的な対価が生まれる。日本企業が長年積み上げてきた業種ごとの品質基準は、この再利用の中核になり得る。工場をロボットの学校に変えようとするトヨタの構想は、その具体例である。 海外展開では、米国、インド、中国のそれぞれで、需要がある工程、届ける価値、現地の協業相手を選ぶ必要がある。あわせて、利用料型の提供やAIロボット保険など、導入企業と提供企業の負担とリスクを分かち合う金融の仕組みが動き始めた。国には、学習・再利用の合意形成、品質と安全性の評価、導入・保守人材の育成を通じて、現場の知識の事業化を支える役割がある。 ■目次 1――フィジカルAIは生産立地と競争条件を変える 1｜機械に仕事を教える能力が、生産拠点の価値を変える 2｜自動化の広がりから、学習する産業基盤へ 2――三つの階層で見る覇権争い 1｜頭脳・機械・現場をつなぐ学習の循環 2｜米国は頭脳から、中国は量産と導入市場から広がる 3｜欧州の産業ソフトと、分断下の企業戦略 3――日本企業は、機械と仕事の知識で稼ぐ 1｜部品・機械の競争力を磨く 2｜共通",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T03:57:14.000Z",
-    "category": "insurance",
-    "keywords": [
-      "フィジカルAIの覇権と日",
-      "覇権と日本企業の勝ち筋－",
-      "勝ち筋－米中の競争を読み",
-      "争を読み解き、「仕事の知",
-      "仕事の知識」を世界で稼ぐ"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87436?site=nli"
-  },
-  {
-    "id": "rss-insurance-b360f876fdd51e",
-    "title": "フィジカルAIの覇権と日本企業の勝ち筋－米中の競争を読み解き、「仕事の知識」を世界で稼ぐ事業に変える－",
-    "summary": "■要旨 フィジカルAIは、仕事を機械に教え、その成果を別の現場へ広げる方法を変える。2025年に世界で導入された産業用ロボットは60万台を超え、その巨大な設備基盤に、現実世界を理解して動くAIが入り始めた。産業覇権は、頭脳・機械・現場の三階層と、それらをつなぐ学習の循環をめぐる競争となる。米国は頭脳から、中国は量産と導入市場から、互いの隣接領域へ事業を広げている。 日本企業の勝ち筋は、機械・制御の競争力と、教え方・品質評価・運用改善を組み合わせることにある。共通のAI基盤を使う以上、差は基盤の上で何を教え、どう品質を保証するかで生まれる。最初の顧客で整えた技能と評価手順を次の顧客で再利用できれば、導入負担は下がり、導入後の改善から継続的な対価が生まれる。日本企業が長年積み上げてきた業種ごとの品質基準は、この再利用の中核になり得る。工場をロボットの学校に変えようとするトヨタの構想は、その具体例である。 海外展開では、米国、インド、中国のそれぞれで、需要がある工程、届ける価値、現地の協業相手を選ぶ必要がある。あわせて、利用料型の提供やAIロボット保険など、導入企業と提供企業の負担とリスクを分かち合う金融の仕組みが動き始めた。国には、学習・再利用の合意形成、品質と安全性の評価、導入・保守人材の育成を通じて、現場の知識の事業化を支える役割がある。 ■目次 1――フィジカルAIは生産立地と競争条件を変える 1｜機械に仕事を教える能力が、生産拠点の価値を変える 2｜自動化の広がりから、学習する産業基盤へ 2――三つの階層で見る覇権争い 1｜頭脳・機械・現場をつなぐ学習の循環 2｜米国は頭脳から、中国は量産と導入市場から広がる 3｜欧州の産業ソフトと、分断下の企業戦略 3――日本企業は、機械と仕事の知識で稼ぐ 1｜部品・機械の競争力を磨く 2｜共通",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T03:57:14.000Z",
-    "category": "insurance",
-    "keywords": [
-      "フィジカルAIの覇権と日",
-      "覇権と日本企業の勝ち筋－",
-      "勝ち筋－米中の競争を読み",
-      "争を読み解き、「仕事の知",
-      "仕事の知識」を世界で稼ぐ"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87436?site=nli"
-  },
-  {
-    "id": "rss-insurance-b360f876fdd51e",
-    "title": "フィジカルAIの覇権と日本企業の勝ち筋－米中の競争を読み解き、「仕事の知識」を世界で稼ぐ事業に変える－",
-    "summary": "■要旨 フィジカルAIは、仕事を機械に教え、その成果を別の現場へ広げる方法を変える。2025年に世界で導入された産業用ロボットは60万台を超え、その巨大な設備基盤に、現実世界を理解して動くAIが入り始めた。産業覇権は、頭脳・機械・現場の三階層と、それらをつなぐ学習の循環をめぐる競争となる。米国は頭脳から、中国は量産と導入市場から、互いの隣接領域へ事業を広げている。 日本企業の勝ち筋は、機械・制御の競争力と、教え方・品質評価・運用改善を組み合わせることにある。共通のAI基盤を使う以上、差は基盤の上で何を教え、どう品質を保証するかで生まれる。最初の顧客で整えた技能と評価手順を次の顧客で再利用できれば、導入負担は下がり、導入後の改善から継続的な対価が生まれる。日本企業が長年積み上げてきた業種ごとの品質基準は、この再利用の中核になり得る。工場をロボットの学校に変えようとするトヨタの構想は、その具体例である。 海外展開では、米国、インド、中国のそれぞれで、需要がある工程、届ける価値、現地の協業相手を選ぶ必要がある。あわせて、利用料型の提供やAIロボット保険など、導入企業と提供企業の負担とリスクを分かち合う金融の仕組みが動き始めた。国には、学習・再利用の合意形成、品質と安全性の評価、導入・保守人材の育成を通じて、現場の知識の事業化を支える役割がある。 ■目次 1――フィジカルAIは生産立地と競争条件を変える 1｜機械に仕事を教える能力が、生産拠点の価値を変える 2｜自動化の広がりから、学習する産業基盤へ 2――三つの階層で見る覇権争い 1｜頭脳・機械・現場をつなぐ学習の循環 2｜米国は頭脳から、中国は量産と導入市場から広がる 3｜欧州の産業ソフトと、分断下の企業戦略 3――日本企業は、機械と仕事の知識で稼ぐ 1｜部品・機械の競争力を磨く 2｜共通",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T03:57:14.000Z",
-    "category": "insurance",
-    "keywords": [
-      "フィジカルAIの覇権と日",
-      "覇権と日本企業の勝ち筋－",
-      "勝ち筋－米中の競争を読み",
-      "争を読み解き、「仕事の知",
-      "仕事の知識」を世界で稼ぐ"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87436?site=nli"
-  },
-  {
-    "id": "rss-economy-1b8c592caf54a4",
-    "title": "【記者解説】関文科相への問責決議案 なぜ否決",
-    "summary": "政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣に対する問責決議案は、参議院本会議で採決が行われ、自民・維新両党などの反対多数で否決されました。 その理由や政権運営への影響などについて政治…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T03:51:49.000Z",
-    "category": "economy",
-    "keywords": [
-      "【記者解説】関文科相への問責決議案",
-      "なぜ否決"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20261127de82351"
-  },
-  {
-    "id": "rss-economy-72099e6669e7c7",
-    "title": "28日は関東で警報級大雨の恐れ",
-    "summary": "28日は関東で警報級大雨の恐れ",
-    "sourceName": "Yahoo!ニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T03:51:33.000Z",
-    "category": "economy",
-    "keywords": [
-      "28日は関東で警報級大雨",
-      "報級大雨の恐れ"
-    ],
-    "bannerClass": "from-amber-900 to-orange-950",
-    "isNew": true,
-    "url": "https://news.yahoo.co.jp/pickup/6604174?source=rss"
   },
   {
     "id": "rss-ai-80b862e7b8db7b",
@@ -1153,45 +1811,6 @@
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news040.html"
   },
   {
-    "id": "rss-ai_theory-df1cbe631b7c2f",
-    "title": "NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成",
-    "summary": "NVIDIAが画像生成AIモデル「Nemotron-Labs-Image-30B-A3B」をオープンウェイトモデルとして無償公開しました。 続きを読む...",
-    "sourceName": "GIGAZINE",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T03:40:00.000Z",
-    "category": "ai_theory",
-    "keywords": [
-      "NVIDIAが画像生成A",
-      "像生成AI「Nemotr",
-      "motron-Labs-",
-      "abs-Image-30",
-      "e-30B-A3B」を公"
-    ],
-    "bannerClass": "from-fuchsia-950 to-violet-900",
-    "isNew": true,
-    "url": "https://gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/"
-  },
-  {
-    "id": "rss-market-117d0100c5765e",
-    "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
-    "summary": "Iran's foreign minister Abbas Araghchi said \"The incident is suspicious and looks like a precooked recipe for war.\"",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-11-27T03:30:23.000Z",
-    "category": "market",
-    "keywords": [
-      "Italians",
-      "killed",
-      "Kuwait",
-      "drone",
-      "attack"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
-    "summaryJa": "イランのアッバス・アラグチ外相は、「この事件は疑わしいものであり、あらかじめ用意された戦争のレシピのようだ」と述べた。"
-  },
-  {
     "id": "rss-economy-642706c517ec22",
     "title": "｢社会を変えてやろう｣というのは邪心？ ゆるスポーツ協会代表が語る､無邪気に働くということの意味 | キャリア・教育 | 東洋経済オンライン",
     "summary": "競争や適応が重視される現代社会で､｢正解｣に縛られて生きづらさを感じていませんか？\"ゆる\"の精神で活動する澤田智洋氏と窪田良氏が､画一性をほどく働き方や多様性の可能性について語ります。\"ゆる\"という…",
@@ -1208,74 +1827,6 @@
     "bannerClass": "from-green-950 to-emerald-900",
     "isNew": true,
     "url": "https://toyokeizai.net/articles/-/962873?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-064614cc98dbab",
-    "title": "〈紛糾するリゾート開発〉トランプ一族の炎上計画をブルーウェーブの米議会が追及へ…｢ヨーロッパの北朝鮮｣現地を歩く | 政治・経済・投資 | 東洋経済オンライン",
-    "summary": "2027年､米民主党の調査が予告される中､トランプ一族のアルバニア高級リゾート開発計画が現地で大規模な暴動｢フラミンゴ革命｣を引き起こしています。自然保護区の破壊疑惑､資金洗浄､不透明な契約……この…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T02:30:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "｢ヨーロッパの北朝鮮｣現地を歩く",
-      "政治",
-      "経済",
-      "投資",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/965593?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-9c3f92bd925aee",
-    "title": "オリックス､高収益･高ROE･好財務の｢三兎｣を追う野望､｢持つ｣｢売る｣を経て｢持たざる経営｣へ | ビジネス | 東洋経済オンライン",
-    "summary": "1964年7月、金沢市内のスーパーマーケットが4台のレジを導入した。ただし、スーパー側はレジを買うのではなく、代金200万円と金利11％を3年かけて支払う契約を結んだ。「リース業」が日本で幕を開けた…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T02:30:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "ビジネス",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/965462?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-  },
-  {
-    "id": "rss-economy-0beef0a1bfb0bf",
-    "title": "「副首都」来年秋に指定 再来年春から運用へ 想定日程公表",
-    "summary": "大規模災害の際に首都の代替機能を担う「副首都」をめぐり、政府は、2027年秋に複数の道府県を指定し、2028年春に運用が始まるなどとしたスケジュールの想定を公表しました。",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T02:27:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "「副首都」来年秋に指定",
-      "再来年春から運用へ",
-      "想定日程公表"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20261127de82236"
-  },
-  {
-    "id": "rss-economy-a5fc05d8dba375",
-    "title": "緻密な戦略と詳細な報告を求める経営幹部が現場の士気を下げ､聞きたくない言い訳を量産させてしまう根本理由 | ビジネス | 東洋経済オンライン",
-    "summary": "ビジネス環境が絶えず変化する中､多くの組織はいまだに静的な構造やプロセスに依存しています。MITスローン･スクールの特別教授と､元ハーレーダビッドソンのバイスプレジデントがタッグを組んで編み出した方…",
-    "sourceName": "東洋経済オンライン",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-27T02:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "ビジネス",
-      "東洋経済オンライン"
-    ],
-    "bannerClass": "from-green-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://toyokeizai.net/articles/-/965820?utm_source=rss&utm_medium=http&utm_campaign=link_back"
   },
   {
     "id": "rss-housing-0261b1681b5ad4",
@@ -1314,6 +1865,26 @@
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/26/news001.html"
   },
   {
+    "id": "rss-economy-084cf0ac26b9ca",
+    "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+    "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+    "sourceName": "BBC Business",
+    "sourceIcon": "¥",
+    "publishedAt": "2026-11-27T00:58:49.000Z",
+    "category": "economy",
+    "keywords": [
+      "250",
+      "job",
+      "000",
+      "bill",
+      "Inside"
+    ],
+    "bannerClass": "from-stone-800 to-neutral-700",
+    "isNew": true,
+    "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+    "summaryJa": "配管工や電気技師のネットワークが大規模に人々を騙しているとBBCが明らかにした。"
+  },
+  {
     "id": "rss-insurance-979e3f91eb4653",
     "title": "つながりたいけれど、縛られたくない－中国の若者に広がる「搭子」と「干婚」",
     "summary": "■要旨 中国の若年層の間で、食事や旅行など目的を共有する相手と気軽につながる「搭子（ダーズ）」や、夫婦でありながら個々の生活を尊重する「干婚（ガンフン）」が話題となっている。その背景には、都市化やSNSの普及、生活環境の変化がある。他者とのつながりを求めつつ、個人の自由や心地よい距離感を重視する価値観の広がりは、家族や地域の相互扶助、公的な社会サービスのあり方にも新たな課題を投げかけている。 「食事に行く友達」、「旅行に行く友達」、「一緒に運動する友達」、、、中国の若者の間で、こうした目的別の付き合い方が広がっている。彼らが使う言葉が「搭子（ダーズ）」だ。中国語で本来はペアや相棒を意味するが、最近では、特定の目的や趣味を共有する相手を指す言葉として定着している。 例えば、休日に一緒に食事をする「飯搭子」、旅行に出かける「旅行搭子」、ジムで運動する「健身搭子」などがある。SNSを通じて共通の趣味や関心を持つ相手を探すこともあり、日常生活のさまざまな場面で新しい交流が生まれている。必ずしも友人である必要はない。共通の目的があり、一緒に過ごす時間を楽しめればよい。食事や旅行など、目的が終われば、それぞれの日常に戻る。相手に過度な気遣いや継続的な付き合いを求めず、自分の時間や生活を大切にできることが、この付き合い方の魅力である。 新京報が2025年7月に発表した「2025年若者ライフスタイル報告（2025年轻人生活方式报告）」によると、若者が好む社交の形として最も多かったのは、交流の範囲や時間に一定の区切りを設けた団体活動で、回答者の58.8％を占めた。次いで、1対1でじっくり話し合う交流が52.4％、親しい知人同士の交流が49.1％だった。また、趣味を通じて知り合った「搭子」関係も45.4％に上った。この結果からは、若者が必ずしも人との深い",
@@ -1388,25 +1959,6 @@
     "bannerClass": "from-blue-950 to-indigo-950",
     "isNew": true,
     "url": "https://www.nli-research.co.jp/topics_detail1/id=87438?site=nli"
-  },
-  {
-    "id": "rss-economy-5dbdf30e0c0986",
-    "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
-    "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
-    "sourceName": "BBC Business",
-    "sourceIcon": "¥",
-    "publishedAt": "2026-11-27T00:54:45.000Z",
-    "category": "economy",
-    "keywords": [
-      "spend",
-      "200",
-      "month",
-      "fancy",
-      "meals"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "rss-ai-45b14487e2084d",
@@ -1446,63 +1998,6 @@
     "sortBoost": 4
   },
   {
-    "id": "rss-market-e66fc04566a2ff",
-    "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
-    "summary": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-11-27T00:22:29.000Z",
-    "category": "market",
-    "keywords": [
-      "Sovereign",
-      "wealth",
-      "funds",
-      "acting",
-      "private"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html"
-  },
-  {
-    "id": "rss-banking-af30833e839ceb",
-    "title": "MoonPay and Highnote file for national bank charters",
-    "summary": "Crypto firm MoonPay and embedded finance platform Highnote are the latest fintechs to apply for national trust bank charters.",
-    "sourceName": "Finextra",
-    "sourceIcon": "💳",
-    "publishedAt": "2026-11-27T00:01:00.000Z",
-    "category": "banking",
-    "keywords": [
-      "MoonPay",
-      "Highnote",
-      "file",
-      "national",
-      "bank"
-    ],
-    "bannerClass": "from-indigo-900 to-blue-950",
-    "isNew": true,
-    "url": "https://www.finextra.com/newsarticle/48823/moonpay-and-highnote-file-for-national-bank-charters?utm_medium=rssfinextra&utm_source=finextrafeed"
-  },
-  {
-    "id": "rss-banking-54ab49143555b0",
-    "title": "Shuttle secures FCA authorisation to help startups raise capital across borders",
-    "summary": "Shuttle, an Irish fintech that aims to transform how startups raise money across borders using AI agents, has secured FCA authorisation in the UK.",
-    "sourceName": "Finextra",
-    "sourceIcon": "💳",
-    "publishedAt": "2026-11-27T00:01:00.000Z",
-    "category": "banking",
-    "keywords": [
-      "Shuttle",
-      "secures",
-      "FCA",
-      "authorisation",
-      "help"
-    ],
-    "bannerClass": "from-indigo-900 to-blue-950",
-    "isNew": true,
-    "url": "https://www.finextra.com/newsarticle/48824/shuttle-secures-fca-authorisation-to-help-startups-raise-capital-across-borders?utm_medium=rssfinextra&utm_source=finextrafeed"
-  },
-  {
     "id": "rss-banking-82d71427244992",
     "title": "経済部×みずほ銀行の「台日投資カンファレンス」、台北で開催 - ROC-Taiwan.org",
     "summary": "経済部×みずほ銀行の「台日投資カンファレンス」、台北で開催 ROC-Taiwan.org",
@@ -1537,7 +2032,8 @@
     ],
     "bannerClass": "from-stone-800 to-neutral-700",
     "isNew": true,
-    "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+    "summaryJa": "EUの運営コストへの貢献の詳細が新しい法的文書で明らかになった。"
   },
   {
     "id": "rss-economy-1319dbd59774ef",
@@ -1577,42 +2073,6 @@
     "bannerClass": "from-sky-900 to-slate-800",
     "isNew": true,
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news035.html"
-  },
-  {
-    "id": "rss-economy-373d41c50414b8",
-    "title": "エヌビディアが東南アジア4か国への輸出を停止 欧米メディア",
-    "summary": "欧米の複数のメディアは、アメリカの半導体大手エヌビディアが取引先の企業に対し、先端半導体を搭載した製品の東南アジア4か国への輸出を停止させたと報じました。トランプ政権が中国へのう回輸出を防ぐための新た…",
-    "sourceName": "NHKニュース",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-26T23:00:00.000Z",
-    "category": "economy",
-    "keywords": [
-      "エヌビディアが東南アジア4か国への輸出を停止",
-      "欧米メディア"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://news.web.nhk/newsweb/na/nd-20261127de82164"
-  },
-  {
-    "id": "rss-market-d5f73ba4b22ba4",
-    "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
-    "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-11-26T21:13:17.000Z",
-    "category": "market",
-    "keywords": [
-      "Trump",
-      "demands",
-      "probe",
-      "record",
-      "setting"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-    "summaryJa": "ドナルド・トランプ大統領は木曜日、最新の国内総生産（ＧＤＰ）改定は誤りであり、「直ちに調査」されるべきだと主張した。"
   },
   {
     "id": "rss-banking-6fb3e67e6f255f",
@@ -1684,22 +2144,6 @@
     "bannerClass": "from-slate-800 to-slate-600",
     "isNew": true,
     "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/"
-  },
-  {
-    "id": "rss-ai-c4d5c5d229e367",
-    "title": "【Win11新機能】もうインストールメディアは不要？ Windows 11「クラウドリビルド」のメリットと落とし穴",
-    "summary": "Windows 11の新しい回復機能「クラウドリビルド」を使えば、USBメモリを用意しなくてもWindows回復環境（WinRE）からOSイメージとドライバを取得して再インストールできる。起動トラブル時の復旧はもちろん、PC譲渡や廃棄前のデータ消去にも役立つ機能だ。実行条件や具体的な手順、押さえておくべき注意点をまとめる。",
-    "sourceName": "ITmedia AI",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-26T20:00:00.000Z",
-    "category": "ai",
-    "keywords": [
-      "Windows",
-      "11「クラウドリビルド」のメリットと落とし穴"
-    ],
-    "bannerClass": "from-sky-900 to-slate-800",
-    "isNew": true,
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news020.html"
   },
   {
     "id": "rss-economy-77ed0ea9783dbc",
@@ -1815,25 +2259,6 @@
     "sortBoost": 18
   },
   {
-    "id": "rss-banking-31a6b18276ade9",
-    "title": "BofE says firms need to invest to keep pace with AI threat",
-    "summary": "Financial services firms need to make significant investments to take on the growing scale and sophistication of cyber threats in the era of AI while also ensuring that their own deployment of frontier models is undertaken safely, the Bank of England has warned.",
-    "sourceName": "Finextra",
-    "sourceIcon": "💳",
-    "publishedAt": "2026-11-26T14:31:00.000Z",
-    "category": "banking",
-    "keywords": [
-      "BofE",
-      "firms",
-      "need",
-      "invest",
-      "keep"
-    ],
-    "bannerClass": "from-indigo-900 to-blue-950",
-    "isNew": true,
-    "url": "https://www.finextra.com/newsarticle/48822/bofe-says-firms-need-to-invest-to-keep-pace-with-ai-threat?utm_medium=rssfinextra&utm_source=finextrafeed"
-  },
-  {
     "id": "rss-insurance-1d0a836c218546",
     "title": "Alignment and transparency key to sustainable casualty sidecar capacity: Artex CEO Faries",
     "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. As momentum continues to build within the casualty sidecar market, Kathleen Faries of Artex Capital Solutions has outlined that pairing strong underwriting fundamentals with greater structural transparency and sponsor-investor alignment could create a sustainable force of casualty capacity and a more durable relationship between the insurance and asset-management markets. Faries made these comments in Artex […] Alignment and transparency key to sustainable casualty sidecar capacity: Artex CEO Faries was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
@@ -1854,64 +2279,6 @@
     "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。損害保険サイドカー市場の勢いが高まり続ける中、アーテックス・キャピタル・ソリューションズのキャスリーン・フェアリーズ氏は、強力な保険引受ファンダメンタルズと構造的透明性の向上およびスポンサーと投資家の連携を組み合わせることで、損害賠償能力の持続可能な力と、保険市場と資産管理市場の間により永続的な関係を生み出すことができる可能性があると概説した。フェアリーズ氏は Artex で次のコメントをしました […] 持続可能な死傷者サイドカーの収容力の鍵となる連携と透明性: Artex CEO のフェアリーズ氏の発行元: www"
   },
   {
-    "id": "rss-economy-1acf3e41a2e63c",
-    "title": "Millions of people to see average monthly mortgage payments rise by £100",
-    "summary": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
-    "sourceName": "BBC Business",
-    "sourceIcon": "¥",
-    "publishedAt": "2026-11-26T14:00:20.000Z",
-    "category": "economy",
-    "keywords": [
-      "Millions",
-      "people",
-      "average",
-      "monthly",
-      "mortgage"
-    ],
-    "bannerClass": "from-stone-800 to-neutral-700",
-    "isNew": true,
-    "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
-    "summaryJa": "固定契約を解除すると、以前の推定よりも多くの人が住宅ローンの返済額が増加する可能性があります。"
-  },
-  {
-    "id": "rss-banking-b403f62727f3d2",
-    "title": "NY Attorney General wins $1.4bn judgement against crypto scammers",
-    "summary": "The founders of cryptocurrency trading company NovaTechFx have been ordered by a US court to pay $1.37 billion for defrauding hundreds of thousands of investors worldwide through a crypto Ponzi scheme that targeted Haitian communities.",
-    "sourceName": "Finextra",
-    "sourceIcon": "💳",
-    "publishedAt": "2026-11-26T13:59:00.000Z",
-    "category": "banking",
-    "keywords": [
-      "Attorney",
-      "General",
-      "wins",
-      "4bn",
-      "judgement"
-    ],
-    "bannerClass": "from-indigo-900 to-blue-950",
-    "isNew": true,
-    "url": "https://www.finextra.com/newsarticle/48821/ny-attorney-general-wins-14bn-judgement-against-crypto-scammers?utm_medium=rssfinextra&utm_source=finextrafeed"
-  },
-  {
-    "id": "rss-market-c2cf0074819c3f",
-    "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-    "summary": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
-    "sourceName": "CNBC",
-    "sourceIcon": "📈",
-    "publishedAt": "2026-11-26T12:46:55.000Z",
-    "category": "market",
-    "keywords": [
-      "tariff-hike",
-      "threats",
-      "pile",
-      "pressure",
-      "partners"
-    ],
-    "bannerClass": "from-indigo-950 to-blue-800",
-    "isNew": true,
-    "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html"
-  },
-  {
     "id": "rss-banking-0a8b2be99cf9b7",
     "title": "A sovereign debt crisis in the US would quickly go global",
     "summary": "Amid high inflation, a soaring national debt and geopolitical uncertainty, a serious threat to the stability of U.S. Treasury markets is a real danger. A U.S. bond rout would have devastating worldwide consequences.",
@@ -1929,25 +2296,6 @@
     "bannerClass": "from-blue-950 to-indigo-900",
     "isNew": true,
     "url": "https://www.americanbanker.com/opinion/a-sovereign-debt-crisis-in-the-us-would-quickly-go-global"
-  },
-  {
-    "id": "rss-banking-669a055b54f2ca",
-    "title": "Client data leaked in Zodia Custody security breach - Reuters",
-    "summary": "Standard Chartered’s cryptocurrency custody firm was hit by a cyber attack earlier this week, compromising customer and employee data.",
-    "sourceName": "Finextra",
-    "sourceIcon": "💳",
-    "publishedAt": "2026-11-26T11:55:00.000Z",
-    "category": "banking",
-    "keywords": [
-      "Client",
-      "data",
-      "leaked",
-      "Zodia",
-      "Custody"
-    ],
-    "bannerClass": "from-indigo-900 to-blue-950",
-    "isNew": true,
-    "url": "https://www.finextra.com/newsarticle/48820/client-data-leaked-in-zodia-custody-security-breach---reuters?utm_medium=rssfinextra&utm_source=finextrafeed"
   },
   {
     "id": "rss-insurance-15c69373f578a2",
@@ -2026,26 +2374,6 @@
     "url": "https://www.retailbankerinternational.com/news/dib-take-over-emirates-islamic/"
   },
   {
-    "id": "rss-insurance-10a15ece62ba5f",
-    "title": "Investors maintaining ILS allocations shows where they see relative value: Sapelza, Lumen Re",
-    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. As institutional investors constantly compare catastrophe risk with private credit, infrastructure, emerging market debt, as well as other alternatives, the fact that many continue to consistently maintain their insurance-linked securities (ILS) allocations heavily shows where they see value today, Klaus Sapelza, Chief Underwriting Officer at Lumen Re told Artemis. Lumen Re is the main Bermuda-domiciled […] Investors maintaining ILS allocations shows where they see relative value: Sapelza, Lumen Re was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
-    "sourceName": "Artemis",
-    "sourceIcon": "🎯",
-    "publishedAt": "2026-11-26T09:02:29.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Investors",
-      "maintaining",
-      "ILS",
-      "allocations",
-      "shows"
-    ],
-    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.artemis.bm/news/investors-maintaining-ils-allocations-shows-where-they-see-relative-value-sapelza-lumen-re/?utm_source=rss&utm_medium=rss&utm_campaign=investors-maintaining-ils-allocations-shows-where-they-see-relative-value-sapelza-lumen-re",
-    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。機関投資家は大惨事のリスクを民間信用、インフラストラクチャー、新興国市場の債券、その他の代替手段と常に比較しているが、多くの機関投資家が保険リンク証券（ILS）の割り当てを一貫して維持し続けているという事実は、機関投資家が今日どこに価値を見出しているかを大きく示していると、ルーメン・リーの最高引受責任者クラウス・サペルザ氏はアルテミスに語った。 Lumen Re はバミューダに本拠を置く主要企業です […] ILS 割り当てを維持している投資家は、相対的価値をどこに見ているかを示しています: Sapelza、Lumen Re の発行元: www."
-  },
-  {
     "id": "rss-housing-134af6e8a029a3",
     "title": "SANU、新モデル「SHELL」発表=木造モジュール建築第3弾、27年中の展開目指す",
     "summary": "国内最大規模のセカンドホームサービス「S...",
@@ -2081,326 +2409,6 @@
     "isNew": false,
     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qNWVVYi1VNmZDMm52MFJPM0lsdVFZQUlYYWg2d1YtUzhNYV9iN1I4NVdTOTdJeFNjWjVkY2Q1LXFNUndYcE5uV1ZHSXY?oc=5",
     "sortBoost": 5
-  },
-  {
-    "id": "rss-insurance-9ae2f45087b4cb",
-    "title": "ロシアの物価状況（26年10月）－総合インフレ率は6％台後半まで上昇",
-    "summary": "11月25日、ロシア連邦統計局は消費者物価指数を公表し、結果は以下の通りとなった。 【総合指数（26年10月）】 ・前年同月比は6.87％、市場予想1（7.02％）から下振れ、前月（6.35％）から上昇（図表1） ・前月比は0.99％、市場予想（1.15％）から下振れ、前月（0.35％）から上昇 【コア指数2（26年10月）】 ・前年同月比は5.81％、前月（5.47％）から上昇した（図表2） ・前月比は0.47％、前月（0.49％）からやや低下した 1 Bloomberg集計の中央値。以下の予想値も同様。 2 生鮮食品など季節的要因による影響を受ける品目や管理品目を除いた指数。 10月のロシアのインフレ率（前年比）は6.87％となり、9月（6.35％）から上昇したが、市場予想（7.02％）は下回った。インフレ率は26年5月（5.31％）を底に緩やかな上昇傾向にある。ロシア中銀は10月の会合で9月会合に続き2会合連続となる政策金利の据え置きを決定した。 前年比インフレ率を大分類別に見ると、10月は食料品が5.05％（前月：5.05％）、財（非食料品）が5.58％（前月：6.47％）、サービスが10.86％（前月：7.97％）となり、食料品は横ばい、財（非食料品）は低下、サービスは上昇した。特にサービスインフレは10月に公共料金が引き上げられたことを受けて大幅に上昇した。 前年比寄与度では食料品が2.0％ポイント程度、財（非食料品）が1.8％ポイント程度、サービスが3.1％ポイント程度と見られる（図表1）。 10月の前月比伸び率は、総合指数で0.99％（前月：0.35％）、コア指数で0.47％（前月：0.49％）となった。総合指数は公共料金引き上げで大きく上昇、コア指数はやや低下したものの高めの伸びを維持した（図表3）。前月比伸び率を大",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-26T07:22:48.000Z",
-    "category": "insurance",
-    "keywords": [
-      "ロシアの物価状況（26年",
-      "（26年10月）－総合イ",
-      "－総合インフレ率は6％台",
-      "は6％台後半まで上昇",
-      "上昇"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87430?site=nli"
-  },
-  {
-    "id": "rss-insurance-9ae2f45087b4cb",
-    "title": "ロシアの物価状況（26年10月）－総合インフレ率は6％台後半まで上昇",
-    "summary": "11月25日、ロシア連邦統計局は消費者物価指数を公表し、結果は以下の通りとなった。 【総合指数（26年10月）】 ・前年同月比は6.87％、市場予想1（7.02％）から下振れ、前月（6.35％）から上昇（図表1） ・前月比は0.99％、市場予想（1.15％）から下振れ、前月（0.35％）から上昇 【コア指数2（26年10月）】 ・前年同月比は5.81％、前月（5.47％）から上昇した（図表2） ・前月比は0.47％、前月（0.49％）からやや低下した 1 Bloomberg集計の中央値。以下の予想値も同様。 2 生鮮食品など季節的要因による影響を受ける品目や管理品目を除いた指数。 10月のロシアのインフレ率（前年比）は6.87％となり、9月（6.35％）から上昇したが、市場予想（7.02％）は下回った。インフレ率は26年5月（5.31％）を底に緩やかな上昇傾向にある。ロシア中銀は10月の会合で9月会合に続き2会合連続となる政策金利の据え置きを決定した。 前年比インフレ率を大分類別に見ると、10月は食料品が5.05％（前月：5.05％）、財（非食料品）が5.58％（前月：6.47％）、サービスが10.86％（前月：7.97％）となり、食料品は横ばい、財（非食料品）は低下、サービスは上昇した。特にサービスインフレは10月に公共料金が引き上げられたことを受けて大幅に上昇した。 前年比寄与度では食料品が2.0％ポイント程度、財（非食料品）が1.8％ポイント程度、サービスが3.1％ポイント程度と見られる（図表1）。 10月の前月比伸び率は、総合指数で0.99％（前月：0.35％）、コア指数で0.47％（前月：0.49％）となった。総合指数は公共料金引き上げで大きく上昇、コア指数はやや低下したものの高めの伸びを維持した（図表3）。前月比伸び率を大",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-26T07:22:48.000Z",
-    "category": "insurance",
-    "keywords": [
-      "ロシアの物価状況（26年",
-      "（26年10月）－総合イ",
-      "－総合インフレ率は6％台",
-      "は6％台後半まで上昇",
-      "上昇"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87430?site=nli"
-  },
-  {
-    "id": "rss-insurance-9ae2f45087b4cb",
-    "title": "ロシアの物価状況（26年10月）－総合インフレ率は6％台後半まで上昇",
-    "summary": "11月25日、ロシア連邦統計局は消費者物価指数を公表し、結果は以下の通りとなった。 【総合指数（26年10月）】 ・前年同月比は6.87％、市場予想1（7.02％）から下振れ、前月（6.35％）から上昇（図表1） ・前月比は0.99％、市場予想（1.15％）から下振れ、前月（0.35％）から上昇 【コア指数2（26年10月）】 ・前年同月比は5.81％、前月（5.47％）から上昇した（図表2） ・前月比は0.47％、前月（0.49％）からやや低下した 1 Bloomberg集計の中央値。以下の予想値も同様。 2 生鮮食品など季節的要因による影響を受ける品目や管理品目を除いた指数。 10月のロシアのインフレ率（前年比）は6.87％となり、9月（6.35％）から上昇したが、市場予想（7.02％）は下回った。インフレ率は26年5月（5.31％）を底に緩やかな上昇傾向にある。ロシア中銀は10月の会合で9月会合に続き2会合連続となる政策金利の据え置きを決定した。 前年比インフレ率を大分類別に見ると、10月は食料品が5.05％（前月：5.05％）、財（非食料品）が5.58％（前月：6.47％）、サービスが10.86％（前月：7.97％）となり、食料品は横ばい、財（非食料品）は低下、サービスは上昇した。特にサービスインフレは10月に公共料金が引き上げられたことを受けて大幅に上昇した。 前年比寄与度では食料品が2.0％ポイント程度、財（非食料品）が1.8％ポイント程度、サービスが3.1％ポイント程度と見られる（図表1）。 10月の前月比伸び率は、総合指数で0.99％（前月：0.35％）、コア指数で0.47％（前月：0.49％）となった。総合指数は公共料金引き上げで大きく上昇、コア指数はやや低下したものの高めの伸びを維持した（図表3）。前月比伸び率を大",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-26T07:22:48.000Z",
-    "category": "insurance",
-    "keywords": [
-      "ロシアの物価状況（26年",
-      "（26年10月）－総合イ",
-      "－総合インフレ率は6％台",
-      "は6％台後半まで上昇",
-      "上昇"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87430?site=nli"
-  },
-  {
-    "id": "rss-insurance-9ae2f45087b4cb",
-    "title": "ロシアの物価状況（26年10月）－総合インフレ率は6％台後半まで上昇",
-    "summary": "11月25日、ロシア連邦統計局は消費者物価指数を公表し、結果は以下の通りとなった。 【総合指数（26年10月）】 ・前年同月比は6.87％、市場予想1（7.02％）から下振れ、前月（6.35％）から上昇（図表1） ・前月比は0.99％、市場予想（1.15％）から下振れ、前月（0.35％）から上昇 【コア指数2（26年10月）】 ・前年同月比は5.81％、前月（5.47％）から上昇した（図表2） ・前月比は0.47％、前月（0.49％）からやや低下した 1 Bloomberg集計の中央値。以下の予想値も同様。 2 生鮮食品など季節的要因による影響を受ける品目や管理品目を除いた指数。 10月のロシアのインフレ率（前年比）は6.87％となり、9月（6.35％）から上昇したが、市場予想（7.02％）は下回った。インフレ率は26年5月（5.31％）を底に緩やかな上昇傾向にある。ロシア中銀は10月の会合で9月会合に続き2会合連続となる政策金利の据え置きを決定した。 前年比インフレ率を大分類別に見ると、10月は食料品が5.05％（前月：5.05％）、財（非食料品）が5.58％（前月：6.47％）、サービスが10.86％（前月：7.97％）となり、食料品は横ばい、財（非食料品）は低下、サービスは上昇した。特にサービスインフレは10月に公共料金が引き上げられたことを受けて大幅に上昇した。 前年比寄与度では食料品が2.0％ポイント程度、財（非食料品）が1.8％ポイント程度、サービスが3.1％ポイント程度と見られる（図表1）。 10月の前月比伸び率は、総合指数で0.99％（前月：0.35％）、コア指数で0.47％（前月：0.49％）となった。総合指数は公共料金引き上げで大きく上昇、コア指数はやや低下したものの高めの伸びを維持した（図表3）。前月比伸び率を大",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-26T07:22:48.000Z",
-    "category": "insurance",
-    "keywords": [
-      "ロシアの物価状況（26年",
-      "（26年10月）－総合イ",
-      "－総合インフレ率は6％台",
-      "は6％台後半まで上昇",
-      "上昇"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87430?site=nli"
-  },
-  {
-    "id": "rss-insurance-f8cd26db0884db",
-    "title": "2028年度以降も年金増額の見込みだが、物価反映の遅れには要注意－年金額改定の仕組みと2027年度以降の見通し (5)",
-    "summary": "■要旨 本連載では、年金額改定の仕組みを確認し、2027年度以降の見通しを展望する。第５回の本稿では、年金額改定のルールが、2028年度以降の改定でどのように機能するかを展望した。その要点は、次のとおりである。 物価上昇を反映して、年金額の増額改定が継続する。ただし、物価上昇の反映は約１年遅れになる。 2029年４月に予定されている消費税率の復帰に伴う物価上昇は、2030年度の年金額に反映される。2029年度だけで考えると年金額の伸びが物価の伸びに追いつかない状況になるため、１年遅れで反映されることが事前に認識されていないと、混乱が生じる可能性がある。 物価上昇を反映して本来の改定率が一定程度のプラスになることで、年金財政健全化のための給付調整（いわゆるマクロ経済スライド）が完全に適用される状況が続く。 実質賃金の上昇によって、これまで続いてきた物価の伸びに対する年金額の目減りが、徐々に緩和される可能性がある。 実質賃金の上昇が継続することによって、３年度平均の実質賃金変動率がプラスに転じ、68歳以上に対する物価スライドが再適用される可能性がある。 これまで年金額の伸びが物価の伸びに追いつかない状況が多かったことを踏まえて、68歳以降の年金額改定のルールについて再確認や再検討を行う必要が生じる可能性がある。 当連載の第３回や第４回で述べたように、2026年度や2027年度の年金額の伸びは、実質賃金の低下を反映して物価の伸びよりも低くなる（2027年度は筆者試算）。今後の状況は不確実だが、足下で見られる名目賃金の上昇ペースが継続すれば、消費税率の変更に伴う実質賃金の一時的な低下があったとしても、年金額の改定で使われる実質賃金の変動率は３年度分の平均であるため、物価の伸びに対する年金額の目減りが徐々に緩和される可能性がある。 一方で、20",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-26T07:00:51.000Z",
-    "category": "insurance",
-    "keywords": [
-      "2028年度以降も年金増額の見込みだが",
-      "(5)"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87435?site=nli"
-  },
-  {
-    "id": "rss-insurance-f8cd26db0884db",
-    "title": "2028年度以降も年金増額の見込みだが、物価反映の遅れには要注意－年金額改定の仕組みと2027年度以降の見通し (5)",
-    "summary": "■要旨 本連載では、年金額改定の仕組みを確認し、2027年度以降の見通しを展望する。第５回の本稿では、年金額改定のルールが、2028年度以降の改定でどのように機能するかを展望した。その要点は、次のとおりである。 物価上昇を反映して、年金額の増額改定が継続する。ただし、物価上昇の反映は約１年遅れになる。 2029年４月に予定されている消費税率の復帰に伴う物価上昇は、2030年度の年金額に反映される。2029年度だけで考えると年金額の伸びが物価の伸びに追いつかない状況になるため、１年遅れで反映されることが事前に認識されていないと、混乱が生じる可能性がある。 物価上昇を反映して本来の改定率が一定程度のプラスになることで、年金財政健全化のための給付調整（いわゆるマクロ経済スライド）が完全に適用される状況が続く。 実質賃金の上昇によって、これまで続いてきた物価の伸びに対する年金額の目減りが、徐々に緩和される可能性がある。 実質賃金の上昇が継続することによって、３年度平均の実質賃金変動率がプラスに転じ、68歳以上に対する物価スライドが再適用される可能性がある。 これまで年金額の伸びが物価の伸びに追いつかない状況が多かったことを踏まえて、68歳以降の年金額改定のルールについて再確認や再検討を行う必要が生じる可能性がある。 当連載の第３回や第４回で述べたように、2026年度や2027年度の年金額の伸びは、実質賃金の低下を反映して物価の伸びよりも低くなる（2027年度は筆者試算）。今後の状況は不確実だが、足下で見られる名目賃金の上昇ペースが継続すれば、消費税率の変更に伴う実質賃金の一時的な低下があったとしても、年金額の改定で使われる実質賃金の変動率は３年度分の平均であるため、物価の伸びに対する年金額の目減りが徐々に緩和される可能性がある。 一方で、20",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-26T07:00:51.000Z",
-    "category": "insurance",
-    "keywords": [
-      "2028年度以降も年金増額の見込みだが",
-      "(5)"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87435?site=nli"
-  },
-  {
-    "id": "rss-insurance-f8cd26db0884db",
-    "title": "2028年度以降も年金増額の見込みだが、物価反映の遅れには要注意－年金額改定の仕組みと2027年度以降の見通し (5)",
-    "summary": "■要旨 本連載では、年金額改定の仕組みを確認し、2027年度以降の見通しを展望する。第５回の本稿では、年金額改定のルールが、2028年度以降の改定でどのように機能するかを展望した。その要点は、次のとおりである。 物価上昇を反映して、年金額の増額改定が継続する。ただし、物価上昇の反映は約１年遅れになる。 2029年４月に予定されている消費税率の復帰に伴う物価上昇は、2030年度の年金額に反映される。2029年度だけで考えると年金額の伸びが物価の伸びに追いつかない状況になるため、１年遅れで反映されることが事前に認識されていないと、混乱が生じる可能性がある。 物価上昇を反映して本来の改定率が一定程度のプラスになることで、年金財政健全化のための給付調整（いわゆるマクロ経済スライド）が完全に適用される状況が続く。 実質賃金の上昇によって、これまで続いてきた物価の伸びに対する年金額の目減りが、徐々に緩和される可能性がある。 実質賃金の上昇が継続することによって、３年度平均の実質賃金変動率がプラスに転じ、68歳以上に対する物価スライドが再適用される可能性がある。 これまで年金額の伸びが物価の伸びに追いつかない状況が多かったことを踏まえて、68歳以降の年金額改定のルールについて再確認や再検討を行う必要が生じる可能性がある。 当連載の第３回や第４回で述べたように、2026年度や2027年度の年金額の伸びは、実質賃金の低下を反映して物価の伸びよりも低くなる（2027年度は筆者試算）。今後の状況は不確実だが、足下で見られる名目賃金の上昇ペースが継続すれば、消費税率の変更に伴う実質賃金の一時的な低下があったとしても、年金額の改定で使われる実質賃金の変動率は３年度分の平均であるため、物価の伸びに対する年金額の目減りが徐々に緩和される可能性がある。 一方で、20",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-26T07:00:51.000Z",
-    "category": "insurance",
-    "keywords": [
-      "2028年度以降も年金増額の見込みだが",
-      "(5)"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87435?site=nli"
-  },
-  {
-    "id": "rss-insurance-f8cd26db0884db",
-    "title": "2028年度以降も年金増額の見込みだが、物価反映の遅れには要注意－年金額改定の仕組みと2027年度以降の見通し (5)",
-    "summary": "■要旨 本連載では、年金額改定の仕組みを確認し、2027年度以降の見通しを展望する。第５回の本稿では、年金額改定のルールが、2028年度以降の改定でどのように機能するかを展望した。その要点は、次のとおりである。 物価上昇を反映して、年金額の増額改定が継続する。ただし、物価上昇の反映は約１年遅れになる。 2029年４月に予定されている消費税率の復帰に伴う物価上昇は、2030年度の年金額に反映される。2029年度だけで考えると年金額の伸びが物価の伸びに追いつかない状況になるため、１年遅れで反映されることが事前に認識されていないと、混乱が生じる可能性がある。 物価上昇を反映して本来の改定率が一定程度のプラスになることで、年金財政健全化のための給付調整（いわゆるマクロ経済スライド）が完全に適用される状況が続く。 実質賃金の上昇によって、これまで続いてきた物価の伸びに対する年金額の目減りが、徐々に緩和される可能性がある。 実質賃金の上昇が継続することによって、３年度平均の実質賃金変動率がプラスに転じ、68歳以上に対する物価スライドが再適用される可能性がある。 これまで年金額の伸びが物価の伸びに追いつかない状況が多かったことを踏まえて、68歳以降の年金額改定のルールについて再確認や再検討を行う必要が生じる可能性がある。 当連載の第３回や第４回で述べたように、2026年度や2027年度の年金額の伸びは、実質賃金の低下を反映して物価の伸びよりも低くなる（2027年度は筆者試算）。今後の状況は不確実だが、足下で見られる名目賃金の上昇ペースが継続すれば、消費税率の変更に伴う実質賃金の一時的な低下があったとしても、年金額の改定で使われる実質賃金の変動率は３年度分の平均であるため、物価の伸びに対する年金額の目減りが徐々に緩和される可能性がある。 一方で、20",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-26T07:00:51.000Z",
-    "category": "insurance",
-    "keywords": [
-      "2028年度以降も年金増額の見込みだが",
-      "(5)"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87435?site=nli"
-  },
-  {
-    "id": "rss-insurance-cb134e9ba3e3be",
-    "title": "COP31から考える、持続可能な消費を支える条件～４年間の消費者調査でみる、価格・品質・環境配慮意識の推移",
-    "summary": "■要旨 トルコでCOP31（国連気候変動枠組条約の第31回締約国会議）が無事閉幕したが、国連気候変動枠組条約（UNFCCC）のサイモン・スティール事務局長は、11月14日の中間会見で、気候対策を人々の身近な暮らしと結びつけて伝えることの重要性を改めて訴えた。 たとえば、消費者が普段の買物で重視する価値と、企業や消費者に求められる責任意識を併せて捉えると、持続可能性を巡る国際環境と消費者の意識・態度・行動が変容する中で、持続可能な消費を巡る新たな局面と検討課題が見えてくる。 ニッセイ基礎研究所の2023～2026年のサステナビリティ消費者調査結果によれば、環境や社会への配慮に費用をかける責任について、消費者自身よりも企業に求める回答が4年間を通じて約9ポイント高く、企業と消費者に求める責任意識の水準に差が見られている。 環境や社会への配慮を進める際、その費用を企業がどこまで担い、商品価格にはどう反映させるのか。また、仮に消費者の負担が大きくなる場合、行政による支援にはどのような役割があるのか。環境配慮に伴う費用の負担や公平性に着目し、環境負荷の削減を進めながら、企業・消費者・行政がそれぞれどのような役割を担うことが考えられるのかを明らかにしていく必要がある。 ■目次 1――はじめに～COP31中間会見「気候対策を、人々の暮らしの近くで働きかける」 1｜気候対策を、暮らしの中で身近な問題として捉える、とはどういうことか 2｜消費者の商品選択と、環境への配慮をどう結びつけるか 3｜４年間の消費者調査から、企業と行政の役割を考える 2――消費者は価格、品質、長く使えることを、どのように重視しているか 1｜物価上昇の中、消費者は価格だけでなく、品質や長く使えることも重視 2｜消費者は購入時の価格だけでなく、使い続ける価値や納得感にも関心 3｜環",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-26T05:59:52.000Z",
-    "category": "insurance",
-    "keywords": [
-      "COP31から考える",
-      "価格",
-      "品質",
-      "環境配慮意識の推移"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87429?site=nli"
-  },
-  {
-    "id": "rss-insurance-cb134e9ba3e3be",
-    "title": "COP31から考える、持続可能な消費を支える条件～４年間の消費者調査でみる、価格・品質・環境配慮意識の推移",
-    "summary": "■要旨 トルコでCOP31（国連気候変動枠組条約の第31回締約国会議）が無事閉幕したが、国連気候変動枠組条約（UNFCCC）のサイモン・スティール事務局長は、11月14日の中間会見で、気候対策を人々の身近な暮らしと結びつけて伝えることの重要性を改めて訴えた。 たとえば、消費者が普段の買物で重視する価値と、企業や消費者に求められる責任意識を併せて捉えると、持続可能性を巡る国際環境と消費者の意識・態度・行動が変容する中で、持続可能な消費を巡る新たな局面と検討課題が見えてくる。 ニッセイ基礎研究所の2023～2026年のサステナビリティ消費者調査結果によれば、環境や社会への配慮に費用をかける責任について、消費者自身よりも企業に求める回答が4年間を通じて約9ポイント高く、企業と消費者に求める責任意識の水準に差が見られている。 環境や社会への配慮を進める際、その費用を企業がどこまで担い、商品価格にはどう反映させるのか。また、仮に消費者の負担が大きくなる場合、行政による支援にはどのような役割があるのか。環境配慮に伴う費用の負担や公平性に着目し、環境負荷の削減を進めながら、企業・消費者・行政がそれぞれどのような役割を担うことが考えられるのかを明らかにしていく必要がある。 ■目次 1――はじめに～COP31中間会見「気候対策を、人々の暮らしの近くで働きかける」 1｜気候対策を、暮らしの中で身近な問題として捉える、とはどういうことか 2｜消費者の商品選択と、環境への配慮をどう結びつけるか 3｜４年間の消費者調査から、企業と行政の役割を考える 2――消費者は価格、品質、長く使えることを、どのように重視しているか 1｜物価上昇の中、消費者は価格だけでなく、品質や長く使えることも重視 2｜消費者は購入時の価格だけでなく、使い続ける価値や納得感にも関心 3｜環",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-26T05:59:52.000Z",
-    "category": "insurance",
-    "keywords": [
-      "COP31から考える",
-      "価格",
-      "品質",
-      "環境配慮意識の推移"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87429?site=nli"
-  },
-  {
-    "id": "rss-insurance-cb134e9ba3e3be",
-    "title": "COP31から考える、持続可能な消費を支える条件～４年間の消費者調査でみる、価格・品質・環境配慮意識の推移",
-    "summary": "■要旨 トルコでCOP31（国連気候変動枠組条約の第31回締約国会議）が無事閉幕したが、国連気候変動枠組条約（UNFCCC）のサイモン・スティール事務局長は、11月14日の中間会見で、気候対策を人々の身近な暮らしと結びつけて伝えることの重要性を改めて訴えた。 たとえば、消費者が普段の買物で重視する価値と、企業や消費者に求められる責任意識を併せて捉えると、持続可能性を巡る国際環境と消費者の意識・態度・行動が変容する中で、持続可能な消費を巡る新たな局面と検討課題が見えてくる。 ニッセイ基礎研究所の2023～2026年のサステナビリティ消費者調査結果によれば、環境や社会への配慮に費用をかける責任について、消費者自身よりも企業に求める回答が4年間を通じて約9ポイント高く、企業と消費者に求める責任意識の水準に差が見られている。 環境や社会への配慮を進める際、その費用を企業がどこまで担い、商品価格にはどう反映させるのか。また、仮に消費者の負担が大きくなる場合、行政による支援にはどのような役割があるのか。環境配慮に伴う費用の負担や公平性に着目し、環境負荷の削減を進めながら、企業・消費者・行政がそれぞれどのような役割を担うことが考えられるのかを明らかにしていく必要がある。 ■目次 1――はじめに～COP31中間会見「気候対策を、人々の暮らしの近くで働きかける」 1｜気候対策を、暮らしの中で身近な問題として捉える、とはどういうことか 2｜消費者の商品選択と、環境への配慮をどう結びつけるか 3｜４年間の消費者調査から、企業と行政の役割を考える 2――消費者は価格、品質、長く使えることを、どのように重視しているか 1｜物価上昇の中、消費者は価格だけでなく、品質や長く使えることも重視 2｜消費者は購入時の価格だけでなく、使い続ける価値や納得感にも関心 3｜環",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-26T05:59:52.000Z",
-    "category": "insurance",
-    "keywords": [
-      "COP31から考える",
-      "価格",
-      "品質",
-      "環境配慮意識の推移"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87429?site=nli"
-  },
-  {
-    "id": "rss-insurance-cb134e9ba3e3be",
-    "title": "COP31から考える、持続可能な消費を支える条件～４年間の消費者調査でみる、価格・品質・環境配慮意識の推移",
-    "summary": "■要旨 トルコでCOP31（国連気候変動枠組条約の第31回締約国会議）が無事閉幕したが、国連気候変動枠組条約（UNFCCC）のサイモン・スティール事務局長は、11月14日の中間会見で、気候対策を人々の身近な暮らしと結びつけて伝えることの重要性を改めて訴えた。 たとえば、消費者が普段の買物で重視する価値と、企業や消費者に求められる責任意識を併せて捉えると、持続可能性を巡る国際環境と消費者の意識・態度・行動が変容する中で、持続可能な消費を巡る新たな局面と検討課題が見えてくる。 ニッセイ基礎研究所の2023～2026年のサステナビリティ消費者調査結果によれば、環境や社会への配慮に費用をかける責任について、消費者自身よりも企業に求める回答が4年間を通じて約9ポイント高く、企業と消費者に求める責任意識の水準に差が見られている。 環境や社会への配慮を進める際、その費用を企業がどこまで担い、商品価格にはどう反映させるのか。また、仮に消費者の負担が大きくなる場合、行政による支援にはどのような役割があるのか。環境配慮に伴う費用の負担や公平性に着目し、環境負荷の削減を進めながら、企業・消費者・行政がそれぞれどのような役割を担うことが考えられるのかを明らかにしていく必要がある。 ■目次 1――はじめに～COP31中間会見「気候対策を、人々の暮らしの近くで働きかける」 1｜気候対策を、暮らしの中で身近な問題として捉える、とはどういうことか 2｜消費者の商品選択と、環境への配慮をどう結びつけるか 3｜４年間の消費者調査から、企業と行政の役割を考える 2――消費者は価格、品質、長く使えることを、どのように重視しているか 1｜物価上昇の中、消費者は価格だけでなく、品質や長く使えることも重視 2｜消費者は購入時の価格だけでなく、使い続ける価値や納得感にも関心 3｜環",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-26T05:59:52.000Z",
-    "category": "insurance",
-    "keywords": [
-      "COP31から考える",
-      "価格",
-      "品質",
-      "環境配慮意識の推移"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87429?site=nli"
-  },
-  {
-    "id": "rss-insurance-b1c0dfb4a02f6d",
-    "title": "米中間選挙と今後の経済政策－民主党大勝の背景と分割政府下で高まる政策リスク",
-    "summary": "■要旨 11月3日に実施された中間選挙では野党民主党が上下両院で大幅に議席を増やし、過半数を奪取した。今回の中間選挙の投票率は49％と前回（22年）の46％を上回っており、トランプ大統領の信任投票として有権者の関心が高かったことが窺われる。 出口調査ではトランプ大統領への不支持を投票理由とした有権者の割合が45％と高かったほか、経済問題や民主主義の現状が民主党への追い風となった。経済問題の背景には物価高や関税政策に対する有権者の不満があったとみられる。また、24年の大統領選挙に比べて若年層を中心に幅広い有権者層で民主党の得票率が上昇した。 来年1月からは大統領と上下両院の多数党が異なる「分割政府」となる。このため、トランプ政権が目指す追加減税や国防費の拡大などの実現は困難となろう。一方、トランプ大統領が議会での立法を必要としない政策に傾注する結果、大統領の権限が大きい通商・外交政策が一段と強硬化するリスクがある。 米国経済の成長をけん引するＡＩ関連投資については、データセンター建設に対する住民の反発が強まる中、州レベルでの規制強化が投資の拡大を制約する可能性がある。また、28年の大統領選挙を睨んで与野党対立の激化が予想される中、連邦政府閉鎖や債務上限の引上げを巡る混乱など、政治の機能不全に伴う米国経済への影響が懸念される。 ■目次 １．はじめに ２．中間選挙結果とその評価 （選挙結果と投票率）：民主党が上下両院で過半数を奪取、投票率も前回を上回る （民主党が大勝した要因）：トランプ政権への不満、経済問題や民主主義の現状が追い風 （有権者の属性別にみた投票動向）：若年層を中心に幅広い有権者層で民主党の得票率が上昇 ３．経済政策への影響および今後の注目材料 （分割政府によるトランプ政権運営への影響）：議会を通じた政策遂行が困難に （財政・",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-26T05:29:18.000Z",
-    "category": "insurance",
-    "keywords": [
-      "米中間選挙と今後の経済政",
-      "の経済政策－民主党大勝の",
-      "党大勝の背景と分割政府下",
-      "割政府下で高まる政策リス",
-      "政策リスク"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87437?site=nli"
-  },
-  {
-    "id": "rss-insurance-b1c0dfb4a02f6d",
-    "title": "米中間選挙と今後の経済政策－民主党大勝の背景と分割政府下で高まる政策リスク",
-    "summary": "■要旨 11月3日に実施された中間選挙では野党民主党が上下両院で大幅に議席を増やし、過半数を奪取した。今回の中間選挙の投票率は49％と前回（22年）の46％を上回っており、トランプ大統領の信任投票として有権者の関心が高かったことが窺われる。 出口調査ではトランプ大統領への不支持を投票理由とした有権者の割合が45％と高かったほか、経済問題や民主主義の現状が民主党への追い風となった。経済問題の背景には物価高や関税政策に対する有権者の不満があったとみられる。また、24年の大統領選挙に比べて若年層を中心に幅広い有権者層で民主党の得票率が上昇した。 来年1月からは大統領と上下両院の多数党が異なる「分割政府」となる。このため、トランプ政権が目指す追加減税や国防費の拡大などの実現は困難となろう。一方、トランプ大統領が議会での立法を必要としない政策に傾注する結果、大統領の権限が大きい通商・外交政策が一段と強硬化するリスクがある。 米国経済の成長をけん引するＡＩ関連投資については、データセンター建設に対する住民の反発が強まる中、州レベルでの規制強化が投資の拡大を制約する可能性がある。また、28年の大統領選挙を睨んで与野党対立の激化が予想される中、連邦政府閉鎖や債務上限の引上げを巡る混乱など、政治の機能不全に伴う米国経済への影響が懸念される。 ■目次 １．はじめに ２．中間選挙結果とその評価 （選挙結果と投票率）：民主党が上下両院で過半数を奪取、投票率も前回を上回る （民主党が大勝した要因）：トランプ政権への不満、経済問題や民主主義の現状が追い風 （有権者の属性別にみた投票動向）：若年層を中心に幅広い有権者層で民主党の得票率が上昇 ３．経済政策への影響および今後の注目材料 （分割政府によるトランプ政権運営への影響）：議会を通じた政策遂行が困難に （財政・",
-    "sourceName": "ニッセイ基礎研（年金）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-26T05:29:18.000Z",
-    "category": "insurance",
-    "keywords": [
-      "米中間選挙と今後の経済政",
-      "の経済政策－民主党大勝の",
-      "党大勝の背景と分割政府下",
-      "割政府下で高まる政策リス",
-      "政策リスク"
-    ],
-    "bannerClass": "from-cyan-950 to-teal-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87437?site=nli"
-  },
-  {
-    "id": "rss-insurance-b1c0dfb4a02f6d",
-    "title": "米中間選挙と今後の経済政策－民主党大勝の背景と分割政府下で高まる政策リスク",
-    "summary": "■要旨 11月3日に実施された中間選挙では野党民主党が上下両院で大幅に議席を増やし、過半数を奪取した。今回の中間選挙の投票率は49％と前回（22年）の46％を上回っており、トランプ大統領の信任投票として有権者の関心が高かったことが窺われる。 出口調査ではトランプ大統領への不支持を投票理由とした有権者の割合が45％と高かったほか、経済問題や民主主義の現状が民主党への追い風となった。経済問題の背景には物価高や関税政策に対する有権者の不満があったとみられる。また、24年の大統領選挙に比べて若年層を中心に幅広い有権者層で民主党の得票率が上昇した。 来年1月からは大統領と上下両院の多数党が異なる「分割政府」となる。このため、トランプ政権が目指す追加減税や国防費の拡大などの実現は困難となろう。一方、トランプ大統領が議会での立法を必要としない政策に傾注する結果、大統領の権限が大きい通商・外交政策が一段と強硬化するリスクがある。 米国経済の成長をけん引するＡＩ関連投資については、データセンター建設に対する住民の反発が強まる中、州レベルでの規制強化が投資の拡大を制約する可能性がある。また、28年の大統領選挙を睨んで与野党対立の激化が予想される中、連邦政府閉鎖や債務上限の引上げを巡る混乱など、政治の機能不全に伴う米国経済への影響が懸念される。 ■目次 １．はじめに ２．中間選挙結果とその評価 （選挙結果と投票率）：民主党が上下両院で過半数を奪取、投票率も前回を上回る （民主党が大勝した要因）：トランプ政権への不満、経済問題や民主主義の現状が追い風 （有権者の属性別にみた投票動向）：若年層を中心に幅広い有権者層で民主党の得票率が上昇 ３．経済政策への影響および今後の注目材料 （分割政府によるトランプ政権運営への影響）：議会を通じた政策遂行が困難に （財政・",
-    "sourceName": "ニッセイ基礎研（社会保障）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-26T05:29:18.000Z",
-    "category": "insurance",
-    "keywords": [
-      "米中間選挙と今後の経済政",
-      "の経済政策－民主党大勝の",
-      "党大勝の背景と分割政府下",
-      "割政府下で高まる政策リス",
-      "政策リスク"
-    ],
-    "bannerClass": "from-emerald-950 to-green-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87437?site=nli"
-  },
-  {
-    "id": "rss-insurance-b1c0dfb4a02f6d",
-    "title": "米中間選挙と今後の経済政策－民主党大勝の背景と分割政府下で高まる政策リスク",
-    "summary": "■要旨 11月3日に実施された中間選挙では野党民主党が上下両院で大幅に議席を増やし、過半数を奪取した。今回の中間選挙の投票率は49％と前回（22年）の46％を上回っており、トランプ大統領の信任投票として有権者の関心が高かったことが窺われる。 出口調査ではトランプ大統領への不支持を投票理由とした有権者の割合が45％と高かったほか、経済問題や民主主義の現状が民主党への追い風となった。経済問題の背景には物価高や関税政策に対する有権者の不満があったとみられる。また、24年の大統領選挙に比べて若年層を中心に幅広い有権者層で民主党の得票率が上昇した。 来年1月からは大統領と上下両院の多数党が異なる「分割政府」となる。このため、トランプ政権が目指す追加減税や国防費の拡大などの実現は困難となろう。一方、トランプ大統領が議会での立法を必要としない政策に傾注する結果、大統領の権限が大きい通商・外交政策が一段と強硬化するリスクがある。 米国経済の成長をけん引するＡＩ関連投資については、データセンター建設に対する住民の反発が強まる中、州レベルでの規制強化が投資の拡大を制約する可能性がある。また、28年の大統領選挙を睨んで与野党対立の激化が予想される中、連邦政府閉鎖や債務上限の引上げを巡る混乱など、政治の機能不全に伴う米国経済への影響が懸念される。 ■目次 １．はじめに ２．中間選挙結果とその評価 （選挙結果と投票率）：民主党が上下両院で過半数を奪取、投票率も前回を上回る （民主党が大勝した要因）：トランプ政権への不満、経済問題や民主主義の現状が追い風 （有権者の属性別にみた投票動向）：若年層を中心に幅広い有権者層で民主党の得票率が上昇 ３．経済政策への影響および今後の注目材料 （分割政府によるトランプ政権運営への影響）：議会を通じた政策遂行が困難に （財政・",
-    "sourceName": "ニッセイ基礎研（金融・為替）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-26T05:29:18.000Z",
-    "category": "insurance",
-    "keywords": [
-      "米中間選挙と今後の経済政",
-      "の経済政策－民主党大勝の",
-      "党大勝の背景と分割政府下",
-      "割政府下で高まる政策リス",
-      "政策リスク"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87437?site=nli"
-  },
-  {
-    "id": "rss-insurance-f1c7d19631a740",
-    "title": "ニッセイ景況アンケート調査結果－全国調査結果 2026年度調査(2026年６月～９月）",
-    "summary": "■調査結果のポイント ◆ 企業の景況感はやや改善 先行きについては、景況感は小幅な悪化を見込むが、雇用意欲は強まる見通し ◆ 人材確保や物価上昇等への対応のため、引き続き８割弱の企業が賃上げを実施 ◆ 人事・労務面では、課題は「労働時間の削減やＷＬＢの実施」、 研修テーマは「ハラスメント防止」がそれぞれ最多 ◆ 事業承継は経営者の年齢が70代に入ると検討が加速 事業承継の課題は「後継者の育成」が最多 ◆ 健康経営に「関心があり、健康経営優良法人認定を受けている」企業の割合は12.4％に留まった 健康経営のため今後検討したい取組は「従業員に対する教育研修」が最多 今回調査が行われた26年６月下旬～９月下旬は、２月末以降の中東情勢の悪化に伴うエネルギー価格の高騰に加え、各地で相次いだ豪雨や地震などの自然災害が景気の下押し要因となったものの、高水準の賃上げが個人消費を下支えし、景気は緩やかな回復を続けた。一方、中東情勢の先行き不透明感や原材料費の高騰などを背景に、企業の間では慎重な見方が広がっている。 ■調査結果要旨 I．景気動向 １．企業の景況感はやや改善、先行きは小幅な悪化を見込む ２．景況感は６地域で改善、２地域で悪化、１地域で横ばい ３．25年度は増収増益、26年度は増益傾向が弱まる見通し II．雇用、設備投資、販売・仕入価格 １．先行きは雇用意欲が強まる見通し ２．26年度は設備投資の増勢がやや鈍化 ３．仕入価格の上昇続くも、価格転嫁は依然不十分 III．経営課題・問題点、賃上げ １．現在の経営課題は「原材料・人件費の増加」が前回から引き続き最多に ２．26年度も８割弱の企業が賃上げを実施 IV．人材・労務に関する取組と課題 １．現在取り組んでいる福利厚生制度 ～現在取り組んでいる福利厚生制度は、「退職年金」、「慶事給付」、「人間",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-26T04:58:29.000Z",
-    "category": "insurance",
-    "keywords": [
-      "ニッセイ景況アンケート調査結果－全国調査結果",
-      "2026年度調査(2026年６月～９月）"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87427?site=nli"
-  },
-  {
-    "id": "rss-insurance-c4ce8cb9e078d3",
-    "title": "ストレスチェック義務化、従業員50人未満の事業場も対象に",
-    "summary": "■要旨 これまで努力義務だった従業員50人未満の事業場にも、2028年5月までにストレスチェックが義務化される。 中小企業ではメンタルヘルス不調による休職・退職が統計上は目立ちにくいものの、特に若年層でメンタルヘルス不調の割合が高く、その構成比も上昇傾向にある。 ストレスチェックの結果を職場環境の改善に活用することが重要であり、今後、実効性のある改善につながる取組の蓄積が求められる。 50人未満の事業場では、専門職不足、プライバシー保護、人的・予算的負担が課題となるため、外部機関の活用や業界団体・地域単位での共同実施が対応策として考えられる。 ■目次 1――50人未満の職場でもストレスチェックが義務化 1｜ストレスチェックとは 2｜2028年5月までに50人未満の職場にも適用 2――中小企業においても大きな課題 1｜休職・退職者がいた事業所の割合 2｜メンタルヘルス不調による休職・退職の実態 3――中小企業における制度導入の課題 1｜ストレスチェック制度の課題 2｜50人未満の職場に適用することへの課題 4――今後の課題と展望1｜ストレスチェックとは 従業員のメンタルヘルスは、古くから企業における課題として認識されてきたが、対策は、各企業や職場に委ねられてきた。2014年に労働安全衛生法が改正され、2015年12月以降、常時雇用する労働者が50人以上の事業場においては、メンタルヘルス不調の未然防止である一次予防の強化を目的として年に1回ストレスチェックを行うことが義務付けられ、50人未満の事業場においては努力義務とされた。 ストレスチェックとは、「心身のストレス反応」に関する質問、ストレス反応に影響する因子として「周囲のサポート」に関する質問、その他「仕事や家庭の満足度」に関する質問から成るアンケートで、従業員がそれぞれ回答する。「心",
-    "sourceName": "ニッセイ基礎研（保険）",
-    "sourceIcon": "🇯🇵",
-    "publishedAt": "2026-11-26T04:57:47.000Z",
-    "category": "insurance",
-    "keywords": [
-      "ストレスチェック義務化",
-      "従業員50人未満の事業場も対象に"
-    ],
-    "bannerClass": "from-teal-950 to-emerald-900",
-    "isNew": true,
-    "url": "https://www.nli-research.co.jp/topics_detail1/id=87428?site=nli"
   },
   {
     "id": "rss-housing-427a5480d276ff",
@@ -2474,25 +2482,6 @@
     "sortBoost": 4
   },
   {
-    "id": "rss-housing-d1ac438f241482",
-    "title": "Court upholds NYC rent freeze backed by Mayor Mamdani",
-    "summary": "Judge Lantry dismissed claims that the mayor predetermined the outcome, and cited the board’s 42-page explanatory statement",
-    "sourceName": "HousingWire",
-    "sourceIcon": "🏘️",
-    "publishedAt": "2026-11-25T22:52:43.000Z",
-    "category": "housing",
-    "keywords": [
-      "Court",
-      "upholds",
-      "NYC",
-      "rent",
-      "freeze"
-    ],
-    "bannerClass": "from-sky-950 to-cyan-950",
-    "isNew": true,
-    "url": "https://www.housingwire.com/articles/court-upholds-nyc-rent-freeze/"
-  },
-  {
     "id": "rss-housing-8c8702f4816ca7",
     "title": "住友林業26年12月期第3四半期決算=全セグメントが「増収減益」、国内住宅事業は受注鈍化で下方修正",
     "summary": "住友林業(東京都千代田区、光吉敏郎社長)...",
@@ -2528,179 +2517,8 @@
       "approvals"
     ],
     "bannerClass": "from-blue-950 to-indigo-900",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.americanbanker.com/news/wafd-everbank-merger-secures-early-approvals"
-  },
-  {
-    "id": "rss-banking-b5760844ae2c08",
-    "title": "Payoneer gets conditional OCC approval for stablecoin bank",
-    "summary": "The global payments firm plans to issue its own stablecoin for internal use once PAYO Digital Bank receives final approval to launch as a national trust bank.",
-    "sourceName": "American Banker",
-    "sourceIcon": "🇺🇸",
-    "publishedAt": "2026-11-25T19:46:16.000Z",
-    "category": "banking",
-    "keywords": [
-      "Payoneer",
-      "gets",
-      "conditional",
-      "OCC",
-      "approval"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-900",
-    "isNew": true,
-    "url": "https://www.americanbanker.com/news/payoneer-gets-conditional-occ-approval-for-stablecoin-bank"
-  },
-  {
-    "id": "rss-banking-ddcaef2063a79f",
-    "title": "Barclays’ Best Egg unit discloses breach of 792,000 records",
-    "summary": "An intruder accessed Best Egg's Financial Health app, exposing SSNs and the account numbers people used to pay loans. A separate attack hit Barclays' card tool.",
-    "sourceName": "American Banker",
-    "sourceIcon": "🇺🇸",
-    "publishedAt": "2026-11-25T19:35:39.000Z",
-    "category": "banking",
-    "keywords": [
-      "Barclays",
-      "Best",
-      "Egg",
-      "unit",
-      "discloses"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-900",
-    "isNew": true,
-    "url": "https://www.americanbanker.com/news/barclays-best-egg-unit-discloses-breach-of-792-000-records"
-  },
-  {
-    "id": "rss-banking-8e3080d1bc4412",
-    "title": "Utah AG dropping criminal charges against Kalshi founders",
-    "summary": "The state backed off after the prediction market platform blocked Utah residents from accessing it with geofencing, but a civil lawsuit is still pending.",
-    "sourceName": "American Banker",
-    "sourceIcon": "🇺🇸",
-    "publishedAt": "2026-11-25T19:31:29.000Z",
-    "category": "banking",
-    "keywords": [
-      "Utah",
-      "dropping",
-      "criminal",
-      "charges",
-      "Kalshi"
-    ],
-    "bannerClass": "from-blue-950 to-indigo-900",
-    "isNew": true,
-    "url": "https://www.americanbanker.com/news/utah-ag-dropping-criminal-charges-against-kalshi-founders"
-  },
-  {
-    "id": "rss-housing-c25a16b6298a40",
-    "title": "New home sales surge in October, but demand signals remain soft",
-    "summary": "Subject to revision, sales rose to 701,000 annual pace, while the median sales price fell 3.2% year over year to $391,000",
-    "sourceName": "HousingWire",
-    "sourceIcon": "🏘️",
-    "publishedAt": "2026-11-25T18:43:49.000Z",
-    "category": "housing",
-    "keywords": [
-      "home",
-      "sales",
-      "surge",
-      "October",
-      "demand"
-    ],
-    "bannerClass": "from-sky-950 to-cyan-950",
-    "isNew": true,
-    "url": "https://www.housingwire.com/articles/new-home-sales-october-2026/"
-  },
-  {
-    "id": "rss-housing-c046d20ed107d7",
-    "title": "Housing data shocks to the upside: Will we get sub-7% rates for Christmas?",
-    "summary": "We're getting surprisingly positive data right before Thanksgiving",
-    "sourceName": "HousingWire",
-    "sourceIcon": "🏘️",
-    "publishedAt": "2026-11-25T18:28:04.000Z",
-    "category": "housing",
-    "keywords": [
-      "Housing",
-      "data",
-      "shocks",
-      "upside",
-      "sub-7"
-    ],
-    "bannerClass": "from-sky-950 to-cyan-950",
-    "isNew": true,
-    "url": "https://www.housingwire.com/articles/10-year-yield-482-holiday-rates/"
-  },
-  {
-    "id": "rss-insurance-0fc8dd7e8fe15d",
-    "title": "Arch finalises $162m Bellemeade Re 2026-1 mortgage ILS, plus $40.5m direct reinsurance",
-    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Arch Capital Group has now secured the targeted $162 million of capital markets backed reinsurance from its new Bellemeade Re 2026-1 Ltd. issuance of mortgage insurance-linked notes, while also securing a further $40.5 million of direct reinsurance alongside the deal. The transaction, which we first reported on earlier this month here, now becomes the 23rd […] Arch finalises $162m Bellemeade Re 2026-1 mortgage ILS, plus $40.5m direct reinsurance was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
-    "sourceName": "Artemis",
-    "sourceIcon": "🎯",
-    "publishedAt": "2026-11-25T17:15:08.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Arch",
-      "finalises",
-      "162m",
-      "Bellemeade",
-      "2026-1"
-    ],
-    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.artemis.bm/news/arch-finalises-162m-bellemeade-re-2026-1-mortgage-ils-plus-40-5m-direct-reinsurance/?utm_source=rss&utm_medium=rss&utm_campaign=arch-finalises-162m-bellemeade-re-2026-1-mortgage-ils-plus-40-5m-direct-reinsurance"
-  },
-  {
-    "id": "rss-housing-dd9f6ce1c5b5bb",
-    "title": "Colorado first responders can now get state home mortgage help",
-    "summary": "The new CHFA option follows years of state efforts to expand housing access",
-    "sourceName": "HousingWire",
-    "sourceIcon": "🏘️",
-    "publishedAt": "2026-11-25T17:06:16.000Z",
-    "category": "housing",
-    "keywords": [
-      "Colorado",
-      "responders",
-      "state",
-      "home",
-      "mortgage"
-    ],
-    "bannerClass": "from-sky-950 to-cyan-950",
-    "isNew": true,
-    "url": "https://www.housingwire.com/articles/colorado-chfa-mortgage-help/"
-  },
-  {
-    "id": "rss-housing-bde6eca5c3e5fd",
-    "title": "Better signs agreement with mortgage servicer to grow HELOC volume",
-    "summary": "The company's Week 7 scorecard cites $38.97M in corporate savings — more than halfway to its $64.2M target",
-    "sourceName": "HousingWire",
-    "sourceIcon": "🏘️",
-    "publishedAt": "2026-11-25T17:06:10.000Z",
-    "category": "housing",
-    "keywords": [
-      "Better",
-      "signs",
-      "agreement",
-      "mortgage",
-      "servicer"
-    ],
-    "bannerClass": "from-sky-950 to-cyan-950",
-    "isNew": true,
-    "url": "https://www.housingwire.com/articles/better-mortgage-servicer-heloc/"
-  },
-  {
-    "id": "rss-housing-78724b603ebbcf",
-    "title": "Luminate Bank buys Real Genius mortgage unit",
-    "summary": "Deal expands Minneapolis bank’s reach in the consumer-direct channel",
-    "sourceName": "HousingWire",
-    "sourceIcon": "🏘️",
-    "publishedAt": "2026-11-25T17:05:00.000Z",
-    "category": "housing",
-    "keywords": [
-      "Luminate",
-      "Bank",
-      "buys",
-      "Real",
-      "Genius"
-    ],
-    "bannerClass": "from-sky-950 to-cyan-950",
-    "isNew": true,
-    "url": "https://www.housingwire.com/articles/luminate-bank-acquires-real-genius/"
   },
   {
     "id": "rss-insurance-0c22febcac728d",
@@ -2718,9 +2536,8 @@
       "Dropped"
     ],
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
-    "isNew": true,
-    "url": "https://www.insurancejournal.com/news/southeast/2026/11/25/893780.htm",
-    "summaryJa": "人口減少に伴う国民財産保険は自由市場にとっては良いことかもしれないが、法律で補償が義務付けられなくなった後、多くの住宅所有者が洪水保険をやめた可能性が高く、不動産が中心部全域で最近の洪水にさらされたままになっている可能性があることも意味している。"
+    "isNew": false,
+    "url": "https://www.insurancejournal.com/news/southeast/2026/11/25/893780.htm"
   },
   {
     "id": "rss-banking-8351c8084c90e9",
@@ -2738,25 +2555,8 @@
       "charter"
     ],
     "bannerClass": "from-slate-900 to-indigo-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.bankingdive.com/news/highnote-applies-national-bank-charter-occ-fdic/875785/"
-  },
-  {
-    "id": "rss-banking-e7b2ea3fc8bf37",
-    "title": "California fines Afterpay $2.7M",
-    "summary": "The state imposed the penalty on Block’s buy now, pay later business after finding the company failed to assess customers’ ability to repay loans.",
-    "sourceName": "Banking Dive",
-    "sourceIcon": "🏛️",
-    "publishedAt": "2026-11-25T16:05:00.000Z",
-    "category": "banking",
-    "keywords": [
-      "California",
-      "fines",
-      "Afterpay"
-    ],
-    "bannerClass": "from-slate-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.bankingdive.com/news/california-fines-afterpay-27m/875794/"
   },
   {
     "id": "rss-insurance-4804374c7dfac2",
@@ -2774,8 +2574,9 @@
       "Iowa"
     ],
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
-    "isNew": true,
-    "url": "https://www.insurancejournal.com/news/midwest/2026/11/25/893775.htm"
+    "isNew": false,
+    "url": "https://www.insurancejournal.com/news/midwest/2026/11/25/893775.htm",
+    "summaryJa": "陸軍はアイオワ州の施設に保管されていた5トンの危険物を爆破し、野外爆発により鉛粉塵が周囲に噴出する危険があるという米国議員や環境団体の懸念にもかかわらず、行動を進めた。"
   },
   {
     "id": "rss-insurance-db9a7b10f585c2",
@@ -2793,9 +2594,8 @@
       "Audit"
     ],
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
-    "isNew": true,
-    "url": "https://www.insurancejournal.com/news/international/2026/11/25/893769.htm",
-    "summaryJa": "オーストラリアの企業規制当局は水曜日、顧客情報の悪用から業務の偽造に至るまで、四大会計事務所間でさらに数十件の監査不正行為の疑いがある事件を発見したと発表した。オーストラリア証券投資委員会（ASIC）は次のように述べています…"
+    "isNew": false,
+    "url": "https://www.insurancejournal.com/news/international/2026/11/25/893769.htm"
   },
   {
     "id": "rss-banking-fa4aca3a5bbcb7",
@@ -2813,7 +2613,7 @@
       "Union"
     ],
     "bannerClass": "from-slate-900 to-indigo-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.bankingdive.com/news/alabama-family-savings-credit-union-buys-liberty-bank/875745/"
   },
   {
@@ -2832,7 +2632,7 @@
       "lands"
     ],
     "bannerClass": "from-slate-900 to-indigo-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.bankingdive.com/news/rosenfeld-cambridge-savings-bank-board-jenius/875738/"
   },
   {
@@ -2851,67 +2651,9 @@
       "Storm"
     ],
     "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
-    "isNew": true,
-    "url": "https://www.insurancejournal.com/news/east/2026/11/25/893755.htm"
-  },
-  {
-    "id": "rss-insurance-e11a045bf86546",
-    "title": "UK Financial Watchdog Delivers AI Warning as Meta Launches Adapted Muse",
-    "summary": "Britain’s financial watchdog has warned technology and social media companies that AI agents offering financial services could face regulatory action, urging companies to engage early with supervisors. The statement on Tuesday coincided with Meta’s launch of its Muse AI agent …",
-    "sourceName": "Insurance Journal",
-    "sourceIcon": "🛡️",
-    "publishedAt": "2026-11-25T14:31:59.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Financial",
-      "Watchdog",
-      "Delivers",
-      "Warning",
-      "Meta"
-    ],
-    "bannerClass": "from-slate-800 via-slate-700 to-amber-900/90",
-    "isNew": true,
-    "url": "https://www.insurancejournal.com/news/international/2026/11/25/893757.htm",
-    "summaryJa": "英国の金融監視機関はテクノロジー企業やソーシャルメディア企業に対し、金融サービスを提供するAIエージェントが規制措置に直面する可能性があると警告し、企業に対し監督当局と早期に連携するよう促している。火曜日の声明は、Meta の Muse AI エージェントの立ち上げと同時に行われました…"
-  },
-  {
-    "id": "rss-insurance-733c531ccf6609",
-    "title": "Hannover Re Capital Partners seeing “quite huge interest” from investors: Sehm",
-    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Speaking at Hannover Re’s investor day in London today, board member Silke Sehm explained that investor interest in ILS management unit Hannover Re Capital Partners is significant, while fellow-board member Sven Althoff explained why the reinsurer has so far not ventured into casualty ILS or other lines of business. Hannover Re Executive Board Member Silke […] Hannover Re Capital Partners seeing “quite huge interest” from investors: Sehm was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
-    "sourceName": "Artemis",
-    "sourceIcon": "🎯",
-    "publishedAt": "2026-11-25T14:00:29.000Z",
-    "category": "insurance",
-    "keywords": [
-      "Hannover",
-      "Capital",
-      "Partners",
-      "seeing",
-      "quite"
-    ],
-    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.artemis.bm/news/hannover-re-capital-partners-seeing-quite-huge-interest-from-investors-sehm/?utm_source=rss&utm_medium=rss&utm_campaign=hannover-re-capital-partners-seeing-quite-huge-interest-from-investors-sehm",
-    "summaryJa": "このコンテンツの著作権は www.artemis.bm にあり、他の場所に表示しないでください。そうでない場合は、侵害が発生します。本日ロンドンで開催されたハノーバー再保険の投資家向けデイで講演した取締役のシルケ・セーム氏は、ILS管理部門ハノーバー・リー・キャピタル・パートナーズに対する投資家の関心が大きいと説明し、同じく取締役のスヴェン・アルトホフ氏は、再保険会社がこれまで傷害保険ILSや他の事業分野に手を出さなかった理由を説明した。ハノーバー再興行理事のシルケ […] ハノーバー再キャピタル・パートナーズ、投資家からの「非常に大きな関心」を見ている：セームの発行元: www.Artemis.bm 災害債券取引ディレクトリー 毎週無料の絵馬"
-  },
-  {
-    "id": "rss-insurance-81e3041e823aff",
-    "title": "ILS NYC 2027 conference: More than 100 organisations registered. Tickets selling fast",
-    "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. We now have attendees from more than 100 organisations registered for our next catastrophe bond and insurance-linked securities (ILS) market conference. As the market rapidly moves towards year-end our Artemis ILS NYC 2027 conference will come around fast, so please reserve your place now and take advantage of the Early Bird rate. Our annual New […] ILS NYC 2027 conference: More than 100 organisations registered. Tickets selling fast was published by: www.Artemis.bm catastrophe bond deal directory our free weekly email newsletter here.",
-    "sourceName": "Artemis",
-    "sourceIcon": "🎯",
-    "publishedAt": "2026-11-25T12:20:58.000Z",
-    "category": "insurance",
-    "keywords": [
-      "ILS",
-      "NYC",
-      "2027",
-      "conference",
-      "100"
-    ],
-    "bannerClass": "from-violet-950 via-purple-900 to-indigo-950",
-    "isNew": true,
-    "url": "https://www.artemis.bm/news/ils-nyc-2027-conference-more-than-100-organisations-registered-tickets-selling-fast/?utm_source=rss&utm_medium=rss&utm_campaign=ils-nyc-2027-conference-more-than-100-organisations-registered-tickets-selling-fast"
+    "isNew": false,
+    "url": "https://www.insurancejournal.com/news/east/2026/11/25/893755.htm",
+    "summaryJa": "100回目となるメイシーズ感謝祭パレードは木曜日の朝にニューヨーク市で予定されているが、予報によると強風と大雨が続くため、有名な巨大キャラクター風船が地面に近づく可能性がある。ケイティ・バクリ、…"
   },
   {
     "id": "rss-banking-a6f7401563695b",
@@ -2928,46 +2670,8 @@
       "modernization"
     ],
     "bannerClass": "from-slate-900 to-indigo-950",
-    "isNew": true,
+    "isNew": false,
     "url": "https://www.bankingdive.com/news/capital-one-pursues-payments-modernization-real-time-cloud-avik-chatterjee/875712/"
-  },
-  {
-    "id": "rss-banking-8afad3be812d19",
-    "title": "T-PASC formed to standardise banking tech vetting",
-    "summary": "Kayce Seifert has been appointed as interim chief executive to direct operational development and partner coordination.",
-    "sourceName": "Retail Banker International",
-    "sourceIcon": "🌍",
-    "publishedAt": "2026-11-25T11:05:30.000Z",
-    "category": "banking",
-    "keywords": [
-      "T-PASC",
-      "formed",
-      "standardise",
-      "banking",
-      "tech"
-    ],
-    "bannerClass": "from-indigo-900 to-blue-950",
-    "isNew": true,
-    "url": "https://www.retailbankerinternational.com/news/t-pasc-banking-tech-vetting/"
-  },
-  {
-    "id": "rss-banking-3fb9e1ce202a4f",
-    "title": "Intesa launches €33bn tender offer for Monte dei Paschi – report",
-    "summary": "Monte Paschi shareholders can tender their stock, with the initial window running until 22 January.",
-    "sourceName": "Retail Banker International",
-    "sourceIcon": "🌍",
-    "publishedAt": "2026-11-25T11:03:31.000Z",
-    "category": "banking",
-    "keywords": [
-      "Intesa",
-      "launches",
-      "33bn",
-      "tender",
-      "offer"
-    ],
-    "bannerClass": "from-indigo-900 to-blue-950",
-    "isNew": true,
-    "url": "https://www.retailbankerinternational.com/news/intesa-tender-offer-monte-dei-paschi/"
   },
   {
     "id": "rss-banking-a78a325ff28e45",
@@ -2985,24 +2689,6 @@
     "isNew": false,
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uVTRRNmcxSG1YRXotZEY0OGFjYTNYNmZJeGJ0YmJUZTNPOFREQXNjVGRVNU5DemZ3ZnpfeHpkY1lsc0FEaUFoVFppYzdmOENpV2RYVGtvUE1mc1RuQlpjbFE3bVJlM05IYnc?oc=5",
     "sortBoost": 5
-  },
-  {
-    "id": "rss-banking-034de4aabfc171",
-    "title": "When your bank knows what you need before you ask",
-    "summary": "Dr Gulzar Singh examines how AI-enabled predictive banking is changing customer relationships and the implications for banks and their technology partners",
-    "sourceName": "Retail Banker International",
-    "sourceIcon": "🌍",
-    "publishedAt": "2026-11-25T05:36:08.000Z",
-    "category": "banking",
-    "keywords": [
-      "bank",
-      "knows",
-      "need",
-      "ask"
-    ],
-    "bannerClass": "from-indigo-900 to-blue-950",
-    "isNew": false,
-    "url": "https://www.retailbankerinternational.com/comment/when-your-bank-knows-what-you-need-before-you-ask/"
   },
   {
     "id": "rss-banking-4108fcbfbfc9f4",
@@ -3077,24 +2763,6 @@
     "url": "https://www.redfin.com/news/home-price-index-october-2026/"
   },
   {
-    "id": "rss-banking-436a770973864f",
-    "title": "地方銀行再編 各地でくすぶる火種 - Yahoo!ニュース",
-    "summary": "地方銀行再編 各地でくすぶる火種 Yahoo!ニュース",
-    "sourceName": "銀行業界ニュース",
-    "sourceIcon": "🏦",
-    "publishedAt": "2026-11-22T00:29:41.000Z",
-    "category": "banking",
-    "keywords": [
-      "地方銀行再編",
-      "各地でくすぶる火種",
-      "Yahoo"
-    ],
-    "bannerClass": "from-indigo-950 to-slate-800",
-    "isNew": false,
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzeEFLbm5rR0RxdEVsWk4tUy02bWxSSmFrUjIxa0lJV3VQT1dxaFVCa3VGZnk3dFlJNjU5OGZERDRZTEd6UWpNcWhzcjdrQVVj?oc=5",
-    "sortBoost": 5
-  },
-  {
     "id": "rss-banking-b8b42216328890",
     "title": "OCC cuts leave agency vulnerable, former staffers say",
     "summary": "The OCC’s headcount has shrunk about 30% since January 2025, and leadership may be underestimating the time it will take to get less tenured staffers up to speed, former employees said.",
@@ -3114,23 +2782,99 @@
     "url": "https://www.bankingdive.com/news/occ-job-cuts-bank-supervision-gould/875550/"
   },
   {
-    "id": "rss-banking-ce794592b4a725",
-    "title": "DIB and Emirates Islamic in preliminary merger talks – report",
-    "summary": "No decision has been reached, and the deal may not go ahead, the sources said.",
-    "sourceName": "Retail Banker International",
-    "sourceIcon": "🌍",
-    "publishedAt": "2026-11-24T11:00:49.000Z",
+    "id": "rss-insurance-345ab1bbd3719f",
+    "title": "インドにおける保険販売手数料・事業費規制等の見直し－規制緩和から再規制への転換－",
+    "summary": "■要旨 インドの保険規制開発庁（IRDAI）は2026年9月、保険販売手数料・事業費規制等の見直し案を公表した。2023年に販売手数料の個別上限を撤廃し、事業費全体の上限の範囲内で各社に委ねたが、その後も販売コストは上昇した。改革案は、払込期間や販売チャネルに応じた手数料上限を再び設け、事業費上限を段階的に引き下げるほか、手数料の透明化や不適切販売時の手数料返還も盛り込んでいる。2027年からの実施が検討されている。 ■目次 1――制度見直しの背景と概要 2――見直しの具体内容インドの保険規制開発庁（IRDAI）は2026年9月23日、保険販売手数料・事業費規制等の見直しに関する市中協議文書「Recalibrating Economics of Insurance Distribution」を公表した1。改革案では、保険代理店やブローカーなどへの販売手数料に上限を設けるほか、保険会社の事業費規制の強化、不適切販売の防止などが提案されている。あわせて、法人代理店や保険ブローカーなどを「法人販売事業者（IDE2）」という共通の類型に整理するほか、個人代理店などを「個人販売員（IDP3）」に分類するなど、複雑な販売主体の類型を簡素化することも提案されている。 （図表１）は、今回の改革案の主な内容を現行制度と比較したものである。今回の改革案の背景には、保険販売コストの増加や、販売手数料を巡るインセンティブが不適切販売につながることへの懸念がある。 インドでは従来、保険商品ごとに販売手数料の上限が設けられていたが、2023年の規制改正によって、こうした個別の上限が原則撤廃された。これに代わり、保険会社の事業費全体（Expenses of Management：EoM）に上限を設け、その範囲内で各社が取締役会の承認した方針に基づいて手数料を設定で",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-24T01:58:00.000Z",
+    "category": "insurance",
+    "keywords": [
+      "インドにおける保険販売手",
+      "険販売手数料・事業費規制",
+      "業費規制等の見直し－規制",
+      "し－規制緩和から再規制へ",
+      "再規制への転換－"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87423?site=nli"
+  },
+  {
+    "id": "rss-insurance-345ab1bbd3719f",
+    "title": "インドにおける保険販売手数料・事業費規制等の見直し－規制緩和から再規制への転換－",
+    "summary": "■要旨 インドの保険規制開発庁（IRDAI）は2026年9月、保険販売手数料・事業費規制等の見直し案を公表した。2023年に販売手数料の個別上限を撤廃し、事業費全体の上限の範囲内で各社に委ねたが、その後も販売コストは上昇した。改革案は、払込期間や販売チャネルに応じた手数料上限を再び設け、事業費上限を段階的に引き下げるほか、手数料の透明化や不適切販売時の手数料返還も盛り込んでいる。2027年からの実施が検討されている。 ■目次 1――制度見直しの背景と概要 2――見直しの具体内容インドの保険規制開発庁（IRDAI）は2026年9月23日、保険販売手数料・事業費規制等の見直しに関する市中協議文書「Recalibrating Economics of Insurance Distribution」を公表した1。改革案では、保険代理店やブローカーなどへの販売手数料に上限を設けるほか、保険会社の事業費規制の強化、不適切販売の防止などが提案されている。あわせて、法人代理店や保険ブローカーなどを「法人販売事業者（IDE2）」という共通の類型に整理するほか、個人代理店などを「個人販売員（IDP3）」に分類するなど、複雑な販売主体の類型を簡素化することも提案されている。 （図表１）は、今回の改革案の主な内容を現行制度と比較したものである。今回の改革案の背景には、保険販売コストの増加や、販売手数料を巡るインセンティブが不適切販売につながることへの懸念がある。 インドでは従来、保険商品ごとに販売手数料の上限が設けられていたが、2023年の規制改正によって、こうした個別の上限が原則撤廃された。これに代わり、保険会社の事業費全体（Expenses of Management：EoM）に上限を設け、その範囲内で各社が取締役会の承認した方針に基づいて手数料を設定で",
+    "sourceName": "ニッセイ基礎研（年金）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-24T01:58:00.000Z",
+    "category": "insurance",
+    "keywords": [
+      "インドにおける保険販売手",
+      "険販売手数料・事業費規制",
+      "業費規制等の見直し－規制",
+      "し－規制緩和から再規制へ",
+      "再規制への転換－"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87423?site=nli"
+  },
+  {
+    "id": "rss-insurance-345ab1bbd3719f",
+    "title": "インドにおける保険販売手数料・事業費規制等の見直し－規制緩和から再規制への転換－",
+    "summary": "■要旨 インドの保険規制開発庁（IRDAI）は2026年9月、保険販売手数料・事業費規制等の見直し案を公表した。2023年に販売手数料の個別上限を撤廃し、事業費全体の上限の範囲内で各社に委ねたが、その後も販売コストは上昇した。改革案は、払込期間や販売チャネルに応じた手数料上限を再び設け、事業費上限を段階的に引き下げるほか、手数料の透明化や不適切販売時の手数料返還も盛り込んでいる。2027年からの実施が検討されている。 ■目次 1――制度見直しの背景と概要 2――見直しの具体内容インドの保険規制開発庁（IRDAI）は2026年9月23日、保険販売手数料・事業費規制等の見直しに関する市中協議文書「Recalibrating Economics of Insurance Distribution」を公表した1。改革案では、保険代理店やブローカーなどへの販売手数料に上限を設けるほか、保険会社の事業費規制の強化、不適切販売の防止などが提案されている。あわせて、法人代理店や保険ブローカーなどを「法人販売事業者（IDE2）」という共通の類型に整理するほか、個人代理店などを「個人販売員（IDP3）」に分類するなど、複雑な販売主体の類型を簡素化することも提案されている。 （図表１）は、今回の改革案の主な内容を現行制度と比較したものである。今回の改革案の背景には、保険販売コストの増加や、販売手数料を巡るインセンティブが不適切販売につながることへの懸念がある。 インドでは従来、保険商品ごとに販売手数料の上限が設けられていたが、2023年の規制改正によって、こうした個別の上限が原則撤廃された。これに代わり、保険会社の事業費全体（Expenses of Management：EoM）に上限を設け、その範囲内で各社が取締役会の承認した方針に基づいて手数料を設定で",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-24T01:58:00.000Z",
+    "category": "insurance",
+    "keywords": [
+      "インドにおける保険販売手",
+      "険販売手数料・事業費規制",
+      "業費規制等の見直し－規制",
+      "し－規制緩和から再規制へ",
+      "再規制への転換－"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87423?site=nli"
+  },
+  {
+    "id": "rss-insurance-345ab1bbd3719f",
+    "title": "インドにおける保険販売手数料・事業費規制等の見直し－規制緩和から再規制への転換－",
+    "summary": "■要旨 インドの保険規制開発庁（IRDAI）は2026年9月、保険販売手数料・事業費規制等の見直し案を公表した。2023年に販売手数料の個別上限を撤廃し、事業費全体の上限の範囲内で各社に委ねたが、その後も販売コストは上昇した。改革案は、払込期間や販売チャネルに応じた手数料上限を再び設け、事業費上限を段階的に引き下げるほか、手数料の透明化や不適切販売時の手数料返還も盛り込んでいる。2027年からの実施が検討されている。 ■目次 1――制度見直しの背景と概要 2――見直しの具体内容インドの保険規制開発庁（IRDAI）は2026年9月23日、保険販売手数料・事業費規制等の見直しに関する市中協議文書「Recalibrating Economics of Insurance Distribution」を公表した1。改革案では、保険代理店やブローカーなどへの販売手数料に上限を設けるほか、保険会社の事業費規制の強化、不適切販売の防止などが提案されている。あわせて、法人代理店や保険ブローカーなどを「法人販売事業者（IDE2）」という共通の類型に整理するほか、個人代理店などを「個人販売員（IDP3）」に分類するなど、複雑な販売主体の類型を簡素化することも提案されている。 （図表１）は、今回の改革案の主な内容を現行制度と比較したものである。今回の改革案の背景には、保険販売コストの増加や、販売手数料を巡るインセンティブが不適切販売につながることへの懸念がある。 インドでは従来、保険商品ごとに販売手数料の上限が設けられていたが、2023年の規制改正によって、こうした個別の上限が原則撤廃された。これに代わり、保険会社の事業費全体（Expenses of Management：EoM）に上限を設け、その範囲内で各社が取締役会の承認した方針に基づいて手数料を設定で",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-24T01:58:00.000Z",
+    "category": "insurance",
+    "keywords": [
+      "インドにおける保険販売手",
+      "険販売手数料・事業費規制",
+      "業費規制等の見直し－規制",
+      "し－規制緩和から再規制へ",
+      "再規制への転換－"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87423?site=nli"
+  },
+  {
+    "id": "rss-banking-165d213295847d",
+    "title": "Payoneer gets conditional approval for trust bank",
+    "summary": "The cross-border payments company, which applied for a trust charter in February, is one of several payments firms seeking such a charter from the OCC this year.",
+    "sourceName": "Banking Dive",
+    "sourceIcon": "🏛️",
+    "publishedAt": "2026-11-23T17:23:28.000Z",
     "category": "banking",
     "keywords": [
-      "DIB",
-      "Emirates",
-      "Islamic",
-      "preliminary",
-      "merger"
+      "Payoneer",
+      "gets",
+      "conditional",
+      "approval",
+      "trust"
     ],
-    "bannerClass": "from-indigo-900 to-blue-950",
+    "bannerClass": "from-slate-900 to-indigo-950",
     "isNew": false,
-    "url": "https://www.retailbankerinternational.com/news/dib-emirates-islamic-preliminary-merger-talks/"
+    "url": "https://www.bankingdive.com/news/payoneer-gets-conditional-approval-trust-bank-occ-payo-digital/875506/"
   },
   {
     "id": "rss-housing-4d0dac95eb387a",
@@ -3247,23 +2991,72 @@
     "url": "https://www.mortgagenewsdaily.com/news/11202026-pending-home-sales"
   },
   {
-    "id": "rss-housing-64fefc6302c64c",
-    "title": "Affordability Drives Builder Confidence to 14-Year Lows",
-    "summary": "Builder confidence fell to its lowest level in more than 14 years in November, as high mortgage rates, rising construction costs, labor shortages, and hesitant buyers continued to weigh on the housing market. The National Association of Home Builders (NAHB)/Wells Fargo Housing Market Index (HMI) dropped four points to 25 , its lowest reading since April 2012. All three components declined, current sales conditions took the biggest hit. HMI Component October November Change Current sales conditions 33 28 -5 Sales expectations 32 30 -2 Prospective buyer traffic 18 16 -2 NAHB Chairman Bill Owens cited stepped-up immigration enforcement as a factor keeping legal workers off construction sites, worsening labor shortages and driving up costs. Higher fuel prices are also promp",
-    "sourceName": "Mortgage News Daily",
-    "sourceIcon": "🏦",
-    "publishedAt": "2026-11-20T19:47:00.000Z",
-    "category": "housing",
+    "id": "rss-insurance-b06b41eef7a641",
+    "title": "地方行政が進める医療費の一体化精算（中国）",
+    "summary": "■要旨 医療保険商品に加入していれば、医療機関の窓口での支払いを少額に抑えられる。中国では現在、一部の地方政府を中心に、公的医療保険と民間医療保険を連携させ、医療費の一体化精算を進めている。これにより、患者の窓口負担の軽減や保険金請求手続きの簡素化が期待される。こうした官民連携の動きは、民間医療保険の役割を広げるとともに、保険会社のサービス提供のあり方にも変化をもたらしつつある。 ■目次 1――医療費の支払いをめぐる官民連携の動き 2――地方行政を中心とした一体化精算の推進 （１）上海市――行政サービスアプリを活用した精算 （２）北京市――アリペイを活用したワンストップ精算 3――深圳市―WeSureなどインシュアテック企業を中心とした取り組み 4――利便性の向上とともに求められる公平性・信頼性 5――保険商品から医療サービス全体へ中国では2025年後半以降、医療保障に関する政策が相次いで打ち出されている。そのなかで注目されるのが、公的医療保険と民間医療保険（民間保険会社）の連携強化である。具体的には、保険会社とのデータ共有や、それによる新たな保険商品の開発、迅速な保険引受・保険金支払い、医療費に関する公的医療保険と民間医療保険の一体化精算の推進などが重視されている（図表１）。ここでいう医療費の一体化精算とは、患者が医療費の精算をする際に、アプリなどを通じて、公的医療保険と民間医療保険の給付を連携させ、民間保険の給付分を保険会社が医療機関などに直接支払う仕組みである。これにより、患者は最終的な自己負担額を支払うだけで手続きが完了する。医療機関の窓口で医療費をいったん支払い、領収書や診断書などを提出して保険金を請求するという従来の手続きをなくし、患者本人が窓口で支払う経済的な負担を軽減することが期待されている。 この仕組みは、利用者の利",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-20T00:48:37.000Z",
+    "category": "insurance",
     "keywords": [
-      "Affordability",
-      "Drives",
-      "Builder",
-      "Confidence",
-      "14-Year"
+      "地方行政が進める医療費の",
+      "医療費の一体化精算（中国",
+      "算（中国）"
     ],
-    "bannerClass": "from-teal-950 to-cyan-900",
+    "bannerClass": "from-teal-950 to-emerald-900",
     "isNew": false,
-    "url": "https://www.mortgagenewsdaily.com/news/11202026-builder-confidence-nahb-hmi"
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87420?site=nli"
+  },
+  {
+    "id": "rss-insurance-b06b41eef7a641",
+    "title": "地方行政が進める医療費の一体化精算（中国）",
+    "summary": "■要旨 医療保険商品に加入していれば、医療機関の窓口での支払いを少額に抑えられる。中国では現在、一部の地方政府を中心に、公的医療保険と民間医療保険を連携させ、医療費の一体化精算を進めている。これにより、患者の窓口負担の軽減や保険金請求手続きの簡素化が期待される。こうした官民連携の動きは、民間医療保険の役割を広げるとともに、保険会社のサービス提供のあり方にも変化をもたらしつつある。 ■目次 1――医療費の支払いをめぐる官民連携の動き 2――地方行政を中心とした一体化精算の推進 （１）上海市――行政サービスアプリを活用した精算 （２）北京市――アリペイを活用したワンストップ精算 3――深圳市―WeSureなどインシュアテック企業を中心とした取り組み 4――利便性の向上とともに求められる公平性・信頼性 5――保険商品から医療サービス全体へ中国では2025年後半以降、医療保障に関する政策が相次いで打ち出されている。そのなかで注目されるのが、公的医療保険と民間医療保険（民間保険会社）の連携強化である。具体的には、保険会社とのデータ共有や、それによる新たな保険商品の開発、迅速な保険引受・保険金支払い、医療費に関する公的医療保険と民間医療保険の一体化精算の推進などが重視されている（図表１）。ここでいう医療費の一体化精算とは、患者が医療費の精算をする際に、アプリなどを通じて、公的医療保険と民間医療保険の給付を連携させ、民間保険の給付分を保険会社が医療機関などに直接支払う仕組みである。これにより、患者は最終的な自己負担額を支払うだけで手続きが完了する。医療機関の窓口で医療費をいったん支払い、領収書や診断書などを提出して保険金を請求するという従来の手続きをなくし、患者本人が窓口で支払う経済的な負担を軽減することが期待されている。 この仕組みは、利用者の利",
+    "sourceName": "ニッセイ基礎研（年金）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-20T00:48:37.000Z",
+    "category": "insurance",
+    "keywords": [
+      "地方行政が進める医療費の",
+      "医療費の一体化精算（中国",
+      "算（中国）"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87420?site=nli"
+  },
+  {
+    "id": "rss-insurance-b06b41eef7a641",
+    "title": "地方行政が進める医療費の一体化精算（中国）",
+    "summary": "■要旨 医療保険商品に加入していれば、医療機関の窓口での支払いを少額に抑えられる。中国では現在、一部の地方政府を中心に、公的医療保険と民間医療保険を連携させ、医療費の一体化精算を進めている。これにより、患者の窓口負担の軽減や保険金請求手続きの簡素化が期待される。こうした官民連携の動きは、民間医療保険の役割を広げるとともに、保険会社のサービス提供のあり方にも変化をもたらしつつある。 ■目次 1――医療費の支払いをめぐる官民連携の動き 2――地方行政を中心とした一体化精算の推進 （１）上海市――行政サービスアプリを活用した精算 （２）北京市――アリペイを活用したワンストップ精算 3――深圳市―WeSureなどインシュアテック企業を中心とした取り組み 4――利便性の向上とともに求められる公平性・信頼性 5――保険商品から医療サービス全体へ中国では2025年後半以降、医療保障に関する政策が相次いで打ち出されている。そのなかで注目されるのが、公的医療保険と民間医療保険（民間保険会社）の連携強化である。具体的には、保険会社とのデータ共有や、それによる新たな保険商品の開発、迅速な保険引受・保険金支払い、医療費に関する公的医療保険と民間医療保険の一体化精算の推進などが重視されている（図表１）。ここでいう医療費の一体化精算とは、患者が医療費の精算をする際に、アプリなどを通じて、公的医療保険と民間医療保険の給付を連携させ、民間保険の給付分を保険会社が医療機関などに直接支払う仕組みである。これにより、患者は最終的な自己負担額を支払うだけで手続きが完了する。医療機関の窓口で医療費をいったん支払い、領収書や診断書などを提出して保険金を請求するという従来の手続きをなくし、患者本人が窓口で支払う経済的な負担を軽減することが期待されている。 この仕組みは、利用者の利",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-20T00:48:37.000Z",
+    "category": "insurance",
+    "keywords": [
+      "地方行政が進める医療費の",
+      "医療費の一体化精算（中国",
+      "算（中国）"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87420?site=nli"
+  },
+  {
+    "id": "rss-insurance-b06b41eef7a641",
+    "title": "地方行政が進める医療費の一体化精算（中国）",
+    "summary": "■要旨 医療保険商品に加入していれば、医療機関の窓口での支払いを少額に抑えられる。中国では現在、一部の地方政府を中心に、公的医療保険と民間医療保険を連携させ、医療費の一体化精算を進めている。これにより、患者の窓口負担の軽減や保険金請求手続きの簡素化が期待される。こうした官民連携の動きは、民間医療保険の役割を広げるとともに、保険会社のサービス提供のあり方にも変化をもたらしつつある。 ■目次 1――医療費の支払いをめぐる官民連携の動き 2――地方行政を中心とした一体化精算の推進 （１）上海市――行政サービスアプリを活用した精算 （２）北京市――アリペイを活用したワンストップ精算 3――深圳市―WeSureなどインシュアテック企業を中心とした取り組み 4――利便性の向上とともに求められる公平性・信頼性 5――保険商品から医療サービス全体へ中国では2025年後半以降、医療保障に関する政策が相次いで打ち出されている。そのなかで注目されるのが、公的医療保険と民間医療保険（民間保険会社）の連携強化である。具体的には、保険会社とのデータ共有や、それによる新たな保険商品の開発、迅速な保険引受・保険金支払い、医療費に関する公的医療保険と民間医療保険の一体化精算の推進などが重視されている（図表１）。ここでいう医療費の一体化精算とは、患者が医療費の精算をする際に、アプリなどを通じて、公的医療保険と民間医療保険の給付を連携させ、民間保険の給付分を保険会社が医療機関などに直接支払う仕組みである。これにより、患者は最終的な自己負担額を支払うだけで手続きが完了する。医療機関の窓口で医療費をいったん支払い、領収書や診断書などを提出して保険金を請求するという従来の手続きをなくし、患者本人が窓口で支払う経済的な負担を軽減することが期待されている。 この仕組みは、利用者の利",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-20T00:48:37.000Z",
+    "category": "insurance",
+    "keywords": [
+      "地方行政が進める医療費の",
+      "医療費の一体化精算（中国",
+      "算（中国）"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87420?site=nli"
   },
   {
     "id": "rss-housing-1c225a65c81e12",
@@ -3283,6 +3076,70 @@
     "bannerClass": "from-slate-800 to-cyan-900",
     "isNew": false,
     "url": "https://www.redfin.com/news/housing-market-update-monthly-housing-payments-slip/"
+  },
+  {
+    "id": "rss-insurance-458450c2ce9505",
+    "title": "生命保険むかし話 世界初の契約者配当",
+    "summary": "■要旨 配当といえば株主配当を指すことが多いが、生命保険にも契約者配当がある。これは利益の分配ではなく、予定された保険費用と実際の保険費用との差額を調整する「保険料の事後精算」とされる。そのような性質を持つ契約者配当は、いつどこで始まったのだろうか。 18世紀に英国の数学者ジェームズ・ドドソンは、全年齢一律の保険料を定めるアミカブル・ソサエティに対し、年齢別死亡率に基づく保険料こそ公平と考え、エクイタブル・ソサエティの設立を画策した。その構想には過払いされた保険料を配当として還元するだけでなく、逆に保険料が不足した場合の追加徴求も含まれていた。互助会のように還元と追加徴求という双方向の事後精算を前提としていたことがうかがえる。当時はまだ、保険料算出の拠り所となる生命表がハレー表、ロンドン表、そしてノーサンプトン表へと揺れ動いていた時代であった。 ドドソンの没後、法人として勅許が得られなかったエクイタブルは1762年に任意団体として発足した。1776年にアクチュアリーのウィリアム・モーガンが決算を行い、保険料を10%引き下げるとともに剰余金の一部を現金で契約者に分配した。これが世界初の契約者配当である。 「生命保険には契約者配当がある」という事実は募集に好影響を与え、互助会の発展形とも言える相互会社だけではなく、株式会社でも広く採用された。現在でこそ無配当型の生命保険が珍しくなくなったが、契約者配当が生命保険の普及に大きく貢献した歴史を忘れてはならないだろう。 ■目次 1――はじめに 2――ジェームズ・ドドソン 3――当時の生命表 4――エクイタブルによる契約者配当 5――生命保険の普及に貢献わが国で配当と表現するとき、株式会社がその利益から株主に分配する金銭を指す（以下、株主配当）ことが多い。これに比べると存在感は小さいが、生命保険契",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-19T02:29:02.000Z",
+    "category": "insurance",
+    "keywords": [
+      "生命保険むかし話",
+      "世界初の契約者配当"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87411?site=nli"
+  },
+  {
+    "id": "rss-insurance-458450c2ce9505",
+    "title": "生命保険むかし話 世界初の契約者配当",
+    "summary": "■要旨 配当といえば株主配当を指すことが多いが、生命保険にも契約者配当がある。これは利益の分配ではなく、予定された保険費用と実際の保険費用との差額を調整する「保険料の事後精算」とされる。そのような性質を持つ契約者配当は、いつどこで始まったのだろうか。 18世紀に英国の数学者ジェームズ・ドドソンは、全年齢一律の保険料を定めるアミカブル・ソサエティに対し、年齢別死亡率に基づく保険料こそ公平と考え、エクイタブル・ソサエティの設立を画策した。その構想には過払いされた保険料を配当として還元するだけでなく、逆に保険料が不足した場合の追加徴求も含まれていた。互助会のように還元と追加徴求という双方向の事後精算を前提としていたことがうかがえる。当時はまだ、保険料算出の拠り所となる生命表がハレー表、ロンドン表、そしてノーサンプトン表へと揺れ動いていた時代であった。 ドドソンの没後、法人として勅許が得られなかったエクイタブルは1762年に任意団体として発足した。1776年にアクチュアリーのウィリアム・モーガンが決算を行い、保険料を10%引き下げるとともに剰余金の一部を現金で契約者に分配した。これが世界初の契約者配当である。 「生命保険には契約者配当がある」という事実は募集に好影響を与え、互助会の発展形とも言える相互会社だけではなく、株式会社でも広く採用された。現在でこそ無配当型の生命保険が珍しくなくなったが、契約者配当が生命保険の普及に大きく貢献した歴史を忘れてはならないだろう。 ■目次 1――はじめに 2――ジェームズ・ドドソン 3――当時の生命表 4――エクイタブルによる契約者配当 5――生命保険の普及に貢献わが国で配当と表現するとき、株式会社がその利益から株主に分配する金銭を指す（以下、株主配当）ことが多い。これに比べると存在感は小さいが、生命保険契",
+    "sourceName": "ニッセイ基礎研（年金）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-19T02:29:02.000Z",
+    "category": "insurance",
+    "keywords": [
+      "生命保険むかし話",
+      "世界初の契約者配当"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87411?site=nli"
+  },
+  {
+    "id": "rss-insurance-458450c2ce9505",
+    "title": "生命保険むかし話 世界初の契約者配当",
+    "summary": "■要旨 配当といえば株主配当を指すことが多いが、生命保険にも契約者配当がある。これは利益の分配ではなく、予定された保険費用と実際の保険費用との差額を調整する「保険料の事後精算」とされる。そのような性質を持つ契約者配当は、いつどこで始まったのだろうか。 18世紀に英国の数学者ジェームズ・ドドソンは、全年齢一律の保険料を定めるアミカブル・ソサエティに対し、年齢別死亡率に基づく保険料こそ公平と考え、エクイタブル・ソサエティの設立を画策した。その構想には過払いされた保険料を配当として還元するだけでなく、逆に保険料が不足した場合の追加徴求も含まれていた。互助会のように還元と追加徴求という双方向の事後精算を前提としていたことがうかがえる。当時はまだ、保険料算出の拠り所となる生命表がハレー表、ロンドン表、そしてノーサンプトン表へと揺れ動いていた時代であった。 ドドソンの没後、法人として勅許が得られなかったエクイタブルは1762年に任意団体として発足した。1776年にアクチュアリーのウィリアム・モーガンが決算を行い、保険料を10%引き下げるとともに剰余金の一部を現金で契約者に分配した。これが世界初の契約者配当である。 「生命保険には契約者配当がある」という事実は募集に好影響を与え、互助会の発展形とも言える相互会社だけではなく、株式会社でも広く採用された。現在でこそ無配当型の生命保険が珍しくなくなったが、契約者配当が生命保険の普及に大きく貢献した歴史を忘れてはならないだろう。 ■目次 1――はじめに 2――ジェームズ・ドドソン 3――当時の生命表 4――エクイタブルによる契約者配当 5――生命保険の普及に貢献わが国で配当と表現するとき、株式会社がその利益から株主に分配する金銭を指す（以下、株主配当）ことが多い。これに比べると存在感は小さいが、生命保険契",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-19T02:29:02.000Z",
+    "category": "insurance",
+    "keywords": [
+      "生命保険むかし話",
+      "世界初の契約者配当"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87411?site=nli"
+  },
+  {
+    "id": "rss-insurance-458450c2ce9505",
+    "title": "生命保険むかし話 世界初の契約者配当",
+    "summary": "■要旨 配当といえば株主配当を指すことが多いが、生命保険にも契約者配当がある。これは利益の分配ではなく、予定された保険費用と実際の保険費用との差額を調整する「保険料の事後精算」とされる。そのような性質を持つ契約者配当は、いつどこで始まったのだろうか。 18世紀に英国の数学者ジェームズ・ドドソンは、全年齢一律の保険料を定めるアミカブル・ソサエティに対し、年齢別死亡率に基づく保険料こそ公平と考え、エクイタブル・ソサエティの設立を画策した。その構想には過払いされた保険料を配当として還元するだけでなく、逆に保険料が不足した場合の追加徴求も含まれていた。互助会のように還元と追加徴求という双方向の事後精算を前提としていたことがうかがえる。当時はまだ、保険料算出の拠り所となる生命表がハレー表、ロンドン表、そしてノーサンプトン表へと揺れ動いていた時代であった。 ドドソンの没後、法人として勅許が得られなかったエクイタブルは1762年に任意団体として発足した。1776年にアクチュアリーのウィリアム・モーガンが決算を行い、保険料を10%引き下げるとともに剰余金の一部を現金で契約者に分配した。これが世界初の契約者配当である。 「生命保険には契約者配当がある」という事実は募集に好影響を与え、互助会の発展形とも言える相互会社だけではなく、株式会社でも広く採用された。現在でこそ無配当型の生命保険が珍しくなくなったが、契約者配当が生命保険の普及に大きく貢献した歴史を忘れてはならないだろう。 ■目次 1――はじめに 2――ジェームズ・ドドソン 3――当時の生命表 4――エクイタブルによる契約者配当 5――生命保険の普及に貢献わが国で配当と表現するとき、株式会社がその利益から株主に分配する金銭を指す（以下、株主配当）ことが多い。これに比べると存在感は小さいが、生命保険契",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-19T02:29:02.000Z",
+    "category": "insurance",
+    "keywords": [
+      "生命保険むかし話",
+      "世界初の契約者配当"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87411?site=nli"
   },
   {
     "id": "rss-insurance-2243820636c9f1",
@@ -3338,6 +3195,169 @@
     "sortBoost": 18
   },
   {
+    "id": "rss-insurance-622b867a5e936b",
+    "title": "米国中間選挙と医療保険－医療保険取引所、メディケイド、メディケア（フォーオール）－",
+    "summary": "■要旨 11月3日の米国中間選挙で共和党は上下両院の過半数を失った。敗因は複合的だが、物価高による庶民の生活への経済的圧迫が背景にあることに異論は少ないと思われる。医療関連費用への不安もその一つであり、多くはトランプ政権の医療保険政策から直接生じたものと言えよう。このレポートでは、中間選挙で医療保険がどう争点化されたかを確認した。 前提として米国における公的制度は高齢者・障害者のためのメディケアと低所得者のためのメディケイドに限られ、主役は雇用主が従業員に提供する民間医療保険である。2010年に成立したオバマケアは、主にメディケイドの加入資格拡張と医療保険取引所の新設によって無保険者の削減を図った。 医療保険取引所に関してはバイデン政権が拡充した補助金が2025年末に失効した。トランプ大統領は中間選挙前に補助金を受け取っていない加入者の一部へ１人500ドルの支給を行ったものの、受給者は全米の医療保険取引所利用者の5%にすぎない。 メディケイドでは2025年に成立した法律ＯＢＢＢＡの一環として、オバマケアによる加入資格拡張対象者に月80時間の就業要件などが課される。実施は2027年であるものの、秋口から実務連絡が届き、継続加入できるのか不安を抱えながら投票した加入者も少なくなかっただろう。 メディケアでも中間選挙前に加入者の一部である2,000万人強へ１人90ドルが支給されたが、これは医療保険政策よりもばらまき色の強い現金給付策の一環と捉えることが適切かもしれない。 なお、中間選挙では民主党候補の一部がメディケアフォーオールを唱えた。定義は同党内部でも明確に定まっていないとはいえ、基本的な仕組みでオバマケアとは一線を画す。今後の米国政治のキーワードとなる可能性もある。 ■目次 1――はじめに 2――米国の医療保険制度 3――医療保険取引",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-17T05:28:48.000Z",
+    "category": "insurance",
+    "keywords": [
+      "米国中間選挙と医療保険－医療保険取引所",
+      "メディケイド",
+      "メディケア（フォーオール）－"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87381?site=nli"
+  },
+  {
+    "id": "rss-insurance-622b867a5e936b",
+    "title": "米国中間選挙と医療保険－医療保険取引所、メディケイド、メディケア（フォーオール）－",
+    "summary": "■要旨 11月3日の米国中間選挙で共和党は上下両院の過半数を失った。敗因は複合的だが、物価高による庶民の生活への経済的圧迫が背景にあることに異論は少ないと思われる。医療関連費用への不安もその一つであり、多くはトランプ政権の医療保険政策から直接生じたものと言えよう。このレポートでは、中間選挙で医療保険がどう争点化されたかを確認した。 前提として米国における公的制度は高齢者・障害者のためのメディケアと低所得者のためのメディケイドに限られ、主役は雇用主が従業員に提供する民間医療保険である。2010年に成立したオバマケアは、主にメディケイドの加入資格拡張と医療保険取引所の新設によって無保険者の削減を図った。 医療保険取引所に関してはバイデン政権が拡充した補助金が2025年末に失効した。トランプ大統領は中間選挙前に補助金を受け取っていない加入者の一部へ１人500ドルの支給を行ったものの、受給者は全米の医療保険取引所利用者の5%にすぎない。 メディケイドでは2025年に成立した法律ＯＢＢＢＡの一環として、オバマケアによる加入資格拡張対象者に月80時間の就業要件などが課される。実施は2027年であるものの、秋口から実務連絡が届き、継続加入できるのか不安を抱えながら投票した加入者も少なくなかっただろう。 メディケアでも中間選挙前に加入者の一部である2,000万人強へ１人90ドルが支給されたが、これは医療保険政策よりもばらまき色の強い現金給付策の一環と捉えることが適切かもしれない。 なお、中間選挙では民主党候補の一部がメディケアフォーオールを唱えた。定義は同党内部でも明確に定まっていないとはいえ、基本的な仕組みでオバマケアとは一線を画す。今後の米国政治のキーワードとなる可能性もある。 ■目次 1――はじめに 2――米国の医療保険制度 3――医療保険取引",
+    "sourceName": "ニッセイ基礎研（年金）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-17T05:28:48.000Z",
+    "category": "insurance",
+    "keywords": [
+      "米国中間選挙と医療保険－医療保険取引所",
+      "メディケイド",
+      "メディケア（フォーオール）－"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87381?site=nli"
+  },
+  {
+    "id": "rss-insurance-622b867a5e936b",
+    "title": "米国中間選挙と医療保険－医療保険取引所、メディケイド、メディケア（フォーオール）－",
+    "summary": "■要旨 11月3日の米国中間選挙で共和党は上下両院の過半数を失った。敗因は複合的だが、物価高による庶民の生活への経済的圧迫が背景にあることに異論は少ないと思われる。医療関連費用への不安もその一つであり、多くはトランプ政権の医療保険政策から直接生じたものと言えよう。このレポートでは、中間選挙で医療保険がどう争点化されたかを確認した。 前提として米国における公的制度は高齢者・障害者のためのメディケアと低所得者のためのメディケイドに限られ、主役は雇用主が従業員に提供する民間医療保険である。2010年に成立したオバマケアは、主にメディケイドの加入資格拡張と医療保険取引所の新設によって無保険者の削減を図った。 医療保険取引所に関してはバイデン政権が拡充した補助金が2025年末に失効した。トランプ大統領は中間選挙前に補助金を受け取っていない加入者の一部へ１人500ドルの支給を行ったものの、受給者は全米の医療保険取引所利用者の5%にすぎない。 メディケイドでは2025年に成立した法律ＯＢＢＢＡの一環として、オバマケアによる加入資格拡張対象者に月80時間の就業要件などが課される。実施は2027年であるものの、秋口から実務連絡が届き、継続加入できるのか不安を抱えながら投票した加入者も少なくなかっただろう。 メディケアでも中間選挙前に加入者の一部である2,000万人強へ１人90ドルが支給されたが、これは医療保険政策よりもばらまき色の強い現金給付策の一環と捉えることが適切かもしれない。 なお、中間選挙では民主党候補の一部がメディケアフォーオールを唱えた。定義は同党内部でも明確に定まっていないとはいえ、基本的な仕組みでオバマケアとは一線を画す。今後の米国政治のキーワードとなる可能性もある。 ■目次 1――はじめに 2――米国の医療保険制度 3――医療保険取引",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-17T05:28:48.000Z",
+    "category": "insurance",
+    "keywords": [
+      "米国中間選挙と医療保険－医療保険取引所",
+      "メディケイド",
+      "メディケア（フォーオール）－"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87381?site=nli"
+  },
+  {
+    "id": "rss-insurance-622b867a5e936b",
+    "title": "米国中間選挙と医療保険－医療保険取引所、メディケイド、メディケア（フォーオール）－",
+    "summary": "■要旨 11月3日の米国中間選挙で共和党は上下両院の過半数を失った。敗因は複合的だが、物価高による庶民の生活への経済的圧迫が背景にあることに異論は少ないと思われる。医療関連費用への不安もその一つであり、多くはトランプ政権の医療保険政策から直接生じたものと言えよう。このレポートでは、中間選挙で医療保険がどう争点化されたかを確認した。 前提として米国における公的制度は高齢者・障害者のためのメディケアと低所得者のためのメディケイドに限られ、主役は雇用主が従業員に提供する民間医療保険である。2010年に成立したオバマケアは、主にメディケイドの加入資格拡張と医療保険取引所の新設によって無保険者の削減を図った。 医療保険取引所に関してはバイデン政権が拡充した補助金が2025年末に失効した。トランプ大統領は中間選挙前に補助金を受け取っていない加入者の一部へ１人500ドルの支給を行ったものの、受給者は全米の医療保険取引所利用者の5%にすぎない。 メディケイドでは2025年に成立した法律ＯＢＢＢＡの一環として、オバマケアによる加入資格拡張対象者に月80時間の就業要件などが課される。実施は2027年であるものの、秋口から実務連絡が届き、継続加入できるのか不安を抱えながら投票した加入者も少なくなかっただろう。 メディケアでも中間選挙前に加入者の一部である2,000万人強へ１人90ドルが支給されたが、これは医療保険政策よりもばらまき色の強い現金給付策の一環と捉えることが適切かもしれない。 なお、中間選挙では民主党候補の一部がメディケアフォーオールを唱えた。定義は同党内部でも明確に定まっていないとはいえ、基本的な仕組みでオバマケアとは一線を画す。今後の米国政治のキーワードとなる可能性もある。 ■目次 1――はじめに 2――米国の医療保険制度 3――医療保険取引",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-17T05:28:48.000Z",
+    "category": "insurance",
+    "keywords": [
+      "米国中間選挙と医療保険－医療保険取引所",
+      "メディケイド",
+      "メディケア（フォーオール）－"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87381?site=nli"
+  },
+  {
+    "id": "rss-insurance-9974bb4cf5547f",
+    "title": "引き続き堅調な米国個人生命保険販売（第２四半期時点）－終身保険と変額ユニバーサル保険が成長を牽引－小口保障市場と高額保障市場の双方が拡大－",
+    "summary": "■要旨 米国の個人生命保険販売は、2026年第２四半期も堅調に推移し、新契約年換算保険料は前年同期比３％増、新契約高は６％増、新契約件数は８％増となった。商品別では、葬儀費用等に備える小口の終身保険（最終費用保険）と、富裕層向けの高額保障契約が好調な変額ユニバーサル保険が成長を牽引した。また、デジタル技術を活用した加入手続きの簡素化や引受判断の迅速化も販売を後押ししており、小口保障と高額保障の双方で市場の拡大が続いている。 ■目次 1――2026年も堅調に推移する米国個人生命保険販売 2――2026年第2四半期の販売動向とその特徴 （1）最終費用保険を中心とする小口保障市場の拡大 （2）高額保障市場における変額ユニバーサル保険の伸長 （3）デジタル技術を活用した販売・引受手続きの簡素化米国の生保・年金のマーケティングに関する代表的な調査・教育機関であるLIMRA（リムラ）によれば、米国における個人生命保険の新契約販売は、2024年第4四半期以降、新契約年換算保険料、新契約高、新契約件数の3指標がそろって前年同期を上回る堅調な推移を続けている。 LIMRAが2026年8月26日に公表した調査結果によれば1、2026年第2四半期の個人生命保険販売は、新契約年換算保険料が前年同期比3％増、新契約件数が8％増となった。新契約高も6％増加しており、上半期累計でも、新契約年換算保険料、新契約高、新契約件数は、それぞれ6％増、6％増、8％増と、いずれも前年同期を上回っている2。 （図表１）は、「新契約年換算保険料」（＝販売された新契約の保険料を、一時払保険料および超過保険料3は1/10して年換算した数値4）、「新契約高」（＝販売された新契約の死亡保険金額の合計額）、「新契約件数」（＝販売された契約の件数）、という3つの指標でみた個人生命保険販売業績",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-17T04:01:01.000Z",
+    "category": "insurance",
+    "keywords": [
+      "引き続き堅調な米国個人生",
+      "国個人生命保険販売（第２",
+      "売（第２四半期時点）－終",
+      "点）－終身保険と変額ユニ",
+      "変額ユニバーサル保険が成"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87383?site=nli"
+  },
+  {
+    "id": "rss-insurance-9974bb4cf5547f",
+    "title": "引き続き堅調な米国個人生命保険販売（第２四半期時点）－終身保険と変額ユニバーサル保険が成長を牽引－小口保障市場と高額保障市場の双方が拡大－",
+    "summary": "■要旨 米国の個人生命保険販売は、2026年第２四半期も堅調に推移し、新契約年換算保険料は前年同期比３％増、新契約高は６％増、新契約件数は８％増となった。商品別では、葬儀費用等に備える小口の終身保険（最終費用保険）と、富裕層向けの高額保障契約が好調な変額ユニバーサル保険が成長を牽引した。また、デジタル技術を活用した加入手続きの簡素化や引受判断の迅速化も販売を後押ししており、小口保障と高額保障の双方で市場の拡大が続いている。 ■目次 1――2026年も堅調に推移する米国個人生命保険販売 2――2026年第2四半期の販売動向とその特徴 （1）最終費用保険を中心とする小口保障市場の拡大 （2）高額保障市場における変額ユニバーサル保険の伸長 （3）デジタル技術を活用した販売・引受手続きの簡素化米国の生保・年金のマーケティングに関する代表的な調査・教育機関であるLIMRA（リムラ）によれば、米国における個人生命保険の新契約販売は、2024年第4四半期以降、新契約年換算保険料、新契約高、新契約件数の3指標がそろって前年同期を上回る堅調な推移を続けている。 LIMRAが2026年8月26日に公表した調査結果によれば1、2026年第2四半期の個人生命保険販売は、新契約年換算保険料が前年同期比3％増、新契約件数が8％増となった。新契約高も6％増加しており、上半期累計でも、新契約年換算保険料、新契約高、新契約件数は、それぞれ6％増、6％増、8％増と、いずれも前年同期を上回っている2。 （図表１）は、「新契約年換算保険料」（＝販売された新契約の保険料を、一時払保険料および超過保険料3は1/10して年換算した数値4）、「新契約高」（＝販売された新契約の死亡保険金額の合計額）、「新契約件数」（＝販売された契約の件数）、という3つの指標でみた個人生命保険販売業績",
+    "sourceName": "ニッセイ基礎研（年金）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-17T04:01:01.000Z",
+    "category": "insurance",
+    "keywords": [
+      "引き続き堅調な米国個人生",
+      "国個人生命保険販売（第２",
+      "売（第２四半期時点）－終",
+      "点）－終身保険と変額ユニ",
+      "変額ユニバーサル保険が成"
+    ],
+    "bannerClass": "from-cyan-950 to-teal-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87383?site=nli"
+  },
+  {
+    "id": "rss-insurance-9974bb4cf5547f",
+    "title": "引き続き堅調な米国個人生命保険販売（第２四半期時点）－終身保険と変額ユニバーサル保険が成長を牽引－小口保障市場と高額保障市場の双方が拡大－",
+    "summary": "■要旨 米国の個人生命保険販売は、2026年第２四半期も堅調に推移し、新契約年換算保険料は前年同期比３％増、新契約高は６％増、新契約件数は８％増となった。商品別では、葬儀費用等に備える小口の終身保険（最終費用保険）と、富裕層向けの高額保障契約が好調な変額ユニバーサル保険が成長を牽引した。また、デジタル技術を活用した加入手続きの簡素化や引受判断の迅速化も販売を後押ししており、小口保障と高額保障の双方で市場の拡大が続いている。 ■目次 1――2026年も堅調に推移する米国個人生命保険販売 2――2026年第2四半期の販売動向とその特徴 （1）最終費用保険を中心とする小口保障市場の拡大 （2）高額保障市場における変額ユニバーサル保険の伸長 （3）デジタル技術を活用した販売・引受手続きの簡素化米国の生保・年金のマーケティングに関する代表的な調査・教育機関であるLIMRA（リムラ）によれば、米国における個人生命保険の新契約販売は、2024年第4四半期以降、新契約年換算保険料、新契約高、新契約件数の3指標がそろって前年同期を上回る堅調な推移を続けている。 LIMRAが2026年8月26日に公表した調査結果によれば1、2026年第2四半期の個人生命保険販売は、新契約年換算保険料が前年同期比3％増、新契約件数が8％増となった。新契約高も6％増加しており、上半期累計でも、新契約年換算保険料、新契約高、新契約件数は、それぞれ6％増、6％増、8％増と、いずれも前年同期を上回っている2。 （図表１）は、「新契約年換算保険料」（＝販売された新契約の保険料を、一時払保険料および超過保険料3は1/10して年換算した数値4）、「新契約高」（＝販売された新契約の死亡保険金額の合計額）、「新契約件数」（＝販売された契約の件数）、という3つの指標でみた個人生命保険販売業績",
+    "sourceName": "ニッセイ基礎研（社会保障）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-17T04:01:01.000Z",
+    "category": "insurance",
+    "keywords": [
+      "引き続き堅調な米国個人生",
+      "国個人生命保険販売（第２",
+      "売（第２四半期時点）－終",
+      "点）－終身保険と変額ユニ",
+      "変額ユニバーサル保険が成"
+    ],
+    "bannerClass": "from-emerald-950 to-green-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87383?site=nli"
+  },
+  {
+    "id": "rss-insurance-9974bb4cf5547f",
+    "title": "引き続き堅調な米国個人生命保険販売（第２四半期時点）－終身保険と変額ユニバーサル保険が成長を牽引－小口保障市場と高額保障市場の双方が拡大－",
+    "summary": "■要旨 米国の個人生命保険販売は、2026年第２四半期も堅調に推移し、新契約年換算保険料は前年同期比３％増、新契約高は６％増、新契約件数は８％増となった。商品別では、葬儀費用等に備える小口の終身保険（最終費用保険）と、富裕層向けの高額保障契約が好調な変額ユニバーサル保険が成長を牽引した。また、デジタル技術を活用した加入手続きの簡素化や引受判断の迅速化も販売を後押ししており、小口保障と高額保障の双方で市場の拡大が続いている。 ■目次 1――2026年も堅調に推移する米国個人生命保険販売 2――2026年第2四半期の販売動向とその特徴 （1）最終費用保険を中心とする小口保障市場の拡大 （2）高額保障市場における変額ユニバーサル保険の伸長 （3）デジタル技術を活用した販売・引受手続きの簡素化米国の生保・年金のマーケティングに関する代表的な調査・教育機関であるLIMRA（リムラ）によれば、米国における個人生命保険の新契約販売は、2024年第4四半期以降、新契約年換算保険料、新契約高、新契約件数の3指標がそろって前年同期を上回る堅調な推移を続けている。 LIMRAが2026年8月26日に公表した調査結果によれば1、2026年第2四半期の個人生命保険販売は、新契約年換算保険料が前年同期比3％増、新契約件数が8％増となった。新契約高も6％増加しており、上半期累計でも、新契約年換算保険料、新契約高、新契約件数は、それぞれ6％増、6％増、8％増と、いずれも前年同期を上回っている2。 （図表１）は、「新契約年換算保険料」（＝販売された新契約の保険料を、一時払保険料および超過保険料3は1/10して年換算した数値4）、「新契約高」（＝販売された新契約の死亡保険金額の合計額）、「新契約件数」（＝販売された契約の件数）、という3つの指標でみた個人生命保険販売業績",
+    "sourceName": "ニッセイ基礎研（金融・為替）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-17T04:01:01.000Z",
+    "category": "insurance",
+    "keywords": [
+      "引き続き堅調な米国個人生",
+      "国個人生命保険販売（第２",
+      "売（第２四半期時点）－終",
+      "点）－終身保険と変額ユニ",
+      "変額ユニバーサル保険が成"
+    ],
+    "bannerClass": "from-blue-950 to-indigo-950",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87383?site=nli"
+  },
+  {
+    "id": "rss-insurance-9792fc82156859",
+    "title": "中小企業の地政学的リスクと生命保険－サプライチェーンの多様化・強靭化に加え、現金や流動性資産の確保が重要－地政学的リスクに加え、金利変動や米国中間選挙等により経済環境の不確実性が高まる中、流動性確保策として法人生命保険も有効な対応策の一つ－",
+    "summary": "■要旨 地政学的リスクの影響は大企業だけでなく中小企業にも広く及んでおり、ジェトロの調査では中小企業の７割超が事業への影響を認識または懸念している。 対策としては、まずサプライチェーンの多様化・強靭化といった中長期的な事前対策が考えられるが、実際に危機が発生し事業活動に支障が生じた局面を乗り切るには、現金や流動性の高い資産の確保が重要であり、マッキンゼーによる調査でも約３分の２の企業が現金・流動性バッファーの積み増しを検討している。金利変動や米国中間選挙後の政策動向などにより経済環境の不確実性が一段と高まる中、キーマンに万一のことがあった場合への備えや退職金準備といった本来の用途に加え、緊急時の流動性資金の確保にも活用できる法人生命保険も、有効な選択肢の一つとなり得るのではないだろうか。 ■目次 1――中小企業にも幅広く及ぶ地政学的リスク 2――地政学的リスクへの対応策 3――中小企業のリスク対策としての生命保険の活用昨今の企業を取り巻く国際環境は、国境を越えた効率重視の自由な経済活動が進展したグローバル化の時代から、地政学的リスクを踏まえた対応が求められる時代に突入したと言われている。実際、特にロシアのウクライナ侵攻以降、資源高を始めとした物価上昇等、地政学的リスクが個人の生活レベルにまで与える影響を実感する場面が多くなった。 特に2025年以降、米国の相互関税、中国によるレアアースなどの輸出管理の厳格化、中東情勢の悪化など、予見性の低い事象が次々と顕在化した。その結果、企業は調達‧販売といった事業活動上、思わぬリスクに直面している。 また、金利環境の変化や米国中間選挙を巡る政策動向など、企業を取り巻く経済環境の先行きにも不透明感がある。 （図表１）は、2026年４月に公表された、地政学的リスクが事業に及ぼす影響の度合いについての日",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-16T06:13:40.000Z",
+    "category": "insurance",
+    "keywords": [
+      "中小企業の地政学的リスク",
+      "的リスクと生命保険－サプ",
+      "険－サプライチェーンの多",
+      "ーンの多様化・強靭化に加",
+      "靭化に加え、現金や流動性"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87374?site=nli"
+  },
+  {
     "id": "rss-insurance-4531837bda6bad",
     "title": "保険デイリーニュース(11/06)",
     "summary": "本日の主なニュース ・損保ジャパン情報漏えいか 自動車保険6万5000件 氏名や住所、車両登録番号も ・東京海上ダイレクト損害保険 不正アクセス受け 契約者の証券番号や車の情報、口座情報なども漏えいの可能性 ・三井住友海上とあいおいニッセイ同和損保、不審なアクセス...",
@@ -3355,44 +3375,6 @@
     "sortBoost": 18
   },
   {
-    "id": "rss-housing-a02d1be458cce5",
-    "title": "Existing-Home Sales Sink to Lowest Level Since 2010",
-    "summary": "Existing-home sales had another rough month, and just hit their lowest level since August 2010. Mortgage rates are largely to blame. The National Association of REALTORS® (NAR) reported a 5.5% monthly decline and an 8.8% year-over-year decline , bringing the seasonally adjusted annual sales rate to just 3.75 million . Chief Economist Lawrence Yun attributed the weakness to mortgage rates, which have tested levels not seen since 2000. Inventory continued to improve modestly, even as sales slowed. Total housing inventory reached 1.59 million units , up 1.3% from September and 4.6% year over year, a 5.1-month supply. Homes also took slightly longer to sell, with the median time on market increasing to 35 days from 33 days in September. Prices continued to rise nationally, ",
-    "sourceName": "Mortgage News Daily",
-    "sourceIcon": "🏦",
-    "publishedAt": "2026-11-13T19:55:00.000Z",
-    "category": "housing",
-    "keywords": [
-      "Existing-Home",
-      "Sales",
-      "Sink",
-      "Lowest",
-      "Level"
-    ],
-    "bannerClass": "from-teal-950 to-cyan-900",
-    "isNew": false,
-    "url": "https://www.mortgagenewsdaily.com/news/11132026-existing-home-sales-nar-inventory-prices-appr"
-  },
-  {
-    "id": "rss-housing-38ef20d875fd55",
-    "title": "Decent Bounce in Mortgage Demand Thanks to Last Week's Lower Rates",
-    "summary": "Mortgage applications bounced back in the latest week, with both purchase and refinance activity moving higher. The Mortgage Bankers Association (MBA) reported a 6.2% increase in total application volume for the week ending November 6, 2026. NOTE: That Nov 6th date is important as it marked the bottom of the range for interest rates after a nice decline that began in mid October. Rates have risen sharply since then so all that follows is likely a bit of a retrospective. In other words, application demand will probably fall again in next week's data thanks to this week's higher rates. Purchase applications led the improvement, rising 8% on a seasonally adjusted basis, while refinances increased 5%. Despite the weekly gains, both categories remain well below year-ago leve",
-    "sourceName": "Mortgage News Daily",
-    "sourceIcon": "🏦",
-    "publishedAt": "2026-11-13T19:47:00.000Z",
-    "category": "housing",
-    "keywords": [
-      "Decent",
-      "Bounce",
-      "Mortgage",
-      "Demand",
-      "Thanks"
-    ],
-    "bannerClass": "from-teal-950 to-cyan-900",
-    "isNew": false,
-    "url": "https://www.mortgagenewsdaily.com/news/11132026-mortgage-applications-mba"
-  },
-  {
     "id": "rss-insurance-059ec37dd893fb",
     "title": "保険デイリーニュース(11/05)",
     "summary": "本日の主なニュース ・三井住友海上とあいおい、不正アクセス検知 顧客向けサイト一時停止 ・サイバー保険問い合わせ3倍 企業に防衛意識、「GMO問題」で保険料上昇も ・サイバー保険のジレンマ 油断が生む防衛の死角、加入企業が狙われるケースも ・損保ジャパン社長「代理店...",
@@ -3408,6 +3390,22 @@
     "isNew": false,
     "url": "https://blog.livedoor.jp/yanaharu_yanaharu/archives/65992411.html",
     "sortBoost": 18
+  },
+  {
+    "id": "rss-insurance-ccfd5fa11126d4",
+    "title": "中国の社会保障財政（2025年）",
+    "summary": "■要旨 中国の社会保障関連経費は、この10年間でおよそ2倍に増加している。急速な高齢化を背景に、年金給付を中心に支出が拡大しており、今後も社会保障をめぐる財政需要の一層の増大が見込まれる。また、都市の非就業者や農村住民を主な対象とする制度への財政支援が重点的に拡充されており、社会保障を通じた再分配の強化もうかがえる。 ■目次 1――社会保障関係費は10年でおよそ２倍 2――増える年金関連の財政支出、医療分野は保育サービスの費目を新設 （１）社会保障・就業費 （２）衛生・健康費 3――拡充する育児支援とその先にある女性の就業継続中国では社会保障に関する経費（社会保障関係費）が増大している。中国財政部によると、2025年の社会保障関係費は前年比5.4％増の6兆5,855億元（約148兆円1）と、７兆元に迫る規模となった（図表１）。また、この社会保障関係費は国の一般会計の支出合計28.7兆元（643兆円）の23.0％を占めており、これまでに引き続き最大規模の支出となった（図表２）。中国政府は社会保障関係費という括りで支出を管理していないため、本稿では年金・労災・失業・生活保護・就業支援など社会保障関連の多くの経費を含む「社会保障・就業費」（4.4兆元）と、医療・衛生事業などの経費を中心とした「衛生・健康費」（2.1兆元）を合計したものを社会保障関係費とする2。 社会保障関係費はこの10年間で2.1倍に増加している3。急速な高齢化に伴い、年金給付などの支出が増加しており、今後も社会保障に対する財政需要の拡大が見込まれる。一方、人口減少や経済成長の鈍化によって財政収入の伸びが制約されるなか、社会保障制度の持続可能性をいかに確保するかが重要な課題となっている。 1 １元＝22.4円で換算。 2 社会保障関連では、上掲以外の別費目で住宅積立金4,0",
+    "sourceName": "ニッセイ基礎研（保険）",
+    "sourceIcon": "🇯🇵",
+    "publishedAt": "2026-11-13T00:52:54.000Z",
+    "category": "insurance",
+    "keywords": [
+      "中国の社会保障財政（20",
+      "政（2025年）"
+    ],
+    "bannerClass": "from-teal-950 to-emerald-900",
+    "isNew": false,
+    "url": "https://www.nli-research.co.jp/topics_detail1/id=87339?site=nli"
   },
   {
     "id": "rss-housing-1c2598a23450bc",
